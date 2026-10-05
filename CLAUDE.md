@@ -37,11 +37,16 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
 - No YouTube upload from the sandbox (needs the owner's Google credentials + network). Upload is manual or an optional script only if the owner confirms.
 
 ## CURRENT STATE (update me)
-- **Done:** folder structure; topic review of all 90 ideas (`plan/topic_review.md`: 37 kept / 47 reframed / 6 replaced; final list `plan/topics_final.csv`);
-  content plan + calendar (Day 1 = Tue 6 Oct 2026, editable); sourcing/validation tooling; **Days 1-30 scripted** with per-sentence source tables
-  (web-verified 2026-10-05; verification level is stated in each `sources.json`); titles/descriptions/hashtags/thumbnails for Days 1-30 (`channel_kit/upload_metadata.csv`).
-- **In progress:** build + QC + self-review of Days 1-30 videos (`python src/build_range.py 1 30`, then `python src/review.py N` per day).
-- **Not started:** scripts for Days 31-90 (topics are decided in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence when scripting).
-- **Needs the owner:** (a) confirm posting time + timezone, (b) the real logo file if they want the exact mark, (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
-- **Known limits:** voice is Kokoro (good, but not human); word timings are derived from audio energy, not ASR; sources are checked via web-search summaries of abstracts/publisher pages, not full-text PDFs (the verification note on each source says which).
-- **Lessons:** titles/thumbnails/descriptions are claims too — hedge contested ones (several were rewritten as questions). Never claim what stores/marketers do unless a source says so.
+- **Done (2026-10-05):** folder structure; topic review of all 90 ideas (`plan/topic_review.md`: 37 kept / 47 reframed / 6 replaced; final list `plan/topics_final.csv`);
+  content plan + calendar (Day 1 = Tue 6 Oct 2026, editable); sourcing/validation tooling; **Days 1-30 scripted, built, QC'd (30/30 pass) and self-reviewed**
+  (frames of every video inspected; audio transcribed offline and matched to the script, similarity 0.60-0.81; durations 49.0-49.5 s; peaks <= -1.6 dB; voice 18+ dB over music).
+  Titles/descriptions/hashtags/thumbnails for Days 1-30: `channel_kit/upload_metadata.csv`, `videos/thumbnails/`.
+- **Not started:** scripts for Days 31-90. Topics are fixed in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence (web search) when scripting. Month 2 starts with Day 31 (mimicry: Chartrand & Bargh 1999; Maddux et al. 2008).
+- **Needs the owner:** (a) posting time + timezone, (b) the real logo file (current logo is a recreation), (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
+- **Known limits:** voice is Kokoro am_michael (good, not human); word timings come from audio energy (no ASR); sources were checked through web-search summaries of abstracts/publisher pages (each source's `verified` note says which; a few figures rest on secondary summaries and are flagged in that day's caveats); the offline recognizer used for audio checks is weak (similarity 0.6+ means the right words are spoken).
+- **Lessons learned (apply to Days 31-90):**
+  1. Titles, thumbnails, descriptions and on-screen text are claims too — hedge contested ones, prefer questions. Never claim what stores/marketers do without a source.
+  2. Charts must match their sentence: use `bars:label=hNN` (height only) when the source gives no number; never invent figures.
+  3. Check the audio under every caption chunk (QC does) and LOOK at frames: QC cannot see misleading visuals or overlapping art.
+  4. Re-verify numbers from memory (Liikkanen: 89.2% not 91.7%; doorway-effect "go back to the room" advice was wrong; Zeigarnik effect failed to replicate).
+  5. Don't `pkill -f` a pattern that appears in your own command line; don't commit `channel_kit/voices/*.onnx|bin` (ignored).
