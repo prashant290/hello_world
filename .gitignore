@@ -7,3 +7,5 @@ shorts/day_*/*.ass
 output/*.mp4
 __pycache__/
 assets/music/*.wav
+assets/voices/*.onnx
+assets/voices/*.bin
