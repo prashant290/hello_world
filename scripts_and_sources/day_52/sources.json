@@ -1,0 +1,193 @@
+{
+  "day": 52,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can a team of smart people make a terrible decision together?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink.",
+      "cites": [
+        "janis1972"
+      ],
+      "sources": [
+        {
+          "id": "janis1972",
+          "authors": "Janis, I. L.",
+          "year": 1972,
+          "title": "Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes",
+          "venue": "Houghton Mifflin (book)",
+          "url": "https://www.britannica.com/topic/Victims-of-Groupthink-A-Psychological-Study-of-Foreign-Policy-Decisions-and-Fiascoes",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Bay of Pigs, Pearl Harbor and Vietnam as case studies; contradictory views not expressed or evaluated)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor.",
+      "cites": [
+        "janis1972"
+      ],
+      "sources": [
+        {
+          "id": "janis1972",
+          "authors": "Janis, I. L.",
+          "year": 1972,
+          "title": "Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes",
+          "venue": "Houghton Mifflin (book)",
+          "url": "https://www.britannica.com/topic/Victims-of-Groupthink-A-Psychological-Study-of-Foreign-Policy-Decisions-and-Fiascoes",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Bay of Pigs, Pearl Harbor and Vietnam as case studies; contradictory views not expressed or evaluated)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "He argued groupthink kept contradictory views from being expressed and evaluated.",
+      "cites": [
+        "janis1972"
+      ],
+      "sources": [
+        {
+          "id": "janis1972",
+          "authors": "Janis, I. L.",
+          "year": 1972,
+          "title": "Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes",
+          "venue": "Houghton Mifflin (book)",
+          "url": "https://www.britannica.com/topic/Victims-of-Groupthink-A-Psychological-Study-of-Foreign-Policy-Decisions-and-Fiascoes",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Bay of Pigs, Pearl Harbor and Vietnam as case studies; contradictory views not expressed or evaluated)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 1998, James Esser reviewed twenty-five years of groupthink research.",
+      "cites": [
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "He noted that case studies had confirmed the model.",
+      "cites": [
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "But reviews noted a lack of experimental validation.",
+      "cites": [
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Esser concluded it was too early to pass judgment on groupthink theory.",
+      "cites": [
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "He said more research was needed to decide whether to keep, modify or discard it.",
+      "cites": [
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So groupthink is a vivid and influential idea that still lacks firm experimental proof.",
+      "cites": [
+        "janis1972",
+        "esser1998"
+      ],
+      "sources": [
+        {
+          "id": "janis1972",
+          "authors": "Janis, I. L.",
+          "year": 1972,
+          "title": "Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes",
+          "venue": "Houghton Mifflin (book)",
+          "url": "https://www.britannica.com/topic/Victims-of-Groupthink-A-Psychological-Study-of-Foreign-Policy-Decisions-and-Fiascoes",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Bay of Pigs, Pearl Harbor and Vietnam as case studies; contradictory views not expressed or evaluated)"
+        },
+        {
+          "id": "esser1998",
+          "authors": "Esser, J. K.",
+          "year": 1998,
+          "title": "Alive and well after 25 years: A review of groupthink research",
+          "venue": "Organizational Behavior and Human Decision Processes, 73(2-3), 116-141",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597898927583",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results ('too early to pass judgment'; case studies confirm the model, experimental validation lacking)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: what really happened in the Stanford prison experiment?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

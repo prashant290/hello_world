@@ -1,0 +1,127 @@
+{
+  "day": 54,
+  "topic": "Why people gossip",
+  "title": "Why Do People Gossip? What Research Shows",
+  "voiceover": "Why do people gossip so much? In 1997, Robin Dunbar and colleagues analyzed 45 natural conversations. About two thirds of the conversation time went to social topics. In 2020, Megan Robbins and Alexander Karan sampled everyday conversations of 467 people. They found gossip was mostly neutral, not negative. On average, it took up about 52 minutes of an awake day. In 2012, Matthew Feinberg and colleagues described sharing reputational information as a form of prosocial behavior. And in 2014, his team reported that gossip and ostracism promote cooperation in groups. These findings come from specific samples and tasks, so they don't describe all gossip. So gossip is common, often neutral, and sometimes helps groups cooperate. Tomorrow: can other people really read how you feel?",
+  "word_count": 124,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.37,
+      "section": "hook",
+      "narration_line": "Why do people gossip so much?",
+      "on_screen_text": "Why do people gossip?",
+      "visual_description": "Two stickmen whispering.",
+      "visual_spec": "think/neutral/C; crowd:2@R"
+    },
+    {
+      "start_sec": 2.37,
+      "end_sec": 6.32,
+      "section": "explanation",
+      "narration_line": "In 1997, Robin Dunbar and colleagues analyzed 45 natural conversations.",
+      "on_screen_text": "1997: 45 natural conversations",
+      "visual_description": "Speech bubbles.",
+      "visual_spec": "stand/neutral/L; text:1997@TR; numbers:45@R"
+    },
+    {
+      "start_sec": 6.32,
+      "end_sec": 10.67,
+      "section": "explanation",
+      "narration_line": "About two thirds of the conversation time went to social topics.",
+      "on_screen_text": "~2/3 about social topics",
+      "visual_description": "Bar at two thirds.",
+      "visual_spec": "stand/smile/L; bars:social=67%,other=33%@R"
+    },
+    {
+      "start_sec": 10.67,
+      "end_sec": 15.81,
+      "section": "explanation",
+      "narration_line": "In 2020, Megan Robbins and Alexander Karan sampled everyday conversations of 467 people.",
+      "on_screen_text": "2020: 467 people sampled",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; text:2020@TR; numbers:467@R"
+    },
+    {
+      "start_sec": 15.81,
+      "end_sec": 18.97,
+      "section": "explanation",
+      "narration_line": "They found gossip was mostly neutral, not negative.",
+      "on_screen_text": "Mostly neutral, not negative",
+      "visual_description": "Neutral face icon.",
+      "visual_spec": "point/neutral/L; text:NEUTRAL@R"
+    },
+    {
+      "start_sec": 18.97,
+      "end_sec": 23.71,
+      "section": "explanation",
+      "narration_line": "On average, it took up about 52 minutes of an awake day.",
+      "on_screen_text": "~52 minutes a day awake",
+      "visual_description": "Clock.",
+      "visual_spec": "shock/neutral/L; clock@R"
+    },
+    {
+      "start_sec": 23.71,
+      "end_sec": 30.03,
+      "section": "explanation",
+      "narration_line": "In 2012, Matthew Feinberg and colleagues described sharing reputational information as a form of prosocial behavior.",
+      "on_screen_text": "2012: gossip can be prosocial",
+      "visual_description": "Heart.",
+      "visual_spec": "stand/smile/L; text:2012@TR; text:PROSOCIAL@R"
+    },
+    {
+      "start_sec": 30.03,
+      "end_sec": 35.56,
+      "section": "explanation",
+      "narration_line": "And in 2014, his team reported that gossip and ostracism promote cooperation in groups.",
+      "on_screen_text": "2014: gossip helps cooperation",
+      "visual_description": "Group working together.",
+      "visual_spec": "stand/smile/L; text:2014@TR; crowd:5@R"
+    },
+    {
+      "start_sec": 35.56,
+      "end_sec": 41.1,
+      "section": "explanation",
+      "narration_line": "These findings come from specific samples and tasks, so they don't describe all gossip.",
+      "on_screen_text": "Specific samples, not all gossip",
+      "visual_description": "Scale.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 41.1,
+      "end_sec": 45.44,
+      "section": "takeaway",
+      "narration_line": "So gossip is common, often neutral, and sometimes helps groups cooperate.",
+      "on_screen_text": "Common, often neutral",
+      "visual_description": "Stickman with a check.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 45.44,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: can other people really read how you feel?",
+      "on_screen_text": "Tomorrow: can others read you?",
+      "visual_description": "Face with question mark.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Is gossip mostly cruel? In everyday recordings of 467 people, gossip was mostly neutral, and experiments suggest sharing reputational information can be prosocial and can help groups cooperate. New psychology short every day on The Psyche Discourse. Source: Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C. (1997). Human conversational behavior. Human Nature, 8(3), 231-246. Source: Robbins, M. L., & Karan, A. (2020). Who gossips and how in everyday life?. Social Psychological and Personality Science, 11(2), 185-195.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#gossip",
+    "#socialpsychology",
+    "#relationships",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Findings come from specific samples and tasks (observed conversations, recorded daily speech, lab group games), so they do not describe all gossip. The video does not say gossip is always harmless.",
+  "thumbnail": {
+    "lines": [
+      "WHY DO PEOPLE",
+      "GOSSIP?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

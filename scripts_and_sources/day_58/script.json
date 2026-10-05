@@ -1,0 +1,136 @@
+{
+  "day": 58,
+  "topic": "The Asch conformity experiment",
+  "title": "The Asch Conformity Experiment, Explained",
+  "voiceover": "Would you give a wrong answer just because everyone else did? In the 1950s, Solomon Asch asked people to match line lengths in a group. The others were working with him, and on some trials they gave obviously wrong answers. In his 1956 report, 123 participants took part. About three quarters conformed at least once. About a third of the critical answers matched the wrong majority. In 1996, Rod Bond and Peter Smith analyzed 133 studies from 17 countries. Those included 24,617 participants. They found conformity was higher in collectivist cultures. These were lab tasks with obvious answers, not everyday opinions. So group pressure can sway answers, and how much seems to vary across cultures. Tomorrow: do breakups really hurt like physical pain?",
+  "word_count": 123,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.38,
+      "section": "hook",
+      "narration_line": "Would you give a wrong answer just because everyone else did?",
+      "on_screen_text": "Would you go along?",
+      "visual_description": "Crowd with one stickman.",
+      "visual_spec": "think/neutral/C; crowd:5@R"
+    },
+    {
+      "start_sec": 4.38,
+      "end_sec": 9.96,
+      "section": "explanation",
+      "narration_line": "In the 1950s, Solomon Asch asked people to match line lengths in a group.",
+      "on_screen_text": "1950s: matching line lengths",
+      "visual_description": "Lines on a card.",
+      "visual_spec": "stand/neutral/L; text:1950s@TR; text:LINES@R"
+    },
+    {
+      "start_sec": 9.96,
+      "end_sec": 15.93,
+      "section": "explanation",
+      "narration_line": "The others were working with him, and on some trials they gave obviously wrong answers.",
+      "on_screen_text": "Others gave wrong answers on purpose",
+      "visual_description": "Crowd pointing.",
+      "visual_spec": "point/neutral/L; crowd:5@R"
+    },
+    {
+      "start_sec": 15.93,
+      "end_sec": 19.12,
+      "section": "explanation",
+      "narration_line": "In his 1956 report, 123 participants took part.",
+      "on_screen_text": "1956 report: 123 participants",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; text:1956@TR; numbers:123@R"
+    },
+    {
+      "start_sec": 19.12,
+      "end_sec": 21.91,
+      "section": "explanation",
+      "narration_line": "About three quarters conformed at least once.",
+      "on_screen_text": "~3/4 conformed at least once",
+      "visual_description": "Bar at 75%.",
+      "visual_spec": "shock/neutral/L; bars:conformed once=75%@R"
+    },
+    {
+      "start_sec": 21.91,
+      "end_sec": 26.29,
+      "section": "explanation",
+      "narration_line": "About a third of the critical answers matched the wrong majority.",
+      "on_screen_text": "~1/3 of critical answers",
+      "visual_description": "Bar at 33%.",
+      "visual_spec": "stand/neutral/L; bars:critical answers=33%@R"
+    },
+    {
+      "start_sec": 26.29,
+      "end_sec": 31.47,
+      "section": "explanation",
+      "narration_line": "In 1996, Rod Bond and Peter Smith analyzed 133 studies from 17 countries.",
+      "on_screen_text": "1996: 133 studies, 17 countries",
+      "visual_description": "Globe.",
+      "visual_spec": "stand/neutral/L; text:1996@TR; numbers:133@R"
+    },
+    {
+      "start_sec": 31.47,
+      "end_sec": 33.07,
+      "section": "explanation",
+      "narration_line": "Those included 24,617 participants.",
+      "on_screen_text": "24,617 participants",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; numbers:24,617@R"
+    },
+    {
+      "start_sec": 33.07,
+      "end_sec": 36.25,
+      "section": "explanation",
+      "narration_line": "They found conformity was higher in collectivist cultures.",
+      "on_screen_text": "Higher in collectivist cultures",
+      "visual_description": "Taller bar.",
+      "visual_spec": "point/neutral/L; bars:individualist=h40,collectivist=h65@R"
+    },
+    {
+      "start_sec": 36.25,
+      "end_sec": 40.24,
+      "section": "explanation",
+      "narration_line": "These were lab tasks with obvious answers, not everyday opinions.",
+      "on_screen_text": "Lab tasks, obvious answers",
+      "visual_description": "Lines card.",
+      "visual_spec": "shrug/neutral/L; text:LAB@R"
+    },
+    {
+      "start_sec": 40.24,
+      "end_sec": 45.81,
+      "section": "takeaway",
+      "narration_line": "So group pressure can sway answers, and how much seems to vary across cultures.",
+      "on_screen_text": "Group pull varies by culture",
+      "visual_description": "Stickman with a small arrow.",
+      "visual_spec": "stand/neutral/L; check@R"
+    },
+    {
+      "start_sec": 45.81,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do breakups really hurt like physical pain?",
+      "on_screen_text": "Tomorrow: breakups and pain",
+      "visual_description": "Broken heart.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Would you give a wrong answer to match the group? In Asch's line studies, about three-quarters of participants conformed at least once, and a 133-study meta-analysis found higher conformity in collectivist cultures. New psychology short every day on The Psyche Discourse. Source: Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs, 70(9), 1-70. Source: Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch's line judgment task. Psychological Bulletin, 119(1), 111-137.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#asch",
+    "#conformity",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Asch figures are from secondary summaries of the 1956 monograph. They describe a lab task with an obvious answer, not everyday opinions. The meta-analysis result is a group average, not a statement about any individual or country.",
+  "thumbnail": {
+    "lines": [
+      "WOULD YOU",
+      "CONFORM?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

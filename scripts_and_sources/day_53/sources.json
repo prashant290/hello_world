@@ -1,0 +1,195 @@
+{
+  "day": 53,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Did ordinary students really turn into cruel guards in a mock prison?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students.",
+      "cites": [
+        "haney1973"
+      ],
+      "sources": [
+        {
+          "id": "haney1973",
+          "authors": "Haney, C., Banks, C., & Zimbardo, P.",
+          "year": 1973,
+          "title": "Interpersonal dynamics in a simulated prison",
+          "venue": "International Journal of Criminology and Penology, 1, 69-97",
+          "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (24 selected; 10 prisoners/11 guards; planned two weeks, ended after six days)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Ten became prisoners and eleven became guards.",
+      "cites": [
+        "haney1973"
+      ],
+      "sources": [
+        {
+          "id": "haney1973",
+          "authors": "Haney, C., Banks, C., & Zimbardo, P.",
+          "year": 1973,
+          "title": "Interpersonal dynamics in a simulated prison",
+          "venue": "International Journal of Criminology and Penology, 1, 69-97",
+          "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (24 selected; 10 prisoners/11 guards; planned two weeks, ended after six days)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "It was planned for two weeks but ended after six days.",
+      "cites": [
+        "haney1973"
+      ],
+      "sources": [
+        {
+          "id": "haney1973",
+          "authors": "Haney, C., Banks, C., & Zimbardo, P.",
+          "year": 1973,
+          "title": "Interpersonal dynamics in a simulated prison",
+          "venue": "International Journal of Criminology and Penology, 1, 69-97",
+          "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (24 selected; 10 prisoners/11 guards; planned two weeks, ended after six days)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 2019, Thibault Le Texier analyzed archival records and argued the guards had been coached.",
+      "cites": [
+        "letexier2019"
+      ],
+      "sources": [
+        {
+          "id": "letexier2019",
+          "authors": "Le Texier, T.",
+          "year": 2019,
+          "title": "Debunking the Stanford Prison Experiment",
+          "venue": "American Psychologist, 74(7), 823-839",
+          "url": "https://doi.org/10.1037/amp0000401",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (archival analysis; guards coached; told which behavior was wanted)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "He reported they were told which behavior was wanted.",
+      "cites": [
+        "letexier2019"
+      ],
+      "sources": [
+        {
+          "id": "letexier2019",
+          "authors": "Le Texier, T.",
+          "year": 2019,
+          "title": "Debunking the Stanford Prison Experiment",
+          "venue": "American Psychologist, 74(7), 823-839",
+          "url": "https://doi.org/10.1037/amp0000401",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (archival analysis; guards coached; told which behavior was wanted)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In a BBC replication reported in 2006, Stephen Reicher and Alexander Haslam found the guards did not identify with their role.",
+      "cites": [
+        "reicher2006"
+      ],
+      "sources": [
+        {
+          "id": "reicher2006",
+          "authors": "Reicher, S., & Haslam, S. A.",
+          "year": 2006,
+          "title": "Rethinking the psychology of tyranny: The BBC prison study",
+          "venue": "British Journal of Social Psychology, 45(1), 1-40",
+          "url": "https://doi.org/10.1348/014466605X48998",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (guards did not identify with their role)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "These are the authors' reported findings, and the original team defended its study.",
+      "cites": [
+        "letexier2019",
+        "reicher2006"
+      ],
+      "sources": [
+        {
+          "id": "letexier2019",
+          "authors": "Le Texier, T.",
+          "year": 2019,
+          "title": "Debunking the Stanford Prison Experiment",
+          "venue": "American Psychologist, 74(7), 823-839",
+          "url": "https://doi.org/10.1037/amp0000401",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (archival analysis; guards coached; told which behavior was wanted)"
+        },
+        {
+          "id": "reicher2006",
+          "authors": "Reicher, S., & Haslam, S. A.",
+          "year": 2006,
+          "title": "Rethinking the psychology of tyranny: The BBC prison study",
+          "venue": "British Journal of Social Psychology, 45(1), 1-40",
+          "url": "https://doi.org/10.1348/014466605X48998",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (guards did not identify with their role)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So this famous experiment is now seriously disputed, and does not simply show that situations make people cruel.",
+      "cites": [
+        "haney1973",
+        "letexier2019",
+        "reicher2006"
+      ],
+      "sources": [
+        {
+          "id": "haney1973",
+          "authors": "Haney, C., Banks, C., & Zimbardo, P.",
+          "year": 1973,
+          "title": "Interpersonal dynamics in a simulated prison",
+          "venue": "International Journal of Criminology and Penology, 1, 69-97",
+          "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (24 selected; 10 prisoners/11 guards; planned two weeks, ended after six days)"
+        },
+        {
+          "id": "letexier2019",
+          "authors": "Le Texier, T.",
+          "year": 2019,
+          "title": "Debunking the Stanford Prison Experiment",
+          "venue": "American Psychologist, 74(7), 823-839",
+          "url": "https://doi.org/10.1037/amp0000401",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (archival analysis; guards coached; told which behavior was wanted)"
+        },
+        {
+          "id": "reicher2006",
+          "authors": "Reicher, S., & Haslam, S. A.",
+          "year": 2006,
+          "title": "Rethinking the psychology of tyranny: The BBC prison study",
+          "venue": "British Journal of Social Psychology, 45(1), 1-40",
+          "url": "https://doi.org/10.1348/014466605X48998",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (guards did not identify with their role)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do people gossip so much?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

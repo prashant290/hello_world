@@ -1,0 +1,211 @@
+{
+  "day": 58,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Would you give a wrong answer just because everyone else did?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In the 1950s, Solomon Asch asked people to match line lengths in a group.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "The others were working with him, and on some trials they gave obviously wrong answers.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In his 1956 report, 123 participants took part.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "About three quarters conformed at least once.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "About a third of the critical answers matched the wrong majority.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 1996, Rod Bond and Peter Smith analyzed 133 studies from 17 countries.",
+      "cites": [
+        "bond1996"
+      ],
+      "sources": [
+        {
+          "id": "bond1996",
+          "authors": "Bond, R., & Smith, P. B.",
+          "year": 1996,
+          "title": "Culture and conformity: A meta-analysis of studies using Asch's line judgment task",
+          "venue": "Psychological Bulletin, 119(1), 111-137",
+          "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (133 studies, 17 countries, 24,617 participants; higher in collectivist cultures)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Those included 24,617 participants.",
+      "cites": [
+        "bond1996"
+      ],
+      "sources": [
+        {
+          "id": "bond1996",
+          "authors": "Bond, R., & Smith, P. B.",
+          "year": 1996,
+          "title": "Culture and conformity: A meta-analysis of studies using Asch's line judgment task",
+          "venue": "Psychological Bulletin, 119(1), 111-137",
+          "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (133 studies, 17 countries, 24,617 participants; higher in collectivist cultures)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "They found conformity was higher in collectivist cultures.",
+      "cites": [
+        "bond1996"
+      ],
+      "sources": [
+        {
+          "id": "bond1996",
+          "authors": "Bond, R., & Smith, P. B.",
+          "year": 1996,
+          "title": "Culture and conformity: A meta-analysis of studies using Asch's line judgment task",
+          "venue": "Psychological Bulletin, 119(1), 111-137",
+          "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (133 studies, 17 countries, 24,617 participants; higher in collectivist cultures)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "These were lab tasks with obvious answers, not everyday opinions.",
+      "cites": [
+        "asch1956"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So group pressure can sway answers, and how much seems to vary across cultures.",
+      "cites": [
+        "asch1956",
+        "bond1996"
+      ],
+      "sources": [
+        {
+          "id": "asch1956",
+          "authors": "Asch, S. E.",
+          "year": 1956,
+          "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+          "venue": "Psychological Monographs, 70(9), 1-70",
+          "url": "https://doi.org/10.1037/h0093718",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (123 participants; about three-quarters conformed at least once; about a third of critical trials)"
+        },
+        {
+          "id": "bond1996",
+          "authors": "Bond, R., & Smith, P. B.",
+          "year": 1996,
+          "title": "Culture and conformity: A meta-analysis of studies using Asch's line judgment task",
+          "venue": "Psychological Bulletin, 119(1), 111-137",
+          "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (133 studies, 17 countries, 24,617 participants; higher in collectivist cultures)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: do breakups really hurt like physical pain?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

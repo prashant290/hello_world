@@ -1,0 +1,185 @@
+{
+  "day": 51,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does hearing your own name really grab your attention?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1959, Neville Moray ran a listening experiment where people focused on one ear and ignored the other.",
+      "cites": [
+        "moray1959"
+      ],
+      "sources": [
+        {
+          "id": "moray1959",
+          "authors": "Moray, N.",
+          "year": 1959,
+          "title": "Attention in dichotic listening: Affective cues and the influence of instructions",
+          "venue": "Quarterly Journal of Experimental Psychology, 11(1), 56-60",
+          "url": "https://doi.org/10.1080/17470215908416289",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about a third heard their own name in the ignored channel)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "About a third of them noticed their own name in the ear they were ignoring.",
+      "cites": [
+        "moray1959"
+      ],
+      "sources": [
+        {
+          "id": "moray1959",
+          "authors": "Moray, N.",
+          "year": 1959,
+          "title": "Attention in dichotic listening: Affective cues and the influence of instructions",
+          "venue": "Quarterly Journal of Experimental Psychology, 11(1), 56-60",
+          "url": "https://doi.org/10.1080/17470215908416289",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about a third heard their own name in the ignored channel)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In 1995, Nicole Wood and Nelson Cowan repeated the experiment.",
+      "cites": [
+        "wood1995"
+      ],
+      "sources": [
+        {
+          "id": "wood1995",
+          "authors": "Wood, N., & Cowan, N.",
+          "year": 1995,
+          "title": "The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel?",
+          "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260",
+          "url": "https://doi.org/10.1037/0278-7393.21.1.255",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about a third noticed their name; replication of Moray)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Again, only about a third noticed their name.",
+      "cites": [
+        "wood1995"
+      ],
+      "sources": [
+        {
+          "id": "wood1995",
+          "authors": "Wood, N., & Cowan, N.",
+          "year": 1995,
+          "title": "The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel?",
+          "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260",
+          "url": "https://doi.org/10.1037/0278-7393.21.1.255",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about a third noticed their name; replication of Moray)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "That means about two thirds did not notice it.",
+      "cites": [
+        "wood1995"
+      ],
+      "sources": [
+        {
+          "id": "wood1995",
+          "authors": "Wood, N., & Cowan, N.",
+          "year": 1995,
+          "title": "The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel?",
+          "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260",
+          "url": "https://doi.org/10.1037/0278-7393.21.1.255",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about a third noticed their name; replication of Moray)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 1995, Daniel Howard and colleagues ran three experiments on names and persuasion.",
+      "cites": [
+        "howard1995"
+      ],
+      "sources": [
+        {
+          "id": "howard1995",
+          "authors": "Howard, D. J., Gengler, C., & Jain, A.",
+          "year": 1995,
+          "title": "What's in a name? A complimentary means of persuasion",
+          "venue": "Journal of Consumer Research, 22(2), 200-211",
+          "url": "https://doi.org/10.1086/209445",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three experiments; remembering a name increased compliance with a purchase request)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In them, a salesperson remembering the customer's name increased compliance with a purchase request.",
+      "cites": [
+        "howard1995"
+      ],
+      "sources": [
+        {
+          "id": "howard1995",
+          "authors": "Howard, D. J., Gengler, C., & Jain, A.",
+          "year": 1995,
+          "title": "What's in a name? A complimentary means of persuasion",
+          "venue": "Journal of Consumer Research, 22(2), 200-211",
+          "url": "https://doi.org/10.1086/209445",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three experiments; remembering a name increased compliance with a purchase request)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So your name can catch the attention of some people, and remembering a name may help persuade.",
+      "cites": [
+        "moray1959",
+        "wood1995",
+        "howard1995"
+      ],
+      "sources": [
+        {
+          "id": "moray1959",
+          "authors": "Moray, N.",
+          "year": 1959,
+          "title": "Attention in dichotic listening: Affective cues and the influence of instructions",
+          "venue": "Quarterly Journal of Experimental Psychology, 11(1), 56-60",
+          "url": "https://doi.org/10.1080/17470215908416289",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about a third heard their own name in the ignored channel)"
+        },
+        {
+          "id": "wood1995",
+          "authors": "Wood, N., & Cowan, N.",
+          "year": 1995,
+          "title": "The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel?",
+          "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260",
+          "url": "https://doi.org/10.1037/0278-7393.21.1.255",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about a third noticed their name; replication of Moray)"
+        },
+        {
+          "id": "howard1995",
+          "authors": "Howard, D. J., Gengler, C., & Jain, A.",
+          "year": 1995,
+          "title": "What's in a name? A complimentary means of persuasion",
+          "venue": "Journal of Consumer Research, 22(2), 200-211",
+          "url": "https://doi.org/10.1086/209445",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three experiments; remembering a name increased compliance with a purchase request)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: how can a team of smart people make a terrible decision together?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

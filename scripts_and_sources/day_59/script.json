@@ -1,0 +1,127 @@
+{
+  "day": 59,
+  "topic": "Do breakups really hurt like physical pain? (contested)",
+  "title": "Do Breakups Hurt Like Physical Pain? It's Contested",
+  "voiceover": "Do breakups really hurt like physical pain? In 2011, Ethan Kross and colleagues studied people who had recently had an unwanted breakup. Participants viewed a photo of their ex. They also felt physical heat pain in the scanner. Kross's team reported that activity overlapped in the secondary somatosensory cortex and the dorsal posterior insula during both experiences. In 2014, Choong-Wan Woo and colleagues tested this question again with 60 participants. They found separate brain patterns for physical pain and social rejection. So the two studies point in different directions. Both studies measured brain activity, not injury or damage, so neither shows a breakup physically harms the body. So breakups do activate pain-related areas, but whether that is the same as physical pain is still contested. Tomorrow: what is trauma bonding?",
+  "word_count": 130,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.64,
+      "section": "hook",
+      "narration_line": "Do breakups really hurt like physical pain?",
+      "on_screen_text": "Do breakups hurt like pain?",
+      "visual_description": "Broken heart.",
+      "visual_spec": "think/worry/C; text:HEARTBREAK@R"
+    },
+    {
+      "start_sec": 2.64,
+      "end_sec": 8.29,
+      "section": "explanation",
+      "narration_line": "In 2011, Ethan Kross and colleagues studied people who had recently had an unwanted breakup.",
+      "on_screen_text": "2011: a recent unwanted breakup",
+      "visual_description": "Broken heart.",
+      "visual_spec": "stand/worry/L; text:2011@TR; text:BREAKUP@R"
+    },
+    {
+      "start_sec": 8.29,
+      "end_sec": 10.93,
+      "section": "explanation",
+      "narration_line": "Participants viewed a photo of their ex.",
+      "on_screen_text": "Viewing a photo of an ex",
+      "visual_description": "Photo frame.",
+      "visual_spec": "stand/neutral/L; text:PHOTO@R"
+    },
+    {
+      "start_sec": 10.93,
+      "end_sec": 14.32,
+      "section": "explanation",
+      "narration_line": "They also felt physical heat pain in the scanner.",
+      "on_screen_text": "Also: physical heat pain",
+      "visual_description": "Thermometer.",
+      "visual_spec": "shock/neutral/L; text:HEAT@R"
+    },
+    {
+      "start_sec": 14.32,
+      "end_sec": 21.48,
+      "section": "explanation",
+      "narration_line": "Kross's team reported that activity overlapped in the secondary somatosensory cortex and the dorsal posterior insula during both experiences.",
+      "on_screen_text": "Overlap in two brain regions",
+      "visual_description": "Brain with glowing areas.",
+      "visual_spec": "point/neutral/L; brain@R"
+    },
+    {
+      "start_sec": 21.48,
+      "end_sec": 26.38,
+      "section": "explanation",
+      "narration_line": "In 2014, Choong-Wan Woo and colleagues tested this question again with 60 participants.",
+      "on_screen_text": "2014: tested with 60 people",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; text:2014@TR; numbers:60@R"
+    },
+    {
+      "start_sec": 26.38,
+      "end_sec": 30.53,
+      "section": "explanation",
+      "narration_line": "They found separate brain patterns for physical pain and social rejection.",
+      "on_screen_text": "Separate patterns",
+      "visual_description": "Two brains.",
+      "visual_spec": "point/neutral/L; list:PAIN,REJECTION@R"
+    },
+    {
+      "start_sec": 30.53,
+      "end_sec": 33.55,
+      "section": "explanation",
+      "narration_line": "So the two studies point in different directions.",
+      "on_screen_text": "Studies point different ways",
+      "visual_description": "Two arrows.",
+      "visual_spec": "shrug/neutral/L; list:OVERLAP,SEPARATE@R"
+    },
+    {
+      "start_sec": 33.55,
+      "end_sec": 40.33,
+      "section": "explanation",
+      "narration_line": "Both studies measured brain activity, not injury or damage, so neither shows a breakup physically harms the body.",
+      "on_screen_text": "Brain activity, not injury",
+      "visual_description": "Cross over a bandage.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 40.33,
+      "end_sec": 47.12,
+      "section": "takeaway",
+      "narration_line": "So breakups do activate pain-related areas, but whether that is the same as physical pain is still contested.",
+      "on_screen_text": "Pain-related areas, same as pain? Contested",
+      "visual_description": "Stickman with a question mark.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 47.12,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what is trauma bonding?",
+      "on_screen_text": "Tomorrow: what is trauma bonding?",
+      "visual_description": "Two linked hearts.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Does heartbreak overlap with physical pain in the brain? A 2011 study found overlapping activity in pain-related regions after a recent breakup, while a 2014 study with 60 participants found separate patterns for physical pain and social rejection. New psychology short every day on The Psyche Discourse. Source: Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270-6275. Source: Woo, C.-W., Koban, L., Kross, E., et al. (2014). Separate neural representations for physical pain and social rejection. Nature Communications, 5, 5380.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#breakup",
+    "#heartbreak",
+    "#neuroscience",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Contested: the two studies reach different conclusions about overlap vs separate patterns. Both measure brain activity, not injury. The 'heat pain' detail in Kross et al. is from the study design as commonly summarized.",
+  "thumbnail": {
+    "lines": [
+      "DO BREAKUPS HURT",
+      "LIKE PAIN?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

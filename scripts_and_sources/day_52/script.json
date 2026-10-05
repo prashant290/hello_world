@@ -1,0 +1,128 @@
+{
+  "day": 52,
+  "topic": "Groupthink: how smart teams make dumb decisions (and critics)",
+  "title": "Groupthink: Can Smart Teams Make Dumb Decisions?",
+  "voiceover": "Can a team of smart people make a terrible decision together? In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink. He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor. He argued groupthink kept contradictory views from being expressed and evaluated. In 1998, James Esser reviewed twenty-five years of groupthink research. He noted that case studies had confirmed the model. But reviews noted a lack of experimental validation. Esser concluded it was too early to pass judgment on groupthink theory. He said more research was needed to decide whether to keep, modify or discard it. So groupthink is a vivid and influential idea that still lacks firm experimental proof. Tomorrow: what really happened in the Stanford prison experiment?",
+  "word_count": 126,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.28,
+      "section": "hook",
+      "narration_line": "Can a team of smart people make a terrible decision together?",
+      "on_screen_text": "Can smart teams fail?",
+      "visual_description": "Team around a table.",
+      "visual_spec": "think/neutral/C; crowd:5@R"
+    },
+    {
+      "start_sec": 4.28,
+      "end_sec": 9.33,
+      "section": "explanation",
+      "narration_line": "In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink.",
+      "on_screen_text": "1972: Janis describes groupthink",
+      "visual_description": "Book.",
+      "visual_spec": "point/neutral/L; text:1972@TR; text:GROUPTHINK@R"
+    },
+    {
+      "start_sec": 9.33,
+      "end_sec": 14.78,
+      "section": "explanation",
+      "narration_line": "He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor.",
+      "on_screen_text": "Bay of Pigs, Pearl Harbor",
+      "visual_description": "Stack of files.",
+      "visual_spec": "stand/neutral/L; list:BAY OF PIGS,PEARL HARBOR@R"
+    },
+    {
+      "start_sec": 14.78,
+      "end_sec": 19.06,
+      "section": "explanation",
+      "narration_line": "He argued groupthink kept contradictory views from being expressed and evaluated.",
+      "on_screen_text": "Contradictory views kept quiet",
+      "visual_description": "Mouth covered.",
+      "visual_spec": "shock/worry/L; text:SILENCED@R"
+    },
+    {
+      "start_sec": 19.06,
+      "end_sec": 22.94,
+      "section": "explanation",
+      "narration_line": "In 1998, James Esser reviewed twenty-five years of groupthink research.",
+      "on_screen_text": "1998: a 25-year review",
+      "visual_description": "Calendar.",
+      "visual_spec": "stand/neutral/L; text:1998@TR; numbers:25 YRS@R"
+    },
+    {
+      "start_sec": 22.94,
+      "end_sec": 26.44,
+      "section": "explanation",
+      "narration_line": "He noted that case studies had confirmed the model.",
+      "on_screen_text": "Case studies fit the model",
+      "visual_description": "Check.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 26.44,
+      "end_sec": 29.56,
+      "section": "explanation",
+      "narration_line": "But reviews noted a lack of experimental validation.",
+      "on_screen_text": "But experiments lacked",
+      "visual_description": "Empty lab flask.",
+      "visual_spec": "shrug/worry/L; cross@R"
+    },
+    {
+      "start_sec": 29.56,
+      "end_sec": 34.22,
+      "section": "explanation",
+      "narration_line": "Esser concluded it was too early to pass judgment on groupthink theory.",
+      "on_screen_text": "Too early to judge",
+      "visual_description": "Scale.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 34.22,
+      "end_sec": 40.06,
+      "section": "explanation",
+      "narration_line": "He said more research was needed to decide whether to keep, modify or discard it.",
+      "on_screen_text": "Keep, modify or discard?",
+      "visual_description": "Three options.",
+      "visual_spec": "think/neutral/L; list:KEEP,MODIFY,DISCARD@R"
+    },
+    {
+      "start_sec": 40.06,
+      "end_sec": 45.5,
+      "section": "takeaway",
+      "narration_line": "So groupthink is a vivid and influential idea that still lacks firm experimental proof.",
+      "on_screen_text": "Influential, still unproven",
+      "visual_description": "Stickman with a question mark.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 45.5,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what really happened in the Stanford prison experiment?",
+      "on_screen_text": "Tomorrow: Stanford prison study",
+      "visual_description": "Prison bars.",
+      "visual_spec": "stand/neutral/L; text:STANFORD?@R"
+    }
+  ],
+  "description": "Janis described groupthink in 1972 using foreign-policy fiascoes like the Bay of Pigs. A 1998 review found case studies supported the model but experimental validation was lacking, and concluded it was too early to judge the theory. New psychology short every day on The Psyche Discourse. Source: Janis, I. L. (1972). Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes. Houghton Mifflin (book). Source: Esser, J. K. (1998). Alive and well after 25 years: A review of groupthink research. Organizational Behavior and Human Decision Processes, 73(2-3), 116-141.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#groupthink",
+    "#decisionmaking",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Groupthink is influential but contested; the video presents it as an unproven theory. The term appeared before Janis, so the video says he described it in his book rather than that he coined it.",
+  "thumbnail": {
+    "lines": [
+      "GROUPTHINK:",
+      "SMART TEAMS,",
+      "DUMB CALLS?"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
+}

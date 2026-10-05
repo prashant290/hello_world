@@ -1,0 +1,118 @@
+{
+  "day": 51,
+  "topic": "Does using someone's name work? (what research shows)",
+  "title": "Does Hearing Your Own Name Grab Attention?",
+  "voiceover": "Does hearing your own name really grab your attention? In 1959, Neville Moray ran a listening experiment where people focused on one ear and ignored the other. About a third of them noticed their own name in the ear they were ignoring. In 1995, Nicole Wood and Nelson Cowan repeated the experiment. Again, only about a third noticed their name. That means about two thirds did not notice it. In 1995, Daniel Howard and colleagues ran three experiments on names and persuasion. In them, a salesperson remembering the customer's name increased compliance with a purchase request. So your name can catch the attention of some people, and remembering a name may help persuade. Tomorrow: how can a team of smart people make a terrible decision together?",
+  "word_count": 126,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.5,
+      "section": "hook",
+      "narration_line": "Does hearing your own name really grab your attention?",
+      "on_screen_text": "Does your name grab you?",
+      "visual_description": "Stickman turning toward a sound.",
+      "visual_spec": "think/neutral/C; text:NAME@R"
+    },
+    {
+      "start_sec": 3.5,
+      "end_sec": 10.5,
+      "section": "explanation",
+      "narration_line": "In 1959, Neville Moray ran a listening experiment where people focused on one ear and ignored the other.",
+      "on_screen_text": "1959: ignore one ear",
+      "visual_description": "Headphones.",
+      "visual_spec": "stand/neutral/L; text:1959@TR; text:ONE EAR@R"
+    },
+    {
+      "start_sec": 10.5,
+      "end_sec": 16.33,
+      "section": "explanation",
+      "narration_line": "About a third of them noticed their own name in the ear they were ignoring.",
+      "on_screen_text": "~1/3 heard their own name",
+      "visual_description": "Bar at about a third.",
+      "visual_spec": "stand/smile/L; bars:noticed=33%,did not=67%@R"
+    },
+    {
+      "start_sec": 16.33,
+      "end_sec": 20.22,
+      "section": "explanation",
+      "narration_line": "In 1995, Nicole Wood and Nelson Cowan repeated the experiment.",
+      "on_screen_text": "1995: a replication",
+      "visual_description": "Repeat arrows.",
+      "visual_spec": "point/neutral/L; text:1995@TR; loop@R"
+    },
+    {
+      "start_sec": 20.22,
+      "end_sec": 23.33,
+      "section": "explanation",
+      "narration_line": "Again, only about a third noticed their name.",
+      "on_screen_text": "Again, only ~1/3 noticed",
+      "visual_description": "Bar at about a third.",
+      "visual_spec": "stand/neutral/L; bars:noticed=33%,did not=67%@R"
+    },
+    {
+      "start_sec": 23.33,
+      "end_sec": 26.83,
+      "section": "explanation",
+      "narration_line": "That means about two thirds did not notice it.",
+      "on_screen_text": "~2/3 did not notice",
+      "visual_description": "Taller bar.",
+      "visual_spec": "shrug/neutral/L; bars:noticed=33%,did not=67%@R"
+    },
+    {
+      "start_sec": 26.83,
+      "end_sec": 31.89,
+      "section": "explanation",
+      "narration_line": "In 1995, Daniel Howard and colleagues ran three experiments on names and persuasion.",
+      "on_screen_text": "1995: names and persuasion",
+      "visual_description": "Name tag.",
+      "visual_spec": "stand/neutral/L; tag:NAME@R; text:3 STUDIES@TR"
+    },
+    {
+      "start_sec": 31.89,
+      "end_sec": 37.33,
+      "section": "explanation",
+      "narration_line": "In them, a salesperson remembering the customer's name increased compliance with a purchase request.",
+      "on_screen_text": "Remembered name: more compliance",
+      "visual_description": "Handshake.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 37.33,
+      "end_sec": 43.94,
+      "section": "takeaway",
+      "narration_line": "So your name can catch the attention of some people, and remembering a name may help persuade.",
+      "on_screen_text": "Names catch some, may persuade",
+      "visual_description": "Stickman nodding.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 43.94,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: how can a team of smart people make a terrible decision together?",
+      "on_screen_text": "Tomorrow: smart teams, bad calls",
+      "visual_description": "Team around a table.",
+      "visual_spec": "stand/neutral/L; crowd:5@R"
+    }
+  ],
+  "description": "Does your own name cut through noise? About a third of people noticed their own name in an audio channel they were told to ignore, and one set of experiments found that a salesperson remembering a name increased compliance with a purchase request. New psychology short every day on The Psyche Discourse. Source: Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. Quarterly Journal of Experimental Psychology, 11(1), 56-60. Source: Wood, N., & Cowan, N. (1995). The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel?. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#cocktailparty",
+    "#attention",
+    "#persuasion",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The 'about a third' figure is from Moray (1959) and the 1995 replication; it implies most people did not notice. The persuasion finding is from three experiments in consumer settings and is not a guarantee.",
+  "thumbnail": {
+    "lines": [
+      "YOUR NAME",
+      "GRABS ATTENTION?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

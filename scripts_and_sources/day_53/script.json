@@ -1,0 +1,118 @@
+{
+  "day": 53,
+  "topic": "The Stanford prison experiment and why it's disputed",
+  "title": "The Stanford Prison Experiment and Why It's Disputed",
+  "voiceover": "Did ordinary students really turn into cruel guards in a mock prison? In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students. Ten became prisoners and eleven became guards. It was planned for two weeks but ended after six days. In 2019, Thibault Le Texier analyzed archival records and argued the guards had been coached. He reported they were told which behavior was wanted. In a BBC replication reported in 2006, Stephen Reicher and Alexander Haslam found the guards did not identify with their role. These are the authors' reported findings, and the original team defended its study. So this famous experiment is now seriously disputed, and does not simply show that situations make people cruel. Tomorrow: why do people gossip so much?",
+  "word_count": 130,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.52,
+      "section": "hook",
+      "narration_line": "Did ordinary students really turn into cruel guards in a mock prison?",
+      "on_screen_text": "Did students turn cruel?",
+      "visual_description": "Prison bars.",
+      "visual_spec": "think/worry/C; text:PRISON@R"
+    },
+    {
+      "start_sec": 4.52,
+      "end_sec": 10.93,
+      "section": "explanation",
+      "narration_line": "In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students.",
+      "on_screen_text": "1971: 24 students, a mock prison",
+      "visual_description": "Prison bars.",
+      "visual_spec": "stand/neutral/L; text:1971@TR; numbers:24@R"
+    },
+    {
+      "start_sec": 10.93,
+      "end_sec": 13.57,
+      "section": "explanation",
+      "narration_line": "Ten became prisoners and eleven became guards.",
+      "on_screen_text": "10 prisoners, 11 guards",
+      "visual_description": "Two groups.",
+      "visual_spec": "point/neutral/L; bars:prisoners=10,guards=11@R"
+    },
+    {
+      "start_sec": 13.57,
+      "end_sec": 17.72,
+      "section": "explanation",
+      "narration_line": "It was planned for two weeks but ended after six days.",
+      "on_screen_text": "Planned 14 days, ended day 6",
+      "visual_description": "Calendar.",
+      "visual_spec": "shock/neutral/L; bars:planned=14d,actual=6d@R"
+    },
+    {
+      "start_sec": 17.72,
+      "end_sec": 23.37,
+      "section": "explanation",
+      "narration_line": "In 2019, Thibault Le Texier analyzed archival records and argued the guards had been coached.",
+      "on_screen_text": "2019: archives suggest coaching",
+      "visual_description": "Archive box.",
+      "visual_spec": "point/neutral/L; text:2019@TR; text:ARCHIVES@R"
+    },
+    {
+      "start_sec": 23.37,
+      "end_sec": 26.76,
+      "section": "explanation",
+      "narration_line": "He reported they were told which behavior was wanted.",
+      "on_screen_text": "Told which behavior was wanted",
+      "visual_description": "Instruction card.",
+      "visual_spec": "stand/worry/L; list:BE TOUGH@R"
+    },
+    {
+      "start_sec": 26.76,
+      "end_sec": 34.68,
+      "section": "explanation",
+      "narration_line": "In a BBC replication reported in 2006, Stephen Reicher and Alexander Haslam found the guards did not identify with their role.",
+      "on_screen_text": "BBC replication: guards didn't identify",
+      "visual_description": "TV screen.",
+      "visual_spec": "stand/neutral/L; text:BBC STUDY@R"
+    },
+    {
+      "start_sec": 34.68,
+      "end_sec": 39.58,
+      "section": "explanation",
+      "narration_line": "These are the authors' reported findings, and the original team defended its study.",
+      "on_screen_text": "Authors' claims; team disagrees",
+      "visual_description": "Scale.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 39.58,
+      "end_sec": 46.36,
+      "section": "takeaway",
+      "narration_line": "So this famous experiment is now seriously disputed, and does not simply show that situations make people cruel.",
+      "on_screen_text": "Famous, but seriously disputed",
+      "visual_description": "Stickman with a question mark.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 46.36,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do people gossip so much?",
+      "on_screen_text": "Tomorrow: why people gossip",
+      "visual_description": "Two stickmen whispering.",
+      "visual_spec": "stand/neutral/L; crowd:2@R"
+    }
+  ],
+  "description": "The Stanford prison study ran for six days with 24 students. A 2019 archival analysis argued the guards had been coached, and a BBC replication reported guards did not identify strongly with their role. New psychology short every day on The Psyche Discourse. Source: Haney, C., Banks, C., & Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. International Journal of Criminology and Penology, 1, 69-97. Source: Le Texier, T. (2019). Debunking the Stanford Prison Experiment. American Psychologist, 74(7), 823-839.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#stanfordprisonexperiment",
+    "#zimbardo",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The video presents the criticisms as reported by the authors (Le Texier 2019; Reicher & Haslam 2006), not as settled fact. Zimbardo and colleagues defended the study. Haney et al. figures come from secondary summaries.",
+  "thumbnail": {
+    "lines": [
+      "STANFORD PRISON",
+      "STUDY: DISPUTED"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

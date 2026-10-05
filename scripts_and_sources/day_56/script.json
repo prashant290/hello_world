@@ -1,0 +1,127 @@
+{
+  "day": 56,
+  "topic": "Narcissism vs. confidence: the research difference",
+  "title": "Narcissism vs. Confidence: What Research Suggests",
+  "voiceover": "Is there a real research difference between narcissism and confidence? In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from. They reported that parental overvaluation predicted narcissism. Parental warmth predicted self-esteem instead. They described it as the first prospective longitudinal test of this question. The results suggest narcissism and self-esteem have different origins. A published commentary argued that parental overvaluation may be overvalued as an explanation. So the origins of narcissism are still debated. These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here. So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated. Tomorrow: what do charismatic leaders actually do?",
+  "word_count": 124,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.95,
+      "section": "hook",
+      "narration_line": "Is there a real research difference between narcissism and confidence?",
+      "on_screen_text": "Narcissism vs confidence",
+      "visual_description": "Mirror.",
+      "visual_spec": "think/neutral/C; text:VS@R"
+    },
+    {
+      "start_sec": 3.95,
+      "end_sec": 10.27,
+      "section": "explanation",
+      "narration_line": "In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from.",
+      "on_screen_text": "2015: children followed over time",
+      "visual_description": "Calendar.",
+      "visual_spec": "stand/neutral/L; text:2015@TR; text:LONGITUDINAL@R"
+    },
+    {
+      "start_sec": 10.27,
+      "end_sec": 13.04,
+      "section": "explanation",
+      "narration_line": "They reported that parental overvaluation predicted narcissism.",
+      "on_screen_text": "Overvaluation predicted narcissism",
+      "visual_description": "Rising line.",
+      "visual_spec": "point/neutral/L; lines:overvaluation,narcissism,up@R"
+    },
+    {
+      "start_sec": 13.04,
+      "end_sec": 15.02,
+      "section": "explanation",
+      "narration_line": "Parental warmth predicted self-esteem instead.",
+      "on_screen_text": "Warmth predicted self-esteem",
+      "visual_description": "Heart.",
+      "visual_spec": "stand/smile/L; text:WARMTH@R"
+    },
+    {
+      "start_sec": 15.02,
+      "end_sec": 19.76,
+      "section": "explanation",
+      "narration_line": "They described it as the first prospective longitudinal test of this question.",
+      "on_screen_text": "First prospective longitudinal test",
+      "visual_description": "Timeline.",
+      "visual_spec": "stand/neutral/L; arrow@R"
+    },
+    {
+      "start_sec": 19.76,
+      "end_sec": 23.31,
+      "section": "explanation",
+      "narration_line": "The results suggest narcissism and self-esteem have different origins.",
+      "on_screen_text": "Different origins",
+      "visual_description": "Two arrows.",
+      "visual_spec": "think/neutral/L; list:NARCISSISM,SELF-ESTEEM@R"
+    },
+    {
+      "start_sec": 23.31,
+      "end_sec": 28.45,
+      "section": "explanation",
+      "narration_line": "A published commentary argued that parental overvaluation may be overvalued as an explanation.",
+      "on_screen_text": "A commentary pushed back",
+      "visual_description": "Speech bubble.",
+      "visual_spec": "shrug/worry/L; bubble:overvalued?@TR"
+    },
+    {
+      "start_sec": 28.45,
+      "end_sec": 31.61,
+      "section": "explanation",
+      "narration_line": "So the origins of narcissism are still debated.",
+      "on_screen_text": "Origins still debated",
+      "visual_description": "Scale.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 31.61,
+      "end_sec": 39.12,
+      "section": "explanation",
+      "narration_line": "These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here.",
+      "on_screen_text": "Traits, not diagnoses",
+      "visual_description": "Cross.",
+      "visual_spec": "stand/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 39.12,
+      "end_sec": 46.23,
+      "section": "takeaway",
+      "narration_line": "So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated.",
+      "on_screen_text": "They differ; origins debated",
+      "visual_description": "Stickman with a question mark.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 46.23,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what do charismatic leaders actually do?",
+      "on_screen_text": "Tomorrow: what charisma is",
+      "visual_description": "Spotlight.",
+      "visual_spec": "stand/neutral/L; spotlight@R"
+    }
+  ],
+  "description": "Are narcissism and healthy self-esteem the same? A 2015 longitudinal study reported that parental overvaluation predicted narcissism while parental warmth predicted self-esteem, and a published commentary questioned how far the findings go. New psychology short every day on The Psyche Discourse. Source: Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J. (2015). Origins of narcissism in children. Proceedings of the National Academy of Sciences, 112(12), 3659-3662. Source: Kealy, D., et al. (2015). On overvaluing parental overvaluation as the origins of narcissism. Proceedings of the National Academy of Sciences, 112(21) (commentary on Brummelman et al.).",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#narcissism",
+    "#selfesteem",
+    "#parenting",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One study with a published commentary challenging it; the video says the origins of narcissism are debated. Narcissism in children is a trait measure, not a diagnosis. No person is labelled.",
+  "thumbnail": {
+    "lines": [
+      "NARCISSISM VS",
+      "CONFIDENCE"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

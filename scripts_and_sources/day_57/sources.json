@@ -1,0 +1,183 @@
+{
+  "day": 57,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Is charisma a gift, or a set of learnable tactics?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2011, John Antonakis and colleagues tested whether charisma can be taught.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They identified twelve charismatic leadership tactics.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "These included things like using metaphors and rhetorical questions.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In the first study, 34 managers were randomized into training or not.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In the second study, 41 MBA participants took part.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Training improved how charismatic and effective the leaders were rated.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "The studies tested specific behaviors, as judged by others, not personality overall.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Ratings of charisma alone don't tell us whether a leader's decisions are good.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So in these studies, charisma looked more like a learnable set of behaviors than a fixed gift.",
+      "cites": [
+        "antonakis2011"
+      ],
+      "sources": [
+        {
+          "id": "antonakis2011",
+          "authors": "Antonakis, J., Fenley, M., & Liechti, S.",
+          "year": 2011,
+          "title": "Can charisma be taught? Tests of two interventions",
+          "venue": "Academy of Management Learning & Education, 10(3), 374-396",
+          "url": "https://doi.org/10.5465/amle.2010.0012",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (12 charismatic leadership tactics; Study 1 34 managers randomized; Study 2 41 MBA participants)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: would you give a wrong answer just because everyone else did?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

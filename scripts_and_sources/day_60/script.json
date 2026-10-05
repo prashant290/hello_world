@@ -1,0 +1,118 @@
+{
+  "day": 60,
+  "topic": "Trauma bonding: what the theory says",
+  "title": "Trauma Bonding: What the Theory Says",
+  "voiceover": "What is trauma bonding? In 1981, Donald Dutton and Susan Painter proposed traumatic bonding theory. It describes emotional attachments that develop in relationships of intermittent abuse. The theory names two conditions: a power imbalance and intermittent abuse. In 1993, Dutton and Painter tested the theory with 75 women. Abuse, its intermittency and power differences together accounted for 55 percent of the variance in attachment six months later. That is a result from one sample, not a diagnosis of anyone, and it does not apply to every relationship. These studies describe patterns, not blame for anyone in such a relationship. So trauma bonding is a research-based theory about power imbalance and intermittent abuse, not a diagnosis. Tomorrow: is Blue Monday actually real?",
+  "word_count": 121,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 1.62,
+      "section": "hook",
+      "narration_line": "What is trauma bonding?",
+      "on_screen_text": "What is trauma bonding?",
+      "visual_description": "Two linked hearts.",
+      "visual_spec": "think/neutral/C; qmark@R"
+    },
+    {
+      "start_sec": 1.62,
+      "end_sec": 6.07,
+      "section": "explanation",
+      "narration_line": "In 1981, Donald Dutton and Susan Painter proposed traumatic bonding theory.",
+      "on_screen_text": "1981: traumatic bonding theory",
+      "visual_description": "Book.",
+      "visual_spec": "point/neutral/L; text:1981@TR; text:THEORY@R"
+    },
+    {
+      "start_sec": 6.07,
+      "end_sec": 10.53,
+      "section": "explanation",
+      "narration_line": "It describes emotional attachments that develop in relationships of intermittent abuse.",
+      "on_screen_text": "Attachment in intermittent abuse",
+      "visual_description": "Linked hearts.",
+      "visual_spec": "stand/neutral/L; text:INTERMITTENT@R"
+    },
+    {
+      "start_sec": 10.53,
+      "end_sec": 14.98,
+      "section": "explanation",
+      "narration_line": "The theory names two conditions: a power imbalance and intermittent abuse.",
+      "on_screen_text": "Two conditions",
+      "visual_description": "Two-item list.",
+      "visual_spec": "stand/neutral/L; list:POWER IMBALANCE,INTERMITTENT ABUSE@R"
+    },
+    {
+      "start_sec": 14.98,
+      "end_sec": 19.44,
+      "section": "explanation",
+      "narration_line": "In 1993, Dutton and Painter tested the theory with 75 women.",
+      "on_screen_text": "1993: tested with 75 women",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; text:1993@TR; numbers:75@R"
+    },
+    {
+      "start_sec": 19.44,
+      "end_sec": 27.13,
+      "section": "explanation",
+      "narration_line": "Abuse, its intermittency and power differences together accounted for 55 percent of the variance in attachment six months later.",
+      "on_screen_text": "55% of variance in attachment",
+      "visual_description": "Bar at 55%.",
+      "visual_spec": "point/neutral/L; bars:explained=55%@R"
+    },
+    {
+      "start_sec": 27.13,
+      "end_sec": 35.23,
+      "section": "explanation",
+      "narration_line": "That is a result from one sample, not a diagnosis of anyone, and it does not apply to every relationship.",
+      "on_screen_text": "One sample, not a diagnosis",
+      "visual_description": "Cross.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 35.23,
+      "end_sec": 40.09,
+      "section": "explanation",
+      "narration_line": "These studies describe patterns, not blame for anyone in such a relationship.",
+      "on_screen_text": "Patterns, not blame",
+      "visual_description": "Open hands.",
+      "visual_spec": "stand/neutral/L; text:NO BLAME@R"
+    },
+    {
+      "start_sec": 40.09,
+      "end_sec": 46.57,
+      "section": "takeaway",
+      "narration_line": "So trauma bonding is a research-based theory about power imbalance and intermittent abuse, not a diagnosis.",
+      "on_screen_text": "A theory, not a diagnosis",
+      "visual_description": "Stickman with a small check.",
+      "visual_spec": "stand/neutral/L; check@R"
+    },
+    {
+      "start_sec": 46.57,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: is Blue Monday actually real?",
+      "on_screen_text": "Tomorrow: is Blue Monday real?",
+      "visual_description": "Calendar.",
+      "visual_spec": "stand/neutral/L; text:BLUE MONDAY?@R"
+    }
+  ],
+  "description": "What is trauma bonding? A 1981 theory describes emotional attachments in relationships with a power imbalance and intermittent abuse, and a 1993 study of 75 women found these factors accounted for 55% of the variance in attachment six months later. This is educational, not a diagnosis. If you or someone you know is unsafe, contact local support services. New psychology short every day on The Psyche Discourse. Source: Dutton, D. G., & Painter, S. L. (1981). Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse. Victimology, 6(1-4), 139-155. Source: Dutton, D. G., & Painter, S. (1993). Emotional attachments in abusive relationships: A test of traumatic bonding theory. Violence and Victims, 8(2), 105-120.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#traumabonding",
+    "#relationships",
+    "#mentalhealth",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Sensitive topic. Presented as a research-based theory tested in one sample, not a diagnosis, and without blame or advice. The description adds a support note. The 1993 figures are from the abstract as quoted in search results.",
+  "thumbnail": {
+    "lines": [
+      "TRAUMA BONDING:",
+      "THE THEORY"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

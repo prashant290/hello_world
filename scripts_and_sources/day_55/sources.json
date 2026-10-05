@@ -1,0 +1,183 @@
+{
+  "day": 55,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can other people really read how you feel?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1998, Thomas Gilovich, Kenneth Savitsky and Victoria Medvec published research on the illusion of transparency.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "It's the tendency to overestimate how well others can read your emotional states.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In one experiment, Cornell students told lies.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Observers then watched each student and judged whether that student was lying.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "About half of the liars thought they had been caught.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "But only about a quarter actually were.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "So the liars overestimated how transparent they were.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "This was a laboratory study with students, not every real-world situation, so treat it as one data point.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So in this research, people were less readable than they feared.",
+      "cites": [
+        "gilovich1998"
+      ],
+      "sources": [
+        {
+          "id": "gilovich1998",
+          "authors": "Gilovich, T., Savitsky, K., & Medvec, V. H.",
+          "year": 1998,
+          "title": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+          "venue": "Journal of Personality and Social Psychology, 75(2), 332-346",
+          "url": "https://doi.org/10.1037/0022-3514.75.2.332",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Cornell students; about half of liars thought they were caught, about a quarter were)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: is there a real research difference between narcissism and confidence?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

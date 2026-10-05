@@ -1,0 +1,233 @@
+{
+  "day": 54,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do people gossip so much?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1997, Robin Dunbar and colleagues analyzed 45 natural conversations.",
+      "cites": [
+        "dunbar1997"
+      ],
+      "sources": [
+        {
+          "id": "dunbar1997",
+          "authors": "Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C.",
+          "year": 1997,
+          "title": "Human conversational behavior",
+          "venue": "Human Nature, 8(3), 231-246",
+          "url": "https://doi.org/10.1007/BF02912493",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (45 conversations; about two-thirds social topics)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "About two thirds of the conversation time went to social topics.",
+      "cites": [
+        "dunbar1997"
+      ],
+      "sources": [
+        {
+          "id": "dunbar1997",
+          "authors": "Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C.",
+          "year": 1997,
+          "title": "Human conversational behavior",
+          "venue": "Human Nature, 8(3), 231-246",
+          "url": "https://doi.org/10.1007/BF02912493",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (45 conversations; about two-thirds social topics)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In 2020, Megan Robbins and Alexander Karan sampled everyday conversations of 467 people.",
+      "cites": [
+        "robbins2020"
+      ],
+      "sources": [
+        {
+          "id": "robbins2020",
+          "authors": "Robbins, M. L., & Karan, A.",
+          "year": 2020,
+          "title": "Who gossips and how in everyday life?",
+          "venue": "Social Psychological and Personality Science, 11(2), 185-195",
+          "url": "https://doi.org/10.1177/1948550619837000",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (467 participants; EAR sampling; mostly neutral; about 52 minutes per awake day)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "They found gossip was mostly neutral, not negative.",
+      "cites": [
+        "robbins2020"
+      ],
+      "sources": [
+        {
+          "id": "robbins2020",
+          "authors": "Robbins, M. L., & Karan, A.",
+          "year": 2020,
+          "title": "Who gossips and how in everyday life?",
+          "venue": "Social Psychological and Personality Science, 11(2), 185-195",
+          "url": "https://doi.org/10.1177/1948550619837000",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (467 participants; EAR sampling; mostly neutral; about 52 minutes per awake day)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "On average, it took up about 52 minutes of an awake day.",
+      "cites": [
+        "robbins2020"
+      ],
+      "sources": [
+        {
+          "id": "robbins2020",
+          "authors": "Robbins, M. L., & Karan, A.",
+          "year": 2020,
+          "title": "Who gossips and how in everyday life?",
+          "venue": "Social Psychological and Personality Science, 11(2), 185-195",
+          "url": "https://doi.org/10.1177/1948550619837000",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (467 participants; EAR sampling; mostly neutral; about 52 minutes per awake day)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2012, Matthew Feinberg and colleagues described sharing reputational information as a form of prosocial behavior.",
+      "cites": [
+        "feinberg2012"
+      ],
+      "sources": [
+        {
+          "id": "feinberg2012",
+          "authors": "Feinberg, M., Willer, R., Stellar, J., & Keltner, D.",
+          "year": 2012,
+          "title": "The virtues of gossip: Reputational information sharing as prosocial behavior",
+          "venue": "Journal of Personality and Social Psychology, 102(5), 1015-1030",
+          "url": "https://doi.org/10.1037/a0026650",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "And in 2014, his team reported that gossip and ostracism promote cooperation in groups.",
+      "cites": [
+        "feinberg2014"
+      ],
+      "sources": [
+        {
+          "id": "feinberg2014",
+          "authors": "Feinberg, M., Willer, R., & Schultz, M.",
+          "year": 2014,
+          "title": "Gossip and ostracism promote cooperation in groups",
+          "venue": "Psychological Science, 25(3), 656-664",
+          "url": "https://doi.org/10.1177/0956797613510184",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "These findings come from specific samples and tasks, so they don't describe all gossip.",
+      "cites": [
+        "dunbar1997",
+        "robbins2020",
+        "feinberg2012",
+        "feinberg2014"
+      ],
+      "sources": [
+        {
+          "id": "dunbar1997",
+          "authors": "Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C.",
+          "year": 1997,
+          "title": "Human conversational behavior",
+          "venue": "Human Nature, 8(3), 231-246",
+          "url": "https://doi.org/10.1007/BF02912493",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (45 conversations; about two-thirds social topics)"
+        },
+        {
+          "id": "robbins2020",
+          "authors": "Robbins, M. L., & Karan, A.",
+          "year": 2020,
+          "title": "Who gossips and how in everyday life?",
+          "venue": "Social Psychological and Personality Science, 11(2), 185-195",
+          "url": "https://doi.org/10.1177/1948550619837000",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (467 participants; EAR sampling; mostly neutral; about 52 minutes per awake day)"
+        },
+        {
+          "id": "feinberg2012",
+          "authors": "Feinberg, M., Willer, R., Stellar, J., & Keltner, D.",
+          "year": 2012,
+          "title": "The virtues of gossip: Reputational information sharing as prosocial behavior",
+          "venue": "Journal of Personality and Social Psychology, 102(5), 1015-1030",
+          "url": "https://doi.org/10.1037/a0026650",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        },
+        {
+          "id": "feinberg2014",
+          "authors": "Feinberg, M., Willer, R., & Schultz, M.",
+          "year": 2014,
+          "title": "Gossip and ostracism promote cooperation in groups",
+          "venue": "Psychological Science, 25(3), 656-664",
+          "url": "https://doi.org/10.1177/0956797613510184",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So gossip is common, often neutral, and sometimes helps groups cooperate.",
+      "cites": [
+        "dunbar1997",
+        "robbins2020",
+        "feinberg2014"
+      ],
+      "sources": [
+        {
+          "id": "dunbar1997",
+          "authors": "Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C.",
+          "year": 1997,
+          "title": "Human conversational behavior",
+          "venue": "Human Nature, 8(3), 231-246",
+          "url": "https://doi.org/10.1007/BF02912493",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (45 conversations; about two-thirds social topics)"
+        },
+        {
+          "id": "robbins2020",
+          "authors": "Robbins, M. L., & Karan, A.",
+          "year": 2020,
+          "title": "Who gossips and how in everyday life?",
+          "venue": "Social Psychological and Personality Science, 11(2), 185-195",
+          "url": "https://doi.org/10.1177/1948550619837000",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (467 participants; EAR sampling; mostly neutral; about 52 minutes per awake day)"
+        },
+        {
+          "id": "feinberg2014",
+          "authors": "Feinberg, M., Willer, R., & Schultz, M.",
+          "year": 2014,
+          "title": "Gossip and ostracism promote cooperation in groups",
+          "venue": "Psychological Science, 25(3), 656-664",
+          "url": "https://doi.org/10.1177/0956797613510184",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: can other people really read how you feel?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

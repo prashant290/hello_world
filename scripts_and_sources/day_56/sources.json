@@ -1,0 +1,203 @@
+{
+  "day": 56,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Is there a real research difference between narcissism and confidence?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They reported that parental overvaluation predicted narcissism.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Parental warmth predicted self-esteem instead.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "They described it as the first prospective longitudinal test of this question.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "The results suggest narcissism and self-esteem have different origins.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "A published commentary argued that parental overvaluation may be overvalued as an explanation.",
+      "cites": [
+        "kealy2015"
+      ],
+      "sources": [
+        {
+          "id": "kealy2015",
+          "authors": "Kealy, D., et al.",
+          "year": 2015,
+          "title": "On overvaluing parental overvaluation as the origins of narcissism",
+          "venue": "Proceedings of the National Academy of Sciences, 112(21) (commentary on Brummelman et al.)",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.1507035112",
+          "verified": "web search 2026-10-05: title and existence confirmed; author attribution taken from the published reply 'Reply to Kealy et al.' (a search summary named different authors, so no author is named in the script)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "So the origins of narcissism are still debated.",
+      "cites": [
+        "brummelman2015",
+        "kealy2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        },
+        {
+          "id": "kealy2015",
+          "authors": "Kealy, D., et al.",
+          "year": 2015,
+          "title": "On overvaluing parental overvaluation as the origins of narcissism",
+          "venue": "Proceedings of the National Academy of Sciences, 112(21) (commentary on Brummelman et al.)",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.1507035112",
+          "verified": "web search 2026-10-05: title and existence confirmed; author attribution taken from the published reply 'Reply to Kealy et al.' (a search summary named different authors, so no author is named in the script)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here.",
+      "cites": [
+        "brummelman2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated.",
+      "cites": [
+        "brummelman2015",
+        "kealy2015"
+      ],
+      "sources": [
+        {
+          "id": "brummelman2015",
+          "authors": "Brummelman, E., Thomaes, S., Nelemans, S. A., de Castro, B. O., Overbeek, G., & Bushman, B. J.",
+          "year": 2015,
+          "title": "Origins of narcissism in children",
+          "venue": "Proceedings of the National Academy of Sciences, 112(12), 3659-3662",
+          "url": "https://doi.org/10.1073/pnas.1420870112",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (overvaluation predicted narcissism; warmth predicted self-esteem; first prospective longitudinal test)"
+        },
+        {
+          "id": "kealy2015",
+          "authors": "Kealy, D., et al.",
+          "year": 2015,
+          "title": "On overvaluing parental overvaluation as the origins of narcissism",
+          "venue": "Proceedings of the National Academy of Sciences, 112(21) (commentary on Brummelman et al.)",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.1507035112",
+          "verified": "web search 2026-10-05: title and existence confirmed; author attribution taken from the published reply 'Reply to Kealy et al.' (a search summary named different authors, so no author is named in the script)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: what do charismatic leaders actually do?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

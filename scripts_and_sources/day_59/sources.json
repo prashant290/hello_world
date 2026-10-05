@@ -1,0 +1,213 @@
+{
+  "day": 59,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do breakups really hurt like physical pain?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2011, Ethan Kross and colleagues studied people who had recently had an unwanted breakup.",
+      "cites": [
+        "kross2011"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Participants viewed a photo of their ex.",
+      "cites": [
+        "kross2011"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "They also felt physical heat pain in the scanner.",
+      "cites": [
+        "kross2011"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Kross's team reported that activity overlapped in the secondary somatosensory cortex and the dorsal posterior insula during both experiences.",
+      "cites": [
+        "kross2011"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In 2014, Choong-Wan Woo and colleagues tested this question again with 60 participants.",
+      "cites": [
+        "woo2014"
+      ],
+      "sources": [
+        {
+          "id": "woo2014",
+          "authors": "Woo, C.-W., Koban, L., Kross, E., et al.",
+          "year": 2014,
+          "title": "Separate neural representations for physical pain and social rejection",
+          "venue": "Nature Communications, 5, 5380",
+          "url": "https://doi.org/10.1038/ncomms6380",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 participants; separate patterns)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "They found separate brain patterns for physical pain and social rejection.",
+      "cites": [
+        "woo2014"
+      ],
+      "sources": [
+        {
+          "id": "woo2014",
+          "authors": "Woo, C.-W., Koban, L., Kross, E., et al.",
+          "year": 2014,
+          "title": "Separate neural representations for physical pain and social rejection",
+          "venue": "Nature Communications, 5, 5380",
+          "url": "https://doi.org/10.1038/ncomms6380",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 participants; separate patterns)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "So the two studies point in different directions.",
+      "cites": [
+        "kross2011",
+        "woo2014"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        },
+        {
+          "id": "woo2014",
+          "authors": "Woo, C.-W., Koban, L., Kross, E., et al.",
+          "year": 2014,
+          "title": "Separate neural representations for physical pain and social rejection",
+          "venue": "Nature Communications, 5, 5380",
+          "url": "https://doi.org/10.1038/ncomms6380",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 participants; separate patterns)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Both studies measured brain activity, not injury or damage, so neither shows a breakup physically harms the body.",
+      "cites": [
+        "kross2011",
+        "woo2014"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        },
+        {
+          "id": "woo2014",
+          "authors": "Woo, C.-W., Koban, L., Kross, E., et al.",
+          "year": 2014,
+          "title": "Separate neural representations for physical pain and social rejection",
+          "venue": "Nature Communications, 5, 5380",
+          "url": "https://doi.org/10.1038/ncomms6380",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 participants; separate patterns)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So breakups do activate pain-related areas, but whether that is the same as physical pain is still contested.",
+      "cites": [
+        "kross2011",
+        "woo2014"
+      ],
+      "sources": [
+        {
+          "id": "kross2011",
+          "authors": "Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D.",
+          "year": 2011,
+          "title": "Social rejection shares somatosensory representations with physical pain",
+          "venue": "Proceedings of the National Academy of Sciences, 108(15), 6270-6275",
+          "url": "https://doi.org/10.1073/pnas.1102693108",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (recent unwanted breakup; ex photo; overlap in secondary somatosensory cortex and dorsal posterior insula)"
+        },
+        {
+          "id": "woo2014",
+          "authors": "Woo, C.-W., Koban, L., Kross, E., et al.",
+          "year": 2014,
+          "title": "Separate neural representations for physical pain and social rejection",
+          "venue": "Nature Communications, 5, 5380",
+          "url": "https://doi.org/10.1038/ncomms6380",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 participants; separate patterns)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: what is trauma bonding?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

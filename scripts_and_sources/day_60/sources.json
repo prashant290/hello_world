@@ -1,0 +1,185 @@
+{
+  "day": 60,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "What is trauma bonding?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1981, Donald Dutton and Susan Painter proposed traumatic bonding theory.",
+      "cites": [
+        "dutton1981"
+      ],
+      "sources": [
+        {
+          "id": "dutton1981",
+          "authors": "Dutton, D. G., & Painter, S. L.",
+          "year": 1981,
+          "title": "Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse",
+          "venue": "Victimology, 6(1-4), 139-155",
+          "url": "https://scholar.google.com/scholar?q=Dutton+Painter+1981+Traumatic+bonding+Victimology+6+139-155",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (citation and the two conditions: power imbalance and intermittent abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "It describes emotional attachments that develop in relationships of intermittent abuse.",
+      "cites": [
+        "dutton1981"
+      ],
+      "sources": [
+        {
+          "id": "dutton1981",
+          "authors": "Dutton, D. G., & Painter, S. L.",
+          "year": 1981,
+          "title": "Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse",
+          "venue": "Victimology, 6(1-4), 139-155",
+          "url": "https://scholar.google.com/scholar?q=Dutton+Painter+1981+Traumatic+bonding+Victimology+6+139-155",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (citation and the two conditions: power imbalance and intermittent abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The theory names two conditions: a power imbalance and intermittent abuse.",
+      "cites": [
+        "dutton1981"
+      ],
+      "sources": [
+        {
+          "id": "dutton1981",
+          "authors": "Dutton, D. G., & Painter, S. L.",
+          "year": 1981,
+          "title": "Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse",
+          "venue": "Victimology, 6(1-4), 139-155",
+          "url": "https://scholar.google.com/scholar?q=Dutton+Painter+1981+Traumatic+bonding+Victimology+6+139-155",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (citation and the two conditions: power imbalance and intermittent abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 1993, Dutton and Painter tested the theory with 75 women.",
+      "cites": [
+        "dutton1993"
+      ],
+      "sources": [
+        {
+          "id": "dutton1993",
+          "authors": "Dutton, D. G., & Painter, S.",
+          "year": 1993,
+          "title": "Emotional attachments in abusive relationships: A test of traumatic bonding theory",
+          "venue": "Violence and Victims, 8(2), 105-120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8193056/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (75 women; abuse, intermittency and power differentials accounted for 55% of variance in attachment at six-month follow-up)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Abuse, its intermittency and power differences together accounted for 55 percent of the variance in attachment six months later.",
+      "cites": [
+        "dutton1993"
+      ],
+      "sources": [
+        {
+          "id": "dutton1993",
+          "authors": "Dutton, D. G., & Painter, S.",
+          "year": 1993,
+          "title": "Emotional attachments in abusive relationships: A test of traumatic bonding theory",
+          "venue": "Violence and Victims, 8(2), 105-120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8193056/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (75 women; abuse, intermittency and power differentials accounted for 55% of variance in attachment at six-month follow-up)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "That is a result from one sample, not a diagnosis of anyone, and it does not apply to every relationship.",
+      "cites": [
+        "dutton1993"
+      ],
+      "sources": [
+        {
+          "id": "dutton1993",
+          "authors": "Dutton, D. G., & Painter, S.",
+          "year": 1993,
+          "title": "Emotional attachments in abusive relationships: A test of traumatic bonding theory",
+          "venue": "Violence and Victims, 8(2), 105-120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8193056/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (75 women; abuse, intermittency and power differentials accounted for 55% of variance in attachment at six-month follow-up)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "These studies describe patterns, not blame for anyone in such a relationship.",
+      "cites": [
+        "dutton1981",
+        "dutton1993"
+      ],
+      "sources": [
+        {
+          "id": "dutton1981",
+          "authors": "Dutton, D. G., & Painter, S. L.",
+          "year": 1981,
+          "title": "Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse",
+          "venue": "Victimology, 6(1-4), 139-155",
+          "url": "https://scholar.google.com/scholar?q=Dutton+Painter+1981+Traumatic+bonding+Victimology+6+139-155",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (citation and the two conditions: power imbalance and intermittent abuse)"
+        },
+        {
+          "id": "dutton1993",
+          "authors": "Dutton, D. G., & Painter, S.",
+          "year": 1993,
+          "title": "Emotional attachments in abusive relationships: A test of traumatic bonding theory",
+          "venue": "Violence and Victims, 8(2), 105-120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8193056/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (75 women; abuse, intermittency and power differentials accounted for 55% of variance in attachment at six-month follow-up)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So trauma bonding is a research-based theory about power imbalance and intermittent abuse, not a diagnosis.",
+      "cites": [
+        "dutton1981",
+        "dutton1993"
+      ],
+      "sources": [
+        {
+          "id": "dutton1981",
+          "authors": "Dutton, D. G., & Painter, S. L.",
+          "year": 1981,
+          "title": "Traumatic bonding: The development of emotional attachments in battered women and other relationships of intermittent abuse",
+          "venue": "Victimology, 6(1-4), 139-155",
+          "url": "https://scholar.google.com/scholar?q=Dutton+Painter+1981+Traumatic+bonding+Victimology+6+139-155",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (citation and the two conditions: power imbalance and intermittent abuse)"
+        },
+        {
+          "id": "dutton1993",
+          "authors": "Dutton, D. G., & Painter, S.",
+          "year": 1993,
+          "title": "Emotional attachments in abusive relationships: A test of traumatic bonding theory",
+          "venue": "Violence and Victims, 8(2), 105-120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8193056/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (75 women; abuse, intermittency and power differentials accounted for 55% of variance in attachment at six-month follow-up)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: is Blue Monday actually real?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}
