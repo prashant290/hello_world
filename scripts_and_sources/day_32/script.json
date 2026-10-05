@@ -1,0 +1,118 @@
+{
+  "day": 32,
+  "topic": "The Ben Franklin effect: does asking for a favor make people like you?",
+  "title": "Does Asking for a Favor Make People Like You?",
+  "voiceover": "Does asking someone for a favor make them like you? In 1969, researchers Jecker and Landy invited students to a quiz competition where they could win money. Afterward, one group was asked by the researcher to return the money, because he'd used his own funds. Another group was asked by a secretary, citing department funds. A third group was not asked at all. Students the researcher himself had asked reported liking him more than students asked by the secretary. The classic explanation is cognitive dissonance: if you helped someone, you may conclude you must like them. It's one 1969 experiment, so treat the result as a suggestion, not a rule. So if you want to build rapport, asking for a small favor may help, but it's not guaranteed. Tomorrow: can you spot a liar from their body language?",
+  "word_count": 138,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.55,
+      "section": "hook",
+      "narration_line": "Does asking someone for a favor make them like you?",
+      "on_screen_text": "Favors = liking?",
+      "visual_description": "Stickman asking a friend for a favor.",
+      "visual_spec": "think/neutral/C; crowd:1@R"
+    },
+    {
+      "start_sec": 3.55,
+      "end_sec": 9.59,
+      "section": "explanation",
+      "narration_line": "In 1969, researchers Jecker and Landy invited students to a quiz competition where they could win money.",
+      "on_screen_text": "1969: a quiz for money",
+      "visual_description": "Coins and a quiz card.",
+      "visual_spec": "stand/neutral/L; coin:$@R; text:1969@TR"
+    },
+    {
+      "start_sec": 9.59,
+      "end_sec": 15.98,
+      "section": "explanation",
+      "narration_line": "Afterward, one group was asked by the researcher to return the money, because he'd used his own funds.",
+      "on_screen_text": "Group 1: the researcher asks",
+      "visual_description": "Researcher stickman holding a hand out.",
+      "visual_spec": "point/neutral/L; crowd:1@R"
+    },
+    {
+      "start_sec": 15.98,
+      "end_sec": 19.53,
+      "section": "explanation",
+      "narration_line": "Another group was asked by a secretary, citing department funds.",
+      "on_screen_text": "Group 2: a secretary asks",
+      "visual_description": "Secretary stickman with a clipboard.",
+      "visual_spec": "stand/neutral/L; list:DEPT FUNDS@R"
+    },
+    {
+      "start_sec": 19.53,
+      "end_sec": 22.37,
+      "section": "explanation",
+      "narration_line": "A third group was not asked at all.",
+      "on_screen_text": "Group 3: not asked",
+      "visual_description": "Empty chair.",
+      "visual_spec": "shrug/neutral/L; text:NOT ASKED@R"
+    },
+    {
+      "start_sec": 22.37,
+      "end_sec": 28.05,
+      "section": "explanation",
+      "narration_line": "Students the researcher himself had asked reported liking him more than students asked by the secretary.",
+      "on_screen_text": "Asked by him: liked him more",
+      "visual_description": "Heart above the researcher.",
+      "visual_spec": "stand/smile/L; bars:secretary=h35,researcher=h70@R"
+    },
+    {
+      "start_sec": 28.05,
+      "end_sec": 34.09,
+      "section": "explanation",
+      "narration_line": "The classic explanation is cognitive dissonance: if you helped someone, you may conclude you must like them.",
+      "on_screen_text": "'I helped, so I like them'",
+      "visual_description": "Thought bubble linking help and liking.",
+      "visual_spec": "think/neutral/L; bubble:I helped him@TR"
+    },
+    {
+      "start_sec": 34.09,
+      "end_sec": 39.06,
+      "section": "explanation",
+      "narration_line": "It's one 1969 experiment, so treat the result as a suggestion, not a rule.",
+      "on_screen_text": "One experiment, not a rule",
+      "visual_description": "Single test tube.",
+      "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
+    },
+    {
+      "start_sec": 39.06,
+      "end_sec": 45.45,
+      "section": "takeaway",
+      "narration_line": "So if you want to build rapport, asking for a small favor may help, but it's not guaranteed.",
+      "on_screen_text": "A small favor may help",
+      "visual_description": "Stickman politely asking.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 45.45,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: can you spot a liar from their body language?",
+      "on_screen_text": "Tomorrow: spotting lies",
+      "visual_description": "Magnifier over a face.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Does asking someone for a favor make them like you more? In a 1969 experiment, students the researcher personally asked for money back reported liking him more than students asked by a secretary. New psychology short every day on The Psyche Discourse. Source: Jecker, J., & Landy, D. (1969). Liking a person as a function of doing him a favour. Human Relations, 22(4), 371-378.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#benfranklineffect",
+    "#persuasion",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One classic 1969 experiment, known to us through several consistent summaries rather than the original paper. Cognitive dissonance is the classic explanation, not a proven mechanism. The 'small favor may help' takeaway is an application of the finding, not a tested tip.",
+  "thumbnail": {
+    "lines": [
+      "DO FAVORS",
+      "MAKE FRIENDS?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

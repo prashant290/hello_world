@@ -1,0 +1,118 @@
+{
+  "day": 34,
+  "topic": "Why people obey authority (the Milgram experiment, and its critics)",
+  "title": "Milgram: Do People Really Obey Blindly?",
+  "voiceover": "Do people really obey authority blindly? In Stanley Milgram's 1963 study, 40 men were told to give increasingly severe electric shocks to another person, who was actually an actor. Twenty-six of the 40 continued to the final 450-volt switch. That's the famous 65 percent. But Gina Perry's research in Milgram's archives found the experimenter improvised and coaxed participants. She also found Milgram ran 24 variations, and in more than half of them most people did not obey. In 2014, Haslam, Reicher and Birney reported that participants in an experimental analogue responded more to appeals to science than to blunt orders. They describe this as engaged followership, not blind obedience. So 'people just follow orders' is too simple an explanation for Milgram's results. Tomorrow: how does a tiny request lead to a bigger yes?",
+  "word_count": 133,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.21,
+      "section": "hook",
+      "narration_line": "Do people really obey authority blindly?",
+      "on_screen_text": "Blind obedience?",
+      "visual_description": "Stickman facing an instruction card.",
+      "visual_spec": "think/worry/C; list:CONTINUE@R"
+    },
+    {
+      "start_sec": 2.21,
+      "end_sec": 10.68,
+      "section": "explanation",
+      "narration_line": "In Stanley Milgram's 1963 study, 40 men were told to give increasingly severe electric shocks to another person, who was actually an actor.",
+      "on_screen_text": "1963: 40 men, a staged learner",
+      "visual_description": "Dial with rising numbers.",
+      "visual_spec": "stand/neutral/L; text:40 MEN@R; text:1963@TR"
+    },
+    {
+      "start_sec": 10.68,
+      "end_sec": 14.37,
+      "section": "explanation",
+      "narration_line": "Twenty-six of the 40 continued to the final 450-volt switch.",
+      "on_screen_text": "26 of 40: full 450 volts",
+      "visual_description": "26 of 40 counter.",
+      "visual_spec": "shock/neutral/L; text:26 OF 40@R"
+    },
+    {
+      "start_sec": 14.37,
+      "end_sec": 16.21,
+      "section": "explanation",
+      "narration_line": "That's the famous 65 percent.",
+      "on_screen_text": "The famous 65%",
+      "visual_description": "Big 65%.",
+      "visual_spec": "stand/neutral/L; text:65%@R"
+    },
+    {
+      "start_sec": 16.21,
+      "end_sec": 21.37,
+      "section": "explanation",
+      "narration_line": "But Gina Perry's research in Milgram's archives found the experimenter improvised and coaxed participants.",
+      "on_screen_text": "Archives: the experimenter improvised",
+      "visual_description": "Archive box.",
+      "visual_spec": "think/neutral/L; list:ARCHIVE@R"
+    },
+    {
+      "start_sec": 21.37,
+      "end_sec": 28.37,
+      "section": "explanation",
+      "narration_line": "She also found Milgram ran 24 variations, and in more than half of them most people did not obey.",
+      "on_screen_text": "24 variations; often most refused",
+      "visual_description": "24 with a cross.",
+      "visual_spec": "shrug/neutral/L; text:24 VARIATIONS@R; cross@TR"
+    },
+    {
+      "start_sec": 28.37,
+      "end_sec": 36.84,
+      "section": "explanation",
+      "narration_line": "In 2014, Haslam, Reicher and Birney reported that participants in an experimental analogue responded more to appeals to science than to blunt orders.",
+      "on_screen_text": "2014: science appeals beat orders",
+      "visual_description": "Beaker vs. megaphone.",
+      "visual_spec": "stand/neutral/L; list:SCIENCE,ORDERS@R"
+    },
+    {
+      "start_sec": 36.84,
+      "end_sec": 40.16,
+      "section": "explanation",
+      "narration_line": "They describe this as engaged followership, not blind obedience.",
+      "on_screen_text": "Engaged followership",
+      "visual_description": "Stickman following willingly.",
+      "visual_spec": "walk/neutral/L; text:ENGAGED FOLLOWERSHIP@R"
+    },
+    {
+      "start_sec": 40.16,
+      "end_sec": 44.95,
+      "section": "takeaway",
+      "narration_line": "So 'people just follow orders' is too simple an explanation for Milgram's results.",
+      "on_screen_text": "'Just following orders' is too simple",
+      "visual_description": "Scale with a question mark.",
+      "visual_spec": "point/smile/L; scale@R"
+    },
+    {
+      "start_sec": 44.95,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: how does a tiny request lead to a bigger yes?",
+      "on_screen_text": "Tomorrow: small requests",
+      "visual_description": "Small box then big box.",
+      "visual_spec": "stand/neutral/L; list:SMALL,BIG@R"
+    }
+  ],
+  "description": "In Milgram's 1963 study, 26 of 40 men continued to the highest shock level, but archive research and a 2014 study suggest 'blind obedience' is too simple an explanation. New psychology short every day on The Psyche Discourse. Source: Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371-378. Source: Perry, G. (2013). Behind the shock machine: The untold story of the notorious Milgram psychology experiments. The New Press (book).",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#milgram",
+    "#obedience",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "CONTESTED. The 65% figure is from one 1963 condition (Yale, 40 men). Perry (2013) draws on Milgram's archive: 24 variations, most with majority disobedience, improvised prompts, and some participants doubting the shocks were real. Haslam, Reicher & Birney (2014) propose 'engaged followership' based on an experimental analogue. The shocks were not real (the learner was an actor); described in neutral terms.",
+  "thumbnail": {
+    "lines": [
+      "DO WE OBEY",
+      "BLINDLY?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

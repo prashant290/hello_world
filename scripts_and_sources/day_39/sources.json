@@ -1,0 +1,183 @@
+{
+  "day": 39,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does playing hard to get actually work?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1973, Elaine Walster and colleagues tested this in five experiments.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They found the idea that a hard-to-get woman is more desirable failed in all five.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In one study, 71 college men learned that a woman had seen their profile and four others.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "She was either easy to get, hard to get, or selective.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "The selective woman was willing to date the participant, but not the other men.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Participants largely preferred the selective woman.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "That study used only male participants, so it can't tell us how everyone reacts.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So what the experiments support is not playing hard to get, but showing someone they are your selective choice.",
+      "cites": [
+        "walster1973"
+      ],
+      "sources": [
+        {
+          "id": "walster1973",
+          "authors": "Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L.",
+          "year": 1973,
+          "title": "'Playing hard to get': Understanding an elusive phenomenon",
+          "venue": "Journal of Personality and Social Psychology, 26(1), 113-121",
+          "url": "https://stafforini.com/works/walster-1973-playing-hard-get/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (71 college students; five experiments; selective woman preferred)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: can making a mistake make you more likable?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "day": 40,
+  "topic": "The pratfall effect: when mistakes make you more likable",
+  "title": "The Pratfall Effect: When Mistakes Make You Likable",
+  "voiceover": "Can making a mistake make you more likable? In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview. One contestant answered about 92 percent of the hard questions correctly. Another answered only about 30 percent correctly. At the end, in some versions, the contestant clumsily spilled coffee on himself. The very impressive contestant became more attractive after the blunder. The mediocre contestant became less attractive after the same blunder. The authors speculated that a blunder makes a superior person seem more human. So the pratfall effect depends on how competent someone already seems. This was one early study, using recordings and male students. So a small slip may humanize you if people already see you as capable, but it may not help otherwise. Tomorrow: does knowing what others do change what you do?",
+  "word_count": 140,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.8,
+      "section": "hook",
+      "narration_line": "Can making a mistake make you more likable?",
+      "on_screen_text": "Can a mistake help?",
+      "visual_description": "Stickman spilling coffee.",
+      "visual_spec": "shock/neutral/C; text:OOPS@R"
+    },
+    {
+      "start_sec": 2.8,
+      "end_sec": 8.75,
+      "section": "explanation",
+      "narration_line": "In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview.",
+      "on_screen_text": "1966: a quiz-show recording",
+      "visual_description": "Tape recorder.",
+      "visual_spec": "stand/neutral/L; text:1966@TR; text:TAPE@R"
+    },
+    {
+      "start_sec": 8.75,
+      "end_sec": 12.6,
+      "section": "explanation",
+      "narration_line": "One contestant answered about 92 percent of the hard questions correctly.",
+      "on_screen_text": "Contestant A: ~92% correct",
+      "visual_description": "Tall bar.",
+      "visual_spec": "stand/smile/L; bars:A=92%,B=30%@R"
+    },
+    {
+      "start_sec": 12.6,
+      "end_sec": 15.05,
+      "section": "explanation",
+      "narration_line": "Another answered only about 30 percent correctly.",
+      "on_screen_text": "Contestant B: ~30% correct",
+      "visual_description": "Short bar.",
+      "visual_spec": "shrug/neutral/L; bars:A=92%,B=30%@R"
+    },
+    {
+      "start_sec": 15.05,
+      "end_sec": 19.6,
+      "section": "explanation",
+      "narration_line": "At the end, in some versions, the contestant clumsily spilled coffee on himself.",
+      "on_screen_text": "Some versions: a spilled coffee",
+      "visual_description": "Cup tipping over.",
+      "visual_spec": "shock/neutral/L; text:SPILL@R"
+    },
+    {
+      "start_sec": 19.6,
+      "end_sec": 23.1,
+      "section": "explanation",
+      "narration_line": "The very impressive contestant became more attractive after the blunder.",
+      "on_screen_text": "Impressive + blunder: more attractive",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:before=h45,after=h70@R"
+    },
+    {
+      "start_sec": 23.1,
+      "end_sec": 26.6,
+      "section": "explanation",
+      "narration_line": "The mediocre contestant became less attractive after the same blunder.",
+      "on_screen_text": "Mediocre + blunder: less attractive",
+      "visual_description": "Falling bar.",
+      "visual_spec": "stand/worry/L; bars:before=h45,after=h25@R"
+    },
+    {
+      "start_sec": 26.6,
+      "end_sec": 31.15,
+      "section": "explanation",
+      "narration_line": "The authors speculated that a blunder makes a superior person seem more human.",
+      "on_screen_text": "A blunder seems 'human'",
+      "visual_description": "Thought bubble.",
+      "visual_spec": "think/smile/L; bubble:human@TR"
+    },
+    {
+      "start_sec": 31.15,
+      "end_sec": 35.0,
+      "section": "explanation",
+      "narration_line": "So the pratfall effect depends on how competent someone already seems.",
+      "on_screen_text": "Depends on perceived competence",
+      "visual_description": "Scale with two sides.",
+      "visual_spec": "point/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 35.0,
+      "end_sec": 38.5,
+      "section": "explanation",
+      "narration_line": "This was one early study, using recordings and male students.",
+      "on_screen_text": "One early study",
+      "visual_description": "Single card.",
+      "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
+    },
+    {
+      "start_sec": 38.5,
+      "end_sec": 45.5,
+      "section": "takeaway",
+      "narration_line": "So a small slip may humanize you if people already see you as capable, but it may not help otherwise.",
+      "on_screen_text": "May humanize you, if capable",
+      "visual_description": "Stickman shrugging with a smile.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 45.5,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does knowing what others do change what you do?",
+      "on_screen_text": "Tomorrow: following the crowd",
+      "visual_description": "Crowd of tiny stickmen.",
+      "visual_spec": "stand/neutral/L; crowd:5@R"
+    }
+  ],
+  "description": "Can a blunder make you more likable? In a 1966 experiment, a very competent contestant who spilled coffee became more attractive, while a mediocre one became less attractive. New psychology short every day on The Psyche Discourse. Source: Aronson, E., Willerman, B., & Floyd, J. (1966). The effect of a pratfall on increasing interpersonal attractiveness. Psychonomic Science, 4(6), 227-228.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#pratfalleffect",
+    "#likability",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One early study with male University of Minnesota students listening to recordings. The effect is described as depending on perceived competence; the video does not claim it generalizes to all settings. 'May humanize you' is hedged.",
+  "thumbnail": {
+    "lines": [
+      "WHEN MISTAKES",
+      "MAKE YOU",
+      "LIKABLE"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

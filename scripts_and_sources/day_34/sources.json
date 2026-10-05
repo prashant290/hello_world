@@ -1,0 +1,175 @@
+{
+  "day": 34,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do people really obey authority blindly?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In Stanley Milgram's 1963 study, 40 men were told to give increasingly severe electric shocks to another person, who was actually an actor.",
+      "cites": [
+        "milgram1963"
+      ],
+      "sources": [
+        {
+          "id": "milgram1963",
+          "authors": "Milgram, S.",
+          "year": 1963,
+          "title": "Behavioral study of obedience",
+          "venue": "Journal of Abnormal and Social Psychology, 67(4), 371-378",
+          "url": "https://www.psy.miami.edu/_assets/pdf/rpo-articles/milgram-1963.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (26 of 40 continued to 450 V)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Twenty-six of the 40 continued to the final 450-volt switch.",
+      "cites": [
+        "milgram1963"
+      ],
+      "sources": [
+        {
+          "id": "milgram1963",
+          "authors": "Milgram, S.",
+          "year": 1963,
+          "title": "Behavioral study of obedience",
+          "venue": "Journal of Abnormal and Social Psychology, 67(4), 371-378",
+          "url": "https://www.psy.miami.edu/_assets/pdf/rpo-articles/milgram-1963.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (26 of 40 continued to 450 V)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "That's the famous 65 percent.",
+      "cites": [
+        "milgram1963"
+      ],
+      "sources": [
+        {
+          "id": "milgram1963",
+          "authors": "Milgram, S.",
+          "year": 1963,
+          "title": "Behavioral study of obedience",
+          "venue": "Journal of Abnormal and Social Psychology, 67(4), 371-378",
+          "url": "https://www.psy.miami.edu/_assets/pdf/rpo-articles/milgram-1963.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (26 of 40 continued to 450 V)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "But Gina Perry's research in Milgram's archives found the experimenter improvised and coaxed participants.",
+      "cites": [
+        "perry2013"
+      ],
+      "sources": [
+        {
+          "id": "perry2013",
+          "authors": "Perry, G.",
+          "year": 2013,
+          "title": "Behind the shock machine: The untold story of the notorious Milgram psychology experiments",
+          "venue": "The New Press (book)",
+          "url": "https://www.researchgate.net/publication/333618191_Behind_the_Shock_Machine_the_untold_story_of_the_notorious_Milgram_psychology_experiments",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (archive findings: improvised prompts; 24 variations; majority disobeyed in more than half)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "She also found Milgram ran 24 variations, and in more than half of them most people did not obey.",
+      "cites": [
+        "perry2013"
+      ],
+      "sources": [
+        {
+          "id": "perry2013",
+          "authors": "Perry, G.",
+          "year": 2013,
+          "title": "Behind the shock machine: The untold story of the notorious Milgram psychology experiments",
+          "venue": "The New Press (book)",
+          "url": "https://www.researchgate.net/publication/333618191_Behind_the_Shock_Machine_the_untold_story_of_the_notorious_Milgram_psychology_experiments",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (archive findings: improvised prompts; 24 variations; majority disobeyed in more than half)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2014, Haslam, Reicher and Birney reported that participants in an experimental analogue responded more to appeals to science than to blunt orders.",
+      "cites": [
+        "haslam2014"
+      ],
+      "sources": [
+        {
+          "id": "haslam2014",
+          "authors": "Haslam, S. A., Reicher, S. D., & Birney, M. E.",
+          "year": 2014,
+          "title": "Nothing by mere authority: Evidence that in an experimental analogue of the Milgram paradigm participants are motivated not by orders but by appeals to science",
+          "venue": "Journal of Social Issues, 70(3), 473-488",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10946829/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (title/abstract quoted in search results; link is a related engaged-followership paper)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "They describe this as engaged followership, not blind obedience.",
+      "cites": [
+        "haslam2014"
+      ],
+      "sources": [
+        {
+          "id": "haslam2014",
+          "authors": "Haslam, S. A., Reicher, S. D., & Birney, M. E.",
+          "year": 2014,
+          "title": "Nothing by mere authority: Evidence that in an experimental analogue of the Milgram paradigm participants are motivated not by orders but by appeals to science",
+          "venue": "Journal of Social Issues, 70(3), 473-488",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10946829/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (title/abstract quoted in search results; link is a related engaged-followership paper)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So 'people just follow orders' is too simple an explanation for Milgram's results.",
+      "cites": [
+        "haslam2014",
+        "perry2013"
+      ],
+      "sources": [
+        {
+          "id": "haslam2014",
+          "authors": "Haslam, S. A., Reicher, S. D., & Birney, M. E.",
+          "year": 2014,
+          "title": "Nothing by mere authority: Evidence that in an experimental analogue of the Milgram paradigm participants are motivated not by orders but by appeals to science",
+          "venue": "Journal of Social Issues, 70(3), 473-488",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10946829/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (title/abstract quoted in search results; link is a related engaged-followership paper)"
+        },
+        {
+          "id": "perry2013",
+          "authors": "Perry, G.",
+          "year": 2013,
+          "title": "Behind the shock machine: The untold story of the notorious Milgram psychology experiments",
+          "venue": "The New Press (book)",
+          "url": "https://www.researchgate.net/publication/333618191_Behind_the_Shock_Machine_the_untold_story_of_the_notorious_Milgram_psychology_experiments",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (archive findings: improvised prompts; 24 variations; majority disobeyed in more than half)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: how does a tiny request lead to a bigger yes?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

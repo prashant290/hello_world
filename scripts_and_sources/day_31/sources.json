@@ -1,0 +1,185 @@
+{
+  "day": 31,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does copying someone's body language make them trust you?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1999, Tanya Chartrand and John Bargh described the chameleon effect: people nonconsciously mimic the postures and mannerisms of those they interact with.",
+      "cites": [
+        "chartrand1999"
+      ],
+      "sources": [
+        {
+          "id": "chartrand1999",
+          "authors": "Chartrand, T. L., & Bargh, J. A.",
+          "year": 1999,
+          "title": "The chameleon effect: The perception-behavior link and social interaction",
+          "venue": "Journal of Personality and Social Psychology, 76(6), 893-910",
+          "url": "https://www.semanticscholar.org/paper/The-chameleon-effect:-the-perception-behavior-link-Chartrand-Bargh/6d067a072b9cf8f226eabca90d7bb1d93867a8f6",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (nonconscious mimicry of postures/mannerisms; mimicry increases liking)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They reported that mimicry increases liking.",
+      "cites": [
+        "chartrand1999"
+      ],
+      "sources": [
+        {
+          "id": "chartrand1999",
+          "authors": "Chartrand, T. L., & Bargh, J. A.",
+          "year": 1999,
+          "title": "The chameleon effect: The perception-behavior link and social interaction",
+          "venue": "Journal of Personality and Social Psychology, 76(6), 893-910",
+          "url": "https://www.semanticscholar.org/paper/The-chameleon-effect:-the-perception-behavior-link-Chartrand-Bargh/6d067a072b9cf8f226eabca90d7bb1d93867a8f6",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (nonconscious mimicry of postures/mannerisms; mimicry increases liking)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In 2008, William Maddux, Elizabeth Mullen and Adam Galinsky tested mimicry in a negotiation.",
+      "cites": [
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "When buyers were told to mimic the seller's body language, 67 percent of pairs reached an agreement.",
+      "cites": [
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Without mimicry instructions, only 12.5 percent did.",
+      "cites": [
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "The more mimicking that actually happened, the greater the joint gain.",
+      "cites": [
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Both were controlled experiments, not studies of everyday conversations.",
+      "cites": [
+        "chartrand1999",
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "chartrand1999",
+          "authors": "Chartrand, T. L., & Bargh, J. A.",
+          "year": 1999,
+          "title": "The chameleon effect: The perception-behavior link and social interaction",
+          "venue": "Journal of Personality and Social Psychology, 76(6), 893-910",
+          "url": "https://www.semanticscholar.org/paper/The-chameleon-effect:-the-perception-behavior-link-Chartrand-Bargh/6d067a072b9cf8f226eabca90d7bb1d93867a8f6",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (nonconscious mimicry of postures/mannerisms; mimicry increases liking)"
+        },
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So mirroring goes along with liking, and in one negotiation experiment deliberate mimicry went along with better deals.",
+      "cites": [
+        "chartrand1999",
+        "maddux2008"
+      ],
+      "sources": [
+        {
+          "id": "chartrand1999",
+          "authors": "Chartrand, T. L., & Bargh, J. A.",
+          "year": 1999,
+          "title": "The chameleon effect: The perception-behavior link and social interaction",
+          "venue": "Journal of Personality and Social Psychology, 76(6), 893-910",
+          "url": "https://www.semanticscholar.org/paper/The-chameleon-effect:-the-perception-behavior-link-Chartrand-Bargh/6d067a072b9cf8f226eabca90d7bb1d93867a8f6",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (nonconscious mimicry of postures/mannerisms; mimicry increases liking)"
+        },
+        {
+          "id": "maddux2008",
+          "authors": "Maddux, W. W., Mullen, E., & Galinsky, A. D.",
+          "year": 2008,
+          "title": "Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes",
+          "venue": "Journal of Experimental Social Psychology, 44(2), 461-468",
+          "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2018/04/JESP-Mimicking-and-Negotiations.pdf",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (67% vs 12.5% of dyads reached agreement; mimicry correlated with joint gain)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: does asking someone for a favor make them like you more?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

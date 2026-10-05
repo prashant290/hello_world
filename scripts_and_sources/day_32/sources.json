@@ -1,0 +1,165 @@
+{
+  "day": 32,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does asking someone for a favor make them like you?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1969, researchers Jecker and Landy invited students to a quiz competition where they could win money.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Afterward, one group was asked by the researcher to return the money, because he'd used his own funds.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Another group was asked by a secretary, citing department funds.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "A third group was not asked at all.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Students the researcher himself had asked reported liking him more than students asked by the secretary.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "The classic explanation is cognitive dissonance: if you helped someone, you may conclude you must like them.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It's one 1969 experiment, so treat the result as a suggestion, not a rule.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So if you want to build rapport, asking for a small favor may help, but it's not guaranteed.",
+      "cites": [
+        "jecker1969"
+      ],
+      "sources": [
+        {
+          "id": "jecker1969",
+          "authors": "Jecker, J., & Landy, D.",
+          "year": 1969,
+          "title": "Liking a person as a function of doing him a favour",
+          "venue": "Human Relations, 22(4), 371-378",
+          "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (design and main result from several summaries that agree)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: can you spot a liar from their body language?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

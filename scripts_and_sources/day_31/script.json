@@ -1,0 +1,118 @@
+{
+  "day": 31,
+  "topic": "Mimicry: does mirroring body language build trust?",
+  "title": "Does Copying Body Language Build Trust?",
+  "voiceover": "Does copying someone's body language make them trust you? In 1999, Tanya Chartrand and John Bargh described the chameleon effect: people nonconsciously mimic the postures and mannerisms of those they interact with. They reported that mimicry increases liking. In 2008, William Maddux, Elizabeth Mullen and Adam Galinsky tested mimicry in a negotiation. When buyers were told to mimic the seller's body language, 67 percent of pairs reached an agreement. Without mimicry instructions, only 12.5 percent did. The more mimicking that actually happened, the greater the joint gain. Both were controlled experiments, not studies of everyday conversations. So mirroring goes along with liking, and in one negotiation experiment deliberate mimicry went along with better deals. Tomorrow: does asking someone for a favor make them like you more?",
+  "word_count": 126,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.5,
+      "section": "hook",
+      "narration_line": "Does copying someone's body language make them trust you?",
+      "on_screen_text": "Does mirroring work?",
+      "visual_description": "Two stickmen mirroring each other's posture.",
+      "visual_spec": "stand/neutral/C; crowd:1@R"
+    },
+    {
+      "start_sec": 3.5,
+      "end_sec": 12.44,
+      "section": "explanation",
+      "narration_line": "In 1999, Tanya Chartrand and John Bargh described the chameleon effect: people nonconsciously mimic the postures and mannerisms of those they interact with.",
+      "on_screen_text": "The chameleon effect, 1999",
+      "visual_description": "Stickman unconsciously copying another's pose.",
+      "visual_spec": "point/neutral/L; crowd:1@R; text:CHAMELEON EFFECT@TR"
+    },
+    {
+      "start_sec": 12.44,
+      "end_sec": 14.78,
+      "section": "explanation",
+      "narration_line": "They reported that mimicry increases liking.",
+      "on_screen_text": "Mimicry and liking",
+      "visual_description": "Heart growing between two stickmen.",
+      "visual_spec": "stand/smile/L; text:LIKING@R"
+    },
+    {
+      "start_sec": 14.78,
+      "end_sec": 20.22,
+      "section": "explanation",
+      "narration_line": "In 2008, William Maddux, Elizabeth Mullen and Adam Galinsky tested mimicry in a negotiation.",
+      "on_screen_text": "2008: a negotiation test",
+      "visual_description": "Two stickmen across a table.",
+      "visual_spec": "think/neutral/L; crowd:1@R; text:2008@TR"
+    },
+    {
+      "start_sec": 20.22,
+      "end_sec": 26.83,
+      "section": "explanation",
+      "narration_line": "When buyers were told to mimic the seller's body language, 67 percent of pairs reached an agreement.",
+      "on_screen_text": "Mimic: 67% reached a deal",
+      "visual_description": "Tall bar labeled 67%.",
+      "visual_spec": "stand/smile/L; bars:mimic=67%,no mimic=12.5%@R"
+    },
+    {
+      "start_sec": 26.83,
+      "end_sec": 29.56,
+      "section": "explanation",
+      "narration_line": "Without mimicry instructions, only 12.5 percent did.",
+      "on_screen_text": "No mimicry: 12.5%",
+      "visual_description": "Short bar labeled 12.5%.",
+      "visual_spec": "shrug/neutral/L; bars:mimic=67%,no mimic=12.5%@R"
+    },
+    {
+      "start_sec": 29.56,
+      "end_sec": 33.83,
+      "section": "explanation",
+      "narration_line": "The more mimicking that actually happened, the greater the joint gain.",
+      "on_screen_text": "More mimicry, more joint gain",
+      "visual_description": "Rising line.",
+      "visual_spec": "point/smile/L; lines:mimicry,joint gain,up@R"
+    },
+    {
+      "start_sec": 33.83,
+      "end_sec": 37.33,
+      "section": "explanation",
+      "narration_line": "Both were controlled experiments, not studies of everyday conversations.",
+      "on_screen_text": "Lab experiments, not daily life",
+      "visual_description": "Lab flask icon.",
+      "visual_spec": "shrug/neutral/L; text:LAB STUDIES@R"
+    },
+    {
+      "start_sec": 37.33,
+      "end_sec": 44.33,
+      "section": "takeaway",
+      "narration_line": "So mirroring goes along with liking, and in one negotiation experiment deliberate mimicry went along with better deals.",
+      "on_screen_text": "Liking and better deals",
+      "visual_description": "Stickman nodding with a handshake.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 44.33,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does asking someone for a favor make them like you more?",
+      "on_screen_text": "Tomorrow: asking for favors",
+      "visual_description": "Stickman holding out a hand.",
+      "visual_spec": "stand/neutral/L; text:FAVOR?@R"
+    }
+  ],
+  "description": "Does mirroring someone's body language make them like you? Classic studies link natural mimicry with liking, and one negotiation experiment found pairs reached agreement far more often when the buyer mimicked the seller. New psychology short every day on The Psyche Discourse. Source: Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. Journal of Personality and Social Psychology, 76(6), 893-910. Source: Maddux, W. W., Mullen, E., & Galinsky, A. D. (2008). Chameleons bake bigger pies and take bigger pieces: Strategic behavioral mimicry facilitates negotiation outcomes. Journal of Experimental Social Psychology, 44(2), 461-468.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#bodylanguage",
+    "#mimicry",
+    "#persuasion",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The negotiation figures (67% vs 12.5% of pairs) come from secondary summaries of Maddux et al. (2008); the PDF could not be opened here. Both studies are controlled experiments, not everyday conversations. The video claims 'liking' and 'better deals', not that copying someone on purpose reliably builds trust.",
+  "thumbnail": {
+    "lines": [
+      "DOES MIRRORING",
+      "BUILD TRUST?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

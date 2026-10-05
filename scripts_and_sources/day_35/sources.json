@@ -1,0 +1,175 @@
+{
+  "day": 35,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can a tiny request make you say yes to a bigger one?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "Researchers Freedman and Fraser tested what they called the foot-in-the-door technique in 1966.",
+      "cites": [
+        "freedman1966"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They asked homeowners in Palo Alto, California, to agree to a small request first.",
+      "cites": [
+        "freedman1966"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In one experiment, 53 percent agreed to a two-hour home visit by investigators after a small earlier request.",
+      "cites": [
+        "freedman1966"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Without that first small request, only 22 percent agreed.",
+      "cites": [
+        "freedman1966"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "The authors suggested agreeing changes how you see yourself: as the kind of person who helps.",
+      "cites": [
+        "freedman1966"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "But in a 1984 meta-analysis, Dillard, Hunter and Burgoon found the effect was small, with a correlation of about 0.17.",
+      "cites": [
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It worked mainly when the request was prosocial, such as helping a cause.",
+      "cites": [
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So a small yes can nudge a bigger one, but the effect is modest.",
+      "cites": [
+        "freedman1966",
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "freedman1966",
+          "authors": "Freedman, J. L., & Fraser, S. C.",
+          "year": 1966,
+          "title": "Compliance without pressure: The foot-in-the-door technique",
+          "venue": "Journal of Personality and Social Psychology, 4(2), 195-202",
+          "url": "https://www.semanticscholar.org/paper/Compliance-without-pressure:-the-foot-in-the-door-Freedman-Fraser/00964495e374c0f26ba753b94c13efcb33129dfd",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Palo Alto homeowners; 53% vs 22% in the product-survey experiment)"
+        },
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why does a short silence feel so awkward?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "day": 38,
+  "topic": "Gaslighting explained simply",
+  "title": "Gaslighting: What the Research Says",
+  "voiceover": "What does gaslighting actually mean? In 2019, sociologist Paige Sweet published a study called The Sociology of Gaslighting. She defines gaslighting as a type of psychological abuse aimed at making victims seem or feel crazy. The aim, she writes, is to create a surreal interpersonal environment. Sweet argues gaslighting is more than a psychological problem between two people. She argues it is rooted in social inequalities, including gender. It happens in power-laden intimate relationships. Her study was based on life-course interviews. She found abusers used gender stereotypes, racial stereotypes and victims' institutional settings to manipulate their sense of reality. Women of different racial and social backgrounds experienced gaslighting in different forms. So in this research, gaslighting describes a pattern within abusive power dynamics, not an ordinary disagreement. Tomorrow: does playing hard to get actually work?",
+  "word_count": 135,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 1.81,
+      "section": "hook",
+      "narration_line": "What does gaslighting actually mean?",
+      "on_screen_text": "What does it mean?",
+      "visual_description": "A lamp flickering.",
+      "visual_spec": "think/neutral/C; lightbulb@R"
+    },
+    {
+      "start_sec": 1.81,
+      "end_sec": 6.53,
+      "section": "explanation",
+      "narration_line": "In 2019, sociologist Paige Sweet published a study called The Sociology of Gaslighting.",
+      "on_screen_text": "2019: The Sociology of Gaslighting",
+      "visual_description": "Journal cover.",
+      "visual_spec": "point/neutral/L; text:2019@TR; text:SOCIOLOGY@R"
+    },
+    {
+      "start_sec": 6.53,
+      "end_sec": 12.7,
+      "section": "explanation",
+      "narration_line": "She defines gaslighting as a type of psychological abuse aimed at making victims seem or feel crazy.",
+      "on_screen_text": "A type of psychological abuse",
+      "visual_description": "Stickman with swirling thoughts.",
+      "visual_spec": "stand/worry/L; waves@R"
+    },
+    {
+      "start_sec": 12.7,
+      "end_sec": 16.7,
+      "section": "explanation",
+      "narration_line": "The aim, she writes, is to create a surreal interpersonal environment.",
+      "on_screen_text": "A 'surreal' environment",
+      "visual_description": "Warped room.",
+      "visual_spec": "think/neutral/L; text:SURREAL@R"
+    },
+    {
+      "start_sec": 16.7,
+      "end_sec": 21.05,
+      "section": "explanation",
+      "narration_line": "Sweet argues gaslighting is more than a psychological problem between two people.",
+      "on_screen_text": "More than a personal problem",
+      "visual_description": "Two stickmen inside a bigger circle.",
+      "visual_spec": "stand/neutral/L; crowd:2@R"
+    },
+    {
+      "start_sec": 21.05,
+      "end_sec": 24.68,
+      "section": "explanation",
+      "narration_line": "She argues it is rooted in social inequalities, including gender.",
+      "on_screen_text": "Rooted in social inequality",
+      "visual_description": "Unequal scale.",
+      "visual_spec": "point/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 24.68,
+      "end_sec": 26.86,
+      "section": "explanation",
+      "narration_line": "It happens in power-laden intimate relationships.",
+      "on_screen_text": "In power-laden relationships",
+      "visual_description": "Two stickmen of unequal size.",
+      "visual_spec": "stand/neutral/L; crowd:1@R"
+    },
+    {
+      "start_sec": 26.86,
+      "end_sec": 29.4,
+      "section": "explanation",
+      "narration_line": "Her study was based on life-course interviews.",
+      "on_screen_text": "Based on interviews",
+      "visual_description": "Microphone.",
+      "visual_spec": "stand/neutral/L; text:INTERVIEWS@R"
+    },
+    {
+      "start_sec": 29.4,
+      "end_sec": 35.93,
+      "section": "explanation",
+      "narration_line": "She found abusers used gender stereotypes, racial stereotypes and victims' institutional settings to manipulate their sense of reality.",
+      "on_screen_text": "Stereotypes and institutions used",
+      "visual_description": "List of three tools.",
+      "visual_spec": "think/neutral/L; list:GENDER,RACE,INSTITUTION@R"
+    },
+    {
+      "start_sec": 35.93,
+      "end_sec": 40.29,
+      "section": "explanation",
+      "narration_line": "Women of different racial and social backgrounds experienced gaslighting in different forms.",
+      "on_screen_text": "It took different forms",
+      "visual_description": "Three different shapes.",
+      "visual_spec": "stand/neutral/L; crowd:3@R"
+    },
+    {
+      "start_sec": 40.29,
+      "end_sec": 46.1,
+      "section": "takeaway",
+      "narration_line": "So in this research, gaslighting describes a pattern within abusive power dynamics, not an ordinary disagreement.",
+      "on_screen_text": "Abuse pattern, not disagreement",
+      "visual_description": "Stickman separating two cards.",
+      "visual_spec": "point/smile/L; text:PATTERN@R"
+    },
+    {
+      "start_sec": 46.1,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does playing hard to get actually work?",
+      "on_screen_text": "Tomorrow: playing hard to get",
+      "visual_description": "A door with a lock.",
+      "visual_spec": "stand/neutral/L; door@R"
+    }
+  ],
+  "description": "What does gaslighting actually mean? Sociologist Paige Sweet's 2019 study defines it as a type of psychological abuse aimed at making victims feel 'crazy', and finds it rooted in social inequalities. New psychology short every day on The Psyche Discourse. Source: Sweet, P. L. (2019). The sociology of gaslighting. American Sociological Review, 84(5), 851-875.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#gaslighting",
+    "#relationships",
+    "#sociology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "SENSITIVE. Based on one sociological study (Sweet 2019) using interviews about abusive relationships. The video describes the study's argument; it does not diagnose anyone. The word's origin in the 1938 play 'Gas Light' is not claimed (not verified here). Educational, not therapy or medical advice.",
+  "thumbnail": {
+    "lines": [
+      "GASLIGHTING:",
+      "WHAT IT MEANS"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

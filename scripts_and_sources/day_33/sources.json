@@ -1,0 +1,175 @@
+{
+  "day": 33,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can you tell when someone is lying?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2006, Charles Bond and Bella DePaulo combined results from 206 documents and 24,483 judges.",
+      "cites": [
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "When people judged lies and truths in real time, with no special training, they were right about 54 percent of the time.",
+      "cites": [
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "That's barely better than a coin flip.",
+      "cites": [
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "They correctly spotted 47 percent of lies and 61 percent of truths.",
+      "cites": [
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "People also tended to regard their conversation partners as honest.",
+      "cites": [
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In a survey of 58 countries, most people in 51 of them said liars avert their gaze.",
+      "cites": [
+        "gdrt2006"
+      ],
+      "sources": [
+        {
+          "id": "gdrt2006",
+          "authors": "Global Deception Research Team",
+          "year": 2006,
+          "title": "A world of lies",
+          "venue": "Journal of Cross-Cultural Psychology, 37(1), 60-74",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20976033/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (58-country survey; gaze aversion the dominant belief)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "But a 2003 meta-analysis of 158 possible cues found that cues to deception are faint and unreliable.",
+      "cites": [
+        "depaulo2003"
+      ],
+      "sources": [
+        {
+          "id": "depaulo2003",
+          "authors": "DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L., Charlton, K., & Cooper, H.",
+          "year": 2003,
+          "title": "Cues to deception",
+          "venue": "Psychological Bulletin, 129(1), 74-118",
+          "url": "https://scholars.duke.edu/publication/660134",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (158 cues, 1,338 estimates; cues faint and unreliable)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So instead of trusting a hunch about eye contact, be cautious about judging honesty from behavior alone.",
+      "cites": [
+        "depaulo2003",
+        "bond2006"
+      ],
+      "sources": [
+        {
+          "id": "depaulo2003",
+          "authors": "DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L., Charlton, K., & Cooper, H.",
+          "year": 2003,
+          "title": "Cues to deception",
+          "venue": "Psychological Bulletin, 129(1), 74-118",
+          "url": "https://scholars.duke.edu/publication/660134",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (158 cues, 1,338 estimates; cues faint and unreliable)"
+        },
+        {
+          "id": "bond2006",
+          "authors": "Bond, C. F., Jr., & DePaulo, B. M.",
+          "year": 2006,
+          "title": "Accuracy of deception judgments",
+          "venue": "Personality and Social Psychology Review, 10(3), 214-234",
+          "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (206 documents, 24,483 judges; 54%; 47% of lies, 61% of truths)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why did so many people obey in the Milgram experiment?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

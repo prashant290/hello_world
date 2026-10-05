@@ -1,0 +1,128 @@
+{
+  "day": 39,
+  "topic": "Does playing hard to get work? (the experiments)",
+  "title": "Does Playing Hard to Get Actually Work?",
+  "voiceover": "Does playing hard to get actually work? In 1973, Elaine Walster and colleagues tested this in five experiments. They found the idea that a hard-to-get woman is more desirable failed in all five. In one study, 71 college men learned that a woman had seen their profile and four others. She was either easy to get, hard to get, or selective. The selective woman was willing to date the participant, but not the other men. Participants largely preferred the selective woman. She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses. That study used only male participants, so it can't tell us how everyone reacts. So what the experiments support is not playing hard to get, but showing someone they are your selective choice. Tomorrow: can making a mistake make you more likable?",
+  "word_count": 142,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.42,
+      "section": "hook",
+      "narration_line": "Does playing hard to get actually work?",
+      "on_screen_text": "Does it work?",
+      "visual_description": "Stickman behind a locked door.",
+      "visual_spec": "think/neutral/C; door@R"
+    },
+    {
+      "start_sec": 2.42,
+      "end_sec": 6.21,
+      "section": "explanation",
+      "narration_line": "In 1973, Elaine Walster and colleagues tested this in five experiments.",
+      "on_screen_text": "1973: five experiments",
+      "visual_description": "Five test tubes.",
+      "visual_spec": "point/neutral/L; text:5 EXPERIMENTS@R; text:1973@TR"
+    },
+    {
+      "start_sec": 6.21,
+      "end_sec": 11.39,
+      "section": "explanation",
+      "narration_line": "They found the idea that a hard-to-get woman is more desirable failed in all five.",
+      "on_screen_text": "'Hard to get' failed ×5",
+      "visual_description": "Five crosses.",
+      "visual_spec": "shock/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 11.39,
+      "end_sec": 17.25,
+      "section": "explanation",
+      "narration_line": "In one study, 71 college men learned that a woman had seen their profile and four others.",
+      "on_screen_text": "71 college men, 5 profiles",
+      "visual_description": "Five profile cards.",
+      "visual_spec": "stand/neutral/L; list:YOU,MAN 2,MAN 3,MAN 4@R"
+    },
+    {
+      "start_sec": 17.25,
+      "end_sec": 21.05,
+      "section": "explanation",
+      "narration_line": "She was either easy to get, hard to get, or selective.",
+      "on_screen_text": "Easy, hard or selective",
+      "visual_description": "Three door labels.",
+      "visual_spec": "think/neutral/L; list:EASY,HARD,SELECTIVE@R"
+    },
+    {
+      "start_sec": 21.05,
+      "end_sec": 25.88,
+      "section": "explanation",
+      "narration_line": "The selective woman was willing to date the participant, but not the other men.",
+      "on_screen_text": "Selective: yes to him only",
+      "visual_description": "Check beside one profile.",
+      "visual_spec": "stand/neutral/L; check@R"
+    },
+    {
+      "start_sec": 25.88,
+      "end_sec": 27.95,
+      "section": "explanation",
+      "narration_line": "Participants largely preferred the selective woman.",
+      "on_screen_text": "She was preferred",
+      "visual_description": "Heart on the selective option.",
+      "visual_spec": "stand/smile/L; text:SELECTIVE@R"
+    },
+    {
+      "start_sec": 27.95,
+      "end_sec": 34.51,
+      "section": "explanation",
+      "narration_line": "She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses.",
+      "on_screen_text": "Both strengths, no weaknesses",
+      "visual_description": "Checklist of strengths.",
+      "visual_spec": "point/smile/L; list:PLUS,PLUS@R"
+    },
+    {
+      "start_sec": 34.51,
+      "end_sec": 39.34,
+      "section": "explanation",
+      "narration_line": "That study used only male participants, so it can't tell us how everyone reacts.",
+      "on_screen_text": "Male participants only",
+      "visual_description": "Single male icon.",
+      "visual_spec": "shrug/neutral/L; text:MEN ONLY@R"
+    },
+    {
+      "start_sec": 39.34,
+      "end_sec": 45.89,
+      "section": "takeaway",
+      "narration_line": "So what the experiments support is not playing hard to get, but showing someone they are your selective choice.",
+      "on_screen_text": "Selective, not hard to get",
+      "visual_description": "Stickman choosing one card.",
+      "visual_spec": "point/smile/L; check@R"
+    },
+    {
+      "start_sec": 45.89,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: can making a mistake make you more likable?",
+      "on_screen_text": "Tomorrow: a spilled coffee",
+      "visual_description": "A coffee cup tipping.",
+      "visual_spec": "stand/neutral/L; text:OOPS@R"
+    }
+  ],
+  "description": "Does playing hard to get make you more attractive? In five experiments in 1973 it failed, and what worked was being selective: easy for the participant to get, but hard for others. New psychology short every day on The Psyche Discourse. Source: Walster, E., Walster, G. W., Piliavin, J., & Schmidt, L. (1973). 'Playing hard to get': Understanding an elusive phenomenon. Journal of Personality and Social Psychology, 26(1), 113-121.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#dating",
+    "#attraction",
+    "#relationships",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The headline study (Walster et al. 1973) used male college participants rating women's profiles; the video says so. One older study cannot show how everyone reacts today. The takeaway describes what these experiments supported, not dating advice for everyone.",
+  "thumbnail": {
+    "lines": [
+      "DOES PLAYING",
+      "HARD TO GET",
+      "WORK?"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "day": 33,
+  "topic": "Signs someone is lying (and why most are myths)",
+  "title": "Can You Really Spot a Liar? What Research Says",
+  "voiceover": "Can you tell when someone is lying? In 2006, Charles Bond and Bella DePaulo combined results from 206 documents and 24,483 judges. When people judged lies and truths in real time, with no special training, they were right about 54 percent of the time. That's barely better than a coin flip. They correctly spotted 47 percent of lies and 61 percent of truths. People also tended to regard their conversation partners as honest. In a survey of 58 countries, most people in 51 of them said liars avert their gaze. But a 2003 meta-analysis of 158 possible cues found that cues to deception are faint and unreliable. So instead of trusting a hunch about eye contact, be cautious about judging honesty from behavior alone. Tomorrow: why did so many people obey in the Milgram experiment?",
+  "word_count": 135,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.54,
+      "section": "hook",
+      "narration_line": "Can you tell when someone is lying?",
+      "on_screen_text": "Can you spot a liar?",
+      "visual_description": "Stickman squinting at another stickman.",
+      "visual_spec": "think/neutral/C; qmark@R"
+    },
+    {
+      "start_sec": 2.54,
+      "end_sec": 7.99,
+      "section": "explanation",
+      "narration_line": "In 2006, Charles Bond and Bella DePaulo combined results from 206 documents and 24,483 judges.",
+      "on_screen_text": "2006: 206 documents, 24,483 judges",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "point/neutral/L; text:206 STUDIES@R"
+    },
+    {
+      "start_sec": 7.99,
+      "end_sec": 15.97,
+      "section": "explanation",
+      "narration_line": "When people judged lies and truths in real time, with no special training, they were right about 54 percent of the time.",
+      "on_screen_text": "Right about 54% of the time",
+      "visual_description": "54% bar next to a 50% line.",
+      "visual_spec": "stand/neutral/L; bars:chance=h50:50%,people=h54:54%@R"
+    },
+    {
+      "start_sec": 15.97,
+      "end_sec": 18.51,
+      "section": "explanation",
+      "narration_line": "That's barely better than a coin flip.",
+      "on_screen_text": "Barely better than a coin flip",
+      "visual_description": "Coin.",
+      "visual_spec": "shrug/smile/L; coin:HEADS@R"
+    },
+    {
+      "start_sec": 18.51,
+      "end_sec": 22.87,
+      "section": "explanation",
+      "narration_line": "They correctly spotted 47 percent of lies and 61 percent of truths.",
+      "on_screen_text": "47% of lies, 61% of truths",
+      "visual_description": "Two bars.",
+      "visual_spec": "stand/neutral/L; bars:lies=h47:47%,truths=h61:61%@R"
+    },
+    {
+      "start_sec": 22.87,
+      "end_sec": 26.5,
+      "section": "explanation",
+      "narration_line": "People also tended to regard their conversation partners as honest.",
+      "on_screen_text": "We tend to assume honesty",
+      "visual_description": "Smiley partner.",
+      "visual_spec": "stand/smile/L; crowd:1@R"
+    },
+    {
+      "start_sec": 26.5,
+      "end_sec": 32.67,
+      "section": "explanation",
+      "narration_line": "In a survey of 58 countries, most people in 51 of them said liars avert their gaze.",
+      "on_screen_text": "51 of 58: 'liars look away'",
+      "visual_description": "Globe with eyes.",
+      "visual_spec": "point/neutral/L; text:51 OF 58@R"
+    },
+    {
+      "start_sec": 32.67,
+      "end_sec": 38.84,
+      "section": "explanation",
+      "narration_line": "But a 2003 meta-analysis of 158 possible cues found that cues to deception are faint and unreliable.",
+      "on_screen_text": "2003: cues are faint and unreliable",
+      "visual_description": "Faint dotted line.",
+      "visual_spec": "shrug/neutral/L; lines:cue,truth,flat@R"
+    },
+    {
+      "start_sec": 38.84,
+      "end_sec": 45.01,
+      "section": "takeaway",
+      "narration_line": "So instead of trusting a hunch about eye contact, be cautious about judging honesty from behavior alone.",
+      "on_screen_text": "Be careful judging honesty",
+      "visual_description": "Stickman hesitating before judging.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 45.01,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why did so many people obey in the Milgram experiment?",
+      "on_screen_text": "Tomorrow: Milgram",
+      "visual_description": "Shock-machine dial (no people).",
+      "visual_spec": "stand/neutral/L; text:MILGRAM@R"
+    }
+  ],
+  "description": "Can you tell when someone is lying? A large meta-analysis found people are right about 54% of the time, and another found the behavioral cues people rely on are faint and unreliable. New psychology short every day on The Psyche Discourse. Source: Bond, C. F., Jr., & DePaulo, B. M. (2006). Accuracy of deception judgments. Personality and Social Psychology Review, 10(3), 214-234. Source: DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L., Charlton, K., & Cooper, H. (2003). Cues to deception. Psychological Bulletin, 129(1), 74-118.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#lying",
+    "#bodylanguage",
+    "#deception",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Bond & DePaulo (2006) average is for real-time judgments with no training or aids; accuracy varies by situation. The gaze-aversion belief figure comes from the Global Deception Research Team (58-country survey; majority in 51 countries). The video does not say lie detection is impossible, only that these cues are unreliable.",
+  "thumbnail": {
+    "lines": [
+      "CAN YOU SPOT",
+      "A LIAR?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

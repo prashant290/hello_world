@@ -1,0 +1,118 @@
+{
+  "day": 35,
+  "topic": "The foot-in-the-door technique",
+  "title": "The Foot-in-the-Door Technique: Does It Work?",
+  "voiceover": "Can a tiny request make you say yes to a bigger one? Researchers Freedman and Fraser tested what they called the foot-in-the-door technique in 1966. They asked homeowners in Palo Alto, California, to agree to a small request first. In one experiment, 53 percent agreed to a two-hour home visit by investigators after a small earlier request. Without that first small request, only 22 percent agreed. The authors suggested agreeing changes how you see yourself: as the kind of person who helps. But in a 1984 meta-analysis, Dillard, Hunter and Burgoon found the effect was small, with a correlation of about 0.17. It worked mainly when the request was prosocial, such as helping a cause. So a small yes can nudge a bigger one, but the effect is modest. Tomorrow: why does a short silence feel so awkward?",
+  "word_count": 138,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.26,
+      "section": "hook",
+      "narration_line": "Can a tiny request make you say yes to a bigger one?",
+      "on_screen_text": "Tiny ask, bigger yes?",
+      "visual_description": "Small box then large box.",
+      "visual_spec": "think/neutral/C; list:SMALL,BIG@R"
+    },
+    {
+      "start_sec": 4.26,
+      "end_sec": 8.88,
+      "section": "explanation",
+      "narration_line": "Researchers Freedman and Fraser tested what they called the foot-in-the-door technique in 1966.",
+      "on_screen_text": "1966: foot-in-the-door",
+      "visual_description": "A foot in a doorway.",
+      "visual_spec": "point/neutral/L; door@R; text:1966@TR"
+    },
+    {
+      "start_sec": 8.88,
+      "end_sec": 13.85,
+      "section": "explanation",
+      "narration_line": "They asked homeowners in Palo Alto, California, to agree to a small request first.",
+      "on_screen_text": "Small request first",
+      "visual_description": "Houses with a clipboard.",
+      "visual_spec": "stand/neutral/L; list:QUESTIONNAIRE@R"
+    },
+    {
+      "start_sec": 13.85,
+      "end_sec": 20.24,
+      "section": "explanation",
+      "narration_line": "In one experiment, 53 percent agreed to a two-hour home visit by investigators after a small earlier request.",
+      "on_screen_text": "After small request: 53% agreed",
+      "visual_description": "Tall bar 53%.",
+      "visual_spec": "stand/smile/L; bars:after small=53%,no small=22%@R"
+    },
+    {
+      "start_sec": 20.24,
+      "end_sec": 23.43,
+      "section": "explanation",
+      "narration_line": "Without that first small request, only 22 percent agreed.",
+      "on_screen_text": "Without it: 22%",
+      "visual_description": "Short bar 22%.",
+      "visual_spec": "shrug/neutral/L; bars:after small=53%,no small=22%@R"
+    },
+    {
+      "start_sec": 23.43,
+      "end_sec": 29.12,
+      "section": "explanation",
+      "narration_line": "The authors suggested agreeing changes how you see yourself: as the kind of person who helps.",
+      "on_screen_text": "'I'm someone who helps'",
+      "visual_description": "Thought bubble.",
+      "visual_spec": "think/smile/L; bubble:I help@TR"
+    },
+    {
+      "start_sec": 29.12,
+      "end_sec": 36.22,
+      "section": "explanation",
+      "narration_line": "But in a 1984 meta-analysis, Dillard, Hunter and Burgoon found the effect was small, with a correlation of about 0.17.",
+      "on_screen_text": "1984 meta-analysis: effect small",
+      "visual_description": "Tiny bar.",
+      "visual_spec": "shrug/neutral/L; bars:effect=h17:r=.17@R"
+    },
+    {
+      "start_sec": 36.22,
+      "end_sec": 40.83,
+      "section": "explanation",
+      "narration_line": "It worked mainly when the request was prosocial, such as helping a cause.",
+      "on_screen_text": "Works mostly for prosocial requests",
+      "visual_description": "Heart on a request card.",
+      "visual_spec": "stand/smile/L; list:HELP A CAUSE@R"
+    },
+    {
+      "start_sec": 40.83,
+      "end_sec": 45.8,
+      "section": "takeaway",
+      "narration_line": "So a small yes can nudge a bigger one, but the effect is modest.",
+      "on_screen_text": "A nudge, not a trick",
+      "visual_description": "Gentle nudge arrow.",
+      "visual_spec": "point/smile/L; arrow:right@R"
+    },
+    {
+      "start_sec": 45.8,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why does a short silence feel so awkward?",
+      "on_screen_text": "Tomorrow: awkward silence",
+      "visual_description": "A blank speech bubble.",
+      "visual_spec": "stand/neutral/L; bubble:...@R"
+    }
+  ],
+  "description": "Does agreeing to a small request make you say yes to a bigger one? In a 1966 field experiment it did, but a 1984 meta-analysis found the effect small. New psychology short every day on The Psyche Discourse. Source: Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. Journal of Personality and Social Psychology, 4(2), 195-202. Source: Dillard, J. P., Hunter, J. E., & Burgoon, M. (1984). Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face. Human Communication Research, 10(4), 461-488.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#footinthedoor",
+    "#persuasion",
+    "#compliance",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The 53% vs 22% figures come from secondary summaries of Freedman & Fraser (1966). Dillard et al. (1984) found a small average effect (r about .17) that depended on request type (stronger when prosocial). The video states both the original effect and its modest size.",
+  "thumbnail": {
+    "lines": [
+      "SMALL YES,",
+      "BIGGER YES?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

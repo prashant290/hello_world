@@ -1,0 +1,201 @@
+{
+  "day": 40,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can making a mistake make you more likable?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "One contestant answered about 92 percent of the hard questions correctly.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Another answered only about 30 percent correctly.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "At the end, in some versions, the contestant clumsily spilled coffee on himself.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "The very impressive contestant became more attractive after the blunder.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "The mediocre contestant became less attractive after the same blunder.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "The authors speculated that a blunder makes a superior person seem more human.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So the pratfall effect depends on how competent someone already seems.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "This was one early study, using recordings and male students.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So a small slip may humanize you if people already see you as capable, but it may not help otherwise.",
+      "cites": [
+        "aronson1966"
+      ],
+      "sources": [
+        {
+          "id": "aronson1966",
+          "authors": "Aronson, E., Willerman, B., & Floyd, J.",
+          "year": 1966,
+          "title": "The effect of a pratfall on increasing interpersonal attractiveness",
+          "venue": "Psychonomic Science, 4(6), 227-228",
+          "url": "https://link.springer.com/article/10.3758/BF03342263",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (92% vs 30% contestants; coffee spill)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: does knowing what others do change what you do?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

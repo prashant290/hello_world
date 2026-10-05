@@ -1,0 +1,183 @@
+{
+  "day": 37,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "What does research actually say about love bombing?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2017, Strutzenberg and colleagues published what they described as the first study to empirically examine love-bombing.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They defined it as excessive communication early in a romantic relationship, used to gain power and control.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "They surveyed 484 college students at a large southern university.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Love-bombing was linked to narcissistic tendencies and insecure attachment.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "It was also linked to lower self-esteem.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "And it was associated with more text and media use in relationships.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "The study was a survey of college students, so it can't show cause and effect.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "That makes it early research, not a settled diagnosis.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So treat 'love bombing' as a description of a pattern in one study, and not as a test for who someone is.",
+      "cites": [
+        "strutzenberg2017"
+      ],
+      "sources": [
+        {
+          "id": "strutzenberg2017",
+          "authors": "Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N.",
+          "year": 2017,
+          "title": "Love-bombing: A narcissistic approach to relationship formation",
+          "venue": "Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas)",
+          "url": "https://scholarworks.uark.edu/discoverymag/vol18/iss1/14/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (484 college students; correlational)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: where does the word gaslighting come from?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

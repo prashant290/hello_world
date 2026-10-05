@@ -1,0 +1,118 @@
+{
+  "day": 36,
+  "topic": "The 200-millisecond rule: why a short silence feels awkward",
+  "title": "The 200-Millisecond Rule Behind Awkward Silence",
+  "voiceover": "Why does a short silence in conversation feel awkward? In 2009, Tanya Stivers and colleagues studied conversations in ten languages around the world. All ten languages avoided overlapping talk and minimized silence between turns. Most replies came within about 200 milliseconds of the end of a question. Differences between languages in the average gap were within about a quarter of a second. The authors suggest a shared human basis for this timing. In 2011, Namkje Koudenburg and colleagues studied what a brief silence does in a group conversation. When a silence disrupted the flow, people felt more negative emotions and more rejected. So when a silence feels awkward, the feeling has a basis in how tightly conversations are timed. Tomorrow: what does research actually say about love bombing?",
+  "word_count": 128,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.45,
+      "section": "hook",
+      "narration_line": "Why does a short silence in conversation feel awkward?",
+      "on_screen_text": "Why does silence feel awkward?",
+      "visual_description": "Two stickmen with empty speech bubbles.",
+      "visual_spec": "shock/worry/C; bubble:...@R"
+    },
+    {
+      "start_sec": 3.45,
+      "end_sec": 8.8,
+      "section": "explanation",
+      "narration_line": "In 2009, Tanya Stivers and colleagues studied conversations in ten languages around the world.",
+      "on_screen_text": "2009: ten languages",
+      "visual_description": "Globe with ten dots.",
+      "visual_spec": "point/neutral/L; text:10 LANGUAGES@R; text:2009@TR"
+    },
+    {
+      "start_sec": 8.8,
+      "end_sec": 13.02,
+      "section": "explanation",
+      "narration_line": "All ten languages avoided overlapping talk and minimized silence between turns.",
+      "on_screen_text": "Little overlap, little silence",
+      "visual_description": "Two bubbles not overlapping.",
+      "visual_spec": "stand/neutral/L; bubble:Q@TR; bubble:A@R"
+    },
+    {
+      "start_sec": 13.02,
+      "end_sec": 17.99,
+      "section": "explanation",
+      "narration_line": "Most replies came within about 200 milliseconds of the end of a question.",
+      "on_screen_text": "Replies: about 200 ms",
+      "visual_description": "Stopwatch at 0.2.",
+      "visual_spec": "shock/neutral/L; clock@R; text:200 MS@TR"
+    },
+    {
+      "start_sec": 17.99,
+      "end_sec": 23.73,
+      "section": "explanation",
+      "narration_line": "Differences between languages in the average gap were within about a quarter of a second.",
+      "on_screen_text": "Languages differ by under 0.25 s",
+      "visual_description": "Close bars.",
+      "visual_spec": "stand/neutral/L; bars:lang A=h40,lang B=h46@R"
+    },
+    {
+      "start_sec": 23.73,
+      "end_sec": 27.56,
+      "section": "explanation",
+      "narration_line": "The authors suggest a shared human basis for this timing.",
+      "on_screen_text": "A shared human basis?",
+      "visual_description": "Globe with a link.",
+      "visual_spec": "think/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 27.56,
+      "end_sec": 33.69,
+      "section": "explanation",
+      "narration_line": "In 2011, Namkje Koudenburg and colleagues studied what a brief silence does in a group conversation.",
+      "on_screen_text": "2011: silence in groups",
+      "visual_description": "Group of stickmen.",
+      "visual_spec": "stand/neutral/L; crowd:4@R; text:2011@TR"
+    },
+    {
+      "start_sec": 33.69,
+      "end_sec": 39.05,
+      "section": "explanation",
+      "narration_line": "When a silence disrupted the flow, people felt more negative emotions and more rejected.",
+      "on_screen_text": "Silence: more negative feelings",
+      "visual_description": "Frowny face.",
+      "visual_spec": "stand/worry/L; text:REJECTED@R"
+    },
+    {
+      "start_sec": 39.05,
+      "end_sec": 45.55,
+      "section": "takeaway",
+      "narration_line": "So when a silence feels awkward, the feeling has a basis in how tightly conversations are timed.",
+      "on_screen_text": "Awkward has a basis",
+      "visual_description": "Clock beside a speech bubble.",
+      "visual_spec": "point/smile/L; clock@R"
+    },
+    {
+      "start_sec": 45.55,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what does research actually say about love bombing?",
+      "on_screen_text": "Tomorrow: love bombing",
+      "visual_description": "A heart with a question mark.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Why does a short silence feel awkward? Across ten languages, most replies come within about 200 milliseconds, and a 2011 study found a brief silence in a group conversation led to more negative emotion and feelings of rejection. New psychology short every day on The Psyche Discourse. Source: Stivers, T., Enfield, N. J., Brown, P., et al. (2009). Universals and cultural variation in turn-taking in conversation. Proceedings of the National Academy of Sciences, 106(26), 10587-10592. Source: Koudenburg, N., Postmes, T., & Gordijn, E. H. (2011). Disrupting the flow: How brief silences in group conversations affect social needs. Journal of Experimental Social Psychology, 47(2), 512-515.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#conversation",
+    "#silence",
+    "#communication",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Stivers et al. (2009) measured question-answer timing in ten languages; Koudenburg et al. (2011) tested brief silences in group conversations in the lab. Neither shows silence 'makes people talk' (the original topic idea, dropped as unsupported). The takeaway links the two findings loosely and is hedged.",
+  "thumbnail": {
+    "lines": [
+      "WHY SILENCE",
+      "FEELS AWKWARD"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

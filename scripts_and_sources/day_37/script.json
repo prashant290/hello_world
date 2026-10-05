@@ -1,0 +1,127 @@
+{
+  "day": 37,
+  "topic": "Love bombing: what research actually says",
+  "title": "Love Bombing: What Research Actually Says",
+  "voiceover": "What does research actually say about love bombing? In 2017, Strutzenberg and colleagues published what they described as the first study to empirically examine love-bombing. They defined it as excessive communication early in a romantic relationship, used to gain power and control. They surveyed 484 college students at a large southern university. Love-bombing was linked to narcissistic tendencies and insecure attachment. It was also linked to lower self-esteem. And it was associated with more text and media use in relationships. The study was a survey of college students, so it can't show cause and effect. That makes it early research, not a settled diagnosis. So treat 'love bombing' as a description of a pattern in one study, and not as a test for who someone is. Tomorrow: where does the word gaslighting come from?",
+  "word_count": 134,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.93,
+      "section": "hook",
+      "narration_line": "What does research actually say about love bombing?",
+      "on_screen_text": "What does research say?",
+      "visual_description": "Heart with a magnifying glass.",
+      "visual_spec": "think/neutral/C; qmark@R"
+    },
+    {
+      "start_sec": 2.93,
+      "end_sec": 9.14,
+      "section": "explanation",
+      "narration_line": "In 2017, Strutzenberg and colleagues published what they described as the first study to empirically examine love-bombing.",
+      "on_screen_text": "2017: first empirical study",
+      "visual_description": "Journal cover.",
+      "visual_spec": "point/neutral/L; text:2017@TR; text:FIRST STUDY@R"
+    },
+    {
+      "start_sec": 9.14,
+      "end_sec": 15.36,
+      "section": "explanation",
+      "narration_line": "They defined it as excessive communication early in a romantic relationship, used to gain power and control.",
+      "on_screen_text": "Defined: early excessive messaging",
+      "visual_description": "Phone with many message bubbles.",
+      "visual_spec": "stand/neutral/L; bubble:msg@TR; bubble:msg@R"
+    },
+    {
+      "start_sec": 15.36,
+      "end_sec": 19.01,
+      "section": "explanation",
+      "narration_line": "They surveyed 484 college students at a large southern university.",
+      "on_screen_text": "484 college students",
+      "visual_description": "Survey sheet.",
+      "visual_spec": "stand/neutral/L; text:484@R"
+    },
+    {
+      "start_sec": 19.01,
+      "end_sec": 22.31,
+      "section": "explanation",
+      "narration_line": "Love-bombing was linked to narcissistic tendencies and insecure attachment.",
+      "on_screen_text": "Linked: narcissism, insecure attachment",
+      "visual_description": "Two linked boxes.",
+      "visual_spec": "think/neutral/L; list:NARCISSISM,ATTACHMENT@R"
+    },
+    {
+      "start_sec": 22.31,
+      "end_sec": 24.87,
+      "section": "explanation",
+      "narration_line": "It was also linked to lower self-esteem.",
+      "on_screen_text": "Also linked to lower self-esteem",
+      "visual_description": "Falling bar.",
+      "visual_spec": "stand/neutral/L; arrow:down@R"
+    },
+    {
+      "start_sec": 24.87,
+      "end_sec": 29.25,
+      "section": "explanation",
+      "narration_line": "And it was associated with more text and media use in relationships.",
+      "on_screen_text": "More texting and media use",
+      "visual_description": "Phone icon.",
+      "visual_spec": "stand/neutral/L; list:TEXTS@R"
+    },
+    {
+      "start_sec": 29.25,
+      "end_sec": 34.74,
+      "section": "explanation",
+      "narration_line": "The study was a survey of college students, so it can't show cause and effect.",
+      "on_screen_text": "A survey can't show cause",
+      "visual_description": "Scale with a question.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 34.74,
+      "end_sec": 38.03,
+      "section": "explanation",
+      "narration_line": "That makes it early research, not a settled diagnosis.",
+      "on_screen_text": "Early research, not a diagnosis",
+      "visual_description": "Sapling.",
+      "visual_spec": "stand/neutral/L; text:EARLY RESEARCH@R"
+    },
+    {
+      "start_sec": 38.03,
+      "end_sec": 46.07,
+      "section": "takeaway",
+      "narration_line": "So treat 'love bombing' as a description of a pattern in one study, and not as a test for who someone is.",
+      "on_screen_text": "A pattern, not a test",
+      "visual_description": "Stickman setting a label down.",
+      "visual_spec": "point/smile/L; cross@R"
+    },
+    {
+      "start_sec": 46.07,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: where does the word gaslighting come from?",
+      "on_screen_text": "Tomorrow: gaslighting",
+      "visual_description": "A lamp with a question mark.",
+      "visual_spec": "stand/neutral/L; lightbulb@R"
+    }
+  ],
+  "description": "What does research say about love bombing? A 2017 survey of 484 college students linked it with narcissistic tendencies, insecure attachment and lower self-esteem, but it is early, correlational research. New psychology short every day on The Psyche Discourse. Source: Strutzenberg, C. C., Wiersma-Mosley, J. D., Jozkowski, K. N., & Becnel, J. N. (2017). Love-bombing: A narcissistic approach to relationship formation. Discovery, The Student Journal of Dale Bumpers College, 18(1) (University of Arkansas).",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#lovebombing",
+    "#relationships",
+    "#dating",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "SENSITIVE / EARLY RESEARCH. One survey study (Strutzenberg et al. 2017; college students; correlational). The video does not diagnose anyone or claim causes, and does not call love bombing a clinical diagnosis. Educational, not therapy or medical advice.",
+  "thumbnail": {
+    "lines": [
+      "LOVE BOMBING:",
+      "THE RESEARCH"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}
