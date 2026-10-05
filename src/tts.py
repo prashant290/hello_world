@@ -222,10 +222,41 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
 SPOKEN = {"9/11": "nine eleven"}    # written form -> how it should be pronounced
 
 
+_ONES = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
+_TENS = "_ _ twenty thirty forty fifty sixty seventy eighty ninety".split()
+
+
+def _below100(n):
+    if n < 20:
+        return _ONES[n]
+    return _TENS[n // 10] + ("" if n % 10 == 0 else " " + _ONES[n % 10])
+
+
+def year_words(y):
+    """1979 -> 'nineteen seventy nine', 1905 -> 'nineteen oh five', 1900 -> 'nineteen hundred',
+    2008 -> 'two thousand eight', 2014 -> 'twenty fourteen', 2000 -> 'two thousand'."""
+    hi, lo = divmod(y, 100)
+    if 2000 <= y <= 2009:
+        return "two thousand" + ("" if lo == 0 else " " + _ONES[lo])
+    if lo == 0:
+        return _below100(hi) + " hundred"
+    return _below100(hi) + " " + (("oh " + _ONES[lo]) if lo < 10 else _below100(lo))
+
+
+_YEAR = re.compile(r"(?<![\d$])(?<!\d,)(?<!\d\.)\b(1[1-9]\d\d|20\d\d)(s?)\b(?!\d|,\d|%)")
+
+
+def _year_sub(m):
+    w = year_words(int(m.group(1)))
+    if m.group(2):                                  # 1950s -> nineteen fifties
+        w = re.sub(r"y$", "ie", w) + "s" if w.endswith("y") else w + "s"
+    return w
+
+
 def speak(text):
     for k, v in SPOKEN.items():
         text = text.replace(k, v)
-    return text
+    return _YEAR.sub(_year_sub, text)
 
 
 def build(day, engine=None, speed_mult=1.0):
