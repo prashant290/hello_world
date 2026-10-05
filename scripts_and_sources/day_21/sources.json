@@ -1,0 +1,183 @@
+{
+  "day": 21,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you like what you've seen a lot?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1968, Robert Zajonc proposed the mere exposure effect.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Repeated exposure to something can make you like it more.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles.",
+      "cites": [
+        "montoya2017"
+      ],
+      "sources": [
+        {
+          "id": "montoya2017",
+          "authors": "Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A.",
+          "year": 2017,
+          "title": "A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking",
+          "venue": "Psychological Bulletin, 143(5), 459-498",
+          "url": "https://par.nsf.gov/servlets/purl/10198302",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (268 curve estimates from 81 articles; inverted-U)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Liking rose with repeated exposure, then leveled off and declined.",
+      "cites": [
+        "montoya2017"
+      ],
+      "sources": [
+        {
+          "id": "montoya2017",
+          "authors": "Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A.",
+          "year": 2017,
+          "title": "A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking",
+          "venue": "Psychological Bulletin, 143(5), 459-498",
+          "url": "https://par.nsf.gov/servlets/purl/10198302",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (268 curve estimates from 81 articles; inverted-U)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "So more exposure helps up to a point; overexposure can backfire.",
+      "cites": [
+        "montoya2017"
+      ],
+      "sources": [
+        {
+          "id": "montoya2017",
+          "authors": "Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A.",
+          "year": 2017,
+          "title": "A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking",
+          "venue": "Psychological Bulletin, 143(5), 459-498",
+          "url": "https://par.nsf.gov/servlets/purl/10198302",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (268 curve estimates from 81 articles; inverted-U)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Their meta-analysis covered effects on liking, familiarity and recognition.",
+      "cites": [
+        "montoya2017"
+      ],
+      "sources": [
+        {
+          "id": "montoya2017",
+          "authors": "Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A.",
+          "year": 2017,
+          "title": "A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking",
+          "venue": "Psychological Bulletin, 143(5), 459-498",
+          "url": "https://par.nsf.gov/servlets/purl/10198302",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (268 curve estimates from 81 articles; inverted-U)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do you get déjà vu?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

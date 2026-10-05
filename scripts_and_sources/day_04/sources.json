@@ -1,0 +1,183 @@
+{
+  "day": 4,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do you really look at all the evidence?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1960, psychologist Peter Wason gave 29 people the numbers 2, 4, 6.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Their task was to discover the hidden rule by proposing their own sets of three numbers.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The actual rule was simply any ascending sequence.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Most people tested only examples that fit their own guess.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Only 6 of the 29 announced the correct rule without first announcing a wrong one.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Wason concluded people tend to seek only confirming evidence.",
+      "cites": [
+        "wason1960"
+      ],
+      "sources": [
+        {
+          "id": "wason1960",
+          "authors": "Wason, P. C.",
+          "year": 1960,
+          "title": "On the failure to eliminate hypotheses in a conceptual task",
+          "venue": "Quarterly Journal of Experimental Psychology, 12(3), 129-140",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (29 subjects; 6 reached the correct rule without a prior wrong one); rule wording 'any ascending sequence' from secondary summaries"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Psychologists Lord, Lepper and Preston tested a fix: consider the opposite.",
+      "cites": [
+        "lord1984"
+      ],
+      "sources": [
+        {
+          "id": "lord1984",
+          "authors": "Lord, C. G., Lepper, M. R., & Preston, E.",
+          "year": 1984,
+          "title": "Considering the opposite: A corrective strategy for social judgment",
+          "venue": "Journal of Personality and Social Psychology, 47(6), 1231-1243",
+          "url": "https://causeweb.org/cause/node/7638",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased.",
+      "cites": [
+        "lord1984"
+      ],
+      "sources": [
+        {
+          "id": "lord1984",
+          "authors": "Lord, C. G., Lepper, M. R., & Preston, E.",
+          "year": 1984,
+          "title": "Considering the opposite: A corrective strategy for social judgment",
+          "venue": "Journal of Personality and Social Psychology, 47(6), 1231-1243",
+          "url": "https://causeweb.org/cause/node/7638",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So before a big decision, ask yourself: what would prove me wrong?",
+      "cites": [
+        "lord1984"
+      ],
+      "sources": [
+        {
+          "id": "lord1984",
+          "authors": "Lord, C. G., Lepper, M. R., & Preston, E.",
+          "year": 1984,
+          "title": "Considering the opposite: A corrective strategy for social judgment",
+          "venue": "Journal of Personality and Social Psychology, 47(6), 1231-1243",
+          "url": "https://causeweb.org/cause/node/7638",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do unfinished tasks really haunt your memory?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

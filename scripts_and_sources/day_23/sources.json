@@ -1,0 +1,165 @@
+{
+  "day": 23,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does Google make you forget things?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science.",
+      "cites": [
+        "sparrow2011"
+      ],
+      "sources": [
+        {
+          "id": "sparrow2011",
+          "authors": "Sparrow, B., Liu, J., & Wegner, D. M.",
+          "year": 2011,
+          "title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+          "venue": "Science, 333(6043), 776-778",
+          "url": "https://stafforini.com/works/sparrow-2011-google-effects-memory/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "When people expected to have future access to information, they recalled the information itself less.",
+      "cites": [
+        "sparrow2011"
+      ],
+      "sources": [
+        {
+          "id": "sparrow2011",
+          "authors": "Sparrow, B., Liu, J., & Wegner, D. M.",
+          "year": 2011,
+          "title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+          "venue": "Science, 333(6043), 776-778",
+          "url": "https://stafforini.com/works/sparrow-2011-google-effects-memory/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "They did better at remembering where to find the information.",
+      "cites": [
+        "sparrow2011"
+      ],
+      "sources": [
+        {
+          "id": "sparrow2011",
+          "authors": "Sparrow, B., Liu, J., & Wegner, D. M.",
+          "year": 2011,
+          "title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+          "venue": "Science, 333(6043), 776-778",
+          "url": "https://stafforini.com/works/sparrow-2011-google-effects-memory/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Another claim was that hard trivia questions prime people to think about computers.",
+      "cites": [
+        "sparrow2011"
+      ],
+      "sources": [
+        {
+          "id": "sparrow2011",
+          "authors": "Sparrow, B., Liu, J., & Wegner, D. M.",
+          "year": 2011,
+          "title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+          "venue": "Science, 333(6043), 776-778",
+          "url": "https://stafforini.com/works/sparrow-2011-google-effects-memory/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study.",
+      "cites": [
+        "hesselmann2020"
+      ],
+      "sources": [
+        {
+          "id": "hesselmann2020",
+          "authors": "Hesselmann, G.",
+          "year": 2020,
+          "title": "No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect': A replication study",
+          "venue": "PeerJ, 8, e10325",
+          "url": "https://peerj.com/articles/10325",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (also reports two earlier failed replication attempts)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "He noted that two earlier replication attempts had failed too.",
+      "cites": [
+        "hesselmann2020"
+      ],
+      "sources": [
+        {
+          "id": "hesselmann2020",
+          "authors": "Hesselmann, G.",
+          "year": 2020,
+          "title": "No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect': A replication study",
+          "venue": "PeerJ, 8, e10325",
+          "url": "https://peerj.com/articles/10325",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (also reports two earlier failed replication attempts)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Those replications tested the computer-priming claim, not the memory-for-location one.",
+      "cites": [
+        "hesselmann2020"
+      ],
+      "sources": [
+        {
+          "id": "hesselmann2020",
+          "authors": "Hesselmann, G.",
+          "year": 2020,
+          "title": "No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect': A replication study",
+          "venue": "PeerJ, 8, e10325",
+          "url": "https://peerj.com/articles/10325",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (also reports two earlier failed replication attempts)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence.",
+      "cites": [
+        "sparrow2011"
+      ],
+      "sources": [
+        {
+          "id": "sparrow2011",
+          "authors": "Sparrow, B., Liu, J., & Wegner, D. M.",
+          "year": 2011,
+          "title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+          "venue": "Science, 333(6043), 776-778",
+          "url": "https://stafforini.com/works/sparrow-2011-google-effects-memory/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do you think you'd never fall for a scam?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

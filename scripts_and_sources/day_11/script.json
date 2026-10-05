@@ -1,0 +1,127 @@
+{
+  "day": 11,
+  "topic": "The frequency illusion ('Baader-Meinhof'): why you suddenly see it everywhere",
+  "title": "Why You Suddenly See It Everywhere",
+  "voiceover": "Ever learn a new word, then see it everywhere? Linguist Arnold Zwicky called this the frequency illusion. It's also called the Baader-Meinhof phenomenon, a name that came from a 1994 letter to a newspaper column. Both names come from informal sources, not experiments. A related, well-tested finding is that attention is limited. In Simons and Chabris's 1999 invisible-gorilla study, viewers counted basketball passes. Many failed to notice a person in a gorilla suit walking through the scene. That shows we can miss things we aren't paying attention to. One idea is that once something captures your attention, you start noticing what you previously missed. So if something suddenly seems to be everywhere, ask whether it increased, or whether you simply started noticing. Tomorrow: do decisions really wear your brain out?",
+  "word_count": 130,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.39,
+      "section": "hook",
+      "narration_line": "Ever learn a new word, then see it everywhere?",
+      "on_screen_text": "Seeing it everywhere?",
+      "visual_description": "Stickman surrounded by repeating copies of one word.",
+      "visual_spec": "shock/neutral/C; crowd:5@R"
+    },
+    {
+      "start_sec": 3.39,
+      "end_sec": 6.41,
+      "section": "explanation",
+      "narration_line": "Linguist Arnold Zwicky called this the frequency illusion.",
+      "on_screen_text": "The frequency illusion",
+      "visual_description": "Title card FREQUENCY ILLUSION.",
+      "visual_spec": "point/neutral/L; text:FREQUENCY ILLUSION@R"
+    },
+    {
+      "start_sec": 6.41,
+      "end_sec": 13.19,
+      "section": "explanation",
+      "narration_line": "It's also called the Baader-Meinhof phenomenon, a name that came from a 1994 letter to a newspaper column.",
+      "on_screen_text": "Baader-Meinhof: a 1994 letter",
+      "visual_description": "Newspaper column with a letter.",
+      "visual_spec": "stand/neutral/L; text:1994@TR; list:LETTER@R"
+    },
+    {
+      "start_sec": 13.19,
+      "end_sec": 16.21,
+      "section": "explanation",
+      "narration_line": "Both names come from informal sources, not experiments.",
+      "on_screen_text": "Informal names, not experiments",
+      "visual_description": "Blog and newspaper icons; lab flask crossed out.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 16.21,
+      "end_sec": 19.6,
+      "section": "explanation",
+      "narration_line": "A related, well-tested finding is that attention is limited.",
+      "on_screen_text": "Attention is limited",
+      "visual_description": "Spotlight on a small area.",
+      "visual_spec": "think/neutral/L; spotlight@L"
+    },
+    {
+      "start_sec": 19.6,
+      "end_sec": 23.75,
+      "section": "explanation",
+      "narration_line": "In Simons and Chabris's 1999 invisible-gorilla study, viewers counted basketball passes.",
+      "on_screen_text": "1999 invisible gorilla study",
+      "visual_description": "Basketballs being passed.",
+      "visual_spec": "point/neutral/L; list:PASS,PASS,PASS@R"
+    },
+    {
+      "start_sec": 23.75,
+      "end_sec": 29.02,
+      "section": "explanation",
+      "narration_line": "Many failed to notice a person in a gorilla suit walking through the scene.",
+      "on_screen_text": "Many missed the gorilla",
+      "visual_description": "Gorilla silhouette crossing a scene.",
+      "visual_spec": "shock/neutral/L; text:GORILLA@R"
+    },
+    {
+      "start_sec": 29.02,
+      "end_sec": 33.17,
+      "section": "explanation",
+      "narration_line": "That shows we can miss things we aren't paying attention to.",
+      "on_screen_text": "We miss what we ignore",
+      "visual_description": "Eye with a blind spot.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 33.17,
+      "end_sec": 39.2,
+      "section": "explanation",
+      "narration_line": "One idea is that once something captures your attention, you start noticing what you previously missed.",
+      "on_screen_text": "One idea: you start noticing",
+      "visual_description": "Light bulb switching on a hidden pile of words.",
+      "visual_spec": "think/smile/L; lightbulb@R"
+    },
+    {
+      "start_sec": 39.2,
+      "end_sec": 45.98,
+      "section": "takeaway",
+      "narration_line": "So if something suddenly seems to be everywhere, ask whether it increased, or whether you simply started noticing.",
+      "on_screen_text": "Increased, or just noticed?",
+      "visual_description": "Stickman holding a magnifier between two options.",
+      "visual_spec": "point/smile/L; text:MORE? OR NOTICED?@R"
+    },
+    {
+      "start_sec": 45.98,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do decisions really wear your brain out?",
+      "on_screen_text": "Tomorrow: decision fatigue",
+      "visual_description": "Stickman surrounded by choices.",
+      "visual_spec": "stand/worry/L; list:A?,B?,C?@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Ever learn a new word and then see it everywhere? Linguist Arnold Zwicky called it the frequency illusion, and a famous attention study shows we miss much of what we're not focused on. New psychology short every day on The Psyche Discourse. Source: Zwicky, A. M. (2005). Just between Dr. Language and I (Language Log post introducing 'frequency illusion'). Language Log (blog). Source: Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28(9), 1059-1074.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#frequencyillusion",
+    "#attention",
+    "#brain",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "INFORMAL TERM. 'Frequency illusion' and 'Baader-Meinhof phenomenon' come from a linguist's blog and a newspaper letter, not from lab experiments. The explanation (attention and noticing) is a widely offered idea, not directly tested in the cited studies; Simons & Chabris demonstrates limits of attention, not the frequency illusion itself. The video hedges with 'one idea'.",
+  "thumbnail": {
+    "lines": [
+      "SEEING IT",
+      "EVERYWHERE?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

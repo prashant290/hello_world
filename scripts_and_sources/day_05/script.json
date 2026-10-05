@@ -1,94 +1,102 @@
 {
   "day": 5,
-  "topic": "The Zeigarnik effect: why unfinished tasks haunt you",
+  "topic": "The Zeigarnik effect: do unfinished tasks really haunt you?",
   "title": "Why Unfinished Tasks Haunt Your Brain",
-  "voiceover": "Why can't you stop thinking about unfinished things? It's called the Zeigarnik effect, named after psychologist Bluma Zeigarnik, who studied it in the 1920s. Her idea: interrupted tasks stick in memory better than finished ones. But later studies of that memory boost have had mixed results. What does hold up is that unfinished goals keep intruding on your thoughts. Your brain keeps the loop open until there's a plan or an ending. Researchers Masicampo and Baumeister found that making a specific plan for the task quiets those thoughts, even before you do it. So don't just keep a to-do list. Write when and where you'll start. 'Tomorrow at nine, at my desk.' That tells your brain it's handled. Tomorrow: the surprising reason losing hurts more than winning feels good.",
-  "word_count": 129,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Why do unfinished tasks nag at you? In the 1920s, psychologist Bluma Zeigarnik reported that people remembered interrupted tasks better than completed ones. That became known as the Zeigarnik effect. But a 2025 meta-analysis found no memory advantage for unfinished tasks. An earlier replication attempt by Annie van Bergen in 1968 had also failed to find one. Unfinished goals can still keep intruding on your thoughts, though. Psychologists Masicampo and Baumeister showed that making a specific plan for a goal eliminated those effects. In one study, the people who later carried out their plans were the ones whose intrusive thoughts stopped. So instead of just listing a task, decide exactly when and where you will start. Tomorrow: why does losing hurt more than winning feels good?",
+  "word_count": 126,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.04,
+      "end_sec": 2.72,
       "section": "hook",
-      "narration_line": "Why can't you stop thinking about unfinished things?",
+      "narration_line": "Why do unfinished tasks nag at you?",
       "on_screen_text": "Why won't it let go?",
       "visual_description": "Stickman at a desk surrounded by half-done checklists.",
       "visual_spec": "think/worry/C; list:TODO,TODO@R"
     },
     {
-      "start_sec": 3.04,
-      "end_sec": 9.12,
+      "start_sec": 2.72,
+      "end_sec": 8.94,
       "section": "explanation",
-      "narration_line": "It's called the Zeigarnik effect, named after psychologist Bluma Zeigarnik, who studied it in the 1920s.",
+      "narration_line": "In the 1920s, psychologist Bluma Zeigarnik reported that people remembered interrupted tasks better than completed ones.",
       "on_screen_text": "The Zeigarnik effect",
-      "visual_description": "Vintage-style portrait frame with the name ZEIGARNIK.",
+      "visual_description": "Vintage portrait frame with the name ZEIGARNIK.",
       "visual_spec": "stand/neutral/L; text:ZEIGARNIK@R; text:1920s@TR"
     },
     {
-      "start_sec": 9.12,
-      "end_sec": 17.47,
+      "start_sec": 8.94,
+      "end_sec": 11.67,
       "section": "explanation",
-      "narration_line": "Her idea: interrupted tasks stick in memory better than finished ones. But later studies of that memory boost have had mixed results.",
-      "on_screen_text": "Memory boost? Mixed results",
-      "visual_description": "A scale tipping slightly, labeled 'mixed evidence'.",
-      "visual_spec": "shrug/neutral/L; scale@R"
+      "narration_line": "That became known as the Zeigarnik effect.",
+      "on_screen_text": "Interrupted = remembered?",
+      "visual_description": "Interrupted vs finished task cards.",
+      "visual_spec": "think/neutral/L; list:DONE,STOPPED@R"
     },
     {
-      "start_sec": 17.47,
-      "end_sec": 22.41,
+      "start_sec": 11.67,
+      "end_sec": 15.94,
       "section": "explanation",
-      "narration_line": "What does hold up is that unfinished goals keep intruding on your thoughts.",
-      "on_screen_text": "Unfinished goals intrude",
-      "visual_description": "Little thought bubbles with 'TODO' popping up above the stickman's head.",
+      "narration_line": "But a 2025 meta-analysis found no memory advantage for unfinished tasks.",
+      "on_screen_text": "2025: no memory advantage",
+      "visual_description": "Scale balanced evenly.",
+      "visual_spec": "shrug/neutral/L; scale@R; text:2025@TR"
+    },
+    {
+      "start_sec": 15.94,
+      "end_sec": 22.17,
+      "section": "explanation",
+      "narration_line": "An earlier replication attempt by Annie van Bergen in 1968 had also failed to find one.",
+      "on_screen_text": "1968 replication failed too",
+      "visual_description": "A crossed-out check next to 1968.",
+      "visual_spec": "shrug/worry/L; cross@R; text:1968@TR"
+    },
+    {
+      "start_sec": 22.17,
+      "end_sec": 26.06,
+      "section": "explanation",
+      "narration_line": "Unfinished goals can still keep intruding on your thoughts, though.",
+      "on_screen_text": "Goals still intrude",
+      "visual_description": "Little TODO bubbles popping up over the stickman's head.",
       "visual_spec": "think/worry/L; bubble:TODO@TR; bubble:TODO@R"
     },
     {
-      "start_sec": 22.41,
-      "end_sec": 27.35,
+      "start_sec": 26.06,
+      "end_sec": 32.28,
       "section": "explanation",
-      "narration_line": "Your brain keeps the loop open until there's a plan or an ending.",
-      "on_screen_text": "The loop stays open",
-      "visual_description": "A circular arrow with a gap, then closed.",
-      "visual_spec": "stand/neutral/L; loop@R"
-    },
-    {
-      "start_sec": 27.35,
-      "end_sec": 35.33,
-      "section": "explanation",
-      "narration_line": "Researchers Masicampo and Baumeister found that making a specific plan for the task quiets those thoughts, even before you do it.",
-      "on_screen_text": "A plan quiets the nagging",
-      "visual_description": "Stickman writing a plan, the TODO bubbles fading away.",
+      "narration_line": "Psychologists Masicampo and Baumeister showed that making a specific plan for a goal eliminated those effects.",
+      "on_screen_text": "A specific plan helped",
+      "visual_description": "Stickman writes a plan; TODO bubbles fade.",
       "visual_spec": "point/smile/L; check@R; text:PLAN@TR"
     },
     {
-      "start_sec": 35.33,
-      "end_sec": 40.26,
+      "start_sec": 32.28,
+      "end_sec": 39.28,
+      "section": "explanation",
+      "narration_line": "In one study, the people who later carried out their plans were the ones whose intrusive thoughts stopped.",
+      "on_screen_text": "Real plans quiet the mind",
+      "visual_description": "Check mark next to a calm brain.",
+      "visual_spec": "stand/smile/L; brain:@R; check@TR"
+    },
+    {
+      "start_sec": 39.28,
+      "end_sec": 45.11,
       "section": "takeaway",
-      "narration_line": "So don't just keep a to-do list. Write when and where you'll start.",
-      "on_screen_text": "Write when and where",
-      "visual_description": "Calendar and map pin icons next to a task.",
+      "narration_line": "So instead of just listing a task, decide exactly when and where you will start.",
+      "on_screen_text": "Decide when and where",
+      "visual_description": "Clock and map pin next to a task.",
       "visual_spec": "point/smile/L; clock@R; text:WHEN + WHERE@TR"
     },
     {
-      "start_sec": 40.26,
-      "end_sec": 44.82,
-      "section": "takeaway",
-      "narration_line": "'Tomorrow at nine, at my desk.' That tells your brain it's handled.",
-      "on_screen_text": "'Tomorrow, 9am, my desk'",
-      "visual_description": "Sticky note reading 9:00 desk with a check.",
-      "visual_spec": "stand/smile/L; tag:9:00 DESK@R; check@TR"
-    },
-    {
-      "start_sec": 44.82,
+      "start_sec": 45.11,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: the surprising reason losing hurts more than winning feels good.",
+      "narration_line": "Tomorrow: why does losing hurt more than winning feels good?",
       "on_screen_text": "Tomorrow: why losing stings",
-      "visual_description": "Two coins: one gained, one lost, lost one bigger.",
+      "visual_description": "Two coins: one lost, one won.",
       "visual_spec": "stand/worry/L; coin:+$20@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Unfinished tasks can nag at your mind, but the details of the Zeigarnik effect are more nuanced than the popular story. Making a specific plan can quiet that mental nagging. New psychology short every day on The Psyche Discourse. Source: Masicampo & Baumeister (2011), 'Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals', Journal of Personality and Social Psychology.",
+  "description": "Do unfinished tasks really stick in memory? A 2025 meta-analysis found no memory advantage, but unfinished goals can still intrude on your thoughts, and a specific plan can quiet them. New psychology short every day on The Psyche Discourse. Source: Masicampo, E. J., & Baumeister, R. F. (2011). Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. Journal of Personality and Social Psychology, 101(4), 667-683. Source: Ghibellini, R., & Meier, B. (2025). Interruption, recall and resumption: A meta-analysis of the Zeigarnik and Ovsiankina effects. Humanities and Social Sciences Communications (Palgrave Communications), 12.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -98,7 +106,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "The original Zeigarnik memory advantage for interrupted tasks has had inconsistent replication; the safer claim is that unfinished goals intrude on thought and that specific plans reduce this intrusion (Masicampo & Baumeister, 2011). The popular 'waiter' origin story is anecdotal.",
+  "accuracy_note": "Zeigarnik's original memory claim has failed to replicate (Van Bergen 1968; Ghibellini & Meier 2025 meta-analysis). Masicampo & Baumeister (2011) studied goal-related intrusive thoughts in lab tasks, not everyday to-do lists.",
   "thumbnail": {
     "lines": [
       "UNFINISHED",

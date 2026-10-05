@@ -1,0 +1,118 @@
+{
+  "day": 27,
+  "topic": "The scarcity effect: why less feels worth more",
+  "title": "Why 'Only Two Left' Makes You Want It More",
+  "voiceover": "Does 'almost gone' make things look better? In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value. A total of 200 female undergraduates rated cookies. One glass jar held ten cookies, another held just two. The cookies were identical, but the ones from the nearly empty jar were rated more desirable. Cookies were also rated more valuable when their supply changed from abundant to scarce. And cookies that were scarce because of high demand were rated higher than cookies scarce because of an accident. It tested one product with one group, so shoppers in real stores may behave differently. So when you see 'only two left', ask whether you want the item or just the scarcity. Tomorrow: why can't you tickle yourself?",
+  "word_count": 126,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.72,
+      "section": "hook",
+      "narration_line": "Does 'almost gone' make things look better?",
+      "on_screen_text": "'Almost gone' = better?",
+      "visual_description": "Stickman eyeing a nearly empty jar.",
+      "visual_spec": "think/neutral/C; text:2 LEFT@R"
+    },
+    {
+      "start_sec": 2.72,
+      "end_sec": 8.17,
+      "section": "explanation",
+      "narration_line": "In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value.",
+      "on_screen_text": "1975: supply and value",
+      "visual_description": "Jar icons.",
+      "visual_spec": "point/neutral/L; text:1975@TR; text:SUPPLY@R"
+    },
+    {
+      "start_sec": 8.17,
+      "end_sec": 11.28,
+      "section": "explanation",
+      "narration_line": "A total of 200 female undergraduates rated cookies.",
+      "on_screen_text": "200 undergraduates rated cookies",
+      "visual_description": "Cookie.",
+      "visual_spec": "stand/neutral/L; text:200@R"
+    },
+    {
+      "start_sec": 11.28,
+      "end_sec": 15.17,
+      "section": "explanation",
+      "narration_line": "One glass jar held ten cookies, another held just two.",
+      "on_screen_text": "Ten cookies vs two",
+      "visual_description": "Two jars.",
+      "visual_spec": "point/neutral/L; list:10,2@R"
+    },
+    {
+      "start_sec": 15.17,
+      "end_sec": 21.39,
+      "section": "explanation",
+      "narration_line": "The cookies were identical, but the ones from the nearly empty jar were rated more desirable.",
+      "on_screen_text": "Scarce cookies rated higher",
+      "visual_description": "Bars: ten low, two high.",
+      "visual_spec": "stand/smile/L; bars:ten cookies,two cookies@R"
+    },
+    {
+      "start_sec": 21.39,
+      "end_sec": 26.83,
+      "section": "explanation",
+      "narration_line": "Cookies were also rated more valuable when their supply changed from abundant to scarce.",
+      "on_screen_text": "Abundant to scarce = even more",
+      "visual_description": "Jar emptying.",
+      "visual_spec": "think/neutral/L; arrow:down@R"
+    },
+    {
+      "start_sec": 26.83,
+      "end_sec": 34.22,
+      "section": "explanation",
+      "narration_line": "And cookies that were scarce because of high demand were rated higher than cookies scarce because of an accident.",
+      "on_screen_text": "Scarce from demand rated higher",
+      "visual_description": "Crowd taking cookies vs spilled jar.",
+      "visual_spec": "stand/neutral/L; crowd:3@R"
+    },
+    {
+      "start_sec": 34.22,
+      "end_sec": 40.06,
+      "section": "explanation",
+      "narration_line": "It tested one product with one group, so shoppers in real stores may behave differently.",
+      "on_screen_text": "One product, one group",
+      "visual_description": "Single cookie.",
+      "visual_spec": "shrug/neutral/L; text:1 PRODUCT@R"
+    },
+    {
+      "start_sec": 40.06,
+      "end_sec": 46.67,
+      "section": "takeaway",
+      "narration_line": "So when you see 'only two left', ask whether you want the item or just the scarcity.",
+      "on_screen_text": "The item, or the scarcity?",
+      "visual_description": "Stickman holding two options.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 46.67,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why can't you tickle yourself?",
+      "on_screen_text": "Tomorrow: tickling",
+      "visual_description": "Feather.",
+      "visual_spec": "stand/smile/L; text:TICKLE@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Does scarcity make things look better? In a 1975 experiment, identical cookies from a nearly empty jar were rated as more desirable. New psychology short every day on The Psyche Discourse. Source: Worchel, S., Lee, J., & Adewole, A. (1975). Effects of supply and demand on ratings of object value. Journal of Personality and Social Psychology, 32(5), 906-914.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#scarcity",
+    "#marketing",
+    "#persuasion",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One classic lab experiment with 200 female undergraduates and one product (cookies); real shopping may differ. The study did not test 'only 2 left' messages in stores.",
+  "thumbnail": {
+    "lines": [
+      "WHY SCARCE",
+      "FEELS BETTER"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

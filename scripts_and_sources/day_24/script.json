@@ -1,0 +1,128 @@
+{
+  "day": 24,
+  "topic": "Unrealistic optimism: why you think you'd never fall for a scam",
+  "title": "Why You Think You'd Never Fall for a Scam",
+  "voiceover": "Why do you think you'd never fall for a scam? In 1980, Neil Weinstein asked 258 college students about 42 life events. They compared their own chances with those of their classmates. Students rated their own chances of good events as above average. And their chances of bad events as below average. That's called unrealistic optimism: we can't all be better than average. A 2013 Federal Trade Commission survey estimated that 10.8 percent of U.S. adults were victims of fraud in 2011. That's about 25.6 million people. The survey covered the specific frauds it asked about, not every possible scam. So 'it won't happen to me' feels certain, but the numbers show it happens to many people. Tomorrow: why do you say 'I knew it all along'?",
+  "word_count": 127,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.86,
+      "section": "hook",
+      "narration_line": "Why do you think you'd never fall for a scam?",
+      "on_screen_text": "'I'd never fall for it'",
+      "visual_description": "Confident stickman next to a scam email.",
+      "visual_spec": "stand/smile/C; text:SCAM?@R"
+    },
+    {
+      "start_sec": 3.86,
+      "end_sec": 8.49,
+      "section": "explanation",
+      "narration_line": "In 1980, Neil Weinstein asked 258 college students about 42 life events.",
+      "on_screen_text": "1980: 258 students, 42 events",
+      "visual_description": "List of events.",
+      "visual_spec": "point/neutral/L; text:42 EVENTS@R"
+    },
+    {
+      "start_sec": 8.49,
+      "end_sec": 12.35,
+      "section": "explanation",
+      "narration_line": "They compared their own chances with those of their classmates.",
+      "on_screen_text": "Own chances vs classmates'",
+      "visual_description": "Two stickmen compared.",
+      "visual_spec": "stand/neutral/L; crowd:1@R"
+    },
+    {
+      "start_sec": 12.35,
+      "end_sec": 16.59,
+      "section": "explanation",
+      "narration_line": "Students rated their own chances of good events as above average.",
+      "on_screen_text": "Good events: above average",
+      "visual_description": "Bar high.",
+      "visual_spec": "stand/smile/L; bars:average,mine@R"
+    },
+    {
+      "start_sec": 16.59,
+      "end_sec": 20.06,
+      "section": "explanation",
+      "narration_line": "And their chances of bad events as below average.",
+      "on_screen_text": "Bad events: below average",
+      "visual_description": "Bar low.",
+      "visual_spec": "stand/smile/L; bars:average,mine@R"
+    },
+    {
+      "start_sec": 20.06,
+      "end_sec": 24.31,
+      "section": "explanation",
+      "narration_line": "That's called unrealistic optimism: we can't all be better than average.",
+      "on_screen_text": "Unrealistic optimism",
+      "visual_description": "Everyone above the line.",
+      "visual_spec": "shrug/smile/L; text:ALL ABOVE AVG?@R"
+    },
+    {
+      "start_sec": 24.31,
+      "end_sec": 31.64,
+      "section": "explanation",
+      "narration_line": "A 2013 Federal Trade Commission survey estimated that 10.8 percent of U.S. adults were victims of fraud in 2011.",
+      "on_screen_text": "FTC survey: 10.8% victims",
+      "visual_description": "Big 10.8%.",
+      "visual_spec": "stand/worry/L; text:10.8%@R"
+    },
+    {
+      "start_sec": 31.64,
+      "end_sec": 33.57,
+      "section": "explanation",
+      "narration_line": "That's about 25.6 million people.",
+      "on_screen_text": "About 25.6 million people",
+      "visual_description": "Crowd icon with number.",
+      "visual_spec": "shock/neutral/L; crowd:5@R; text:25.6M@TR"
+    },
+    {
+      "start_sec": 33.57,
+      "end_sec": 38.58,
+      "section": "explanation",
+      "narration_line": "The survey covered the specific frauds it asked about, not every possible scam.",
+      "on_screen_text": "Only frauds the survey asked about",
+      "visual_description": "Checklist of fraud types.",
+      "visual_spec": "think/neutral/L; list:FRAUD 1,FRAUD 2@R"
+    },
+    {
+      "start_sec": 38.58,
+      "end_sec": 45.14,
+      "section": "takeaway",
+      "narration_line": "So 'it won't happen to me' feels certain, but the numbers show it happens to many people.",
+      "on_screen_text": "It happens to many people",
+      "visual_description": "Stickman pausing before clicking.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 45.14,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you say 'I knew it all along'?",
+      "on_screen_text": "Tomorrow: 'I knew it all along'",
+      "visual_description": "Speech bubble.",
+      "visual_spec": "stand/smile/L; bubble:knew it@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do so many people think they'd never be fooled? Research on unrealistic optimism shows people rate their own odds of bad events as below average, while an FTC survey estimated 10.8% of U.S. adults were fraud victims in 2011. New psychology short every day on The Psyche Discourse. Source: Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806-820. Source: Anderson, K. B. (2013). Consumer fraud in the United States, 2011: The third FTC survey. U.S. Federal Trade Commission staff report.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#scams",
+    "#optimismbias",
+    "#fraud",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Weinstein (1980) studied college students' beliefs about 42 life events, not scams specifically. The FTC survey counts specific frauds it asked about in 2011 and relies on self-report. The video does not claim scam victims are less intelligent or that optimism causes fraud.",
+  "thumbnail": {
+    "lines": [
+      "I'D NEVER",
+      "FALL FOR",
+      "A SCAM"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
+}

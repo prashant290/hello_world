@@ -1,0 +1,165 @@
+{
+  "day": 5,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do unfinished tasks nag at you?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In the 1920s, psychologist Bluma Zeigarnik reported that people remembered interrupted tasks better than completed ones.",
+      "cites": [
+        "zeigarnik1927"
+      ],
+      "sources": [
+        {
+          "id": "zeigarnik1927",
+          "authors": "Zeigarnik, B.",
+          "year": 1927,
+          "title": "Über das Behalten von erledigten und unerledigten Handlungen",
+          "venue": "Psychologische Forschung, 9, 1-85",
+          "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+          "verified": "web search 2026-10-05: original claim (interrupted tasks recalled better) confirmed via reference article and later meta-analysis abstract; original paper not read"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "That became known as the Zeigarnik effect.",
+      "cites": [
+        "zeigarnik1927"
+      ],
+      "sources": [
+        {
+          "id": "zeigarnik1927",
+          "authors": "Zeigarnik, B.",
+          "year": 1927,
+          "title": "Über das Behalten von erledigten und unerledigten Handlungen",
+          "venue": "Psychologische Forschung, 9, 1-85",
+          "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+          "verified": "web search 2026-10-05: original claim (interrupted tasks recalled better) confirmed via reference article and later meta-analysis abstract; original paper not read"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "But a 2025 meta-analysis found no memory advantage for unfinished tasks.",
+      "cites": [
+        "ghibellini2025"
+      ],
+      "sources": [
+        {
+          "id": "ghibellini2025",
+          "authors": "Ghibellini, R., & Meier, B.",
+          "year": 2025,
+          "title": "Interruption, recall and resumption: A meta-analysis of the Zeigarnik and Ovsiankina effects",
+          "venue": "Humanities and Social Sciences Communications (Palgrave Communications), 12",
+          "url": "https://ideas.repec.org/a/pal/palcom/v12y2025i1d10.1057_s41599-025-05000-w.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: no memory advantage for unfinished tasks; general tendency to resume)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "An earlier replication attempt by Annie van Bergen in 1968 had also failed to find one.",
+      "cites": [
+        "vanbergen1968"
+      ],
+      "sources": [
+        {
+          "id": "vanbergen1968",
+          "authors": "Van Bergen, A.",
+          "year": 1968,
+          "title": "Task interruption",
+          "venue": "North-Holland (monograph)",
+          "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+          "verified": "web search 2026-10-05: replication attempt that found no advantage for interrupted tasks (ratio 0.88), per reference article and a science-news summary"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Unfinished goals can still keep intruding on your thoughts, though.",
+      "cites": [
+        "masicampo2011"
+      ],
+      "sources": [
+        {
+          "id": "masicampo2011",
+          "authors": "Masicampo, E. J., & Baumeister, R. F.",
+          "year": 2011,
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals",
+          "venue": "Journal of Personality and Social Psychology, 101(4), 667-683",
+          "url": "https://supp.apa.org/psycarticles/supplemental/a0024192/a0024192_supp.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted in search results)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Psychologists Masicampo and Baumeister showed that making a specific plan for a goal eliminated those effects.",
+      "cites": [
+        "masicampo2011"
+      ],
+      "sources": [
+        {
+          "id": "masicampo2011",
+          "authors": "Masicampo, E. J., & Baumeister, R. F.",
+          "year": 2011,
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals",
+          "venue": "Journal of Personality and Social Psychology, 101(4), 667-683",
+          "url": "https://supp.apa.org/psycarticles/supplemental/a0024192/a0024192_supp.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted in search results)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In one study, the people who later carried out their plans were the ones whose intrusive thoughts stopped.",
+      "cites": [
+        "masicampo2011"
+      ],
+      "sources": [
+        {
+          "id": "masicampo2011",
+          "authors": "Masicampo, E. J., & Baumeister, R. F.",
+          "year": 2011,
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals",
+          "venue": "Journal of Personality and Social Psychology, 101(4), 667-683",
+          "url": "https://supp.apa.org/psycarticles/supplemental/a0024192/a0024192_supp.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted in search results)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So instead of just listing a task, decide exactly when and where you will start.",
+      "cites": [
+        "masicampo2011"
+      ],
+      "sources": [
+        {
+          "id": "masicampo2011",
+          "authors": "Masicampo, E. J., & Baumeister, R. F.",
+          "year": 2011,
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals",
+          "venue": "Journal of Personality and Social Psychology, 101(4), 667-683",
+          "url": "https://supp.apa.org/psycarticles/supplemental/a0024192/a0024192_supp.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted in search results)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why does losing hurt more than winning feels good?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "day": 20,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you put off things you care about?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2007, Piers Steel reviewed 691 correlations in a meta-analysis of procrastination.",
+      "cites": [
+        "steel2007"
+      ],
+      "sources": [
+        {
+          "id": "steel2007",
+          "authors": "Steel, P.",
+          "year": 2007,
+          "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+          "venue": "Psychological Bulletin, 133(1), 65-94",
+          "url": "https://stafforini.com/works/steel-2007-nature-procrastination-metaanalytic/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (691 correlations)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Strong predictors included task aversiveness, task delay, low self-efficacy and impulsiveness.",
+      "cites": [
+        "steel2007"
+      ],
+      "sources": [
+        {
+          "id": "steel2007",
+          "authors": "Steel, P.",
+          "year": 2007,
+          "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+          "venue": "Psychological Bulletin, 133(1), 65-94",
+          "url": "https://stafforini.com/works/steel-2007-nature-procrastination-metaanalytic/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (691 correlations)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Conscientiousness and its facets, like self-control and organization, were strong predictors too.",
+      "cites": [
+        "steel2007"
+      ],
+      "sources": [
+        {
+          "id": "steel2007",
+          "authors": "Steel, P.",
+          "year": 2007,
+          "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+          "venue": "Psychological Bulletin, 133(1), 65-94",
+          "url": "https://stafforini.com/works/steel-2007-nature-procrastination-metaanalytic/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (691 correlations)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Neuroticism and rebelliousness had only weak connections.",
+      "cites": [
+        "steel2007"
+      ],
+      "sources": [
+        {
+          "id": "steel2007",
+          "authors": "Steel, P.",
+          "year": 2007,
+          "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+          "venue": "Psychological Bulletin, 133(1), 65-94",
+          "url": "https://stafforini.com/works/steel-2007-nature-procrastination-metaanalytic/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (691 correlations)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In other words, procrastination is a self-regulation failure more than a time-management problem.",
+      "cites": [
+        "steel2007"
+      ],
+      "sources": [
+        {
+          "id": "steel2007",
+          "authors": "Steel, P.",
+          "year": 2007,
+          "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+          "venue": "Psychological Bulletin, 133(1), 65-94",
+          "url": "https://stafforini.com/works/steel-2007-nature-procrastination-metaanalytic/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (691 correlations)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2013, Fuschia Sirois and Timothy Pychyl argued procrastination is partly about short-term mood repair.",
+      "cites": [
+        "sirois2013"
+      ],
+      "sources": [
+        {
+          "id": "sirois2013",
+          "authors": "Sirois, F., & Pychyl, T.",
+          "year": 2013,
+          "title": "Procrastination and the priority of short-term mood regulation: Consequences for future self",
+          "venue": "Social and Personality Psychology Compass, 7(2), 115-127",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/91793/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "You avoid the task to escape bad feelings now.",
+      "cites": [
+        "sirois2013"
+      ],
+      "sources": [
+        {
+          "id": "sirois2013",
+          "authors": "Sirois, F., & Pychyl, T.",
+          "year": 2013,
+          "title": "Procrastination and the priority of short-term mood regulation: Consequences for future self",
+          "venue": "Social and Personality Psychology Compass, 7(2), 115-127",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/91793/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "While the consequences land on your future self.",
+      "cites": [
+        "sirois2013"
+      ],
+      "sources": [
+        {
+          "id": "sirois2013",
+          "authors": "Sirois, F., & Pychyl, T.",
+          "year": 2013,
+          "title": "Procrastination and the priority of short-term mood regulation: Consequences for future self",
+          "venue": "Social and Personality Psychology Compass, 7(2), 115-127",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/91793/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So when you stall, ask what feeling you're avoiding, not just whether you're lazy.",
+      "cites": [
+        "sirois2013"
+      ],
+      "sources": [
+        {
+          "id": "sirois2013",
+          "authors": "Sirois, F., & Pychyl, T.",
+          "year": 2013,
+          "title": "Procrastination and the priority of short-term mood regulation: Consequences for future self",
+          "venue": "Social and Personality Psychology Compass, 7(2), 115-127",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/91793/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why do you like what you've seen a lot?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

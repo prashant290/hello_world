@@ -1,94 +1,102 @@
 {
   "day": 10,
-  "topic": "Why you walk into a room and forget why",
+  "topic": "The doorway effect: why you forget why you walked into a room",
   "title": "Why You Forget Things Walking Into a Room",
-  "voiceover": "Why did you walk in here again? It's called the doorway effect, and it's real. In 2011, Gabriel Radvansky and colleagues had people carry objects through virtual rooms, then tested their memory. People forgot more after passing through a doorway than after walking the same distance inside one room. The leading explanation: your brain files experiences into 'events,' and a doorway marks a boundary, so the old thought gets filed away. Researchers still debate the details, but it happens to healthy young brains too. So go back to the room where you had the thought. The scene itself often brings the memory back. Or hold your goal in mind by repeating it before you move. Tomorrow: why something you just learned suddenly seems to follow you everywhere.",
-  "word_count": 127,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Why do you forget why you walked into this room? In 2011, Gabriel Radvansky's team studied students moving through real and virtual rooms. People forgot more after walking through a doorway than after walking the same distance within one room. The researchers proposed that a doorway creates a new memory episode, an event boundary, making the old information harder to retrieve. But in 2021, Jessica McFadyen and colleagues ran four experiments across virtual reality, video and real-life movement. They found no significant effect of doorways on forgetting. Only when people had to hold information in mind did doorways increase certain memory errors. So the doorway effect looks real in some conditions, but not guaranteed. So if you blank in a doorway, it's a documented memory quirk studied in healthy students. Tomorrow: why does something you just learned seem to appear everywhere?",
+  "word_count": 141,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.7,
+      "end_sec": 3.48,
       "section": "hook",
-      "narration_line": "Why did you walk in here again?",
+      "narration_line": "Why do you forget why you walked into this room?",
       "on_screen_text": "Why did I come in here?",
-      "visual_description": "Stickman standing confused in a doorway with a blank thought bubble.",
+      "visual_description": "Stickman confused in a doorway.",
       "visual_spec": "shrug/worry/C; door@R"
     },
     {
-      "start_sec": 2.7,
-      "end_sec": 5.79,
+      "start_sec": 3.48,
+      "end_sec": 7.99,
       "section": "explanation",
-      "narration_line": "It's called the doorway effect, and it's real.",
-      "on_screen_text": "The doorway effect",
-      "visual_description": "A door with a glowing frame.",
-      "visual_spec": "point/smile/L; door@R"
+      "narration_line": "In 2011, Gabriel Radvansky's team studied students moving through real and virtual rooms.",
+      "on_screen_text": "Radvansky, 2011",
+      "visual_description": "Virtual room with a box being carried.",
+      "visual_spec": "walk/neutral/L; text:2011@TR; door@R"
     },
     {
-      "start_sec": 5.79,
-      "end_sec": 12.35,
+      "start_sec": 7.99,
+      "end_sec": 13.9,
       "section": "explanation",
-      "narration_line": "In 2011, Gabriel Radvansky and colleagues had people carry objects through virtual rooms, then tested their memory.",
-      "on_screen_text": "Radvansky's virtual rooms, 2011",
-      "visual_description": "A pixelated virtual room with a box being carried.",
-      "visual_spec": "walk/neutral/L; text:VIRTUAL ROOMS@R"
-    },
-    {
-      "start_sec": 12.35,
-      "end_sec": 18.91,
-      "section": "explanation",
-      "narration_line": "People forgot more after passing through a doorway than after walking the same distance inside one room.",
+      "narration_line": "People forgot more after walking through a doorway than after walking the same distance within one room.",
       "on_screen_text": "More forgetting after doors",
-      "visual_description": "Two paths: one through a door (more forgetting), one across a room (less).",
+      "visual_description": "Bars: room low, door high.",
       "visual_spec": "stand/neutral/L; bars:room,door@R"
     },
     {
-      "start_sec": 18.91,
-      "end_sec": 27.39,
+      "start_sec": 13.9,
+      "end_sec": 21.2,
       "section": "explanation",
-      "narration_line": "The leading explanation: your brain files experiences into 'events,' and a doorway marks a boundary, so the old thought gets filed away.",
-      "on_screen_text": "Doors mark 'event boundaries'",
-      "visual_description": "Thought bubble being packed into a box as the stickman steps through.",
+      "narration_line": "The researchers proposed that a doorway creates a new memory episode, an event boundary, making the old information harder to retrieve.",
+      "on_screen_text": "Doors = event boundaries",
+      "visual_description": "Thought bubble packed into a box as the stickman steps through.",
       "visual_spec": "think/neutral/L; door@R; bubble:old thought@TR"
     },
     {
-      "start_sec": 27.39,
-      "end_sec": 32.41,
+      "start_sec": 21.2,
+      "end_sec": 27.11,
       "section": "explanation",
-      "narration_line": "Researchers still debate the details, but it happens to healthy young brains too.",
-      "on_screen_text": "Happens to healthy brains",
+      "narration_line": "But in 2021, Jessica McFadyen and colleagues ran four experiments across virtual reality, video and real-life movement.",
+      "on_screen_text": "2021: four experiments",
+      "visual_description": "Four panels: VR, VR+load, video, real.",
+      "visual_spec": "stand/neutral/L; list:VR,VR+LOAD,VIDEO,REAL@R"
+    },
+    {
+      "start_sec": 27.11,
+      "end_sec": 30.23,
+      "section": "explanation",
+      "narration_line": "They found no significant effect of doorways on forgetting.",
+      "on_screen_text": "No significant effect",
+      "visual_description": "Check replaced by cross.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 30.23,
+      "end_sec": 35.45,
+      "section": "explanation",
+      "narration_line": "Only when people had to hold information in mind did doorways increase certain memory errors.",
+      "on_screen_text": "Only under mental load",
+      "visual_description": "Brain carrying heavy load near a door.",
+      "visual_spec": "think/worry/L; brain:@R; door@TR"
+    },
+    {
+      "start_sec": 35.45,
+      "end_sec": 39.62,
+      "section": "explanation",
+      "narration_line": "So the doorway effect looks real in some conditions, but not guaranteed.",
+      "on_screen_text": "Real in some conditions",
+      "visual_description": "Scale tipping slightly.",
+      "visual_spec": "shrug/smile/L; scale@R"
+    },
+    {
+      "start_sec": 39.62,
+      "end_sec": 45.18,
+      "section": "takeaway",
+      "narration_line": "So if you blank in a doorway, it's a documented memory quirk studied in healthy students.",
+      "on_screen_text": "A documented memory quirk",
       "visual_description": "Smiling stickman with a healthy brain icon.",
       "visual_spec": "stand/smile/L; brain:@R"
     },
     {
-      "start_sec": 32.41,
-      "end_sec": 39.74,
-      "section": "takeaway",
-      "narration_line": "So go back to the room where you had the thought. The scene itself often brings the memory back.",
-      "on_screen_text": "Return to the original room",
-      "visual_description": "Stickman walking back through the door; the thought bubble reappears.",
-      "visual_spec": "walk/smile/L; door@R; bubble:aha@TR"
-    },
-    {
-      "start_sec": 39.74,
-      "end_sec": 44.37,
-      "section": "takeaway",
-      "narration_line": "Or hold your goal in mind by repeating it before you move.",
-      "on_screen_text": "Repeat your goal",
-      "visual_description": "Stickman mouthing the goal word 'KEYS'.",
-      "visual_spec": "point/smile/L; text:KEYS@R"
-    },
-    {
-      "start_sec": 44.37,
+      "start_sec": 45.18,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: why something you just learned suddenly seems to follow you everywhere.",
+      "narration_line": "Tomorrow: why does something you just learned seem to appear everywhere?",
       "on_screen_text": "Tomorrow: it's everywhere",
-      "visual_description": "Many identical objects popping up behind the stickman.",
+      "visual_description": "Many identical objects behind the stickman.",
       "visual_spec": "stand/shock/L; crowd:5@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Walking through a doorway can make you forget why you entered the room. Researchers think doorways mark 'event boundaries' that make your brain file the old thought away. New psychology short every day on The Psyche Discourse. Source: Radvansky, Krawietz & Tamplin (2011), 'Walking through doorways causes forgetting', Quarterly Journal of Experimental Psychology.",
+  "description": "Does walking through a doorway really make you forget? A 2011 study found people forgot more after passing through a door, but a 2021 set of experiments mostly did not find a clean effect. New psychology short every day on The Psyche Discourse. Source: Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K. (2011). Walking through doorways causes forgetting: Further explorations. Quarterly Journal of Experimental Psychology, 64(8), 1632-1645. Source: McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O. (2021). Doorways do not always cause forgetting: A multimodal investigation. BMC Psychology, 9.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -98,7 +106,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "The doorway effect is documented in lab studies, but researchers still debate the exact mechanism (event boundaries vs. context change). Returning to the original room to restore context cues is supported by broader research on context-dependent memory, not just this study.",
+  "accuracy_note": "CONTESTED / MIXED. Radvansky et al. (2011) found the effect in real and virtual rooms; McFadyen et al. (2021) found no significant overall effect across four experiments, only increased memory errors under a working-memory load. No 'fix' is claimed, because later research found the effect even after returning to the original room (not claimed here for lack of a single verified primary source).",
   "thumbnail": {
     "lines": [
       "WHY DID I",

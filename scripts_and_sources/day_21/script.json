@@ -1,0 +1,118 @@
+{
+  "day": 21,
+  "topic": "The mere exposure effect: why you like what's familiar",
+  "title": "Why You Like What You've Seen a Lot",
+  "voiceover": "Why do you like what you've seen a lot? In 1968, Robert Zajonc proposed the mere exposure effect. Repeated exposure to something can make you like it more. Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes. His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments. In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles. Liking rose with repeated exposure, then leveled off and declined. So more exposure helps up to a point; overexposure can backfire. Their meta-analysis covered effects on liking, familiarity and recognition. So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'. Tomorrow: why do you get déjà vu?",
+  "word_count": 124,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.56,
+      "section": "hook",
+      "narration_line": "Why do you like what you've seen a lot?",
+      "on_screen_text": "Why like the familiar?",
+      "visual_description": "Same shape repeating around a stickman.",
+      "visual_spec": "think/smile/C; crowd:5@R"
+    },
+    {
+      "start_sec": 3.56,
+      "end_sec": 7.11,
+      "section": "explanation",
+      "narration_line": "In 1968, Robert Zajonc proposed the mere exposure effect.",
+      "on_screen_text": "The mere exposure effect, 1968",
+      "visual_description": "Title card MERE EXPOSURE.",
+      "visual_spec": "point/neutral/L; text:MERE EXPOSURE@R"
+    },
+    {
+      "start_sec": 7.11,
+      "end_sec": 16.2,
+      "section": "explanation",
+      "narration_line": "Repeated exposure to something can make you like it more. Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes.",
+      "on_screen_text": "Repeat exposure = more liking",
+      "visual_description": "Heart growing.",
+      "visual_spec": "stand/smile/L; text:SEEN IT AGAIN@R"
+    },
+    {
+      "start_sec": 16.2,
+      "end_sec": 22.13,
+      "section": "explanation",
+      "narration_line": "His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments.",
+      "on_screen_text": "Four kinds of evidence",
+      "visual_description": "Four labeled boxes.",
+      "visual_spec": "think/neutral/L; list:WORDS,SYMBOLS,ATTITUDES,TESTS@R"
+    },
+    {
+      "start_sec": 22.13,
+      "end_sec": 27.27,
+      "section": "explanation",
+      "narration_line": "In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles.",
+      "on_screen_text": "2017: 268 curves, 81 articles",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:81 ARTICLES@R"
+    },
+    {
+      "start_sec": 27.27,
+      "end_sec": 31.22,
+      "section": "explanation",
+      "narration_line": "Liking rose with repeated exposure, then leveled off and declined.",
+      "on_screen_text": "Rise, then decline",
+      "visual_description": "Inverted-U curve.",
+      "visual_spec": "point/neutral/L; lines:liking,exposure@R"
+    },
+    {
+      "start_sec": 31.22,
+      "end_sec": 35.56,
+      "section": "explanation",
+      "narration_line": "So more exposure helps up to a point; overexposure can backfire.",
+      "on_screen_text": "Overexposure can backfire",
+      "visual_description": "Curve peaking and falling.",
+      "visual_spec": "stand/worry/L; arrow:down@R"
+    },
+    {
+      "start_sec": 35.56,
+      "end_sec": 39.12,
+      "section": "explanation",
+      "narration_line": "Their meta-analysis covered effects on liking, familiarity and recognition.",
+      "on_screen_text": "Liking, familiarity, recognition",
+      "visual_description": "Three labels.",
+      "visual_spec": "stand/neutral/L; list:LIKING,FAMILIAR,RECOGNIZE@R"
+    },
+    {
+      "start_sec": 39.12,
+      "end_sec": 46.23,
+      "section": "takeaway",
+      "narration_line": "So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'.",
+      "on_screen_text": "Seen a lot is not good",
+      "visual_description": "Stickman separating two labels.",
+      "visual_spec": "point/smile/L; text:SEEN <> GOOD@R"
+    },
+    {
+      "start_sec": 46.23,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you get déjà vu?",
+      "on_screen_text": "Tomorrow: déjà vu",
+      "visual_description": "Repeated scene.",
+      "visual_spec": "stand/neutral/L; text:DEJA VU@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Does seeing something again and again make you like it more? Zajonc proposed the mere exposure effect in 1968, and a 2017 meta-analysis found liking rises with exposure and then levels off and declines. New psychology short every day on The Psyche Discourse. Source: Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27. Source: Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A. (2017). A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking. Psychological Bulletin, 143(5), 459-498.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#mereexposure",
+    "#familiarity",
+    "#liking",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Montoya et al. (2017) is a meta-analysis of 81 articles; shapes vary by stimulus and number of exposures. The video does not claim familiarity makes things objectively better.",
+  "thumbnail": {
+    "lines": [
+      "WHY YOU LIKE",
+      "WHAT'S FAMILIAR"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

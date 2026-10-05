@@ -1,0 +1,213 @@
+{
+  "day": 12,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do your decisions really wear your brain out?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2011, researchers studied more than 1,000 parole decisions by eight Israeli judges.",
+      "cites": [
+        "danziger2011"
+      ],
+      "sources": [
+        {
+          "id": "danziger2011",
+          "authors": "Danziger, S., Levav, J., & Avnaim-Pesso, L.",
+          "year": 2011,
+          "title": "Extraneous factors in judicial decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(17), 6889-6892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,000+ decisions, eight judges, ~65% favorable after break)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "After a food break, about 65 percent of cases were granted parole.",
+      "cites": [
+        "danziger2011"
+      ],
+      "sources": [
+        {
+          "id": "danziger2011",
+          "authors": "Danziger, S., Levav, J., & Avnaim-Pesso, L.",
+          "year": 2011,
+          "title": "Extraneous factors in judicial decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(17), 6889-6892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,000+ decisions, eight judges, ~65% favorable after break)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Then the rate fell gradually, sometimes to nearly zero, until the next break.",
+      "cites": [
+        "danziger2011"
+      ],
+      "sources": [
+        {
+          "id": "danziger2011",
+          "authors": "Danziger, S., Levav, J., & Avnaim-Pesso, L.",
+          "year": 2011,
+          "title": "Extraneous factors in judicial decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(17), 6889-6892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,000+ decisions, eight judges, ~65% favorable after break)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "The authors argued that irrelevant factors, like breaks, influence rulings.",
+      "cites": [
+        "danziger2011"
+      ],
+      "sources": [
+        {
+          "id": "danziger2011",
+          "authors": "Danziger, S., Levav, J., & Avnaim-Pesso, L.",
+          "year": 2011,
+          "title": "Extraneous factors in judicial decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(17), 6889-6892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,000+ decisions, eight judges, ~65% favorable after break)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "But Keren Weinshall-Margel and John Shapard replied that case order isn't random.",
+      "cites": [
+        "weinshall2011"
+      ],
+      "sources": [
+        {
+          "id": "weinshall2011",
+          "authors": "Weinshall-Margel, K., & Shapard, J.",
+          "year": 2011,
+          "title": "Overlooked factors in the analysis of parole decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(42), E833",
+          "url": "https://cris.huji.ac.il/en/publications/overlooked-factors-in-the-analysis-of-parole-decisions/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "They argued the pattern is likely an artifact of how cases were ordered.",
+      "cites": [
+        "weinshall2011"
+      ],
+      "sources": [
+        {
+          "id": "weinshall2011",
+          "authors": "Weinshall-Margel, K., & Shapard, J.",
+          "year": 2011,
+          "title": "Overlooked factors in the analysis of parole decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(42), E833",
+          "url": "https://cris.huji.ac.il/en/publications/overlooked-factors-in-the-analysis-of-parole-decisions/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In a 2016 test across 23 labs and 2,141 people, the related ego-depletion effect was close to zero.",
+      "cites": [
+        "hagger2016"
+      ],
+      "sources": [
+        {
+          "id": "hagger2016",
+          "authors": "Hagger, M. S., Chatzisarantis, N. L. D., et al.",
+          "year": 2016,
+          "title": "A multilab preregistered replication of the ego-depletion effect",
+          "venue": "Perspectives on Psychological Science, 11(4), 546-573",
+          "url": "https://research.tilburguniversity.edu/en/publications/a-multi-lab-pre-registered-replication-of-the-ego-depletion-effec/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (23 labs, N = 2,141, d = 0.04, CI includes zero)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So decision fatigue isn't settled science.",
+      "cites": [
+        "danziger2011",
+        "weinshall2011",
+        "hagger2016"
+      ],
+      "sources": [
+        {
+          "id": "danziger2011",
+          "authors": "Danziger, S., Levav, J., & Avnaim-Pesso, L.",
+          "year": 2011,
+          "title": "Extraneous factors in judicial decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(17), 6889-6892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,000+ decisions, eight judges, ~65% favorable after break)"
+        },
+        {
+          "id": "weinshall2011",
+          "authors": "Weinshall-Margel, K., & Shapard, J.",
+          "year": 2011,
+          "title": "Overlooked factors in the analysis of parole decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(42), E833",
+          "url": "https://cris.huji.ac.il/en/publications/overlooked-factors-in-the-analysis-of-parole-decisions/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        },
+        {
+          "id": "hagger2016",
+          "authors": "Hagger, M. S., Chatzisarantis, N. L. D., et al.",
+          "year": 2016,
+          "title": "A multilab preregistered replication of the ego-depletion effect",
+          "venue": "Perspectives on Psychological Science, 11(4), 546-573",
+          "url": "https://research.tilburguniversity.edu/en/publications/a-multi-lab-pre-registered-replication-of-the-ego-depletion-effec/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (23 labs, N = 2,141, d = 0.04, CI includes zero)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So be careful with claims that your brain simply runs out of decision power.",
+      "cites": [
+        "hagger2016",
+        "weinshall2011"
+      ],
+      "sources": [
+        {
+          "id": "hagger2016",
+          "authors": "Hagger, M. S., Chatzisarantis, N. L. D., et al.",
+          "year": 2016,
+          "title": "A multilab preregistered replication of the ego-depletion effect",
+          "venue": "Perspectives on Psychological Science, 11(4), 546-573",
+          "url": "https://research.tilburguniversity.edu/en/publications/a-multi-lab-pre-registered-replication-of-the-ego-depletion-effec/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (23 labs, N = 2,141, d = 0.04, CI includes zero)"
+        },
+        {
+          "id": "weinshall2011",
+          "authors": "Weinshall-Margel, K., & Shapard, J.",
+          "year": 2011,
+          "title": "Overlooked factors in the analysis of parole decisions",
+          "venue": "Proceedings of the National Academy of Sciences, 108(42), E833",
+          "url": "https://cris.huji.ac.il/en/publications/overlooked-factors-in-the-analysis-of-parole-decisions/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why do you finish a bad movie you're already hating?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

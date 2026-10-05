@@ -1,0 +1,165 @@
+{
+  "day": 2,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do you think everyone noticed that mistake?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2000, psychologist Thomas Gilovich and colleagues published the first empirical evidence of the spotlight effect.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Students wore an embarrassing Barry Manilow T-shirt into a room of other students.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The wearers guessed that about 46 percent of the others would notice the shirt.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In reality, only about 23 percent did.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "That means they overestimated by about double.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Researchers call this the spotlight effect: we overestimate how much others notice us.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "They attribute it to egocentrism: you experience your own flaws so intensely that you assume others do too.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Next time you feel watched, remember the shirt study: people notice you roughly half as much as you expect.",
+      "cites": [
+        "gilovich2000"
+      ],
+      "sources": [
+        {
+          "id": "gilovich2000",
+          "authors": "Gilovich, T., Medvec, V. H., & Savitsky, K.",
+          "year": 2000,
+          "title": "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance",
+          "venue": "Journal of Personality and Social Psychology, 78(2), 211-222",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (46% predicted vs 23% observed)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Tomorrow: why does $9.99 feel so much cheaper than $10?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

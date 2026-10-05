@@ -1,0 +1,136 @@
+{
+  "day": 25,
+  "topic": "Hindsight bias: 'I knew it all along'",
+  "title": "'I Knew It All Along': The Hindsight Trap",
+  "voiceover": "Do you ever say, 'I knew it all along'? In 1975, Baruch Fischhoff studied what happens when people learn an outcome. Knowing the outcome made them judge it as more likely. People were largely unaware of this effect. So they overestimated what they would have known without the outcome. They also overestimated what others actually knew beforehand. In 2012, Neal Roese and Kathleen Vohs reviewed the research. Roese and Vohs say it is the first overview to draw on research across disciplines. They proposed three levels of hindsight bias, from memory distortion to higher-level belief. The first is misremembering what you predicted. So when you feel 'I knew it', check whether you wrote down what you actually predicted. Tomorrow: what does multitasking really cost you?",
+  "word_count": 125,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.53,
+      "section": "hook",
+      "narration_line": "Do you ever say, 'I knew it all along'?",
+      "on_screen_text": "'I knew it all along'",
+      "visual_description": "Smug stickman after the fact.",
+      "visual_spec": "stand/smile/C; bubble:knew it@R"
+    },
+    {
+      "start_sec": 3.53,
+      "end_sec": 8.23,
+      "section": "explanation",
+      "narration_line": "In 1975, Baruch Fischhoff studied what happens when people learn an outcome.",
+      "on_screen_text": "1975: learning the outcome",
+      "visual_description": "Outcome card revealed.",
+      "visual_spec": "point/neutral/L; text:1975@TR; text:OUTCOME@R"
+    },
+    {
+      "start_sec": 8.23,
+      "end_sec": 12.15,
+      "section": "explanation",
+      "narration_line": "Knowing the outcome made them judge it as more likely.",
+      "on_screen_text": "Outcome seems more likely",
+      "visual_description": "Probability bar rising.",
+      "visual_spec": "stand/neutral/L; bars:before,after@R"
+    },
+    {
+      "start_sec": 12.15,
+      "end_sec": 14.9,
+      "section": "explanation",
+      "narration_line": "People were largely unaware of this effect.",
+      "on_screen_text": "Largely unaware",
+      "visual_description": "Eye with a blind spot.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 14.9,
+      "end_sec": 19.21,
+      "section": "explanation",
+      "narration_line": "So they overestimated what they would have known without the outcome.",
+      "on_screen_text": "Overestimated what they'd have known",
+      "visual_description": "Bars: actual low, guessed high.",
+      "visual_spec": "think/neutral/L; bars:would have known,guessed@R"
+    },
+    {
+      "start_sec": 19.21,
+      "end_sec": 22.34,
+      "section": "explanation",
+      "narration_line": "They also overestimated what others actually knew beforehand.",
+      "on_screen_text": "Also overestimated others",
+      "visual_description": "Crowd with thought bubbles.",
+      "visual_spec": "stand/neutral/L; crowd:4@R"
+    },
+    {
+      "start_sec": 22.34,
+      "end_sec": 26.26,
+      "section": "explanation",
+      "narration_line": "In 2012, Neal Roese and Kathleen Vohs reviewed the research.",
+      "on_screen_text": "2012 review",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:2012@TR"
+    },
+    {
+      "start_sec": 26.26,
+      "end_sec": 32.14,
+      "section": "explanation",
+      "narration_line": "Roese and Vohs say it is the first overview to draw on research across disciplines.",
+      "on_screen_text": "First cross-discipline overview",
+      "visual_description": "Several discipline icons.",
+      "visual_spec": "point/neutral/L; list:PSYCH,LAW,MED@R"
+    },
+    {
+      "start_sec": 32.14,
+      "end_sec": 37.24,
+      "section": "explanation",
+      "narration_line": "They proposed three levels of hindsight bias, from memory distortion to higher-level belief.",
+      "on_screen_text": "Three levels of hindsight bias",
+      "visual_description": "Three stacked boxes.",
+      "visual_spec": "stand/neutral/L; list:MEMORY,INFERENCE,BELIEF@R"
+    },
+    {
+      "start_sec": 37.24,
+      "end_sec": 39.98,
+      "section": "explanation",
+      "narration_line": "The first is misremembering what you predicted.",
+      "on_screen_text": "Level 1: misremembering your prediction",
+      "visual_description": "Fading note.",
+      "visual_spec": "think/worry/L; bubble:I said...@TR"
+    },
+    {
+      "start_sec": 39.98,
+      "end_sec": 46.26,
+      "section": "takeaway",
+      "narration_line": "So when you feel 'I knew it', check whether you wrote down what you actually predicted.",
+      "on_screen_text": "Check what you actually wrote",
+      "visual_description": "Stickman checking a note.",
+      "visual_spec": "point/smile/L; list:NOTE@R; check@TR"
+    },
+    {
+      "start_sec": 46.26,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what does multitasking really cost you?",
+      "on_screen_text": "Tomorrow: multitasking",
+      "visual_description": "Stickman juggling.",
+      "visual_spec": "stand/worry/L; text:MULTITASK@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Do you really know it all along? Fischhoff's 1975 experiments showed that learning an outcome makes it seem more likely, and people overestimate what they knew beforehand. New psychology short every day on The Psyche Discourse. Source: Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299. Source: Roese, N. J., & Vohs, K. D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411-426.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#hindsightbias",
+    "#cognitivebias",
+    "#memory",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Fischhoff's 1975 findings are from lab judgment tasks; Roese & Vohs (2012) review the broader literature and propose three levels of hindsight bias. The video's takeaway about checking written predictions is an application of the memory-distortion level, not a tested intervention.",
+  "thumbnail": {
+    "lines": [
+      "I KNEW IT",
+      "ALL ALONG?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "day": 9,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do stores show you a big number first?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Then they asked what percentage of African countries are in the United Nations.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "People who saw the number 10 guessed about 25 percent.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "People who saw 65 guessed about 45 percent.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "A random, irrelevant number pulled their estimates toward it.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "This is called anchoring.",
+      "cites": [
+        "tversky1974"
+      ],
+      "sources": [
+        {
+          "id": "tversky1974",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1974,
+          "title": "Judgment under uncertainty: Heuristics and biases",
+          "venue": "Science, 185(4157), 1124-1131",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Anchors matter in negotiations too.",
+      "cites": [
+        "galinsky2001"
+      ],
+      "sources": [
+        {
+          "id": "galinsky2001",
+          "authors": "Galinsky, A. D., & Mussweiler, T.",
+          "year": 2001,
+          "title": "First offers as anchors: The role of perspective-taking and negotiator focus",
+          "venue": "Journal of Personality and Social Psychology, 81(4), 657-669",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11642352",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "In three experiments, whoever made the first offer got a better outcome.",
+      "cites": [
+        "galinsky2001"
+      ],
+      "sources": [
+        {
+          "id": "galinsky2001",
+          "authors": "Galinsky, A. D., & Mussweiler, T.",
+          "year": 2001,
+          "title": "First offers as anchors: The role of perspective-taking and negotiator focus",
+          "venue": "Journal of Personality and Social Psychology, 81(4), 657-669",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11642352",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "But when the other side thought about their own alternatives, the first-offer advantage disappeared.",
+      "cites": [
+        "galinsky2001"
+      ],
+      "sources": [
+        {
+          "id": "galinsky2001",
+          "authors": "Galinsky, A. D., & Mussweiler, T.",
+          "year": 2001,
+          "title": "First offers as anchors: The role of perspective-taking and negotiator focus",
+          "venue": "Journal of Personality and Social Psychology, 81(4), 657-669",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11642352",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So when someone makes the first offer, think about your own target and their alternatives before you answer.",
+      "cites": [
+        "galinsky2001"
+      ],
+      "sources": [
+        {
+          "id": "galinsky2001",
+          "authors": "Galinsky, A. D., & Mussweiler, T.",
+          "year": 2001,
+          "title": "First offers as anchors: The role of perspective-taking and negotiator focus",
+          "venue": "Journal of Personality and Social Psychology, 81(4), 657-669",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11642352",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: why do you forget why you walked into a room?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

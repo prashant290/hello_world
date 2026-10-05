@@ -1,0 +1,183 @@
+{
+  "day": 22,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why does a new place feel strangely familiar?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "Déjà vu is common: about 60 percent of people have experienced it.",
+      "cites": [
+        "brown2003"
+      ],
+      "sources": [
+        {
+          "id": "brown2003",
+          "authors": "Brown, A. S.",
+          "year": 2003,
+          "title": "A review of the déjà vu experience",
+          "venue": "Psychological Bulletin, 129(3), 394-413",
+          "url": "https://www.ovid.com/journals/plbul/fulltext/00006823-200305000-00004~a-review-of-the-dj-vu-experience",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about 60% report it; four explanation categories)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "In 2003, Alan Brown reviewed the research in Psychological Bulletin.",
+      "cites": [
+        "brown2003"
+      ],
+      "sources": [
+        {
+          "id": "brown2003",
+          "authors": "Brown, A. S.",
+          "year": 2003,
+          "title": "A review of the déjà vu experience",
+          "venue": "Psychological Bulletin, 129(3), 394-413",
+          "url": "https://www.ovid.com/journals/plbul/fulltext/00006823-200305000-00004~a-review-of-the-dj-vu-experience",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about 60% report it; four explanation categories)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "He found explanations fall into four groups: dual processing, neurological, memory and attentional.",
+      "cites": [
+        "brown2003"
+      ],
+      "sources": [
+        {
+          "id": "brown2003",
+          "authors": "Brown, A. S.",
+          "year": 2003,
+          "title": "A review of the déjà vu experience",
+          "venue": "Psychological Bulletin, 129(3), 394-413",
+          "url": "https://www.ovid.com/journals/plbul/fulltext/00006823-200305000-00004~a-review-of-the-dj-vu-experience",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about 60% report it; four explanation categories)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "That means researchers still have several competing explanations.",
+      "cites": [
+        "brown2003"
+      ],
+      "sources": [
+        {
+          "id": "brown2003",
+          "authors": "Brown, A. S.",
+          "year": 2003,
+          "title": "A review of the déjà vu experience",
+          "venue": "Psychological Bulletin, 129(3), 394-413",
+          "url": "https://www.ovid.com/journals/plbul/fulltext/00006823-200305000-00004~a-review-of-the-dj-vu-experience",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (about 60% report it; four explanation categories)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "One memory-based idea is that a scene resembles one you've seen before, but you can't recall it.",
+      "cites": [
+        "cleary2012"
+      ],
+      "sources": [
+        {
+          "id": "cleary2012",
+          "authors": "Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J.",
+          "year": 2012,
+          "title": "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation",
+          "venue": "Consciousness and Cognition, 21(2), 969-975",
+          "url": "https://newsmediarelations.colostate.edu/2012/05/23/spatial-configuration-can-spark-deja-vu-colorado-state-university-psychology-study-reveals/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (press release + citation; study design confirmed)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2012, Anne Cleary's team tested it in virtual reality.",
+      "cites": [
+        "cleary2012"
+      ],
+      "sources": [
+        {
+          "id": "cleary2012",
+          "authors": "Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J.",
+          "year": 2012,
+          "title": "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation",
+          "venue": "Consciousness and Cognition, 21(2), 969-975",
+          "url": "https://newsmediarelations.colostate.edu/2012/05/23/spatial-configuration-can-spark-deja-vu-colorado-state-university-psychology-study-reveals/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (press release + citation; study design confirmed)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Scenes with the same layout as an earlier scene felt more familiar when people couldn't recall that earlier scene.",
+      "cites": [
+        "cleary2012"
+      ],
+      "sources": [
+        {
+          "id": "cleary2012",
+          "authors": "Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J.",
+          "year": 2012,
+          "title": "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation",
+          "venue": "Consciousness and Cognition, 21(2), 969-975",
+          "url": "https://newsmediarelations.colostate.edu/2012/05/23/spatial-configuration-can-spark-deja-vu-colorado-state-university-psychology-study-reveals/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (press release + citation; study design confirmed)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "They also reported more déjà vu.",
+      "cites": [
+        "cleary2012"
+      ],
+      "sources": [
+        {
+          "id": "cleary2012",
+          "authors": "Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J.",
+          "year": 2012,
+          "title": "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation",
+          "venue": "Consciousness and Cognition, 21(2), 969-975",
+          "url": "https://newsmediarelations.colostate.edu/2012/05/23/spatial-configuration-can-spark-deja-vu-colorado-state-university-psychology-study-reveals/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (press release + citation; study design confirmed)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So déjà vu may be a familiarity signal firing without a memory to go with it.",
+      "cites": [
+        "cleary2012"
+      ],
+      "sources": [
+        {
+          "id": "cleary2012",
+          "authors": "Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J.",
+          "year": 2012,
+          "title": "Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation",
+          "venue": "Consciousness and Cognition, 21(2), 969-975",
+          "url": "https://newsmediarelations.colostate.edu/2012/05/23/spatial-configuration-can-spark-deja-vu-colorado-state-university-psychology-study-reveals/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (press release + citation; study design confirmed)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do search engines change how you remember?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

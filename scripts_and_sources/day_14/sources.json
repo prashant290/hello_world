@@ -1,0 +1,165 @@
+{
+  "day": 14,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do you assume attractive people are better people?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1920, psychologist Edward Thorndike asked military officers to rate their soldiers.",
+      "cites": [
+        "thorndike1920"
+      ],
+      "sources": [
+        {
+          "id": "thorndike1920",
+          "authors": "Thorndike, E. L.",
+          "year": 1920,
+          "title": "A constant error in psychological ratings",
+          "venue": "Journal of Applied Psychology, 4(1), 25-29",
+          "url": "https://www.Gwern.net/doc/psychology/personality/1920-thorndike.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (officers rating soldiers; term 'halo')"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "The ratings were supposed to be independent: physique, intelligence, leadership and character.",
+      "cites": [
+        "thorndike1920"
+      ],
+      "sources": [
+        {
+          "id": "thorndike1920",
+          "authors": "Thorndike, E. L.",
+          "year": 1920,
+          "title": "A constant error in psychological ratings",
+          "venue": "Journal of Applied Psychology, 4(1), 25-29",
+          "url": "https://www.Gwern.net/doc/psychology/personality/1920-thorndike.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (officers rating soldiers; term 'halo')"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Soldiers rated as physically impressive were also rated as more intelligent, better leaders and finer in character.",
+      "cites": [
+        "thorndike1920"
+      ],
+      "sources": [
+        {
+          "id": "thorndike1920",
+          "authors": "Thorndike, E. L.",
+          "year": 1920,
+          "title": "A constant error in psychological ratings",
+          "venue": "Journal of Applied Psychology, 4(1), 25-29",
+          "url": "https://www.Gwern.net/doc/psychology/personality/1920-thorndike.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (officers rating soldiers; term 'halo')"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Thorndike called this a halo.",
+      "cites": [
+        "thorndike1920"
+      ],
+      "sources": [
+        {
+          "id": "thorndike1920",
+          "authors": "Thorndike, E. L.",
+          "year": 1920,
+          "title": "A constant error in psychological ratings",
+          "venue": "Journal of Applied Psychology, 4(1), 25-29",
+          "url": "https://www.Gwern.net/doc/psychology/personality/1920-thorndike.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (officers rating soldiers; term 'halo')"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities.",
+      "cites": [
+        "dion1972"
+      ],
+      "sources": [
+        {
+          "id": "dion1972",
+          "authors": "Dion, K., Berscheid, E., & Walster, E.",
+          "year": 1972,
+          "title": "What is beautiful is good",
+          "venue": "Journal of Personality and Social Psychology, 24(3), 285-290",
+          "url": "https://garfield.library.upenn.edu/classics1990/A1990EH31100001.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies.",
+      "cites": [
+        "eagly1991"
+      ],
+      "sources": [
+        {
+          "id": "eagly1991",
+          "authors": "Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C.",
+          "year": 1991,
+          "title": "What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype",
+          "venue": "Psychological Bulletin, 110(1), 109-128",
+          "url": "https://data.gesis.org/gesiskg/resource/zis-EaglyAshmoreMakhijani1991What",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Attractive people were rated as more socially competent and better adjusted, on average.",
+      "cites": [
+        "eagly1991"
+      ],
+      "sources": [
+        {
+          "id": "eagly1991",
+          "authors": "Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C.",
+          "year": 1991,
+          "title": "What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype",
+          "venue": "Psychological Bulletin, 110(1), 109-128",
+          "url": "https://data.gesis.org/gesiskg/resource/zis-EaglyAshmoreMakhijani1991What",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when someone seems impressive in one way, ask what you actually know about the rest.",
+      "cites": [
+        "thorndike1920"
+      ],
+      "sources": [
+        {
+          "id": "thorndike1920",
+          "authors": "Thorndike, E. L.",
+          "year": 1920,
+          "title": "A constant error in psychological ratings",
+          "venue": "Journal of Applied Psychology, 4(1), 25-29",
+          "url": "https://www.Gwern.net/doc/psychology/personality/1920-thorndike.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (officers rating soldiers; term 'halo')"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do you love things you built yourself?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

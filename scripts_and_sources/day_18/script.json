@@ -1,0 +1,118 @@
+{
+  "day": 18,
+  "topic": "Negativity bias: why bad news grabs your attention",
+  "title": "Why Bad News Grabs Your Attention",
+  "voiceover": "Why does bad news grab your attention? In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents. They measured the bodily reactions of 1,156 people watching real news videos. On average, negative stories produced stronger physiological activation than positive ones. But individuals varied a lot in how strongly they reacted. In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read. Even when people said they wanted good news, their choices leaned negative. The authors argue that demand, not just editors, helps explain why news is negative. So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally. Tomorrow: how can a menu option you never order change what you pick?",
+  "word_count": 131,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.62,
+      "section": "hook",
+      "narration_line": "Why does bad news grab your attention?",
+      "on_screen_text": "Why bad news?",
+      "visual_description": "Stickman staring at a siren headline.",
+      "visual_spec": "shock/worry/C; text:BAD NEWS@R"
+    },
+    {
+      "start_sec": 2.62,
+      "end_sec": 8.23,
+      "section": "explanation",
+      "narration_line": "In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents.",
+      "on_screen_text": "2019: 17 countries",
+      "visual_description": "Globe with 17.",
+      "visual_spec": "stand/neutral/L; text:17 COUNTRIES@R"
+    },
+    {
+      "start_sec": 8.23,
+      "end_sec": 12.72,
+      "section": "explanation",
+      "narration_line": "They measured the bodily reactions of 1,156 people watching real news videos.",
+      "on_screen_text": "1,156 people, real news",
+      "visual_description": "Sensor on a viewer.",
+      "visual_spec": "stand/neutral/L; text:1,156@R"
+    },
+    {
+      "start_sec": 12.72,
+      "end_sec": 16.83,
+      "section": "explanation",
+      "narration_line": "On average, negative stories produced stronger physiological activation than positive ones.",
+      "on_screen_text": "Negative = stronger reaction",
+      "visual_description": "Bars: negative higher.",
+      "visual_spec": "point/neutral/L; bars:positive,negative@R"
+    },
+    {
+      "start_sec": 16.83,
+      "end_sec": 20.57,
+      "section": "explanation",
+      "narration_line": "But individuals varied a lot in how strongly they reacted.",
+      "on_screen_text": "People varied a lot",
+      "visual_description": "Scatter of different heights.",
+      "visual_spec": "shrug/neutral/L; bars:person A,person B@R"
+    },
+    {
+      "start_sec": 20.57,
+      "end_sec": 26.93,
+      "section": "explanation",
+      "narration_line": "In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read.",
+      "on_screen_text": "2014: people choose stories",
+      "visual_description": "Menu of headlines.",
+      "visual_spec": "think/neutral/L; list:GOOD,BAD,OTHER@R"
+    },
+    {
+      "start_sec": 26.93,
+      "end_sec": 31.42,
+      "section": "explanation",
+      "narration_line": "Even when people said they wanted good news, their choices leaned negative.",
+      "on_screen_text": "Said good, chose bad",
+      "visual_description": "Arrow toward BAD.",
+      "visual_spec": "stand/worry/L; arrow:right@R; text:BAD@TR"
+    },
+    {
+      "start_sec": 31.42,
+      "end_sec": 36.66,
+      "section": "explanation",
+      "narration_line": "The authors argue that demand, not just editors, helps explain why news is negative.",
+      "on_screen_text": "Demand helps explain it",
+      "visual_description": "Readers as a crowd.",
+      "visual_spec": "stand/neutral/L; crowd:4@R"
+    },
+    {
+      "start_sec": 36.66,
+      "end_sec": 44.14,
+      "section": "takeaway",
+      "narration_line": "So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally.",
+      "on_screen_text": "A common bias, not universal",
+      "visual_description": "Stickman noticing the pull.",
+      "visual_spec": "point/smile/L; text:NOTICE IT@R"
+    },
+    {
+      "start_sec": 44.14,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: how can a menu option you never order change what you pick?",
+      "on_screen_text": "Tomorrow: the decoy effect",
+      "visual_description": "Menu with three options.",
+      "visual_spec": "stand/neutral/L; list:S,M,L@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why does bad news pull you in? A 17-country lab study found negative news produced stronger physiological reactions on average, and a separate study found people's choices leaned negative. New psychology short every day on The Psyche Discourse. Source: Soroka, S., Fournier, P., & Nir, L. (2019). Cross-national evidence of a negativity bias in psychophysiological reactions to news. Proceedings of the National Academy of Sciences, 116(38), 18888-18892. Source: Trussler, M., & Soroka, S. (2014). Consumer demand for cynical and negative news frames. International Journal of Press/Politics, 19(3), 360-379.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#negativitybias",
+    "#news",
+    "#attention",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Soroka et al. (2019) measured bodily responses in lab settings and found large individual differences. Trussler & Soroka (2014) found politically interested participants were more likely to select negative stories. Neither study shows everyone prefers bad news.",
+  "thumbnail": {
+    "lines": [
+      "WHY BAD NEWS",
+      "GRABS YOU"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

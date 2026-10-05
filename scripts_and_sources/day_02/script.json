@@ -2,13 +2,12 @@
   "day": 2,
   "topic": "The spotlight effect: nobody's watching you as much as you think",
   "title": "Nobody's Watching You As Much As You Think",
-  "voiceover": "Do you think everyone noticed that mistake? Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience. In 2000, Thomas Gilovich and colleagues had students wear an embarrassing Barry Manilow T-shirt into a room of other students. The wearers guessed about half the people would notice it. Only around a quarter actually did. Why? You're the star of your own experience, so your flaws feel huge. Everyone else is busy starring in theirs. Your own embarrassment feels loud, but other people can't hear it. Before your next big moment, ask: if I saw this happen to someone else, would I remember it tomorrow? Probably not. Then go ahead and take the stage. Tomorrow: the sneaky reason a price ending in nine feels so much cheaper.",
-  "word_count": 132,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Do you think everyone noticed that mistake? In 2000, psychologist Thomas Gilovich and colleagues published the first empirical evidence of the spotlight effect. Students wore an embarrassing Barry Manilow T-shirt into a room of other students. The wearers guessed that about 46 percent of the others would notice the shirt. In reality, only about 23 percent did. That means they overestimated by about double. Researchers call this the spotlight effect: we overestimate how much others notice us. They attribute it to egocentrism: you experience your own flaws so intensely that you assume others do too. Next time you feel watched, remember the shirt study: people notice you roughly half as much as you expect. Tomorrow: why does $9.99 feel so much cheaper than $10?",
+  "word_count": 124,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.6,
+      "end_sec": 2.77,
       "section": "hook",
       "narration_line": "Do you think everyone noticed that mistake?",
       "on_screen_text": "Did everyone notice?",
@@ -16,79 +15,79 @@
       "visual_spec": "shock/worry/C; spotlight@C"
     },
     {
-      "start_sec": 2.6,
-      "end_sec": 8.91,
+      "start_sec": 2.77,
+      "end_sec": 9.09,
       "section": "explanation",
-      "narration_line": "Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience.",
-      "on_screen_text": "The spotlight effect",
-      "visual_description": "Stickman alone under a spotlight, then the view zooms out to show an ordinary audience seat.",
-      "visual_spec": "stand/worry/L; spotlight@L; text:SPOTLIGHT EFFECT@TR"
+      "narration_line": "In 2000, psychologist Thomas Gilovich and colleagues published the first empirical evidence of the spotlight effect.",
+      "on_screen_text": "The spotlight effect, 2000",
+      "visual_description": "Title card 'SPOTLIGHT EFFECT' above a stickman in a light cone.",
+      "visual_spec": "stand/neutral/L; spotlight@L; text:SPOTLIGHT EFFECT@TR"
     },
     {
-      "start_sec": 8.91,
-      "end_sec": 16.33,
+      "start_sec": 9.09,
+      "end_sec": 14.23,
       "section": "explanation",
-      "narration_line": "In 2000, Thomas Gilovich and colleagues had students wear an embarrassing Barry Manilow T-shirt into a room of other students.",
-      "on_screen_text": "The embarrassing T-shirt study",
+      "narration_line": "Students wore an embarrassing Barry Manilow T-shirt into a room of other students.",
+      "on_screen_text": "The embarrassing T-shirt",
       "visual_description": "Stickman in a goofy T-shirt entering a room of tiny stickmen.",
       "visual_spec": "walk/worry/L; tshirt:BARRY@R; crowd:4@B"
     },
     {
-      "start_sec": 16.33,
-      "end_sec": 22.27,
+      "start_sec": 14.23,
+      "end_sec": 19.76,
       "section": "explanation",
-      "narration_line": "The wearers guessed about half the people would notice it. Only around a quarter actually did.",
-      "on_screen_text": "Guessed 50%. Actual: 25%",
-      "visual_description": "Two bars: 'predicted ~50%' tall, 'noticed ~25%' short.",
-      "visual_spec": "point/neutral/L; bars:guessed=50%,actual=25%@R"
+      "narration_line": "The wearers guessed that about 46 percent of the others would notice the shirt.",
+      "on_screen_text": "They guessed 46%",
+      "visual_description": "Tall bar labeled 'guessed 46%'.",
+      "visual_spec": "think/worry/L; bars:guessed=46%,actual=23%@R"
     },
     {
-      "start_sec": 22.27,
-      "end_sec": 29.7,
+      "start_sec": 19.76,
+      "end_sec": 25.29,
       "section": "explanation",
-      "narration_line": "Why? You're the star of your own experience, so your flaws feel huge. Everyone else is busy starring in theirs.",
-      "on_screen_text": "Everyone's busy with their own show",
-      "visual_description": "Crowd of stickmen each with a personal tiny spotlight over their own head.",
-      "visual_spec": "stand/smile/L; crowd:5@R"
+      "narration_line": "In reality, only about 23 percent did. That means they overestimated by about double.",
+      "on_screen_text": "Actually: 23%",
+      "visual_description": "Short bar labeled 'noticed 23%' next to the tall one.",
+      "visual_spec": "point/neutral/L; bars:guessed=46%,actual=23%@R"
     },
     {
-      "start_sec": 29.7,
-      "end_sec": 33.78,
+      "start_sec": 25.29,
+      "end_sec": 30.43,
       "section": "explanation",
-      "narration_line": "Your own embarrassment feels loud, but other people can't hear it.",
-      "on_screen_text": "Loud to you. Silent to them.",
-      "visual_description": "Speaker icon blaring beside the stickman while the crowd hears nothing.",
-      "visual_spec": "shrug/neutral/L; text:LOUD TO YOU@TR"
+      "narration_line": "Researchers call this the spotlight effect: we overestimate how much others notice us.",
+      "on_screen_text": "We overestimate attention",
+      "visual_description": "Stickman in a spotlight; crowd looks elsewhere.",
+      "visual_spec": "stand/smile/L; spotlight@L"
     },
     {
-      "start_sec": 33.78,
-      "end_sec": 40.83,
+      "start_sec": 30.43,
+      "end_sec": 37.54,
+      "section": "explanation",
+      "narration_line": "They attribute it to egocentrism: you experience your own flaws so intensely that you assume others do too.",
+      "on_screen_text": "Egocentrism",
+      "visual_description": "Stickman is the big star of his own show; others are small.",
+      "visual_spec": "shrug/neutral/L; crowd:5@R"
+    },
+    {
+      "start_sec": 37.54,
+      "end_sec": 45.05,
       "section": "takeaway",
-      "narration_line": "Before your next big moment, ask: if I saw this happen to someone else, would I remember it tomorrow?",
-      "on_screen_text": "Would you remember it?",
-      "visual_description": "Stickman in thought, a thought bubble showing a stranger tripping.",
-      "visual_spec": "think/neutral/L; bubble:would I remember?@TR"
+      "narration_line": "Next time you feel watched, remember the shirt study: people notice you roughly half as much as you expect.",
+      "on_screen_text": "Roughly half as much",
+      "visual_description": "Two bars side by side, expected and real.",
+      "visual_spec": "walk/smile/L; bars:expected=46%,real=23%@R"
     },
     {
-      "start_sec": 40.83,
-      "end_sec": 44.17,
-      "section": "takeaway",
-      "narration_line": "Probably not. Then go ahead and take the stage.",
-      "on_screen_text": "Probably not. Go.",
-      "visual_description": "Stickman strides onto a stage confidently.",
-      "visual_spec": "walk/smile/L; spotlight@R"
-    },
-    {
-      "start_sec": 44.17,
+      "start_sec": 45.05,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: the sneaky reason a price ending in nine feels so much cheaper.",
+      "narration_line": "Tomorrow: why does $9.99 feel so much cheaper than $10?",
       "on_screen_text": "Tomorrow: $9.99",
       "visual_description": "A price tag reading $9.99 with a sly eye.",
       "visual_spec": "stand/smile/L; tag:$9.99@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Think everyone noticed your slip-up? In a classic study, people wearing an embarrassing T-shirt guessed about twice as many observers would notice it as actually did. New psychology short every day on The Psyche Discourse. Source: Gilovich, Medvec & Savitsky (2000), 'The spotlight effect in social judgment', Journal of Personality and Social Psychology.",
+  "description": "Do you think everyone noticed your slip-up? In a classic study, people wearing an embarrassing T-shirt guessed about twice as many classmates would notice it as actually did. New psychology short every day on The Psyche Discourse. Source: Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211-222.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -98,7 +97,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "Figures are approximate: in the original study wearers estimated roughly 46% of observers would notice the shirt, versus roughly 23% who did. The effect has been replicated across several tasks, but sizes vary.",
+  "accuracy_note": "Percentages (46% predicted vs 23% observed) come from secondary summaries of the paper; the PDF could not be opened from this environment. The effect was shown with college students in a lab. Egocentrism is the authors' proposed explanation.",
   "thumbnail": {
     "lines": [
       "NOBODY'S",

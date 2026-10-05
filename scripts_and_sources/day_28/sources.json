@@ -1,0 +1,165 @@
+{
+  "day": 28,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why can't you tickle yourself?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "A robot touched people's palm, or they moved a robot arm to produce the touch themselves.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "People rated self-produced touch as less ticklish, less intense and less pleasant.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "When the researchers added a delay of up to 200 milliseconds between your movement and the touch, it felt progressively more ticklish.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "They proposed that your brain predicts the sensory results of your own movements.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "That prediction helps cancel the sensation when you cause it yourself.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Brain scans showed less cerebellum activity for a movement that produced the touch than for one that didn't.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So your brain treats touches you cause differently from touches caused by someone else.",
+      "cites": [
+        "blakemore1998"
+      ],
+      "sources": [
+        {
+          "id": "blakemore1998",
+          "authors": "Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.",
+          "year": 1998,
+          "title": "Central cancellation of self-produced tickle sensation",
+          "venue": "Nature Neuroscience, 1(7), 635-640",
+          "url": "https://link.springer.com/article/10.1038/2870",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (ratings; 0-200 ms delay; cerebellum activity)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why does everything take longer than you planned?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

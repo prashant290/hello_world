@@ -1,94 +1,111 @@
 {
   "day": 6,
-  "topic": "Why you hate losing more than you love winning (loss aversion)",
+  "topic": "Loss aversion: why losses feel bigger than gains (and who disagrees)",
   "title": "Why Losing Hurts More Than Winning Feels Good",
-  "voiceover": "Why does losing hurt more than winning feels good? This is loss aversion, a core idea from Daniel Kahneman and Amos Tversky's prospect theory in 1979. In experiments, many people turn down a coin flip where they could lose $100 unless they could win roughly $200. Your brain puts a loss on the scale with extra weight. One theory is that for our ancestors, losing food or shelter cost more than gaining extra helped. Not every researcher agrees on how strong it is, though. Some argue it depends heavily on context and the stakes. To catch it, rewrite a decision as a gain instead of a loss and see if your answer changes. If it does, that's the bias talking. Tomorrow: the famous psychology effect that you've almost certainly been misquoting.",
-  "word_count": 131,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Why does losing feel worse than winning feels good? In 1979, Daniel Kahneman and Amos Tversky proposed prospect theory. One key idea is loss aversion: losses loom larger than equivalent gains. In 1992, Tversky and Kahneman estimated a loss-aversion coefficient of about 2.25. Roughly speaking, that means a loss counts about twice as much as a gain of the same size. But the idea is contested. In 2018, David Gal and Derek Rucker reviewed the evidence and concluded that losses, on balance, are not more impactful than gains. They argue the impact of losses versus gains depends on context. So treat 'losses hurt twice as much' as a debated rule of thumb, not a law. When you hear it, ask: in which situation, and compared with what? Tomorrow: do unskilled people really think they're geniuses?",
+  "word_count": 135,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.37,
+      "end_sec": 3.27,
       "section": "hook",
-      "narration_line": "Why does losing hurt more than winning feels good?",
-      "on_screen_text": "Losing hurts more",
-      "visual_description": "Stickman holding a lost coin, crying, beside a smaller won coin.",
+      "narration_line": "Why does losing feel worse than winning feels good?",
+      "on_screen_text": "Losing hurts more?",
+      "visual_description": "Stickman holding a lost coin next to a smaller won coin.",
       "visual_spec": "shock/worry/C; coin:-$20@R"
     },
     {
-      "start_sec": 3.37,
-      "end_sec": 9.73,
+      "start_sec": 3.27,
+      "end_sec": 6.9,
       "section": "explanation",
-      "narration_line": "This is loss aversion, a core idea from Daniel Kahneman and Amos Tversky's prospect theory in 1979.",
-      "on_screen_text": "Loss aversion",
-      "visual_description": "Two portraits with the title PROSPECT THEORY 1979.",
-      "visual_spec": "stand/neutral/L; text:LOSS AVERSION@TR; text:1979@R"
+      "narration_line": "In 1979, Daniel Kahneman and Amos Tversky proposed prospect theory.",
+      "on_screen_text": "Prospect theory, 1979",
+      "visual_description": "Title card PROSPECT THEORY 1979.",
+      "visual_spec": "stand/neutral/L; text:PROSPECT THEORY@TR; text:1979@R"
     },
     {
-      "start_sec": 9.73,
-      "end_sec": 17.21,
+      "start_sec": 6.9,
+      "end_sec": 11.25,
       "section": "explanation",
-      "narration_line": "In experiments, many people turn down a coin flip where they could lose $100 unless they could win roughly $200.",
-      "on_screen_text": "Lose $100? Need to win $200",
-      "visual_description": "A coin flip with two sides: -$100 and +$200.",
-      "visual_spec": "think/neutral/L; coin:-$100@R; coin:+$200@B"
-    },
-    {
-      "start_sec": 17.21,
-      "end_sec": 21.32,
-      "section": "explanation",
-      "narration_line": "Your brain puts a loss on the scale with extra weight.",
-      "on_screen_text": "Losses weigh more",
-      "visual_description": "A balance scale tipping toward the loss side.",
+      "narration_line": "One key idea is loss aversion: losses loom larger than equivalent gains.",
+      "on_screen_text": "Losses loom larger",
+      "visual_description": "Balance scale tipping toward the loss side.",
       "visual_spec": "point/neutral/L; scale@R"
     },
     {
-      "start_sec": 21.32,
-      "end_sec": 27.68,
+      "start_sec": 11.25,
+      "end_sec": 15.61,
       "section": "explanation",
-      "narration_line": "One theory is that for our ancestors, losing food or shelter cost more than gaining extra helped.",
-      "on_screen_text": "Why? Survival, maybe",
-      "visual_description": "A cave with a few food items disappearing.",
-      "visual_spec": "stand/worry/L; text:SURVIVAL@R"
+      "narration_line": "In 1992, Tversky and Kahneman estimated a loss-aversion coefficient of about 2.25.",
+      "on_screen_text": "Estimated coefficient: 2.25",
+      "visual_description": "Big number 2.25.",
+      "visual_spec": "think/neutral/L; numbers:2.25@R"
     },
     {
-      "start_sec": 27.68,
-      "end_sec": 35.16,
+      "start_sec": 15.61,
+      "end_sec": 22.14,
       "section": "explanation",
-      "narration_line": "Not every researcher agrees on how strong it is, though. Some argue it depends heavily on context and the stakes.",
-      "on_screen_text": "Strength is debated",
-      "visual_description": "Two stickmen arguing with a '?' between them.",
-      "visual_spec": "shrug/neutral/L; qmark@R; text:DEBATED@TR"
+      "narration_line": "Roughly speaking, that means a loss counts about twice as much as a gain of the same size.",
+      "on_screen_text": "Loss counts about 2x",
+      "visual_description": "Coin -$100 vs coin +$200.",
+      "visual_spec": "stand/neutral/L; coin:-$100@R; coin:+$200@B"
     },
     {
-      "start_sec": 35.16,
-      "end_sec": 42.27,
+      "start_sec": 22.14,
+      "end_sec": 23.96,
+      "section": "explanation",
+      "narration_line": "But the idea is contested.",
+      "on_screen_text": "But it's contested",
+      "visual_description": "Two stickmen arguing with a question mark between.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 23.96,
+      "end_sec": 31.94,
+      "section": "explanation",
+      "narration_line": "In 2018, David Gal and Derek Rucker reviewed the evidence and concluded that losses, on balance, are not more impactful than gains.",
+      "on_screen_text": "2018 review disagrees",
+      "visual_description": "Scale balanced evenly.",
+      "visual_spec": "stand/neutral/L; scale@R; text:2018@TR"
+    },
+    {
+      "start_sec": 31.94,
+      "end_sec": 35.93,
+      "section": "explanation",
+      "narration_line": "They argue the impact of losses versus gains depends on context.",
+      "on_screen_text": "It depends on context",
+      "visual_description": "Different scenes: shop, casino, job.",
+      "visual_spec": "shrug/smile/L; list:SHOP,JOB,GAME@R"
+    },
+    {
+      "start_sec": 35.93,
+      "end_sec": 41.74,
       "section": "takeaway",
-      "narration_line": "To catch it, rewrite a decision as a gain instead of a loss and see if your answer changes.",
-      "on_screen_text": "Flip loss into gain",
-      "visual_description": "A card flips from 'lose $10' to 'keep $10'.",
-      "visual_spec": "point/smile/L; arrow:right@R"
+      "narration_line": "So treat 'losses hurt twice as much' as a debated rule of thumb, not a law.",
+      "on_screen_text": "Debated rule of thumb",
+      "visual_description": "Rule-of-thumb ruler with a question mark.",
+      "visual_spec": "stand/smile/L; qmark@R; text:NOT A LAW@TR"
     },
     {
-      "start_sec": 42.27,
-      "end_sec": 44.89,
+      "start_sec": 41.74,
+      "end_sec": 46.1,
       "section": "takeaway",
-      "narration_line": "If it does, that's the bias talking.",
-      "on_screen_text": "That's the bias talking",
-      "visual_description": "A little devil speech bubble labeled 'bias'.",
-      "visual_spec": "stand/smile/L; bubble:bias@TR"
+      "narration_line": "When you hear it, ask: in which situation, and compared with what?",
+      "on_screen_text": "Which situation? Compared to what?",
+      "visual_description": "Stickman asking two questions.",
+      "visual_spec": "point/smile/L; text:WHEN? VS WHAT?@R"
     },
     {
-      "start_sec": 44.89,
+      "start_sec": 46.1,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: the famous psychology effect that you've almost certainly been misquoting.",
-      "on_screen_text": "Tomorrow: a misquoted effect",
-      "visual_description": "A quote bubble with a crossed-out sentence.",
-      "visual_spec": "stand/neutral/L; bubble:\"?\"@R; text:TOMORROW@TR"
+      "narration_line": "Tomorrow: do unskilled people really think they're geniuses?",
+      "on_screen_text": "Tomorrow: Dunning-Kruger",
+      "visual_description": "Quote bubble with a crown.",
+      "visual_spec": "stand/neutral/L; text:GENIUS?@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Losses tend to feel bigger than equal gains, an idea called loss aversion. Researchers still debate how strong and universal it really is. New psychology short every day on The Psyche Discourse. Source: Kahneman & Tversky (1979), 'Prospect theory: an analysis of decision under risk', Econometrica.",
+  "description": "Do losses really hurt about twice as much as equal gains? That's the classic prospect-theory idea, but a 2018 review argued the evidence doesn't support it as a general rule. New psychology short every day on The Psyche Discourse. Source: Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291. Source: Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain?. Journal of Consumer Psychology, 28(3), 497-516.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -98,7 +115,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "'Roughly twice as large' is a common estimate (about 2 to 2.5 in Tversky & Kahneman, 1992), but some researchers (e.g. Gal & Rucker, 2018) argue loss aversion is overstated or context-dependent. The evolutionary explanation is a hypothesis, not established fact.",
+  "accuracy_note": "CONTESTED. 'About twice' reflects a model parameter (2.25) fitted to certain gambling choices (Tversky & Kahneman 1992). Gal & Rucker (2018) argue evidence does not support losses being more impactful on balance and that context matters; defenders of loss aversion disagree. Video presents it as a debated rule of thumb.",
   "thumbnail": {
     "lines": [
       "LOSING",

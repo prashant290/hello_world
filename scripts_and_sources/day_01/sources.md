@@ -1,0 +1,20 @@
+# Day 1: Why That Cringe Memory Never Leaves You — source table
+
+Topic: Why embarrassing moments stay in memory (emotional memory)  
+Words: 129
+
+| # | Sentence (spoken) | Source(s) | How it was checked |
+|---|---|---|---|
+| 1 | Why do you still cringe at that embarrassing moment? | — (question; makes no claim) | n/a |
+| 2 | After an emotional experience, a brain region called the amygdala activates your stress-hormone systems. | McGaugh, J. L. (2004). *The amygdala modulates the consolidation of memories of emotionally arousing experiences*. Annual Review of Neuroscience, 27, 1-28. [link](https://annualreviews.org/content/journals/neuro/27/1) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (amygdala engages adrenergic and cortisol stress-hormone systems that promote memory storage) |
+| 3 | Neuroscientist James McGaugh argued that this signal helps the brain store the memory more strongly. | McGaugh, J. L. (2004). *The amygdala modulates the consolidation of memories of emotionally arousing experiences*. Annual Review of Neuroscience, 27, 1-28. [link](https://annualreviews.org/content/journals/neuro/27/1) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (amygdala engages adrenergic and cortisol stress-hormone systems that promote memory storage) |
+| 4 | But a strong memory is not always an accurate one. | Talarico, J. M., & Rubin, D. C. (2003). *Confidence, not consistency, characterizes flashbulb memories*. Psychological Science, 14(5), 455-461. [link](https://doi.org/10.1111/1467-9280.02453) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks) |
+| 5 | On September 12, 2001, researchers asked 54 students to record how they heard about the attacks, then retested them up to 32 weeks later. | Talarico, J. M., & Rubin, D. C. (2003). *Confidence, not consistency, characterizes flashbulb memories*. Psychological Science, 14(5), 455-461. [link](https://doi.org/10.1111/1467-9280.02453) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks) |
+| 6 | Their memories of the attacks became just as inconsistent as their memories of an everyday event. | Talarico, J. M., & Rubin, D. C. (2003). *Confidence, not consistency, characterizes flashbulb memories*. Psychological Science, 14(5), 455-461. [link](https://doi.org/10.1111/1467-9280.02453) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks) |
+| 7 | Yet only for the everyday memories did vividness and belief in accuracy fade. | Talarico, J. M., & Rubin, D. C. (2003). *Confidence, not consistency, characterizes flashbulb memories*. Psychological Science, 14(5), 455-461. [link](https://doi.org/10.1111/1467-9280.02453) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks) |
+| 8 | So when a cringe memory feels crystal clear, remember that clarity is not proof of accuracy. | Talarico, J. M., & Rubin, D. C. (2003). *Confidence, not consistency, characterizes flashbulb memories*. Psychological Science, 14(5), 455-461. [link](https://doi.org/10.1111/1467-9280.02453) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks) |
+| 9 | Tomorrow: did everyone else notice that moment as much as you think? | — (question; makes no claim) | n/a |
+
+## Caveats / contested points
+
+Flashbulb-memory study (Talarico & Rubin 2003) had 54 students at one university. The amygdala works with other brain regions; the video simplifies. McGaugh's account concerns emotional arousal in general, not embarrassment specifically.

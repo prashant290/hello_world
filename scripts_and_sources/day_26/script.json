@@ -1,0 +1,118 @@
+{
+  "day": 26,
+  "topic": "Multitasking: what task-switching really costs",
+  "title": "What Multitasking Really Costs Your Brain",
+  "voiceover": "Can you really do two things at once? In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks. Switching cost time, and the cost grew with the complexity of the task rules. In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information. But later studies didn't all find that link. A 2017 replication did find higher task-switching costs in heavy media multitaskers. And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together. For the other 97.5 percent, performance dropped. So most of us pay a cost when we switch tasks, even if a few people don't. Tomorrow: why does scarcity make things look more valuable?",
+  "word_count": 133,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.95,
+      "section": "hook",
+      "narration_line": "Can you really do two things at once?",
+      "on_screen_text": "Two things at once?",
+      "visual_description": "Stickman juggling two tasks.",
+      "visual_spec": "shock/worry/C; list:A,B@R"
+    },
+    {
+      "start_sec": 2.95,
+      "end_sec": 8.11,
+      "section": "explanation",
+      "narration_line": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks.",
+      "on_screen_text": "2001: task switching",
+      "visual_description": "Arrows swapping A and B.",
+      "visual_spec": "stand/neutral/L; text:2001@TR; list:A,B@R"
+    },
+    {
+      "start_sec": 8.11,
+      "end_sec": 13.26,
+      "section": "explanation",
+      "narration_line": "Switching cost time, and the cost grew with the complexity of the task rules.",
+      "on_screen_text": "Switching costs time",
+      "visual_description": "Clock with rising bar.",
+      "visual_spec": "think/neutral/L; clock@R"
+    },
+    {
+      "start_sec": 13.26,
+      "end_sec": 20.63,
+      "section": "explanation",
+      "narration_line": "In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information.",
+      "on_screen_text": "2009: heavy multitaskers distracted",
+      "visual_description": "Distraction bubbles.",
+      "visual_spec": "shock/neutral/L; bubble:ping!@TR"
+    },
+    {
+      "start_sec": 20.63,
+      "end_sec": 23.58,
+      "section": "explanation",
+      "narration_line": "But later studies didn't all find that link.",
+      "on_screen_text": "Later studies: mixed",
+      "visual_description": "Mixed check and cross.",
+      "visual_spec": "shrug/neutral/L; check@R; cross@TR"
+    },
+    {
+      "start_sec": 23.58,
+      "end_sec": 28.0,
+      "section": "explanation",
+      "narration_line": "A 2017 replication did find higher task-switching costs in heavy media multitaskers.",
+      "on_screen_text": "2017: higher switching costs",
+      "visual_description": "Higher bar.",
+      "visual_spec": "stand/neutral/L; bars:light,heavy@R"
+    },
+    {
+      "start_sec": 28.0,
+      "end_sec": 36.84,
+      "section": "explanation",
+      "narration_line": "And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together.",
+      "on_screen_text": "2010: 2.5% 'supertaskers'",
+      "visual_description": "Single gold star among many.",
+      "visual_spec": "stand/smile/L; text:2.5%@R"
+    },
+    {
+      "start_sec": 36.84,
+      "end_sec": 39.42,
+      "section": "explanation",
+      "narration_line": "For the other 97.5 percent, performance dropped.",
+      "on_screen_text": "Everyone else declined",
+      "visual_description": "Falling bar.",
+      "visual_spec": "stand/worry/L; arrow:down@R"
+    },
+    {
+      "start_sec": 39.42,
+      "end_sec": 45.68,
+      "section": "takeaway",
+      "narration_line": "So most of us pay a cost when we switch tasks, even if a few people don't.",
+      "on_screen_text": "Switching isn't free",
+      "visual_description": "Price tag on a switch.",
+      "visual_spec": "point/smile/L; tag:SWITCH@R"
+    },
+    {
+      "start_sec": 45.68,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why does scarcity make things look more valuable?",
+      "on_screen_text": "Tomorrow: scarcity",
+      "visual_description": "Nearly empty jar.",
+      "visual_spec": "stand/neutral/L; text:2 LEFT@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Can you really do two things at once? Switching between tasks has measurable costs, and while a small minority of 'supertaskers' show no decline, most people do. New psychology short every day on The Psyche Discourse. Source: Rubinstein, J. S., Meyer, D. E., & Evans, J. E. (2001). Executive control of cognitive processes in task switching. Journal of Experimental Psychology: Human Perception and Performance, 27(4), 763-797. Source: Watson, J. M., & Strayer, D. L. (2010). Supertaskers: Profiles in extraordinary multitasking ability. Psychonomic Bulletin & Review, 17(4), 479-485.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#multitasking",
+    "#focus",
+    "#productivity",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "MIXED. Ophir et al. (2009) heavy-media-multitasker findings were not consistently replicated; Wiradhany & Nieuwenstein (2017) did find higher switching costs. The video claims only task-switching costs and the 2.5% supertasker result, which came from 200 students in a driving-simulator study.",
+  "thumbnail": {
+    "lines": [
+      "WHAT MULTITASKING",
+      "REALLY COSTS"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "day": 14,
+  "topic": "The halo effect: why attractive people get the benefit of the doubt",
+  "title": "The Halo Effect: Why Looks Seem to Count",
+  "voiceover": "Do you assume attractive people are better people? In 1920, psychologist Edward Thorndike asked military officers to rate their soldiers. The ratings were supposed to be independent: physique, intelligence, leadership and character. Soldiers rated as physically impressive were also rated as more intelligent, better leaders and finer in character. Thorndike called this a halo. In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities. A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies. Attractive people were rated as more socially competent and better adjusted, on average. So when someone seems impressive in one way, ask what you actually know about the rest. Tomorrow: why do you love things you built yourself?",
+  "word_count": 126,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.11,
+      "section": "hook",
+      "narration_line": "Do you assume attractive people are better people?",
+      "on_screen_text": "Better people?",
+      "visual_description": "Stickman with a golden halo.",
+      "visual_spec": "think/neutral/C; text:HALO@R"
+    },
+    {
+      "start_sec": 3.11,
+      "end_sec": 7.78,
+      "section": "explanation",
+      "narration_line": "In 1920, psychologist Edward Thorndike asked military officers to rate their soldiers.",
+      "on_screen_text": "1920: officers rate soldiers",
+      "visual_description": "Officer with a clipboard.",
+      "visual_spec": "stand/neutral/L; text:1920@TR; list:RATE@R"
+    },
+    {
+      "start_sec": 7.78,
+      "end_sec": 12.44,
+      "section": "explanation",
+      "narration_line": "The ratings were supposed to be independent: physique, intelligence, leadership and character.",
+      "on_screen_text": "Four separate ratings",
+      "visual_description": "Four labeled boxes.",
+      "visual_spec": "point/neutral/L; list:BODY,MIND,LEAD,CHAR@R"
+    },
+    {
+      "start_sec": 12.44,
+      "end_sec": 19.06,
+      "section": "explanation",
+      "narration_line": "Soldiers rated as physically impressive were also rated as more intelligent, better leaders and finer in character.",
+      "on_screen_text": "Impressive in one = all",
+      "visual_description": "One checked box pulling the others.",
+      "visual_spec": "think/neutral/L; check@R"
+    },
+    {
+      "start_sec": 19.06,
+      "end_sec": 21.0,
+      "section": "explanation",
+      "narration_line": "Thorndike called this a halo.",
+      "on_screen_text": "He called it a halo",
+      "visual_description": "Halo over a head.",
+      "visual_spec": "stand/smile/L; text:HALO@R"
+    },
+    {
+      "start_sec": 21.0,
+      "end_sec": 26.83,
+      "section": "explanation",
+      "narration_line": "In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities.",
+      "on_screen_text": "1972: attractive = nicer?",
+      "visual_description": "Two photos; one with a halo.",
+      "visual_spec": "point/neutral/L; text:1972@TR"
+    },
+    {
+      "start_sec": 26.83,
+      "end_sec": 34.22,
+      "section": "explanation",
+      "narration_line": "A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies.",
+      "on_screen_text": "1991: modest and variable",
+      "visual_description": "Wobbly small bars.",
+      "visual_spec": "shrug/neutral/L; bars:study 1,study 2@R"
+    },
+    {
+      "start_sec": 34.22,
+      "end_sec": 39.28,
+      "section": "explanation",
+      "narration_line": "Attractive people were rated as more socially competent and better adjusted, on average.",
+      "on_screen_text": "Rated more socially competent",
+      "visual_description": "Smiling faces with checks.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 39.28,
+      "end_sec": 45.5,
+      "section": "takeaway",
+      "narration_line": "So when someone seems impressive in one way, ask what you actually know about the rest.",
+      "on_screen_text": "What do I actually know?",
+      "visual_description": "Stickman peering behind a halo.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 45.5,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you love things you built yourself?",
+      "on_screen_text": "Tomorrow: things you built",
+      "visual_description": "Stickman proudly holding a wobbly box.",
+      "visual_spec": "stand/smile/L; text:TOMORROW@TR; list:DIY@R"
+    }
+  ],
+  "description": "Do we assume attractive people are better people? The halo effect was named in 1920, and later research found attractive people were rated as more socially competent, though the effect varies a lot between studies. New psychology short every day on The Psyche Discourse. Source: Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29. Source: Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C. (1991). What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype. Psychological Bulletin, 110(1), 109-128.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#haloeffect",
+    "#attractiveness",
+    "#bias",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Eagly et al. (1991) found the 'beauty is good' stereotype was moderately low and variable across studies; the video does not claim attractive people are actually better or more trustworthy. 'Rated as more socially competent' reflects perceptions in lab ratings, mostly of photographs.",
+  "thumbnail": {
+    "lines": [
+      "THE HALO",
+      "EFFECT"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

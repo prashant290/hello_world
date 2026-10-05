@@ -1,0 +1,118 @@
+{
+  "day": 23,
+  "topic": "The Google effect: what held up and what didn't replicate",
+  "title": "Is Google Hurting Your Memory? What Held Up",
+  "voiceover": "Does Google make you forget things? In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science. When people expected to have future access to information, they recalled the information itself less. They did better at remembering where to find the information. Another claim was that hard trivia questions prime people to think about computers. In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study. He noted that two earlier replication attempts had failed too. Those replications tested the computer-priming claim, not the memory-for-location one. So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence. Tomorrow: why do you think you'd never fall for a scam?",
+  "word_count": 121,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.43,
+      "section": "hook",
+      "narration_line": "Does Google make you forget things?",
+      "on_screen_text": "Does Google make you forget?",
+      "visual_description": "Stickman beside a search box.",
+      "visual_spec": "think/worry/C; text:SEARCH@R"
+    },
+    {
+      "start_sec": 2.43,
+      "end_sec": 8.1,
+      "section": "explanation",
+      "narration_line": "In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science.",
+      "on_screen_text": "2011: four studies in Science",
+      "visual_description": "Journal cover.",
+      "visual_spec": "stand/neutral/L; text:SCIENCE 2011@R"
+    },
+    {
+      "start_sec": 8.1,
+      "end_sec": 14.17,
+      "section": "explanation",
+      "narration_line": "When people expected to have future access to information, they recalled the information itself less.",
+      "on_screen_text": "Expect access: recall less",
+      "visual_description": "Bar low.",
+      "visual_spec": "stand/neutral/L; bars:no access,expect access@R"
+    },
+    {
+      "start_sec": 14.17,
+      "end_sec": 18.22,
+      "section": "explanation",
+      "narration_line": "They did better at remembering where to find the information.",
+      "on_screen_text": "Better at 'where to find it'",
+      "visual_description": "Folder icon with a pin.",
+      "visual_spec": "point/smile/L; text:WHERE@R"
+    },
+    {
+      "start_sec": 18.22,
+      "end_sec": 23.49,
+      "section": "explanation",
+      "narration_line": "Another claim was that hard trivia questions prime people to think about computers.",
+      "on_screen_text": "Claim: hard questions prime 'computer'",
+      "visual_description": "Question mark next to a computer.",
+      "visual_spec": "think/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 23.49,
+      "end_sec": 29.16,
+      "section": "explanation",
+      "narration_line": "In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study.",
+      "on_screen_text": "2020 replication: no clear evidence",
+      "visual_description": "Cross on a claim card.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 29.16,
+      "end_sec": 33.21,
+      "section": "explanation",
+      "narration_line": "He noted that two earlier replication attempts had failed too.",
+      "on_screen_text": "Two earlier attempts failed",
+      "visual_description": "Two crosses.",
+      "visual_spec": "stand/neutral/L; list:TRY 1,TRY 2@R; cross@TR"
+    },
+    {
+      "start_sec": 33.21,
+      "end_sec": 37.26,
+      "section": "explanation",
+      "narration_line": "Those replications tested the computer-priming claim, not the memory-for-location one.",
+      "on_screen_text": "They tested one claim only",
+      "visual_description": "Two claim cards; one tested.",
+      "visual_spec": "point/neutral/L; list:PRIMING,LOCATION@R"
+    },
+    {
+      "start_sec": 37.26,
+      "end_sec": 44.55,
+      "section": "takeaway",
+      "narration_line": "So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence.",
+      "on_screen_text": "'Google rots your brain' overreaches",
+      "visual_description": "Stickman pushing back a headline.",
+      "visual_spec": "stand/smile/L; text:OVERREACH@R"
+    },
+    {
+      "start_sec": 44.55,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you think you'd never fall for a scam?",
+      "on_screen_text": "Tomorrow: scams",
+      "visual_description": "Warning sign.",
+      "visual_spec": "stand/worry/L; text:SCAM?@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Does Google make you forget? A 2011 study found people recalled information less when they expected to find it later, but its 'Google Stroop' claim failed replication attempts. New psychology short every day on The Psyche Discourse. Source: Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776-778. Source: Hesselmann, G. (2020). No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect': A replication study. PeerJ, 8, e10325.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#googleeffect",
+    "#memory",
+    "#technology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "MIXED REPLICATION. The replications cited (Hesselmann 2020, plus two earlier attempts he reports) tested the computer-priming ('Google Stroop') claim, not the 'recall where to find it' finding; we do not know from these sources whether the latter replicated. The video avoids claiming search engines harm memory.",
+  "thumbnail": {
+    "lines": [
+      "DOES GOOGLE",
+      "ERASE MEMORY?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

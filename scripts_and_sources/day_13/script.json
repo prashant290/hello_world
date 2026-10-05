@@ -1,0 +1,119 @@
+{
+  "day": 13,
+  "topic": "The sunk cost fallacy: why you finish bad movies",
+  "title": "Why You Finish a Movie You're Hating",
+  "voiceover": "Why do you finish a movie you're hating? In 1985, Hal Arkes and Catherine Blumer studied the sunk cost effect. It's the tendency to continue something after you've invested money, effort or time. At an Ohio University theater, they arranged for season tickets to be sold at three prices. At the beginning of the season, about a third bought at the full $15, a third at $13, and a third at $8. Over the next six months, people who paid full price attended more plays than those who paid less. The authors suggest people continue partly to avoid appearing wasteful. This was one field study with theater patrons. So when you're deciding whether to continue, ask what you'd choose if you hadn't already paid. Tomorrow: why do we assume attractive people are better people?",
+  "word_count": 134,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.93,
+      "section": "hook",
+      "narration_line": "Why do you finish a movie you're hating?",
+      "on_screen_text": "Why finish it?",
+      "visual_description": "Stickman bored in a movie seat.",
+      "visual_spec": "think/worry/C; coin:$12@R"
+    },
+    {
+      "start_sec": 2.93,
+      "end_sec": 7.31,
+      "section": "explanation",
+      "narration_line": "In 1985, Hal Arkes and Catherine Blumer studied the sunk cost effect.",
+      "on_screen_text": "The sunk cost effect, 1985",
+      "visual_description": "Title card SUNK COST.",
+      "visual_spec": "point/neutral/L; text:SUNK COST@R"
+    },
+    {
+      "start_sec": 7.31,
+      "end_sec": 12.07,
+      "section": "explanation",
+      "narration_line": "It's the tendency to continue something after you've invested money, effort or time.",
+      "on_screen_text": "Keep going after investing",
+      "visual_description": "Coin sinking into water.",
+      "visual_spec": "stand/neutral/L; coin:$@R"
+    },
+    {
+      "start_sec": 12.07,
+      "end_sec": 17.92,
+      "section": "explanation",
+      "narration_line": "At an Ohio University theater, they arranged for season tickets to be sold at three prices.",
+      "on_screen_text": "Ohio University theater",
+      "visual_description": "Ticket booth.",
+      "visual_spec": "stand/neutral/L; tag:3 PRICES@R"
+    },
+    {
+      "start_sec": 17.92,
+      "end_sec": 26.33,
+      "section": "explanation",
+      "narration_line": "At the beginning of the season, about a third bought at the full $15, a third at $13, and a third at $8.",
+      "on_screen_text": "$15, $13 or $8",
+      "visual_description": "Three tickets with prices.",
+      "visual_spec": "point/neutral/L; list:$15,$13,$8@R"
+    },
+    {
+      "start_sec": 26.33,
+      "end_sec": 32.91,
+      "section": "explanation",
+      "narration_line": "Over the next six months, people who paid full price attended more plays than those who paid less.",
+      "on_screen_text": "Full price = more plays",
+      "visual_description": "Bars: $15 high, $8 low.",
+      "visual_spec": "stand/smile/L; bars:$8,$15@R"
+    },
+    {
+      "start_sec": 32.91,
+      "end_sec": 36.57,
+      "section": "explanation",
+      "narration_line": "The authors suggest people continue partly to avoid appearing wasteful.",
+      "on_screen_text": "Avoiding looking wasteful",
+      "visual_description": "Stickman hiding an unused ticket.",
+      "visual_spec": "think/worry/L; tag:WASTE@R"
+    },
+    {
+      "start_sec": 36.57,
+      "end_sec": 39.49,
+      "section": "explanation",
+      "narration_line": "This was one field study with theater patrons.",
+      "on_screen_text": "One field study",
+      "visual_description": "Single theater icon.",
+      "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
+    },
+    {
+      "start_sec": 39.49,
+      "end_sec": 45.34,
+      "section": "takeaway",
+      "narration_line": "So when you're deciding whether to continue, ask what you'd choose if you hadn't already paid.",
+      "on_screen_text": "Would you choose it unpaid?",
+      "visual_description": "Stickman with a price tag crossed out.",
+      "visual_spec": "point/smile/L; tag:$0?@R"
+    },
+    {
+      "start_sec": 45.34,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do we assume attractive people are better people?",
+      "on_screen_text": "Tomorrow: the halo effect",
+      "visual_description": "Halo above a stickman.",
+      "visual_spec": "stand/neutral/L; text:HALO@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do you keep going with something you've already paid for? A 1985 field study found people who paid full price for theater season tickets attended more plays than discounted buyers. New psychology short every day on The Psyche Discourse. Source: Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#sunkcost",
+    "#decisionmaking",
+    "#behavioraleconomics",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One field study at a university theater; attendance was counted over the first six months of the season. Arkes & Blumer suggest the motive is avoiding the appearance of waste, which is their proposed explanation, not a proven mechanism.",
+  "thumbnail": {
+    "lines": [
+      "WHY YOU",
+      "FINISH BAD",
+      "MOVIES"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

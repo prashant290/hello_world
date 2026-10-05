@@ -1,0 +1,165 @@
+{
+  "day": 3,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why does $9.99 feel so much cheaper than $10?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "Researchers call it the left-digit effect.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "In five experiments, Manoj Thomas and Vicki Morwitz found that a nine-ending price looks smaller than a price one cent higher.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "But only when the leftmost digits differ, like $2.99 versus $3.00.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "They also found the effect was stronger when the two prices being compared were close together.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "And it appeared with other multi-digit numbers, not just prices.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "A separate analysis found that firms tend to use more round prices for higher-quality products.",
+      "cites": [
+        "stiving2000"
+      ],
+      "sources": [
+        {
+          "id": "stiving2000",
+          "authors": "Stiving, M.",
+          "year": 2000,
+          "title": "Price-endings when prices signal quality",
+          "venue": "Management Science, 46(12), 1617-1629",
+          "url": "https://ideas.repec.org/a/inm/ormnsc/v46y2000i12p1617-1629.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Researcher Mark Stiving argued that firms signaling quality are more likely to use round prices.",
+      "cites": [
+        "stiving2000"
+      ],
+      "sources": [
+        {
+          "id": "stiving2000",
+          "authors": "Stiving, M.",
+          "year": 2000,
+          "title": "Price-endings when prices signal quality",
+          "venue": "Management Science, 46(12), 1617-1629",
+          "url": "https://ideas.repec.org/a/inm/ormnsc/v46y2000i12p1617-1629.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when a price ends in nine, try rounding it up to the next number before you decide.",
+      "cites": [
+        "thomas2005"
+      ],
+      "sources": [
+        {
+          "id": "thomas2005",
+          "authors": "Thomas, M., & Morwitz, V. G.",
+          "year": 2005,
+          "title": "Penny wise and pound foolish: The left-digit effect in price cognition",
+          "venue": "Journal of Consumer Research, 32(1), 54-64",
+          "url": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do you test only the ideas you already believe?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

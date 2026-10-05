@@ -1,0 +1,137 @@
+{
+  "day": 30,
+  "topic": "The peak-end rule: how you actually remember experiences",
+  "title": "How You Really Remember an Experience",
+  "voiceover": "How do you actually remember an experience? In 1993, Daniel Kahneman and colleagues had people put a hand in painfully cold water. One trial lasted 60 seconds. The other lasted 90 seconds, with the last 30 seconds slightly warmer. Afterwards, people could choose which trial to repeat. Nearly 70 percent chose the longer one. They chose more total discomfort because it ended a bit better. In 2003, Donald Redelmeier, Joel Katz and Kahneman tested it on 682 colonoscopy patients. Half had a short, milder period added to the end of the procedure. Those patients rated the experience as less unpleasant and were more likely to return for a follow-up. So how an experience ends can shape how you remember it, so plan a good ending. Tomorrow: does copying someone's body language build trust?",
+  "word_count": 133,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.58,
+      "section": "hook",
+      "narration_line": "How do you actually remember an experience?",
+      "on_screen_text": "How do you remember it?",
+      "visual_description": "Stickman with a memory bubble.",
+      "visual_spec": "think/neutral/C; bubble:memory@R"
+    },
+    {
+      "start_sec": 2.58,
+      "end_sec": 8.11,
+      "section": "explanation",
+      "narration_line": "In 1993, Daniel Kahneman and colleagues had people put a hand in painfully cold water.",
+      "on_screen_text": "1993: cold-water hand",
+      "visual_description": "Hand in cold water.",
+      "visual_spec": "stand/worry/L; text:14C@R; text:1993@TR"
+    },
+    {
+      "start_sec": 8.11,
+      "end_sec": 9.95,
+      "section": "explanation",
+      "narration_line": "One trial lasted 60 seconds.",
+      "on_screen_text": "Trial 1: 60 seconds",
+      "visual_description": "Clock at 60.",
+      "visual_spec": "stand/neutral/L; clock@R; text:60 S@TR"
+    },
+    {
+      "start_sec": 9.95,
+      "end_sec": 14.37,
+      "section": "explanation",
+      "narration_line": "The other lasted 90 seconds, with the last 30 seconds slightly warmer.",
+      "on_screen_text": "90 s, slightly warmer end",
+      "visual_description": "Clock at 90.",
+      "visual_spec": "point/neutral/L; clock@R; text:90 S@TR"
+    },
+    {
+      "start_sec": 14.37,
+      "end_sec": 17.32,
+      "section": "explanation",
+      "narration_line": "Afterwards, people could choose which trial to repeat.",
+      "on_screen_text": "They chose which to repeat",
+      "visual_description": "Two options.",
+      "visual_spec": "think/neutral/L; list:60 S,90 S@R"
+    },
+    {
+      "start_sec": 17.32,
+      "end_sec": 19.89,
+      "section": "explanation",
+      "narration_line": "Nearly 70 percent chose the longer one.",
+      "on_screen_text": "Nearly 70% chose the longer",
+      "visual_description": "Bar ~70%.",
+      "visual_spec": "shock/neutral/L; text:~70%@R"
+    },
+    {
+      "start_sec": 19.89,
+      "end_sec": 23.95,
+      "section": "explanation",
+      "narration_line": "They chose more total discomfort because it ended a bit better.",
+      "on_screen_text": "More total pain, better ending",
+      "visual_description": "Line ending upward.",
+      "visual_spec": "stand/smile/L; lines:pain,time@R"
+    },
+    {
+      "start_sec": 23.95,
+      "end_sec": 29.11,
+      "section": "explanation",
+      "narration_line": "In 2003, Donald Redelmeier, Joel Katz and Kahneman tested it on 682 colonoscopy patients.",
+      "on_screen_text": "2003: 682 colonoscopy patients",
+      "visual_description": "Clipboard.",
+      "visual_spec": "stand/neutral/L; text:682@R; text:2003@TR"
+    },
+    {
+      "start_sec": 29.11,
+      "end_sec": 33.89,
+      "section": "explanation",
+      "narration_line": "Half had a short, milder period added to the end of the procedure.",
+      "on_screen_text": "Half got a milder ending",
+      "visual_description": "Two groups.",
+      "visual_spec": "point/neutral/L; list:NORMAL,MILDER END@R"
+    },
+    {
+      "start_sec": 33.89,
+      "end_sec": 40.16,
+      "section": "explanation",
+      "narration_line": "Those patients rated the experience as less unpleasant and were more likely to return for a follow-up.",
+      "on_screen_text": "Less unpleasant; more likely to return",
+      "visual_description": "Smile bar.",
+      "visual_spec": "stand/smile/L; bars:standard,milder end@R"
+    },
+    {
+      "start_sec": 40.16,
+      "end_sec": 46.05,
+      "section": "takeaway",
+      "narration_line": "So how an experience ends can shape how you remember it, so plan a good ending.",
+      "on_screen_text": "Plan a good ending",
+      "visual_description": "Stickman finishing with a flourish.",
+      "visual_spec": "walk/smile/L; check@R"
+    },
+    {
+      "start_sec": 46.05,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does copying someone's body language build trust?",
+      "on_screen_text": "Tomorrow: mirroring",
+      "visual_description": "Two stickmen mirroring.",
+      "visual_spec": "stand/neutral/L; crowd:1@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Do you remember experiences by their total length? Experiments suggest the peak and the ending matter more: people preferred a longer cold-water trial that ended slightly warmer, and colonoscopy patients with a milder ending rated the procedure less unpleasant. New psychology short every day on The Psyche Discourse. Source: Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401-405. Source: Redelmeier, D. A., Katz, J., & Kahneman, D. (2003). Memories of colonoscopy: A randomized trial. Pain, 104(1-2), 187-194.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#peakendrule",
+    "#memory",
+    "#kahneman",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The 1993 study used mild cold-water pain with volunteers (about 70% chose the longer trial); the colonoscopy trial (n=682) is one clinical setting. 'Peak-end rule' is a proposed account that fits these results, not an exact law.",
+  "thumbnail": {
+    "lines": [
+      "HOW YOU",
+      "REMEMBER",
+      "EXPERIENCES"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

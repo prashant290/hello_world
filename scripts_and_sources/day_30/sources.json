@@ -1,0 +1,211 @@
+{
+  "day": 30,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "How do you actually remember an experience?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1993, Daniel Kahneman and colleagues had people put a hand in painfully cold water.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "One trial lasted 60 seconds.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The other lasted 90 seconds, with the last 30 seconds slightly warmer.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Afterwards, people could choose which trial to repeat.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Nearly 70 percent chose the longer one.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "They chose more total discomfort because it ended a bit better.",
+      "cites": [
+        "kahneman1993"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In 2003, Donald Redelmeier, Joel Katz and Kahneman tested it on 682 colonoscopy patients.",
+      "cites": [
+        "redelmeier2003"
+      ],
+      "sources": [
+        {
+          "id": "redelmeier2003",
+          "authors": "Redelmeier, D. A., Katz, J., & Kahneman, D.",
+          "year": 2003,
+          "title": "Memories of colonoscopy: A randomized trial",
+          "venue": "Pain, 104(1-2), 187-194",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12855328/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (n = 682)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Half had a short, milder period added to the end of the procedure.",
+      "cites": [
+        "redelmeier2003"
+      ],
+      "sources": [
+        {
+          "id": "redelmeier2003",
+          "authors": "Redelmeier, D. A., Katz, J., & Kahneman, D.",
+          "year": 2003,
+          "title": "Memories of colonoscopy: A randomized trial",
+          "venue": "Pain, 104(1-2), 187-194",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12855328/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (n = 682)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Those patients rated the experience as less unpleasant and were more likely to return for a follow-up.",
+      "cites": [
+        "redelmeier2003"
+      ],
+      "sources": [
+        {
+          "id": "redelmeier2003",
+          "authors": "Redelmeier, D. A., Katz, J., & Kahneman, D.",
+          "year": 2003,
+          "title": "Memories of colonoscopy: A randomized trial",
+          "venue": "Pain, 104(1-2), 187-194",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12855328/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (n = 682)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So how an experience ends can shape how you remember it, so plan a good ending.",
+      "cites": [
+        "kahneman1993",
+        "redelmeier2003"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1993",
+          "authors": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A.",
+          "year": 1993,
+          "title": "When more pain is preferred to less: Adding a better end",
+          "venue": "Psychological Science, 4(6), 401-405",
+          "url": "https://ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (60 s at 14 C vs 60 s plus 30 s at 15 C; about 70% chose to repeat the longer trial)"
+        },
+        {
+          "id": "redelmeier2003",
+          "authors": "Redelmeier, D. A., Katz, J., & Kahneman, D.",
+          "year": 2003,
+          "title": "Memories of colonoscopy: A randomized trial",
+          "venue": "Pain, 104(1-2), 187-194",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12855328/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (n = 682)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: does copying someone's body language build trust?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

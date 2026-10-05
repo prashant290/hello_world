@@ -1,0 +1,203 @@
+{
+  "day": 11,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Ever learn a new word, then see it everywhere?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "Linguist Arnold Zwicky called this the frequency illusion.",
+      "cites": [
+        "zwicky2005"
+      ],
+      "sources": [
+        {
+          "id": "zwicky2005",
+          "authors": "Zwicky, A. M.",
+          "year": 2005,
+          "title": "Just between Dr. Language and I (Language Log post introducing 'frequency illusion')",
+          "venue": "Language Log (blog)",
+          "url": "https://languagelog.ldc.upenn.edu/nll/?p=42180",
+          "verified": "web search 2026-10-05: term 'frequency illusion' first attested in Zwicky's Language Log post (sources differ on 2005 vs 2006); confirmed via Language Log/OED coverage"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "It's also called the Baader-Meinhof phenomenon, a name that came from a 1994 letter to a newspaper column.",
+      "cites": [
+        "pacificstandard"
+      ],
+      "sources": [
+        {
+          "id": "pacificstandard",
+          "authors": "Pacific Standard (magazine)",
+          "year": 2014,
+          "title": "There's a name for that: The Baader-Meinhof phenomenon",
+          "venue": "Pacific Standard",
+          "url": "https://psmag.com/?p=38449",
+          "verified": "web search 2026-10-05: name traced to a 1994 letter to a newspaper column; magazine article confirmed in results"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Both names come from informal sources, not experiments.",
+      "cites": [
+        "zwicky2005",
+        "pacificstandard"
+      ],
+      "sources": [
+        {
+          "id": "zwicky2005",
+          "authors": "Zwicky, A. M.",
+          "year": 2005,
+          "title": "Just between Dr. Language and I (Language Log post introducing 'frequency illusion')",
+          "venue": "Language Log (blog)",
+          "url": "https://languagelog.ldc.upenn.edu/nll/?p=42180",
+          "verified": "web search 2026-10-05: term 'frequency illusion' first attested in Zwicky's Language Log post (sources differ on 2005 vs 2006); confirmed via Language Log/OED coverage"
+        },
+        {
+          "id": "pacificstandard",
+          "authors": "Pacific Standard (magazine)",
+          "year": 2014,
+          "title": "There's a name for that: The Baader-Meinhof phenomenon",
+          "venue": "Pacific Standard",
+          "url": "https://psmag.com/?p=38449",
+          "verified": "web search 2026-10-05: name traced to a 1994 letter to a newspaper column; magazine article confirmed in results"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "A related, well-tested finding is that attention is limited.",
+      "cites": [
+        "simons1999"
+      ],
+      "sources": [
+        {
+          "id": "simons1999",
+          "authors": "Simons, D. J., & Chabris, C. F.",
+          "year": 1999,
+          "title": "Gorillas in our midst: Sustained inattentional blindness for dynamic events",
+          "venue": "Perception, 28(9), 1059-1074",
+          "url": "https://doi.org/10.1068/p281059",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (design confirmed; exact miss rate varied by condition so only 'many' is claimed)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In Simons and Chabris's 1999 invisible-gorilla study, viewers counted basketball passes.",
+      "cites": [
+        "simons1999"
+      ],
+      "sources": [
+        {
+          "id": "simons1999",
+          "authors": "Simons, D. J., & Chabris, C. F.",
+          "year": 1999,
+          "title": "Gorillas in our midst: Sustained inattentional blindness for dynamic events",
+          "venue": "Perception, 28(9), 1059-1074",
+          "url": "https://doi.org/10.1068/p281059",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (design confirmed; exact miss rate varied by condition so only 'many' is claimed)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Many failed to notice a person in a gorilla suit walking through the scene.",
+      "cites": [
+        "simons1999"
+      ],
+      "sources": [
+        {
+          "id": "simons1999",
+          "authors": "Simons, D. J., & Chabris, C. F.",
+          "year": 1999,
+          "title": "Gorillas in our midst: Sustained inattentional blindness for dynamic events",
+          "venue": "Perception, 28(9), 1059-1074",
+          "url": "https://doi.org/10.1068/p281059",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (design confirmed; exact miss rate varied by condition so only 'many' is claimed)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "That shows we can miss things we aren't paying attention to.",
+      "cites": [
+        "simons1999"
+      ],
+      "sources": [
+        {
+          "id": "simons1999",
+          "authors": "Simons, D. J., & Chabris, C. F.",
+          "year": 1999,
+          "title": "Gorillas in our midst: Sustained inattentional blindness for dynamic events",
+          "venue": "Perception, 28(9), 1059-1074",
+          "url": "https://doi.org/10.1068/p281059",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (design confirmed; exact miss rate varied by condition so only 'many' is claimed)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "One idea is that once something captures your attention, you start noticing what you previously missed.",
+      "cites": [
+        "zwicky2005",
+        "simons1999"
+      ],
+      "sources": [
+        {
+          "id": "zwicky2005",
+          "authors": "Zwicky, A. M.",
+          "year": 2005,
+          "title": "Just between Dr. Language and I (Language Log post introducing 'frequency illusion')",
+          "venue": "Language Log (blog)",
+          "url": "https://languagelog.ldc.upenn.edu/nll/?p=42180",
+          "verified": "web search 2026-10-05: term 'frequency illusion' first attested in Zwicky's Language Log post (sources differ on 2005 vs 2006); confirmed via Language Log/OED coverage"
+        },
+        {
+          "id": "simons1999",
+          "authors": "Simons, D. J., & Chabris, C. F.",
+          "year": 1999,
+          "title": "Gorillas in our midst: Sustained inattentional blindness for dynamic events",
+          "venue": "Perception, 28(9), 1059-1074",
+          "url": "https://doi.org/10.1068/p281059",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (design confirmed; exact miss rate varied by condition so only 'many' is claimed)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So if something suddenly seems to be everywhere, ask whether it increased, or whether you simply started noticing.",
+      "cites": [
+        "zwicky2005"
+      ],
+      "sources": [
+        {
+          "id": "zwicky2005",
+          "authors": "Zwicky, A. M.",
+          "year": 2005,
+          "title": "Just between Dr. Language and I (Language Log post introducing 'frequency illusion')",
+          "venue": "Language Log (blog)",
+          "url": "https://languagelog.ldc.upenn.edu/nll/?p=42180",
+          "verified": "web search 2026-10-05: term 'frequency illusion' first attested in Zwicky's Language Log post (sources differ on 2005 vs 2006); confirmed via Language Log/OED coverage"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do decisions really wear your brain out?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

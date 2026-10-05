@@ -1,0 +1,183 @@
+{
+  "day": 6,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why does losing feel worse than winning feels good?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1979, Daniel Kahneman and Amos Tversky proposed prospect theory.",
+      "cites": [
+        "kahneman1979"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1979",
+          "authors": "Kahneman, D., & Tversky, A.",
+          "year": 1979,
+          "title": "Prospect theory: An analysis of decision under risk",
+          "venue": "Econometrica, 47(2), 263-291",
+          "url": "https://stafforini.com/works/kahneman-1979-prospect-theory-analysis/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "One key idea is loss aversion: losses loom larger than equivalent gains.",
+      "cites": [
+        "kahneman1979"
+      ],
+      "sources": [
+        {
+          "id": "kahneman1979",
+          "authors": "Kahneman, D., & Tversky, A.",
+          "year": 1979,
+          "title": "Prospect theory: An analysis of decision under risk",
+          "venue": "Econometrica, 47(2), 263-291",
+          "url": "https://stafforini.com/works/kahneman-1979-prospect-theory-analysis/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In 1992, Tversky and Kahneman estimated a loss-aversion coefficient of about 2.25.",
+      "cites": [
+        "tversky1992"
+      ],
+      "sources": [
+        {
+          "id": "tversky1992",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1992,
+          "title": "Advances in prospect theory: Cumulative representation of uncertainty",
+          "venue": "Journal of Risk and Uncertainty, 5(4), 297-323",
+          "url": "https://ideas.repec.org/a/kap/jrisku/v5y1992i4p297-323.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (loss-aversion coefficient 2.25 in their model)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Roughly speaking, that means a loss counts about twice as much as a gain of the same size.",
+      "cites": [
+        "tversky1992"
+      ],
+      "sources": [
+        {
+          "id": "tversky1992",
+          "authors": "Tversky, A., & Kahneman, D.",
+          "year": 1992,
+          "title": "Advances in prospect theory: Cumulative representation of uncertainty",
+          "venue": "Journal of Risk and Uncertainty, 5(4), 297-323",
+          "url": "https://ideas.repec.org/a/kap/jrisku/v5y1992i4p297-323.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (loss-aversion coefficient 2.25 in their model)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "But the idea is contested.",
+      "cites": [
+        "gal2018"
+      ],
+      "sources": [
+        {
+          "id": "gal2018",
+          "authors": "Gal, D., & Rucker, D. D.",
+          "year": 2018,
+          "title": "The loss of loss aversion: Will it loom larger than its gain?",
+          "venue": "Journal of Consumer Psychology, 28(3), 497-516",
+          "url": "https://papers.ssrn.com/abstract=3049660",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2018, David Gal and Derek Rucker reviewed the evidence and concluded that losses, on balance, are not more impactful than gains.",
+      "cites": [
+        "gal2018"
+      ],
+      "sources": [
+        {
+          "id": "gal2018",
+          "authors": "Gal, D., & Rucker, D. D.",
+          "year": 2018,
+          "title": "The loss of loss aversion: Will it loom larger than its gain?",
+          "venue": "Journal of Consumer Psychology, 28(3), 497-516",
+          "url": "https://papers.ssrn.com/abstract=3049660",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "They argue the impact of losses versus gains depends on context.",
+      "cites": [
+        "gal2018"
+      ],
+      "sources": [
+        {
+          "id": "gal2018",
+          "authors": "Gal, D., & Rucker, D. D.",
+          "year": 2018,
+          "title": "The loss of loss aversion: Will it loom larger than its gain?",
+          "venue": "Journal of Consumer Psychology, 28(3), 497-516",
+          "url": "https://papers.ssrn.com/abstract=3049660",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So treat 'losses hurt twice as much' as a debated rule of thumb, not a law.",
+      "cites": [
+        "gal2018"
+      ],
+      "sources": [
+        {
+          "id": "gal2018",
+          "authors": "Gal, D., & Rucker, D. D.",
+          "year": 2018,
+          "title": "The loss of loss aversion: Will it loom larger than its gain?",
+          "venue": "Journal of Consumer Psychology, 28(3), 497-516",
+          "url": "https://papers.ssrn.com/abstract=3049660",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "When you hear it, ask: in which situation, and compared with what?",
+      "cites": [
+        "gal2018"
+      ],
+      "sources": [
+        {
+          "id": "gal2018",
+          "authors": "Gal, D., & Rucker, D. D.",
+          "year": 2018,
+          "title": "The loss of loss aversion: Will it loom larger than its gain?",
+          "venue": "Journal of Consumer Psychology, 28(3), 497-516",
+          "url": "https://papers.ssrn.com/abstract=3049660",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (full abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do unskilled people really think they're geniuses?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "day": 29,
+  "topic": "The planning fallacy: why everything takes longer",
+  "title": "Why Everything Takes Longer Than Planned",
+  "voiceover": "Why does everything take longer than you planned? In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy. They followed 37 psychology students writing their honors theses. On average, students' best guess was 33.9 days. They actually took 55.5 days on average. That means the average was about 22 days later than their best guess. Only about 30 percent finished by the date they had predicted. Even the average worst-case forecast, 48.6 days, fell short. Forecasts for other people were generally less biased than forecasts for themselves. The same broad pattern appeared across several experiments involving academic and everyday tasks. So try estimating the task the way you'd estimate it for someone else. Tomorrow: how do you actually remember an experience?",
+  "word_count": 124,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.16,
+      "section": "hook",
+      "narration_line": "Why does everything take longer than you planned?",
+      "on_screen_text": "Why does it run late?",
+      "visual_description": "Stickman looking at a clock.",
+      "visual_spec": "shock/worry/C; clock@R"
+    },
+    {
+      "start_sec": 3.16,
+      "end_sec": 8.3,
+      "section": "explanation",
+      "narration_line": "In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy.",
+      "on_screen_text": "1994: the planning fallacy",
+      "visual_description": "Title card PLANNING FALLACY.",
+      "visual_spec": "point/neutral/L; text:PLANNING FALLACY@R"
+    },
+    {
+      "start_sec": 8.3,
+      "end_sec": 11.85,
+      "section": "explanation",
+      "narration_line": "They followed 37 psychology students writing their honors theses.",
+      "on_screen_text": "37 students, honors theses",
+      "visual_description": "Stack of theses.",
+      "visual_spec": "stand/neutral/L; text:37 STUDENTS@R"
+    },
+    {
+      "start_sec": 11.85,
+      "end_sec": 15.02,
+      "section": "explanation",
+      "narration_line": "On average, students' best guess was 33.9 days.",
+      "on_screen_text": "Best guess: 33.9 days",
+      "visual_description": "Bar at 33.9.",
+      "visual_spec": "stand/smile/L; bars:guess=34%,actual=56%@R"
+    },
+    {
+      "start_sec": 15.02,
+      "end_sec": 17.78,
+      "section": "explanation",
+      "narration_line": "They actually took 55.5 days on average.",
+      "on_screen_text": "Actual: 55.5 days",
+      "visual_description": "Taller bar at 55.5.",
+      "visual_spec": "shock/worry/L; bars:guess=34%,actual=56%@R"
+    },
+    {
+      "start_sec": 17.78,
+      "end_sec": 22.92,
+      "section": "explanation",
+      "narration_line": "That means the average was about 22 days later than their best guess.",
+      "on_screen_text": "About 22 days later",
+      "visual_description": "Arrow showing a gap.",
+      "visual_spec": "stand/worry/L; arrow:right@R; text:+22 DAYS@TR"
+    },
+    {
+      "start_sec": 22.92,
+      "end_sec": 27.27,
+      "section": "explanation",
+      "narration_line": "Only about 30 percent finished by the date they had predicted.",
+      "on_screen_text": "Only ~30% on time",
+      "visual_description": "30% check.",
+      "visual_spec": "stand/neutral/L; text:~30%@R"
+    },
+    {
+      "start_sec": 27.27,
+      "end_sec": 30.82,
+      "section": "explanation",
+      "narration_line": "Even the average worst-case forecast, 48.6 days, fell short.",
+      "on_screen_text": "Even worst case fell short",
+      "visual_description": "Worst-case bar below the actual.",
+      "visual_spec": "shrug/neutral/L; text:48.6 DAYS@R"
+    },
+    {
+      "start_sec": 30.82,
+      "end_sec": 40.7,
+      "section": "explanation",
+      "narration_line": "Forecasts for other people were generally less biased than forecasts for themselves. The same broad pattern appeared across several experiments involving academic and everyday tasks.",
+      "on_screen_text": "Others' forecasts less biased",
+      "visual_description": "Two stickmen estimating.",
+      "visual_spec": "think/neutral/L; crowd:1@R"
+    },
+    {
+      "start_sec": 40.7,
+      "end_sec": 45.84,
+      "section": "takeaway",
+      "narration_line": "So try estimating the task the way you'd estimate it for someone else.",
+      "on_screen_text": "Estimate like it's someone else's",
+      "visual_description": "Stickman viewing himself from outside.",
+      "visual_spec": "point/smile/L; text:SOMEONE ELSE@R"
+    },
+    {
+      "start_sec": 45.84,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: how do you actually remember an experience?",
+      "on_screen_text": "Tomorrow: how you remember",
+      "visual_description": "Memory bubble.",
+      "visual_spec": "stand/neutral/L; bubble:memory@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do projects run late? In a classic study, students' best guesses for finishing their thesis averaged 33.9 days, but they took 55.5 days, and only about 30% finished by their predicted date. New psychology short every day on The Psyche Discourse. Source: Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the planning fallacy: Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366-381.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#planningfallacy",
+    "#productivity",
+    "#timemanagement",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The figures (37 students; 33.9 vs 55.5 days; about 30% on time; 48.6-day worst case) come from secondary summaries that agree with each other; the primary PDF could not be opened here. The study also included other tasks with similar results.",
+  "thumbnail": {
+    "lines": [
+      "WHY IT TAKES",
+      "LONGER"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

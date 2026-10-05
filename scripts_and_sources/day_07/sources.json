@@ -1,0 +1,165 @@
+{
+  "day": 7,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do unskilled people really think they're geniuses?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Those who scored in the bottom quarter guessed they'd done much better than they had.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "They scored around the 12th percentile but estimated themselves near the 62nd.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "The researchers argued that skill and the ability to judge your skill are linked.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "When they trained participants in logic, those participants became better at recognizing their own limits.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.",
+      "cites": [
+        "gignac2020"
+      ],
+      "sources": [
+        {
+          "id": "gignac2020",
+          "authors": "Gignac, G. E., & Zajenkowski, M.",
+          "year": 2020,
+          "title": "The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data",
+          "venue": "Intelligence, 80, 101449",
+          "url": "https://www.Gwern.net/doc/iq/2020-gignac.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (929 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It found that self-rated and measured intelligence rose together in almost a straight line.",
+      "cites": [
+        "gignac2020"
+      ],
+      "sources": [
+        {
+          "id": "gignac2020",
+          "authors": "Gignac, G. E., & Zajenkowski, M.",
+          "year": 2020,
+          "title": "The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data",
+          "venue": "Intelligence, 80, 101449",
+          "url": "https://www.Gwern.net/doc/iq/2020-gignac.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (929 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when you're learning something new, building skill may also improve your ability to judge your own work.",
+      "cites": [
+        "kruger1999"
+      ],
+      "sources": [
+        {
+          "id": "kruger1999",
+          "authors": "Kruger, J., & Dunning, D.",
+          "year": 1999,
+          "title": "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments",
+          "venue": "Journal of Personality and Social Psychology, 77(6), 1121-1134",
+          "url": "https://www.altmetric.com/details/464305",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract incl. 12th vs 62nd percentile and training result)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why is that song stuck in your head?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

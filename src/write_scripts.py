@@ -51,6 +51,7 @@ def build(day, d, topic, SRC):
     for si, (sec, sents, onscreen, vis, spec) in enumerate(d["scenes"]):
         lines.append(" ".join(s for s, _ in sents))
         for s, ids in sents:
+            ids = [x.strip() for x in ids.split(",")] if isinstance(ids, str) else ids
             rows.append({"scene": si, "sentence": s, "cites": ids,
                          "sources": [{"id": i, **SRC[i]} for i in ids if i in SRC]})
     voiceover = " ".join(lines)

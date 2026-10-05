@@ -1,0 +1,128 @@
+{
+  "day": 12,
+  "topic": "Decision fatigue: real or overhyped?",
+  "title": "Is Decision Fatigue Real? The Evidence Says...",
+  "voiceover": "Do your decisions really wear your brain out? In 2011, researchers studied more than 1,000 parole decisions by eight Israeli judges. After a food break, about 65 percent of cases were granted parole. Then the rate fell gradually, sometimes to nearly zero, until the next break. The authors argued that irrelevant factors, like breaks, influence rulings. But Keren Weinshall-Margel and John Shapard replied that case order isn't random. They argued the pattern is likely an artifact of how cases were ordered. In a 2016 test across 23 labs and 2,141 people, the related ego-depletion effect was close to zero. So decision fatigue isn't settled science. So be careful with claims that your brain simply runs out of decision power. Tomorrow: why do you finish a bad movie you're already hating?",
+  "word_count": 130,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.02,
+      "section": "hook",
+      "narration_line": "Do your decisions really wear your brain out?",
+      "on_screen_text": "Decisions wear you out?",
+      "visual_description": "Tired stickman surrounded by choices.",
+      "visual_spec": "shock/worry/C; list:?,?,?@R"
+    },
+    {
+      "start_sec": 3.02,
+      "end_sec": 7.92,
+      "section": "explanation",
+      "narration_line": "In 2011, researchers studied more than 1,000 parole decisions by eight Israeli judges.",
+      "on_screen_text": "2011: 1,000+ parole decisions",
+      "visual_description": "Eight judges' desks.",
+      "visual_spec": "stand/neutral/L; text:8 JUDGES@R"
+    },
+    {
+      "start_sec": 7.92,
+      "end_sec": 12.44,
+      "section": "explanation",
+      "narration_line": "After a food break, about 65 percent of cases were granted parole.",
+      "on_screen_text": "After a break: ~65%",
+      "visual_description": "High bar after a snack.",
+      "visual_spec": "point/smile/L; bars:break=65%,before=10%@R"
+    },
+    {
+      "start_sec": 12.44,
+      "end_sec": 17.34,
+      "section": "explanation",
+      "narration_line": "Then the rate fell gradually, sometimes to nearly zero, until the next break.",
+      "on_screen_text": "Then it fell toward zero",
+      "visual_description": "Falling line between breaks.",
+      "visual_spec": "stand/worry/L; lines:rate,time@R"
+    },
+    {
+      "start_sec": 17.34,
+      "end_sec": 21.11,
+      "section": "explanation",
+      "narration_line": "The authors argued that irrelevant factors, like breaks, influence rulings.",
+      "on_screen_text": "Breaks influence rulings?",
+      "visual_description": "Cookie and a gavel.",
+      "visual_spec": "think/neutral/L; text:BREAKS?@R"
+    },
+    {
+      "start_sec": 21.11,
+      "end_sec": 25.63,
+      "section": "explanation",
+      "narration_line": "But Keren Weinshall-Margel and John Shapard replied that case order isn't random.",
+      "on_screen_text": "Critics: case order isn't random",
+      "visual_description": "Shuffled case files.",
+      "visual_spec": "shrug/neutral/L; list:CASE 1,CASE 2@R"
+    },
+    {
+      "start_sec": 25.63,
+      "end_sec": 30.53,
+      "section": "explanation",
+      "narration_line": "They argued the pattern is likely an artifact of how cases were ordered.",
+      "on_screen_text": "Likely an ordering artifact",
+      "visual_description": "Case files stacked in order.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 30.53,
+      "end_sec": 37.32,
+      "section": "explanation",
+      "narration_line": "In a 2016 test across 23 labs and 2,141 people, the related ego-depletion effect was close to zero.",
+      "on_screen_text": "2016: ego depletion near zero",
+      "visual_description": "23 lab icons; zero.",
+      "visual_spec": "stand/neutral/L; numbers:23 LABS@R; text:~ZERO@TR"
+    },
+    {
+      "start_sec": 37.32,
+      "end_sec": 39.58,
+      "section": "explanation",
+      "narration_line": "So decision fatigue isn't settled science.",
+      "on_screen_text": "Not settled science",
+      "visual_description": "Scale balanced.",
+      "visual_spec": "shrug/smile/L; scale@R"
+    },
+    {
+      "start_sec": 39.58,
+      "end_sec": 44.85,
+      "section": "takeaway",
+      "narration_line": "So be careful with claims that your brain simply runs out of decision power.",
+      "on_screen_text": "Be careful with 'runs out'",
+      "visual_description": "Battery icon with a question mark.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 44.85,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you finish a bad movie you're already hating?",
+      "on_screen_text": "Tomorrow: sunk costs",
+      "visual_description": "Stickman watching a bad movie.",
+      "visual_spec": "stand/worry/L; coin:$12@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Do decisions really wear your brain out? A famous parole study seemed to show it, but critics say case order explains the pattern, and a 23-lab replication of the related ego-depletion effect found it near zero. New psychology short every day on The Psyche Discourse. Source: Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889-6892. Source: Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546-573.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#decisionfatigue",
+    "#egodepletion",
+    "#willpower",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "CONTESTED. Danziger et al. (2011) is a correlational study of Israeli parole boards; Weinshall-Margel & Shapard argue case ordering explains the pattern. Hagger et al. (2016) tested ego depletion, a related but different idea (willpower as a limited resource), not decisions specifically. The video concludes only that decision fatigue is not settled.",
+  "thumbnail": {
+    "lines": [
+      "DECISION",
+      "FATIGUE:",
+      "REAL?"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
+}

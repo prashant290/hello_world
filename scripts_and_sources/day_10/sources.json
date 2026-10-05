@@ -1,0 +1,175 @@
+{
+  "day": 10,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you forget why you walked into this room?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2011, Gabriel Radvansky's team studied students moving through real and virtual rooms.",
+      "cites": [
+        "radvansky2011"
+      ],
+      "sources": [
+        {
+          "id": "radvansky2011",
+          "authors": "Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K.",
+          "year": 2011,
+          "title": "Walking through doorways causes forgetting: Further explorations",
+          "venue": "Quarterly Journal of Experimental Psychology, 64(8), 1632-1645",
+          "url": "https://bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (real and virtual environments)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "People forgot more after walking through a doorway than after walking the same distance within one room.",
+      "cites": [
+        "radvansky2011"
+      ],
+      "sources": [
+        {
+          "id": "radvansky2011",
+          "authors": "Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K.",
+          "year": 2011,
+          "title": "Walking through doorways causes forgetting: Further explorations",
+          "venue": "Quarterly Journal of Experimental Psychology, 64(8), 1632-1645",
+          "url": "https://bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (real and virtual environments)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The researchers proposed that a doorway creates a new memory episode, an event boundary, making the old information harder to retrieve.",
+      "cites": [
+        "radvansky2011"
+      ],
+      "sources": [
+        {
+          "id": "radvansky2011",
+          "authors": "Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K.",
+          "year": 2011,
+          "title": "Walking through doorways causes forgetting: Further explorations",
+          "venue": "Quarterly Journal of Experimental Psychology, 64(8), 1632-1645",
+          "url": "https://bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (real and virtual environments)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "But in 2021, Jessica McFadyen and colleagues ran four experiments across virtual reality, video and real-life movement.",
+      "cites": [
+        "mcfadyen2021"
+      ],
+      "sources": [
+        {
+          "id": "mcfadyen2021",
+          "authors": "McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O.",
+          "year": 2021,
+          "title": "Doorways do not always cause forgetting: A multimodal investigation",
+          "venue": "BMC Psychology, 9",
+          "url": "https://discovery-pp.ucl.ac.uk/id/eprint/10123784",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four experiments; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "They found no significant effect of doorways on forgetting.",
+      "cites": [
+        "mcfadyen2021"
+      ],
+      "sources": [
+        {
+          "id": "mcfadyen2021",
+          "authors": "McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O.",
+          "year": 2021,
+          "title": "Doorways do not always cause forgetting: A multimodal investigation",
+          "venue": "BMC Psychology, 9",
+          "url": "https://discovery-pp.ucl.ac.uk/id/eprint/10123784",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four experiments; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Only when people had to hold information in mind did doorways increase certain memory errors.",
+      "cites": [
+        "mcfadyen2021"
+      ],
+      "sources": [
+        {
+          "id": "mcfadyen2021",
+          "authors": "McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O.",
+          "year": 2021,
+          "title": "Doorways do not always cause forgetting: A multimodal investigation",
+          "venue": "BMC Psychology, 9",
+          "url": "https://discovery-pp.ucl.ac.uk/id/eprint/10123784",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four experiments; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "So the doorway effect looks real in some conditions, but not guaranteed.",
+      "cites": [
+        "radvansky2011",
+        "mcfadyen2021"
+      ],
+      "sources": [
+        {
+          "id": "radvansky2011",
+          "authors": "Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K.",
+          "year": 2011,
+          "title": "Walking through doorways causes forgetting: Further explorations",
+          "venue": "Quarterly Journal of Experimental Psychology, 64(8), 1632-1645",
+          "url": "https://bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (real and virtual environments)"
+        },
+        {
+          "id": "mcfadyen2021",
+          "authors": "McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O.",
+          "year": 2021,
+          "title": "Doorways do not always cause forgetting: A multimodal investigation",
+          "venue": "BMC Psychology, 9",
+          "url": "https://discovery-pp.ucl.ac.uk/id/eprint/10123784",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four experiments; abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So if you blank in a doorway, it's a documented memory quirk studied in healthy students.",
+      "cites": [
+        "radvansky2011"
+      ],
+      "sources": [
+        {
+          "id": "radvansky2011",
+          "authors": "Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K.",
+          "year": 2011,
+          "title": "Walking through doorways causes forgetting: Further explorations",
+          "venue": "Quarterly Journal of Experimental Psychology, 64(8), 1632-1645",
+          "url": "https://bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (real and virtual environments)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why does something you just learned seem to appear everywhere?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

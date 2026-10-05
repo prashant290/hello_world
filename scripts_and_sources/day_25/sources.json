@@ -1,0 +1,201 @@
+{
+  "day": 25,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do you ever say, 'I knew it all along'?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1975, Baruch Fischhoff studied what happens when people learn an outcome.",
+      "cites": [
+        "fischhoff1975"
+      ],
+      "sources": [
+        {
+          "id": "fischhoff1975",
+          "authors": "Fischhoff, B.",
+          "year": 1975,
+          "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299",
+          "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0096-1523.1.3.288/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Knowing the outcome made them judge it as more likely.",
+      "cites": [
+        "fischhoff1975"
+      ],
+      "sources": [
+        {
+          "id": "fischhoff1975",
+          "authors": "Fischhoff, B.",
+          "year": 1975,
+          "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299",
+          "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0096-1523.1.3.288/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "People were largely unaware of this effect.",
+      "cites": [
+        "fischhoff1975"
+      ],
+      "sources": [
+        {
+          "id": "fischhoff1975",
+          "authors": "Fischhoff, B.",
+          "year": 1975,
+          "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299",
+          "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0096-1523.1.3.288/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "So they overestimated what they would have known without the outcome.",
+      "cites": [
+        "fischhoff1975"
+      ],
+      "sources": [
+        {
+          "id": "fischhoff1975",
+          "authors": "Fischhoff, B.",
+          "year": 1975,
+          "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299",
+          "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0096-1523.1.3.288/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "They also overestimated what others actually knew beforehand.",
+      "cites": [
+        "fischhoff1975"
+      ],
+      "sources": [
+        {
+          "id": "fischhoff1975",
+          "authors": "Fischhoff, B.",
+          "year": 1975,
+          "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299",
+          "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0096-1523.1.3.288/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 2012, Neal Roese and Kathleen Vohs reviewed the research.",
+      "cites": [
+        "roese2012"
+      ],
+      "sources": [
+        {
+          "id": "roese2012",
+          "authors": "Roese, N. J., & Vohs, K. D.",
+          "year": 2012,
+          "title": "Hindsight bias",
+          "venue": "Perspectives on Psychological Science, 7(5), 411-426",
+          "url": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three levels of hindsight bias)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Roese and Vohs say it is the first overview to draw on research across disciplines.",
+      "cites": [
+        "roese2012"
+      ],
+      "sources": [
+        {
+          "id": "roese2012",
+          "authors": "Roese, N. J., & Vohs, K. D.",
+          "year": 2012,
+          "title": "Hindsight bias",
+          "venue": "Perspectives on Psychological Science, 7(5), 411-426",
+          "url": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three levels of hindsight bias)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "They proposed three levels of hindsight bias, from memory distortion to higher-level belief.",
+      "cites": [
+        "roese2012"
+      ],
+      "sources": [
+        {
+          "id": "roese2012",
+          "authors": "Roese, N. J., & Vohs, K. D.",
+          "year": 2012,
+          "title": "Hindsight bias",
+          "venue": "Perspectives on Psychological Science, 7(5), 411-426",
+          "url": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three levels of hindsight bias)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "The first is misremembering what you predicted.",
+      "cites": [
+        "roese2012"
+      ],
+      "sources": [
+        {
+          "id": "roese2012",
+          "authors": "Roese, N. J., & Vohs, K. D.",
+          "year": 2012,
+          "title": "Hindsight bias",
+          "venue": "Perspectives on Psychological Science, 7(5), 411-426",
+          "url": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three levels of hindsight bias)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So when you feel 'I knew it', check whether you wrote down what you actually predicted.",
+      "cites": [
+        "roese2012"
+      ],
+      "sources": [
+        {
+          "id": "roese2012",
+          "authors": "Roese, N. J., & Vohs, K. D.",
+          "year": 2012,
+          "title": "Hindsight bias",
+          "venue": "Perspectives on Psychological Science, 7(5), 411-426",
+          "url": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (three levels of hindsight bias)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: what does multitasking really cost you?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

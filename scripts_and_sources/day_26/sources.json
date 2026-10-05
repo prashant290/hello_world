@@ -1,0 +1,175 @@
+{
+  "day": 26,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can you really do two things at once?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks.",
+      "cites": [
+        "rubinstein2001"
+      ],
+      "sources": [
+        {
+          "id": "rubinstein2001",
+          "authors": "Rubinstein, J. S., Meyer, D. E., & Evans, J. E.",
+          "year": 2001,
+          "title": "Executive control of cognitive processes in task switching",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 27(4), 763-797",
+          "url": "https://www.newswise.com/articles/is-multitasking-more-efficient",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract-level: switching costs increased with rule complexity)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Switching cost time, and the cost grew with the complexity of the task rules.",
+      "cites": [
+        "rubinstein2001"
+      ],
+      "sources": [
+        {
+          "id": "rubinstein2001",
+          "authors": "Rubinstein, J. S., Meyer, D. E., & Evans, J. E.",
+          "year": 2001,
+          "title": "Executive control of cognitive processes in task switching",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 27(4), 763-797",
+          "url": "https://www.newswise.com/articles/is-multitasking-more-efficient",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract-level: switching costs increased with rule complexity)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information.",
+      "cites": [
+        "ophir2009"
+      ],
+      "sources": [
+        {
+          "id": "ophir2009",
+          "authors": "Ophir, E., Nass, C., & Wagner, A. D.",
+          "year": 2009,
+          "title": "Cognitive control in media multitaskers",
+          "venue": "Proceedings of the National Academy of Sciences, 106(37), 15583-15587",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19706386",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "But later studies didn't all find that link.",
+      "cites": [
+        "wiradhany2017"
+      ],
+      "sources": [
+        {
+          "id": "wiradhany2017",
+          "authors": "Wiradhany, W., & Nieuwenstein, M. R.",
+          "year": 2017,
+          "title": "Cognitive control in media multitaskers: Two replication studies and a meta-analysis",
+          "venue": "Attention, Perception, & Psychophysics, 79",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (found higher switching costs in heavy media multitaskers; notes later studies did not all show the distractibility link)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "A 2017 replication did find higher task-switching costs in heavy media multitaskers.",
+      "cites": [
+        "wiradhany2017"
+      ],
+      "sources": [
+        {
+          "id": "wiradhany2017",
+          "authors": "Wiradhany, W., & Nieuwenstein, M. R.",
+          "year": 2017,
+          "title": "Cognitive control in media multitaskers: Two replication studies and a meta-analysis",
+          "venue": "Attention, Perception, & Psychophysics, 79",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (found higher switching costs in heavy media multitaskers; notes later studies did not all show the distractibility link)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together.",
+      "cites": [
+        "watson2010"
+      ],
+      "sources": [
+        {
+          "id": "watson2010",
+          "authors": "Watson, J. M., & Strayer, D. L.",
+          "year": 2010,
+          "title": "Supertaskers: Profiles in extraordinary multitasking ability",
+          "venue": "Psychonomic Bulletin & Review, 17(4), 479-485",
+          "url": "https://www.sciencedaily.com/releases/2010/03/100329075911.htm",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 students; about 2.5% showed no decline)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "For the other 97.5 percent, performance dropped.",
+      "cites": [
+        "watson2010"
+      ],
+      "sources": [
+        {
+          "id": "watson2010",
+          "authors": "Watson, J. M., & Strayer, D. L.",
+          "year": 2010,
+          "title": "Supertaskers: Profiles in extraordinary multitasking ability",
+          "venue": "Psychonomic Bulletin & Review, 17(4), 479-485",
+          "url": "https://www.sciencedaily.com/releases/2010/03/100329075911.htm",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 students; about 2.5% showed no decline)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So most of us pay a cost when we switch tasks, even if a few people don't.",
+      "cites": [
+        "rubinstein2001",
+        "watson2010"
+      ],
+      "sources": [
+        {
+          "id": "rubinstein2001",
+          "authors": "Rubinstein, J. S., Meyer, D. E., & Evans, J. E.",
+          "year": 2001,
+          "title": "Executive control of cognitive processes in task switching",
+          "venue": "Journal of Experimental Psychology: Human Perception and Performance, 27(4), 763-797",
+          "url": "https://www.newswise.com/articles/is-multitasking-more-efficient",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract-level: switching costs increased with rule complexity)"
+        },
+        {
+          "id": "watson2010",
+          "authors": "Watson, J. M., & Strayer, D. L.",
+          "year": 2010,
+          "title": "Supertaskers: Profiles in extraordinary multitasking ability",
+          "venue": "Psychonomic Bulletin & Review, 17(4), 479-485",
+          "url": "https://www.sciencedaily.com/releases/2010/03/100329075911.htm",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 students; about 2.5% showed no decline)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why does scarcity make things look more valuable?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

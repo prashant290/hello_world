@@ -1,85 +1,111 @@
 {
   "day": 4,
-  "topic": "Confirmation bias: you only see what you already believe",
+  "topic": "Confirmation bias: how you test only what you already believe",
   "title": "Your Brain Hides Evidence You Disagree With",
-  "voiceover": "You're not seeing all the evidence. Here's why. In 1960, psychologist Peter Wason gave people three numbers: 2, 4, 6. Their job was to guess the hidden rule. Many guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes. The real rule was simply any increasing numbers. Many people never tested something that could prove them wrong, like 5, 4, 3. That's confirmation bias: searching for, favoring, and remembering information that supports what you already believe. Try this: before an important decision, ask 'what would prove me wrong?' Then actually go look for it. Sources that disagree with you aren't enemies. They're free error-checking. Tomorrow: why unfinished tasks keep nagging at the back of your mind.",
-  "word_count": 127,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Do you really look at all the evidence? In 1960, psychologist Peter Wason gave 29 people the numbers 2, 4, 6. Their task was to discover the hidden rule by proposing their own sets of three numbers. The actual rule was simply any ascending sequence. Most people tested only examples that fit their own guess. Only 6 of the 29 announced the correct rule without first announcing a wrong one. Wason concluded people tend to seek only confirming evidence. Psychologists Lord, Lepper and Preston tested a fix: consider the opposite. In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased. So before a big decision, ask yourself: what would prove me wrong? Tomorrow: do unfinished tasks really haunt your memory?",
+  "word_count": 130,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.09,
+      "end_sec": 3.02,
       "section": "hook",
-      "narration_line": "You're not seeing all the evidence. Here's why.",
-      "on_screen_text": "Not all the evidence",
-      "visual_description": "Stickman wearing blinders staring at a big pile of papers.",
+      "narration_line": "Do you really look at all the evidence?",
+      "on_screen_text": "All the evidence?",
+      "visual_description": "Stickman wearing blinders in front of a pile of papers.",
       "visual_spec": "stand/neutral/C; list:YES,YES,NO@R"
     },
     {
-      "start_sec": 3.09,
-      "end_sec": 10.8,
+      "start_sec": 3.02,
+      "end_sec": 7.92,
       "section": "explanation",
-      "narration_line": "In 1960, psychologist Peter Wason gave people three numbers: 2, 4, 6. Their job was to guess the hidden rule.",
+      "narration_line": "In 1960, psychologist Peter Wason gave 29 people the numbers 2, 4, 6.",
       "on_screen_text": "Wason's 2-4-6 puzzle",
-      "visual_description": "Three big numbers 2 - 4 - 6 with a question mark rule box.",
+      "visual_description": "Three big numbers: 2, 4, 6.",
       "visual_spec": "point/neutral/L; numbers:2 4 6@R; qmark@TR"
     },
     {
-      "start_sec": 10.8,
-      "end_sec": 19.29,
+      "start_sec": 7.92,
+      "end_sec": 13.95,
       "section": "explanation",
-      "narration_line": "Many guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes.",
+      "narration_line": "Their task was to discover the hidden rule by proposing their own sets of three numbers.",
+      "on_screen_text": "Find the hidden rule",
+      "visual_description": "Stickman writes three-number guesses.",
+      "visual_spec": "think/neutral/L; numbers:? ? ?@R"
+    },
+    {
+      "start_sec": 13.95,
+      "end_sec": 16.96,
+      "section": "explanation",
+      "narration_line": "The actual rule was simply any ascending sequence.",
+      "on_screen_text": "Rule: any ascending numbers",
+      "visual_description": "Numbers climbing upward like stairs.",
+      "visual_spec": "stand/smile/L; numbers:1 5 9@R; arrow:right@TR"
+    },
+    {
+      "start_sec": 16.96,
+      "end_sec": 20.73,
+      "section": "explanation",
+      "narration_line": "Most people tested only examples that fit their own guess.",
       "on_screen_text": "They tested what fit",
-      "visual_description": "A row of green checkmarks next to 8, 10, 12.",
-      "visual_spec": "think/smile/L; numbers:8 10 12@R; check@TR"
+      "visual_description": "A row of green checks next to matching guesses.",
+      "visual_spec": "think/smile/L; list:FIT,FIT,FIT@R; check@TR"
     },
     {
-      "start_sec": 19.29,
-      "end_sec": 27.78,
+      "start_sec": 20.73,
+      "end_sec": 26.38,
       "section": "explanation",
-      "narration_line": "The real rule was simply any increasing numbers. Many people never tested something that could prove them wrong, like 5, 4, 3.",
-      "on_screen_text": "Rule: any rising numbers",
-      "visual_description": "Numbers 5, 4, 3 with a red cross, circled as untested.",
-      "visual_spec": "shock/neutral/L; numbers:5 4 3@R; cross@TR"
+      "narration_line": "Only 6 of the 29 announced the correct rule without first announcing a wrong one.",
+      "on_screen_text": "Only 6 of 29",
+      "visual_description": "Counter showing 6 of 29 lit up.",
+      "visual_spec": "shock/neutral/L; text:6 OF 29@R"
     },
     {
-      "start_sec": 27.78,
-      "end_sec": 33.57,
+      "start_sec": 26.38,
+      "end_sec": 29.78,
       "section": "explanation",
-      "narration_line": "That's confirmation bias: searching for, favoring, and remembering information that supports what you already believe.",
+      "narration_line": "Wason concluded people tend to seek only confirming evidence.",
       "on_screen_text": "Confirmation bias",
-      "visual_description": "Magnet pulling only 'agree' papers toward the stickman.",
-      "visual_spec": "point/neutral/L; magnet@R; text:CONFIRMATION BIAS@TR"
+      "visual_description": "Magnet pulling only 'agree' papers.",
+      "visual_spec": "point/neutral/L; magnet@R; text:CONFIRMATION@TR"
     },
     {
-      "start_sec": 33.57,
-      "end_sec": 40.51,
+      "start_sec": 29.78,
+      "end_sec": 33.92,
       "section": "takeaway",
-      "narration_line": "Try this: before an important decision, ask 'what would prove me wrong?' Then actually go look for it.",
+      "narration_line": "Psychologists Lord, Lepper and Preston tested a fix: consider the opposite.",
+      "on_screen_text": "Consider the opposite",
+      "visual_description": "Stickman flipping a card to its other side.",
+      "visual_spec": "stand/smile/L; arrow:right@R"
+    },
+    {
+      "start_sec": 33.92,
+      "end_sec": 41.46,
+      "section": "takeaway",
+      "narration_line": "In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased.",
+      "on_screen_text": "Beats 'be fair'",
+      "visual_description": "Two bars: 'be fair' short, 'consider the opposite' tall.",
+      "visual_spec": "stand/smile/L; bars:be fair,opposite@R"
+    },
+    {
+      "start_sec": 41.46,
+      "end_sec": 45.98,
+      "section": "takeaway",
+      "narration_line": "So before a big decision, ask yourself: what would prove me wrong?",
       "on_screen_text": "What would prove me wrong?",
-      "visual_description": "Stickman holding a magnifying glass toward a 'NO' paper.",
+      "visual_description": "Stickman holding a magnifying glass toward a red NO paper.",
       "visual_spec": "think/smile/L; qmark@R; text:PROVE ME WRONG@TR"
     },
     {
-      "start_sec": 40.51,
-      "end_sec": 44.37,
-      "section": "takeaway",
-      "narration_line": "Sources that disagree with you aren't enemies. They're free error-checking.",
-      "on_screen_text": "Disagreement = error-check",
-      "visual_description": "A friendly red pen marking a paper with a tick.",
-      "visual_spec": "stand/smile/L; check@R"
-    },
-    {
-      "start_sec": 44.37,
+      "start_sec": 45.98,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: why unfinished tasks keep nagging at the back of your mind.",
+      "narration_line": "Tomorrow: do unfinished tasks really haunt your memory?",
       "on_screen_text": "Tomorrow: unfinished tasks",
-      "visual_description": "An open to-do list with half the items unchecked and glowing.",
+      "visual_description": "Open to-do list glowing.",
       "visual_spec": "stand/worry/L; list:TODO,TODO,TODO@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Your brain naturally seeks out information that agrees with what you already believe. Peter Wason's classic 2-4-6 task shows how people test ideas in ways that can only confirm them. New psychology short every day on The Psyche Discourse. Source: Wason (1960), 'On the failure to eliminate hypotheses in a conceptual task', Quarterly Journal of Experimental Psychology.",
+  "description": "Do you really look at all the evidence? In Peter Wason's classic 2-4-6 task, most people tested only examples that fit their own guess, and a simple 'consider the opposite' strategy reduced bias in later experiments. New psychology short every day on The Psyche Discourse. Source: Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140. Source: Lord, C. G., Lepper, M. R., & Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231-1243.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -89,7 +115,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "Wason's task is a classic demonstration of seeking confirming evidence; it is a simplified model of real-world belief formation. Confirmation bias is robust but not absolute: people can be nudged to look for disconfirming evidence.",
+  "accuracy_note": "Wason's task is a simplified lab model of hypothesis testing; the sample was 29 people. The rule wording ('any ascending sequence') and the 'most tested only fitting examples' summary come from secondary descriptions of the 1960 paper. Lord, Lepper & Preston tested consider-the-opposite on biased assimilation and impression formation, not every decision.",
   "thumbnail": {
     "lines": [
       "YOUR BRAIN",

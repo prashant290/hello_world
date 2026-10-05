@@ -1,0 +1,193 @@
+{
+  "day": 24,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you think you'd never fall for a scam?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1980, Neil Weinstein asked 258 college students about 42 life events.",
+      "cites": [
+        "weinstein1980"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They compared their own chances with those of their classmates.",
+      "cites": [
+        "weinstein1980"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Students rated their own chances of good events as above average.",
+      "cites": [
+        "weinstein1980"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "And their chances of bad events as below average.",
+      "cites": [
+        "weinstein1980"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "That's called unrealistic optimism: we can't all be better than average.",
+      "cites": [
+        "weinstein1980"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "A 2013 Federal Trade Commission survey estimated that 10.8 percent of U.S. adults were victims of fraud in 2011.",
+      "cites": [
+        "anderson2013"
+      ],
+      "sources": [
+        {
+          "id": "anderson2013",
+          "authors": "Anderson, K. B.",
+          "year": 2013,
+          "title": "Consumer fraud in the United States, 2011: The third FTC survey",
+          "venue": "U.S. Federal Trade Commission staff report",
+          "url": "https://www.ftc.gov/reports/consumer-fraud-united-states-2011-third-ftc-survey",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (10.8% of adults; about 25.6 million people)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "That's about 25.6 million people.",
+      "cites": [
+        "anderson2013"
+      ],
+      "sources": [
+        {
+          "id": "anderson2013",
+          "authors": "Anderson, K. B.",
+          "year": 2013,
+          "title": "Consumer fraud in the United States, 2011: The third FTC survey",
+          "venue": "U.S. Federal Trade Commission staff report",
+          "url": "https://www.ftc.gov/reports/consumer-fraud-united-states-2011-third-ftc-survey",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (10.8% of adults; about 25.6 million people)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "The survey covered the specific frauds it asked about, not every possible scam.",
+      "cites": [
+        "anderson2013"
+      ],
+      "sources": [
+        {
+          "id": "anderson2013",
+          "authors": "Anderson, K. B.",
+          "year": 2013,
+          "title": "Consumer fraud in the United States, 2011: The third FTC survey",
+          "venue": "U.S. Federal Trade Commission staff report",
+          "url": "https://www.ftc.gov/reports/consumer-fraud-united-states-2011-third-ftc-survey",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (10.8% of adults; about 25.6 million people)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So 'it won't happen to me' feels certain, but the numbers show it happens to many people.",
+      "cites": [
+        "weinstein1980",
+        "anderson2013"
+      ],
+      "sources": [
+        {
+          "id": "weinstein1980",
+          "authors": "Weinstein, N. D.",
+          "year": 1980,
+          "title": "Unrealistic optimism about future life events",
+          "venue": "Journal of Personality and Social Psychology, 39(5), 806-820",
+          "url": "https://scinapse.io/papers/2145046219",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (258 students; 42 events)"
+        },
+        {
+          "id": "anderson2013",
+          "authors": "Anderson, K. B.",
+          "year": 2013,
+          "title": "Consumer fraud in the United States, 2011: The third FTC survey",
+          "venue": "U.S. Federal Trade Commission staff report",
+          "url": "https://www.ftc.gov/reports/consumer-fraud-united-states-2011-third-ftc-survey",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (10.8% of adults; about 25.6 million people)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why do you say 'I knew it all along'?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

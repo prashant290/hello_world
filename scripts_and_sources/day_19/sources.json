@@ -1,0 +1,165 @@
+{
+  "day": 19,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can a third option you never choose change your pick?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options.",
+      "cites": [
+        "huber1982"
+      ],
+      "sources": [
+        {
+          "id": "huber1982",
+          "authors": "Huber, J., Payne, J. W., & Puto, C.",
+          "year": 1982,
+          "title": "Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis",
+          "venue": "Journal of Consumer Research, 9(1), 90-98",
+          "url": "https://apps.dtic.mil/sti/tr/pdf/ADA111658.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "A decoy is an option that's clearly worse than one item, but not clearly worse than the other.",
+      "cites": [
+        "huber1982"
+      ],
+      "sources": [
+        {
+          "id": "huber1982",
+          "authors": "Huber, J., Payne, J. W., & Puto, C.",
+          "year": 1982,
+          "title": "Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis",
+          "venue": "Journal of Consumer Research, 9(1), 90-98",
+          "url": "https://apps.dtic.mil/sti/tr/pdf/ADA111658.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Adding a decoy could increase how often people picked the option that dominated it.",
+      "cites": [
+        "huber1982"
+      ],
+      "sources": [
+        {
+          "id": "huber1982",
+          "authors": "Huber, J., Payne, J. W., & Puto, C.",
+          "year": 1982,
+          "title": "Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis",
+          "venue": "Journal of Consumer Research, 9(1), 90-98",
+          "url": "https://apps.dtic.mil/sti/tr/pdf/ADA111658.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 2014, Shane Frederick and colleagues tested the limits of this attraction effect.",
+      "cites": [
+        "frederick2014"
+      ],
+      "sources": [
+        {
+          "id": "frederick2014",
+          "authors": "Frederick, S., Lee, L., & Baskin, E.",
+          "year": 2014,
+          "title": "The limits of attraction",
+          "venue": "Journal of Marketing Research, 51(4), 487-507",
+          "url": "https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/The-Limits-of-Attraction.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "They found it showed up mainly when every product feature was shown as a number.",
+      "cites": [
+        "frederick2014"
+      ],
+      "sources": [
+        {
+          "id": "frederick2014",
+          "authors": "Frederick, S., Lee, L., & Baskin, E.",
+          "year": 2014,
+          "title": "The limits of attraction",
+          "venue": "Journal of Marketing Research, 51(4), 487-507",
+          "url": "https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/The-Limits-of-Attraction.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room.",
+      "cites": [
+        "frederick2014"
+      ],
+      "sources": [
+        {
+          "id": "frederick2014",
+          "authors": "Frederick, S., Lee, L., & Baskin, E.",
+          "year": 2014,
+          "title": "The limits of attraction",
+          "venue": "Journal of Marketing Research, 51(4), 487-507",
+          "url": "https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/The-Limits-of-Attraction.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "The authors suggest it may be limited to numbers-on-a-page choices.",
+      "cites": [
+        "frederick2014"
+      ],
+      "sources": [
+        {
+          "id": "frederick2014",
+          "authors": "Frederick, S., Lee, L., & Baskin, E.",
+          "year": 2014,
+          "title": "The limits of attraction",
+          "venue": "Journal of Marketing Research, 51(4), 487-507",
+          "url": "https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/The-Limits-of-Attraction.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract quoted)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when options are listed as numbers, ask if one of them is just there to make another look good.",
+      "cites": [
+        "huber1982"
+      ],
+      "sources": [
+        {
+          "id": "huber1982",
+          "authors": "Huber, J., Payne, J. W., & Puto, C.",
+          "year": 1982,
+          "title": "Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis",
+          "venue": "Journal of Consumer Research, 9(1), 90-98",
+          "url": "https://apps.dtic.mil/sti/tr/pdf/ADA111658.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do you put off things you care about?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

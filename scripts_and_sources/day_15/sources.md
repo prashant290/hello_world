@@ -1,0 +1,21 @@
+# Day 15: Why You Overvalue What You Build Yourself — source table
+
+Topic: The IKEA effect: why you overvalue what you build  
+Words: 122
+
+| # | Sentence (spoken) | Source(s) | How it was checked |
+|---|---|---|---|
+| 1 | Why do you love things you built yourself? | — (question; makes no claim) | n/a |
+| 2 | Michael Norton, Daniel Mochon and Dan Ariely call it the IKEA effect. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 3 | In four studies, people assembled IKEA boxes, folded origami and built Lego sets. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 4 | They valued their own creations more than similar products they hadn't made. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 5 | Participants also saw their amateur creations as similar in value to experts' creations. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 6 | And they expected other people to share their opinion. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 7 | In another study, the effect held even for simple boxes that couldn't be customized. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 8 | But the effect disappeared when people failed to finish building, or when their creation was destroyed. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 9 | So when you've built something, ask how much of your attachment comes from the effort. | Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. [link](https://dash.harvard.edu/handle/1/12136084) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (four studies; boundary conditions quoted in abstract summaries) |
+| 10 | Tomorrow: does time really speed up as you get older? | — (question; makes no claim) | n/a |
+
+## Caveats / contested points
+
+Findings come from lab studies with IKEA boxes, origami and Lego. The 'would you pay 63% more' figure sometimes quoted online was not verified and is not used.

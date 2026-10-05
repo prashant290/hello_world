@@ -1,0 +1,127 @@
+{
+  "day": 20,
+  "topic": "Why you procrastinate even when you care",
+  "title": "Why You Procrastinate on What Matters",
+  "voiceover": "Why do you put off things you care about? In 2007, Piers Steel reviewed 691 correlations in a meta-analysis of procrastination. Strong predictors included task aversiveness, task delay, low self-efficacy and impulsiveness. Conscientiousness and its facets, like self-control and organization, were strong predictors too. Neuroticism and rebelliousness had only weak connections. In other words, procrastination is a self-regulation failure more than a time-management problem. In 2013, Fuschia Sirois and Timothy Pychyl argued procrastination is partly about short-term mood repair. You avoid the task to escape bad feelings now. While the consequences land on your future self. So when you stall, ask what feeling you're avoiding, not just whether you're lazy. Tomorrow: why do you like what you've seen a lot?",
+  "word_count": 120,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.67,
+      "section": "hook",
+      "narration_line": "Why do you put off things you care about?",
+      "on_screen_text": "Why put it off?",
+      "visual_description": "Stickman with a looming task.",
+      "visual_spec": "think/worry/C; list:TODO,TODO@R"
+    },
+    {
+      "start_sec": 3.67,
+      "end_sec": 8.57,
+      "section": "explanation",
+      "narration_line": "In 2007, Piers Steel reviewed 691 correlations in a meta-analysis of procrastination.",
+      "on_screen_text": "2007: 691 correlations",
+      "visual_description": "Big number 691.",
+      "visual_spec": "point/neutral/L; numbers:691@R"
+    },
+    {
+      "start_sec": 8.57,
+      "end_sec": 13.07,
+      "section": "explanation",
+      "narration_line": "Strong predictors included task aversiveness, task delay, low self-efficacy and impulsiveness.",
+      "on_screen_text": "Strong predictors",
+      "visual_description": "List of four predictors.",
+      "visual_spec": "stand/neutral/L; list:UNPLEASANT,DELAY,LOW CONFIDENCE,IMPULSE@R"
+    },
+    {
+      "start_sec": 13.07,
+      "end_sec": 17.97,
+      "section": "explanation",
+      "narration_line": "Conscientiousness and its facets, like self-control and organization, were strong predictors too.",
+      "on_screen_text": "Self-control and organization",
+      "visual_description": "Check marks.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 17.97,
+      "end_sec": 20.82,
+      "section": "explanation",
+      "narration_line": "Neuroticism and rebelliousness had only weak connections.",
+      "on_screen_text": "Weak links: neuroticism",
+      "visual_description": "Thin lines.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 20.82,
+      "end_sec": 26.13,
+      "section": "explanation",
+      "narration_line": "In other words, procrastination is a self-regulation failure more than a time-management problem.",
+      "on_screen_text": "Self-regulation, not time management",
+      "visual_description": "Clock crossed out.",
+      "visual_spec": "think/neutral/L; clock@R; cross@TR"
+    },
+    {
+      "start_sec": 26.13,
+      "end_sec": 32.26,
+      "section": "explanation",
+      "narration_line": "In 2013, Fuschia Sirois and Timothy Pychyl argued procrastination is partly about short-term mood repair.",
+      "on_screen_text": "2013: short-term mood repair",
+      "visual_description": "Heart bandage.",
+      "visual_spec": "stand/neutral/L; text:MOOD REPAIR@R"
+    },
+    {
+      "start_sec": 32.26,
+      "end_sec": 35.93,
+      "section": "explanation",
+      "narration_line": "You avoid the task to escape bad feelings now.",
+      "on_screen_text": "Escape bad feelings now",
+      "visual_description": "Stickman running from a cloud.",
+      "visual_spec": "walk/worry/L; waves@R"
+    },
+    {
+      "start_sec": 35.93,
+      "end_sec": 39.2,
+      "section": "explanation",
+      "narration_line": "While the consequences land on your future self.",
+      "on_screen_text": "Consequences hit future you",
+      "visual_description": "Arrow to a later date.",
+      "visual_spec": "stand/worry/L; arrow:right@R; text:LATER@TR"
+    },
+    {
+      "start_sec": 39.2,
+      "end_sec": 44.92,
+      "section": "takeaway",
+      "narration_line": "So when you stall, ask what feeling you're avoiding, not just whether you're lazy.",
+      "on_screen_text": "What feeling are you avoiding?",
+      "visual_description": "Stickman asking himself.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 44.92,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you like what you've seen a lot?",
+      "on_screen_text": "Tomorrow: familiarity",
+      "visual_description": "Same shape repeated.",
+      "visual_spec": "stand/neutral/L; crowd:4@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do you put off things you care about? A large meta-analysis found task aversiveness, low self-efficacy and impulsiveness are strong predictors, and researchers link procrastination to short-term mood repair. New psychology short every day on The Psyche Discourse. Source: Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65-94. Source: Sirois, F., & Pychyl, T. (2013). Procrastination and the priority of short-term mood regulation: Consequences for future self. Social and Personality Psychology Compass, 7(2), 115-127.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#procrastination",
+    "#productivity",
+    "#motivation",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Steel (2007) is a review of correlations, not proof of cause. The mood-repair account (Sirois & Pychyl) is a theoretical framework supported by research; it does not explain every case. Not medical or therapeutic advice.",
+  "thumbnail": {
+    "lines": [
+      "WHY YOU",
+      "PROCRASTINATE"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

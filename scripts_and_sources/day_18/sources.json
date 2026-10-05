@@ -1,0 +1,165 @@
+{
+  "day": 18,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why does bad news grab your attention?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents.",
+      "cites": [
+        "soroka2019"
+      ],
+      "sources": [
+        {
+          "id": "soroka2019",
+          "authors": "Soroka, S., Fournier, P., & Nir, L.",
+          "year": 2019,
+          "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+          "venue": "Proceedings of the National Academy of Sciences, 116(38), 18888-18892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6754543",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (17 countries, 1,156 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They measured the bodily reactions of 1,156 people watching real news videos.",
+      "cites": [
+        "soroka2019"
+      ],
+      "sources": [
+        {
+          "id": "soroka2019",
+          "authors": "Soroka, S., Fournier, P., & Nir, L.",
+          "year": 2019,
+          "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+          "venue": "Proceedings of the National Academy of Sciences, 116(38), 18888-18892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6754543",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (17 countries, 1,156 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "On average, negative stories produced stronger physiological activation than positive ones.",
+      "cites": [
+        "soroka2019"
+      ],
+      "sources": [
+        {
+          "id": "soroka2019",
+          "authors": "Soroka, S., Fournier, P., & Nir, L.",
+          "year": 2019,
+          "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+          "venue": "Proceedings of the National Academy of Sciences, 116(38), 18888-18892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6754543",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (17 countries, 1,156 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "But individuals varied a lot in how strongly they reacted.",
+      "cites": [
+        "soroka2019"
+      ],
+      "sources": [
+        {
+          "id": "soroka2019",
+          "authors": "Soroka, S., Fournier, P., & Nir, L.",
+          "year": 2019,
+          "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+          "venue": "Proceedings of the National Academy of Sciences, 116(38), 18888-18892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6754543",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (17 countries, 1,156 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read.",
+      "cites": [
+        "trussler2014"
+      ],
+      "sources": [
+        {
+          "id": "trussler2014",
+          "authors": "Trussler, M., & Soroka, S.",
+          "year": 2014,
+          "title": "Consumer demand for cynical and negative news frames",
+          "venue": "International Journal of Press/Politics, 19(3), 360-379",
+          "url": "https://journals.sagepub.com/doi/10.1177/1940161214524832",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Even when people said they wanted good news, their choices leaned negative.",
+      "cites": [
+        "trussler2014"
+      ],
+      "sources": [
+        {
+          "id": "trussler2014",
+          "authors": "Trussler, M., & Soroka, S.",
+          "year": 2014,
+          "title": "Consumer demand for cynical and negative news frames",
+          "venue": "International Journal of Press/Politics, 19(3), 360-379",
+          "url": "https://journals.sagepub.com/doi/10.1177/1940161214524832",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "The authors argue that demand, not just editors, helps explain why news is negative.",
+      "cites": [
+        "trussler2014"
+      ],
+      "sources": [
+        {
+          "id": "trussler2014",
+          "authors": "Trussler, M., & Soroka, S.",
+          "year": 2014,
+          "title": "Consumer demand for cynical and negative news frames",
+          "venue": "International Journal of Press/Politics, 19(3), 360-379",
+          "url": "https://journals.sagepub.com/doi/10.1177/1940161214524832",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally.",
+      "cites": [
+        "soroka2019"
+      ],
+      "sources": [
+        {
+          "id": "soroka2019",
+          "authors": "Soroka, S., Fournier, P., & Nir, L.",
+          "year": 2019,
+          "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+          "venue": "Proceedings of the National Academy of Sciences, 116(38), 18888-18892",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6754543",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (17 countries, 1,156 participants)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: how can a menu option you never order change what you pick?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

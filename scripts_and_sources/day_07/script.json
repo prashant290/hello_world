@@ -1,94 +1,102 @@
 {
   "day": 7,
-  "topic": "The Dunning-Kruger effect explained in 50 seconds",
+  "topic": "The Dunning-Kruger effect: what it really says",
   "title": "Dunning-Kruger: What Everyone Gets Wrong",
-  "voiceover": "Do clueless people really think they're geniuses? In 1999, David Dunning and Justin Kruger tested people on logic, grammar, and humor. Those who scored lowest still guessed they'd done better than average. The idea: the skills you need to do something well are the same skills you need to judge it. Importantly, their finding was about specific skills, not general intelligence. But here's the catch. Some statisticians argue part of that famous pattern is a statistical artifact, and the popular 'Mount Stupid' graph isn't actually from the paper. So don't use it to label other people. Use it on yourself: when you're new at something, ask an experienced person to rate your work. Tomorrow: why that annoying song is playing in your head right now.",
-  "word_count": 125,
-  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "voiceover": "Do unskilled people really think they're geniuses? In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic. Those who scored in the bottom quarter guessed they'd done much better than they had. They scored around the 12th percentile but estimated themselves near the 62nd. The researchers argued that skill and the ability to judge your skill are linked. When they trained participants in logic, those participants became better at recognizing their own limits. But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact. It found that self-rated and measured intelligence rose together in almost a straight line. So when you're learning something new, building skill may also improve your ability to judge your own work. Tomorrow: why is that song stuck in your head?",
+  "word_count": 138,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.74,
+      "end_sec": 2.49,
       "section": "hook",
-      "narration_line": "Do clueless people really think they're geniuses?",
+      "narration_line": "Do unskilled people really think they're geniuses?",
       "on_screen_text": "Do they think they're geniuses?",
-      "visual_description": "Stickman wearing a paper crown looking proud.",
+      "visual_description": "Stickman wearing a paper crown.",
       "visual_spec": "stand/smile/C; text:GENIUS?@R"
     },
     {
-      "start_sec": 2.74,
-      "end_sec": 8.23,
+      "start_sec": 2.49,
+      "end_sec": 7.46,
       "section": "explanation",
-      "narration_line": "In 1999, David Dunning and Justin Kruger tested people on logic, grammar, and humor.",
-      "on_screen_text": "Dunning & Kruger, 1999",
-      "visual_description": "Quiz sheets labeled LOGIC, GRAMMAR, HUMOR.",
-      "visual_spec": "point/neutral/L; list:LOGIC,GRAMMAR,HUMOR@R"
+      "narration_line": "In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic.",
+      "on_screen_text": "Kruger & Dunning, 1999",
+      "visual_description": "Quiz sheets: humor, grammar, logic.",
+      "visual_spec": "point/neutral/L; list:HUMOR,GRAMMAR,LOGIC@R"
     },
     {
-      "start_sec": 8.23,
-      "end_sec": 12.54,
+      "start_sec": 7.46,
+      "end_sec": 12.78,
       "section": "explanation",
-      "narration_line": "Those who scored lowest still guessed they'd done better than average.",
-      "on_screen_text": "Lowest scorers guessed 'above average'",
+      "narration_line": "Those who scored in the bottom quarter guessed they'd done much better than they had.",
+      "on_screen_text": "Lowest scorers overestimated",
       "visual_description": "Two bars: low actual, higher guessed.",
-      "visual_spec": "stand/smile/L; bars:actual=25%,guessed=60%@R"
+      "visual_spec": "stand/smile/L; bars:actual=12%,guessed=62%@R"
     },
     {
-      "start_sec": 12.54,
-      "end_sec": 19.99,
+      "start_sec": 12.78,
+      "end_sec": 17.04,
       "section": "explanation",
-      "narration_line": "The idea: the skills you need to do something well are the same skills you need to judge it.",
-      "on_screen_text": "Doing and judging: same skill",
-      "visual_description": "Two linked gears labeled DO and JUDGE.",
+      "narration_line": "They scored around the 12th percentile but estimated themselves near the 62nd.",
+      "on_screen_text": "12th vs 62nd percentile",
+      "visual_description": "Numbers 12 and 62.",
+      "visual_spec": "think/neutral/L; numbers:12 62@R"
+    },
+    {
+      "start_sec": 17.04,
+      "end_sec": 22.01,
+      "section": "explanation",
+      "narration_line": "The researchers argued that skill and the ability to judge your skill are linked.",
+      "on_screen_text": "Skill and self-judging linked",
+      "visual_description": "Two linked gears: DO and JUDGE.",
       "visual_spec": "think/neutral/L; text:DO + JUDGE@R"
     },
     {
-      "start_sec": 19.99,
-      "end_sec": 23.91,
+      "start_sec": 22.01,
+      "end_sec": 27.34,
       "section": "explanation",
-      "narration_line": "Importantly, their finding was about specific skills, not general intelligence.",
-      "on_screen_text": "Specific skills, not IQ",
-      "visual_description": "Brain icon with a crossed-out 'IQ'.",
-      "visual_spec": "stand/neutral/L; brain:@R; cross@TR"
+      "narration_line": "When they trained participants in logic, those participants became better at recognizing their own limits.",
+      "on_screen_text": "Training helped self-judgment",
+      "visual_description": "Stickman studying, then checking a score.",
+      "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 23.91,
-      "end_sec": 34.5,
+      "start_sec": 27.34,
+      "end_sec": 34.44,
       "section": "explanation",
-      "narration_line": "But here's the catch. Some statisticians argue part of that famous pattern is a statistical artifact, and the popular 'Mount Stupid' graph isn't actually from the paper.",
-      "on_screen_text": "The catch: it's debated",
-      "visual_description": "A hill-shaped graph stamped 'NOT IN THE PAPER'.",
-      "visual_spec": "shrug/neutral/L; lines:myth,real@R; text:DEBATED@TR"
+      "narration_line": "But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.",
+      "on_screen_text": "2020: mostly a statistical artifact?",
+      "visual_description": "Graph stamped 'DEBATED'.",
+      "visual_spec": "shrug/neutral/L; lines:myth,test@R; text:DEBATED@TR"
     },
     {
-      "start_sec": 34.5,
-      "end_sec": 39.2,
+      "start_sec": 34.44,
+      "end_sec": 39.41,
+      "section": "explanation",
+      "narration_line": "It found that self-rated and measured intelligence rose together in almost a straight line.",
+      "on_screen_text": "Almost a straight line",
+      "visual_description": "Straight upward line.",
+      "visual_spec": "stand/neutral/L; lines:rated,measured@R"
+    },
+    {
+      "start_sec": 39.41,
+      "end_sec": 45.8,
       "section": "takeaway",
-      "narration_line": "So don't use it to label other people. Use it on yourself:",
-      "on_screen_text": "Use it on yourself",
-      "visual_description": "Stickman pointing a finger at his own chest.",
-      "visual_spec": "point/smile/L; qmark@R"
+      "narration_line": "So when you're learning something new, building skill may also improve your ability to judge your own work.",
+      "on_screen_text": "Skill helps you judge your work",
+      "visual_description": "Stickman holding up his work next to a ruler.",
+      "visual_spec": "point/smile/L; check@R; text:SKILL + JUDGMENT@TR"
     },
     {
-      "start_sec": 39.2,
-      "end_sec": 44.3,
-      "section": "takeaway",
-      "narration_line": "when you're new at something, ask an experienced person to rate your work.",
-      "on_screen_text": "Ask an expert to rate you",
-      "visual_description": "Stickman handing a paper to a bigger, experienced stickman.",
-      "visual_spec": "stand/smile/L; crowd:1@R; check@TR"
-    },
-    {
-      "start_sec": 44.3,
+      "start_sec": 45.8,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: why that annoying song is playing in your head right now.",
-      "on_screen_text": "Tomorrow: your stuck song",
+      "narration_line": "Tomorrow: why is that song stuck in your head?",
+      "on_screen_text": "Tomorrow: stuck songs",
       "visual_description": "Musical notes floating from the stickman's head.",
       "visual_spec": "stand/neutral/L; notes@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Do unskilled people really think they're geniuses? Not quite: Dunning and Kruger found that low performers overestimated their ability on specific tasks, but the popular version of the story is oversimplified. New psychology short every day on The Psyche Discourse. Source: Kruger & Dunning (1999), 'Unskilled and unaware of it', Journal of Personality and Social Psychology.",
+  "description": "Do unskilled people really think they're geniuses? Not quite: in the original study the lowest scorers overestimated their rank, but a 2020 analysis argued much of the classic pattern is a statistical artefact. New psychology short every day on The Psyche Discourse. Source: Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134. Source: Gignac, G. E., & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. Intelligence, 80, 101449.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -98,7 +106,7 @@
     "#psychologyfacts",
     "#thepsychediscourse"
   ],
-  "accuracy_note": "Disputed/oversimplified: critics argue part of the classic pattern can arise from statistical effects (regression to the mean and the better-than-average effect). The popular 'Mount Stupid' curve does not appear in the original paper. The finding concerns specific skills, not general intelligence.",
+  "accuracy_note": "CONTESTED. Gignac & Zajenkowski (2020) used intelligence tests in 929 community participants; their critique applies to that way of testing, and Dunning and others dispute it. The popular 'Mount Stupid' graph is not from the 1999 paper (not used here).",
   "thumbnail": {
     "lines": [
       "DUNNING-KRUGER",

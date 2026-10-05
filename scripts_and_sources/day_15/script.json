@@ -1,0 +1,118 @@
+{
+  "day": 15,
+  "topic": "The IKEA effect: why you overvalue what you build",
+  "title": "Why You Overvalue What You Build Yourself",
+  "voiceover": "Why do you love things you built yourself? Michael Norton, Daniel Mochon and Dan Ariely call it the IKEA effect. In four studies, people assembled IKEA boxes, folded origami and built Lego sets. They valued their own creations more than similar products they hadn't made. Participants also saw their amateur creations as similar in value to experts' creations. And they expected other people to share their opinion. In another study, the effect held even for simple boxes that couldn't be customized. But the effect disappeared when people failed to finish building, or when their creation was destroyed. So when you've built something, ask how much of your attachment comes from the effort. Tomorrow: does time really speed up as you get older?",
+  "word_count": 122,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.21,
+      "section": "hook",
+      "narration_line": "Why do you love things you built yourself?",
+      "on_screen_text": "Why love your own build?",
+      "visual_description": "Stickman proudly holding a wobbly box.",
+      "visual_spec": "stand/smile/C; list:DIY@R"
+    },
+    {
+      "start_sec": 3.21,
+      "end_sec": 8.03,
+      "section": "explanation",
+      "narration_line": "Michael Norton, Daniel Mochon and Dan Ariely call it the IKEA effect.",
+      "on_screen_text": "The IKEA effect",
+      "visual_description": "Title card IKEA EFFECT.",
+      "visual_spec": "point/neutral/L; text:IKEA EFFECT@R"
+    },
+    {
+      "start_sec": 8.03,
+      "end_sec": 13.25,
+      "section": "explanation",
+      "narration_line": "In four studies, people assembled IKEA boxes, folded origami and built Lego sets.",
+      "on_screen_text": "IKEA boxes, origami, Lego",
+      "visual_description": "Three craft icons.",
+      "visual_spec": "stand/neutral/L; list:BOX,ORIGAMI,LEGO@R"
+    },
+    {
+      "start_sec": 13.25,
+      "end_sec": 18.07,
+      "section": "explanation",
+      "narration_line": "They valued their own creations more than similar products they hadn't made.",
+      "on_screen_text": "Valued their own more",
+      "visual_description": "Two bars: own high, others lower.",
+      "visual_spec": "stand/smile/L; bars:others,own@R"
+    },
+    {
+      "start_sec": 18.07,
+      "end_sec": 23.3,
+      "section": "explanation",
+      "narration_line": "Participants also saw their amateur creations as similar in value to experts' creations.",
+      "on_screen_text": "Amateur = expert?",
+      "visual_description": "Wobbly crane next to a perfect one.",
+      "visual_spec": "think/smile/L; list:MINE,EXPERT@R"
+    },
+    {
+      "start_sec": 23.3,
+      "end_sec": 26.91,
+      "section": "explanation",
+      "narration_line": "And they expected other people to share their opinion.",
+      "on_screen_text": "Expected others to agree",
+      "visual_description": "Crowd nodding.",
+      "visual_spec": "stand/smile/L; crowd:4@R"
+    },
+    {
+      "start_sec": 26.91,
+      "end_sec": 32.53,
+      "section": "explanation",
+      "narration_line": "In another study, the effect held even for simple boxes that couldn't be customized.",
+      "on_screen_text": "Even simple, uncustomizable boxes",
+      "visual_description": "Plain boxes.",
+      "visual_spec": "point/neutral/L; list:BOX,BOX@R"
+    },
+    {
+      "start_sec": 32.53,
+      "end_sec": 38.96,
+      "section": "explanation",
+      "narration_line": "But the effect disappeared when people failed to finish building, or when their creation was destroyed.",
+      "on_screen_text": "Gone if unfinished or destroyed",
+      "visual_description": "Broken box with a cross.",
+      "visual_spec": "shock/worry/L; cross@R"
+    },
+    {
+      "start_sec": 38.96,
+      "end_sec": 44.98,
+      "section": "takeaway",
+      "narration_line": "So when you've built something, ask how much of your attachment comes from the effort.",
+      "on_screen_text": "How much is the effort?",
+      "visual_description": "Stickman weighing effort vs. object.",
+      "visual_spec": "think/smile/L; scale@R"
+    },
+    {
+      "start_sec": 44.98,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does time really speed up as you get older?",
+      "on_screen_text": "Tomorrow: time and age",
+      "visual_description": "Clock spinning fast.",
+      "visual_spec": "stand/neutral/L; clock@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do you love things you built yourself? In four studies, people valued their own creations more, but the effect vanished when they failed to finish or their creation was destroyed. New psychology short every day on The Psyche Discourse. Source: Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453-460.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#ikeaeffect",
+    "#behavioraleconomics",
+    "#diy",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Findings come from lab studies with IKEA boxes, origami and Lego. The 'would you pay 63% more' figure sometimes quoted online was not verified and is not used.",
+  "thumbnail": {
+    "lines": [
+      "THE IKEA",
+      "EFFECT"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

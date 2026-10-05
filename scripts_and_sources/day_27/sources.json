@@ -1,0 +1,165 @@
+{
+  "day": 27,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does 'almost gone' make things look better?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "A total of 200 female undergraduates rated cookies.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "One glass jar held ten cookies, another held just two.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "The cookies were identical, but the ones from the nearly empty jar were rated more desirable.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Cookies were also rated more valuable when their supply changed from abundant to scarce.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "And cookies that were scarce because of high demand were rated higher than cookies scarce because of an accident.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It tested one product with one group, so shoppers in real stores may behave differently.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when you see 'only two left', ask whether you want the item or just the scarcity.",
+      "cites": [
+        "worchel1975"
+      ],
+      "sources": [
+        {
+          "id": "worchel1975",
+          "authors": "Worchel, S., Lee, J., & Adewole, A.",
+          "year": 1975,
+          "title": "Effects of supply and demand on ratings of object value",
+          "venue": "Journal of Personality and Social Psychology, 32(5), 906-914",
+          "url": "https://stafforini.com/works/worchel-1975-effects-supply-demand/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (200 female undergraduates; cookie jars)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why can't you tickle yourself?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

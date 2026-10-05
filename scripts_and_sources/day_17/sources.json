@@ -1,0 +1,183 @@
+{
+  "day": 17,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do crowds really make people less likely to help?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1968, John Darley and Bibb Latané staged a fake emergency.",
+      "cites": [
+        "darley1968"
+      ],
+      "sources": [
+        {
+          "id": "darley1968",
+          "authors": "Darley, J. M., & Latané, B.",
+          "year": 1968,
+          "title": "Bystander intervention in emergencies: Diffusion of responsibility",
+          "venue": "Journal of Personality and Social Psychology, 8(4), 377-383",
+          "url": "https://stafforini.com/works/darley-1968-bystander-intervention-emergencies/",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about 85% helped alone vs about 31% with four others)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "People who believed they were alone with a person having a seizure helped about 85 percent of the time.",
+      "cites": [
+        "darley1968"
+      ],
+      "sources": [
+        {
+          "id": "darley1968",
+          "authors": "Darley, J. M., & Latané, B.",
+          "year": 1968,
+          "title": "Bystander intervention in emergencies: Diffusion of responsibility",
+          "venue": "Journal of Personality and Social Psychology, 8(4), 377-383",
+          "url": "https://stafforini.com/works/darley-1968-bystander-intervention-emergencies/",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about 85% helped alone vs about 31% with four others)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "With four others they believed were listening, only about 31 percent helped.",
+      "cites": [
+        "darley1968"
+      ],
+      "sources": [
+        {
+          "id": "darley1968",
+          "authors": "Darley, J. M., & Latané, B.",
+          "year": 1968,
+          "title": "Bystander intervention in emergencies: Diffusion of responsibility",
+          "venue": "Journal of Personality and Social Psychology, 8(4), 377-383",
+          "url": "https://stafforini.com/works/darley-1968-bystander-intervention-emergencies/",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about 85% helped alone vs about 31% with four others)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "That's the bystander effect: more witnesses, less helping.",
+      "cites": [
+        "darley1968"
+      ],
+      "sources": [
+        {
+          "id": "darley1968",
+          "authors": "Darley, J. M., & Latané, B.",
+          "year": 1968,
+          "title": "Bystander intervention in emergencies: Diffusion of responsibility",
+          "venue": "Journal of Personality and Social Psychology, 8(4), 377-383",
+          "url": "https://stafforini.com/works/darley-1968-bystander-intervention-emergencies/",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (about 85% helped alone vs about 31% with four others)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.",
+      "cites": [
+        "fischer2011"
+      ],
+      "sources": [
+        {
+          "id": "fischer2011",
+          "authors": "Fischer, P., Krueger, J. I., Greitemeyer, T., et al.",
+          "year": 2011,
+          "title": "The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies",
+          "venue": "Psychological Bulletin, 137(4), 517-537",
+          "url": "https://pred.uni-regensburg.de/id/eprint/20599/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (105 effect sizes, 7,700+ participants)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "And in 2020, researchers studied 219 real conflicts on CCTV in Amsterdam, Lancaster and Cape Town.",
+      "cites": [
+        "philpot2020"
+      ],
+      "sources": [
+        {
+          "id": "philpot2020",
+          "authors": "Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R.",
+          "year": 2020,
+          "title": "Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts",
+          "venue": "American Psychologist, 75(1), 66-75",
+          "url": "https://academicworks.cuny.edu/jj_pubs/167",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (219 incidents in Amsterdam, Lancaster, Cape Town; interventions in more than 90%)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Bystanders intervened in more than 90 percent of them.",
+      "cites": [
+        "philpot2020"
+      ],
+      "sources": [
+        {
+          "id": "philpot2020",
+          "authors": "Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R.",
+          "year": 2020,
+          "title": "Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts",
+          "venue": "American Psychologist, 75(1), 66-75",
+          "url": "https://academicworks.cuny.edu/jj_pubs/167",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (219 incidents in Amsterdam, Lancaster, Cape Town; interventions in more than 90%)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder.",
+      "cites": [
+        "manning2007"
+      ],
+      "sources": [
+        {
+          "id": "manning2007",
+          "authors": "Manning, R., Levine, M., & Collins, A.",
+          "year": 2007,
+          "title": "The Kitty Genovese murder and the social psychology of helping: The parable of the 38 witnesses",
+          "venue": "American Psychologist, 62(6), 555-562",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/3591/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So 'crowds never help' is too simple: in real public conflicts, help was the norm.",
+      "cites": [
+        "philpot2020"
+      ],
+      "sources": [
+        {
+          "id": "philpot2020",
+          "authors": "Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R.",
+          "year": 2020,
+          "title": "Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts",
+          "venue": "American Psychologist, 75(1), 66-75",
+          "url": "https://academicworks.cuny.edu/jj_pubs/167",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (219 incidents in Amsterdam, Lancaster, Cape Town; interventions in more than 90%)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why does bad news grab your attention?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

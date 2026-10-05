@@ -1,0 +1,165 @@
+{
+  "day": 13,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you finish a movie you're hating?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1985, Hal Arkes and Catherine Blumer studied the sunk cost effect.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "It's the tendency to continue something after you've invested money, effort or time.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "At an Ohio University theater, they arranged for season tickets to be sold at three prices.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "At the beginning of the season, about a third bought at the full $15, a third at $13, and a third at $8.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Over the next six months, people who paid full price attended more plays than those who paid less.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "The authors suggest people continue partly to avoid appearing wasteful.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "This was one field study with theater patrons.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So when you're deciding whether to continue, ask what you'd choose if you hadn't already paid.",
+      "cites": [
+        "arkes1985"
+      ],
+      "sources": [
+        {
+          "id": "arkes1985",
+          "authors": "Arkes, H. R., & Blumer, C.",
+          "year": 1985,
+          "title": "The psychology of sunk cost",
+          "venue": "Organizational Behavior and Human Decision Processes, 35(1), 124-140",
+          "url": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (theater season-ticket field study at $15/$13/$8)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: why do we assume attractive people are better people?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

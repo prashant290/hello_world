@@ -1,0 +1,118 @@
+{
+  "day": 19,
+  "topic": "The decoy effect in menus and subscriptions (and where it fails)",
+  "title": "How a Menu Option You Never Order Tricks You",
+  "voiceover": "Can a third option you never choose change your pick? In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options. A decoy is an option that's clearly worse than one item, but not clearly worse than the other. Adding a decoy could increase how often people picked the option that dominated it. In 2014, Shane Frederick and colleagues tested the limits of this attraction effect. They found it showed up mainly when every product feature was shown as a number. It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room. The authors suggest it may be limited to numbers-on-a-page choices. So when options are listed as numbers, ask if one of them is just there to make another look good. Tomorrow: why do you put off things you care about?",
+  "word_count": 141,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.48,
+      "section": "hook",
+      "narration_line": "Can a third option you never choose change your pick?",
+      "on_screen_text": "A third option changes picks?",
+      "visual_description": "Menu with three options.",
+      "visual_spec": "think/neutral/C; list:A,B,C@R"
+    },
+    {
+      "start_sec": 3.48,
+      "end_sec": 7.99,
+      "section": "explanation",
+      "narration_line": "In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options.",
+      "on_screen_text": "1982: dominated options",
+      "visual_description": "Title card DECOY.",
+      "visual_spec": "point/neutral/L; text:DECOY@R"
+    },
+    {
+      "start_sec": 7.99,
+      "end_sec": 14.25,
+      "section": "explanation",
+      "narration_line": "A decoy is an option that's clearly worse than one item, but not clearly worse than the other.",
+      "on_screen_text": "A decoy: worse than one only",
+      "visual_description": "Three tags: one clearly worse than another.",
+      "visual_spec": "stand/neutral/L; list:A,B,DECOY@R"
+    },
+    {
+      "start_sec": 14.25,
+      "end_sec": 19.11,
+      "section": "explanation",
+      "narration_line": "Adding a decoy could increase how often people picked the option that dominated it.",
+      "on_screen_text": "Decoy boosts the dominating option",
+      "visual_description": "Bars: option rises.",
+      "visual_spec": "point/smile/L; bars:without,with decoy@R"
+    },
+    {
+      "start_sec": 19.11,
+      "end_sec": 23.63,
+      "section": "explanation",
+      "narration_line": "In 2014, Shane Frederick and colleagues tested the limits of this attraction effect.",
+      "on_screen_text": "2014: testing the limits",
+      "visual_description": "Magnifier on a bar.",
+      "visual_spec": "stand/neutral/L; text:2014@TR"
+    },
+    {
+      "start_sec": 23.63,
+      "end_sec": 28.84,
+      "section": "explanation",
+      "narration_line": "They found it showed up mainly when every product feature was shown as a number.",
+      "on_screen_text": "Mostly with numbers on paper",
+      "visual_description": "Spec sheet with numbers.",
+      "visual_spec": "think/neutral/L; list:7.2,5.5@R"
+    },
+    {
+      "start_sec": 28.84,
+      "end_sec": 35.1,
+      "section": "explanation",
+      "narration_line": "It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room.",
+      "on_screen_text": "Not with tasting or photos",
+      "visual_description": "Drink and photo with crosses.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 35.1,
+      "end_sec": 38.57,
+      "section": "explanation",
+      "narration_line": "The authors suggest it may be limited to numbers-on-a-page choices.",
+      "on_screen_text": "May be limited to numbers",
+      "visual_description": "Page with numbers.",
+      "visual_spec": "stand/neutral/L; text:NUMBERS@R"
+    },
+    {
+      "start_sec": 38.57,
+      "end_sec": 45.52,
+      "section": "takeaway",
+      "narration_line": "So when options are listed as numbers, ask if one of them is just there to make another look good.",
+      "on_screen_text": "Is one just a decoy?",
+      "visual_description": "Stickman pointing at the odd one out.",
+      "visual_spec": "point/smile/L; list:A,B,C?@R"
+    },
+    {
+      "start_sec": 45.52,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do you put off things you care about?",
+      "on_screen_text": "Tomorrow: procrastination",
+      "visual_description": "Stickman and a pile of tasks.",
+      "visual_spec": "stand/worry/L; list:TODO,TODO@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Can a third option you never choose change your pick? In 1982 researchers showed a decoy can shift choices, but a 2014 paper found the effect may be limited to choices shown as numbers. New psychology short every day on The Psyche Discourse. Source: Huber, J., Payne, J. W., & Puto, C. (1982). Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis. Journal of Consumer Research, 9(1), 90-98. Source: Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487-507.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#decoyeffect",
+    "#marketing",
+    "#decisionmaking",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "CONTESTED IN SCOPE. The widely repeated Economist-subscription example is not used because its data could not be verified. Frederick, Lee & Baskin (2014) say the attraction effect may be restricted to stylized, numeric product descriptions; it does not claim it never happens elsewhere.",
+  "thumbnail": {
+    "lines": [
+      "THE DECOY",
+      "EFFECT"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

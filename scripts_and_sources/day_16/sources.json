@@ -1,0 +1,165 @@
+{
+  "day": 16,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does time really speed up as you get older?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2005, Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94.",
+      "cites": [
+        "wittmann2005"
+      ],
+      "sources": [
+        {
+          "id": "wittmann2005",
+          "authors": "Wittmann, M., & Lehnhoff, S.",
+          "year": 2005,
+          "title": "Age effects in perception of time",
+          "venue": "Psychological Reports, 97(3), 921-935",
+          "url": "https://publications.igpp.de/index.cgi/bibliography/VMPBGZ3B",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (499 participants aged 14-94)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Everyone, whatever their age, said time passes quickly.",
+      "cites": [
+        "wittmann2005"
+      ],
+      "sources": [
+        {
+          "id": "wittmann2005",
+          "authors": "Wittmann, M., & Lehnhoff, S.",
+          "year": 2005,
+          "title": "Age effects in perception of time",
+          "venue": "Psychological Reports, 97(3), 921-935",
+          "url": "https://publications.igpp.de/index.cgi/bibliography/VMPBGZ3B",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (499 participants aged 14-94)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "But when asked about the last 10 years, older people said they'd passed faster.",
+      "cites": [
+        "wittmann2005"
+      ],
+      "sources": [
+        {
+          "id": "wittmann2005",
+          "authors": "Wittmann, M., & Lehnhoff, S.",
+          "year": 2005,
+          "title": "Age effects in perception of time",
+          "venue": "Psychological Reports, 97(3), 921-935",
+          "url": "https://publications.igpp.de/index.cgi/bibliography/VMPBGZ3B",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (499 participants aged 14-94)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "For shorter spans, like the last week or month, answers didn't change with age.",
+      "cites": [
+        "wittmann2005"
+      ],
+      "sources": [
+        {
+          "id": "wittmann2005",
+          "authors": "Wittmann, M., & Lehnhoff, S.",
+          "year": 2005,
+          "title": "Age effects in perception of time",
+          "venue": "Psychological Reports, 97(3), 921-935",
+          "url": "https://publications.igpp.de/index.cgi/bibliography/VMPBGZ3B",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (499 participants aged 14-94)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In 2010, William Friedman and Steve Janssen surveyed 1,865 adults.",
+      "cites": [
+        "friedman2010"
+      ],
+      "sources": [
+        {
+          "id": "friedman2010",
+          "authors": "Friedman, W. J., & Janssen, S. M. J.",
+          "year": 2010,
+          "title": "Aging and the speed of time",
+          "venue": "Acta Psychologica, 134(2), 130-141",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20163781/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,865 adults aged 16-80)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Age differences in the felt speed of time were very small, except for the last ten years.",
+      "cites": [
+        "friedman2010"
+      ],
+      "sources": [
+        {
+          "id": "friedman2010",
+          "authors": "Friedman, W. J., & Janssen, S. M. J.",
+          "year": 2010,
+          "title": "Aging and the speed of time",
+          "venue": "Acta Psychologica, 134(2), 130-141",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20163781/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,865 adults aged 16-80)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "They tied the feeling to time pressure: people who felt rushed said time passed quickly.",
+      "cites": [
+        "friedman2010"
+      ],
+      "sources": [
+        {
+          "id": "friedman2010",
+          "authors": "Friedman, W. J., & Janssen, S. M. J.",
+          "year": 2010,
+          "title": "Aging and the speed of time",
+          "venue": "Acta Psychologica, 134(2), 130-141",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20163781/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,865 adults aged 16-80)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So if time feels like it's flying, check how rushed you feel, not just how old you are.",
+      "cites": [
+        "friedman2010"
+      ],
+      "sources": [
+        {
+          "id": "friedman2010",
+          "authors": "Friedman, W. J., & Janssen, S. M. J.",
+          "year": 2010,
+          "title": "Aging and the speed of time",
+          "venue": "Acta Psychologica, 134(2), 130-141",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20163781/",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (1,865 adults aged 16-80)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: do crowds really make people less likely to help?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

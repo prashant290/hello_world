@@ -1,0 +1,147 @@
+{
+  "day": 1,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do you still cringe at that embarrassing moment?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "After an emotional experience, a brain region called the amygdala activates your stress-hormone systems.",
+      "cites": [
+        "mcgaugh2004"
+      ],
+      "sources": [
+        {
+          "id": "mcgaugh2004",
+          "authors": "McGaugh, J. L.",
+          "year": 2004,
+          "title": "The amygdala modulates the consolidation of memories of emotionally arousing experiences",
+          "venue": "Annual Review of Neuroscience, 27, 1-28",
+          "url": "https://annualreviews.org/content/journals/neuro/27/1",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (amygdala engages adrenergic and cortisol stress-hormone systems that promote memory storage)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Neuroscientist James McGaugh argued that this signal helps the brain store the memory more strongly.",
+      "cites": [
+        "mcgaugh2004"
+      ],
+      "sources": [
+        {
+          "id": "mcgaugh2004",
+          "authors": "McGaugh, J. L.",
+          "year": 2004,
+          "title": "The amygdala modulates the consolidation of memories of emotionally arousing experiences",
+          "venue": "Annual Review of Neuroscience, 27, 1-28",
+          "url": "https://annualreviews.org/content/journals/neuro/27/1",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (amygdala engages adrenergic and cortisol stress-hormone systems that promote memory storage)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "But a strong memory is not always an accurate one.",
+      "cites": [
+        "talarico2003"
+      ],
+      "sources": [
+        {
+          "id": "talarico2003",
+          "authors": "Talarico, J. M., & Rubin, D. C.",
+          "year": 2003,
+          "title": "Confidence, not consistency, characterizes flashbulb memories",
+          "venue": "Psychological Science, 14(5), 455-461",
+          "url": "https://doi.org/10.1111/1467-9280.02453",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "On September 12, 2001, researchers asked 54 students to record how they heard about the attacks, then retested them up to 32 weeks later.",
+      "cites": [
+        "talarico2003"
+      ],
+      "sources": [
+        {
+          "id": "talarico2003",
+          "authors": "Talarico, J. M., & Rubin, D. C.",
+          "year": 2003,
+          "title": "Confidence, not consistency, characterizes flashbulb memories",
+          "venue": "Psychological Science, 14(5), 455-461",
+          "url": "https://doi.org/10.1111/1467-9280.02453",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Their memories of the attacks became just as inconsistent as their memories of an everyday event.",
+      "cites": [
+        "talarico2003"
+      ],
+      "sources": [
+        {
+          "id": "talarico2003",
+          "authors": "Talarico, J. M., & Rubin, D. C.",
+          "year": 2003,
+          "title": "Confidence, not consistency, characterizes flashbulb memories",
+          "venue": "Psychological Science, 14(5), 455-461",
+          "url": "https://doi.org/10.1111/1467-9280.02453",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Yet only for the everyday memories did vividness and belief in accuracy fade.",
+      "cites": [
+        "talarico2003"
+      ],
+      "sources": [
+        {
+          "id": "talarico2003",
+          "authors": "Talarico, J. M., & Rubin, D. C.",
+          "year": 2003,
+          "title": "Confidence, not consistency, characterizes flashbulb memories",
+          "venue": "Psychological Science, 14(5), 455-461",
+          "url": "https://doi.org/10.1111/1467-9280.02453",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "So when a cringe memory feels crystal clear, remember that clarity is not proof of accuracy.",
+      "cites": [
+        "talarico2003"
+      ],
+      "sources": [
+        {
+          "id": "talarico2003",
+          "authors": "Talarico, J. M., & Rubin, D. C.",
+          "year": 2003,
+          "title": "Confidence, not consistency, characterizes flashbulb memories",
+          "venue": "Psychological Science, 14(5), 455-461",
+          "url": "https://doi.org/10.1111/1467-9280.02453",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (54 students, retested after 1/6/32 weeks)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Tomorrow: did everyone else notice that moment as much as you think?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

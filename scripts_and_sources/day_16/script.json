@@ -1,0 +1,119 @@
+{
+  "day": 16,
+  "topic": "Does time really speed up as you age? What research finds",
+  "title": "Does Time Really Speed Up as You Age?",
+  "voiceover": "Does time really speed up as you get older? In 2005, Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94. Everyone, whatever their age, said time passes quickly. But when asked about the last 10 years, older people said they'd passed faster. For shorter spans, like the last week or month, answers didn't change with age. In 2010, William Friedman and Steve Janssen surveyed 1,865 adults. Age differences in the felt speed of time were very small, except for the last ten years. They tied the feeling to time pressure: people who felt rushed said time passed quickly. So if time feels like it's flying, check how rushed you feel, not just how old you are. Tomorrow: do crowds really make people less likely to help?",
+  "word_count": 129,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.42,
+      "section": "hook",
+      "narration_line": "Does time really speed up as you get older?",
+      "on_screen_text": "Does time speed up?",
+      "visual_description": "Stickman watching clock hands spin.",
+      "visual_spec": "shock/neutral/C; clock@R"
+    },
+    {
+      "start_sec": 3.42,
+      "end_sec": 8.74,
+      "section": "explanation",
+      "narration_line": "In 2005, Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94.",
+      "on_screen_text": "2005: 499 people, ages 14-94",
+      "visual_description": "Group of stickmen of different heights.",
+      "visual_spec": "stand/neutral/L; crowd:5@R; text:499 PEOPLE@TR"
+    },
+    {
+      "start_sec": 8.74,
+      "end_sec": 11.78,
+      "section": "explanation",
+      "narration_line": "Everyone, whatever their age, said time passes quickly.",
+      "on_screen_text": "All ages: time feels fast",
+      "visual_description": "Clock racing.",
+      "visual_spec": "stand/smile/L; clock@R"
+    },
+    {
+      "start_sec": 11.78,
+      "end_sec": 17.09,
+      "section": "explanation",
+      "narration_line": "But when asked about the last 10 years, older people said they'd passed faster.",
+      "on_screen_text": "Last 10 years: older = faster",
+      "visual_description": "Calendar of ten years.",
+      "visual_spec": "think/neutral/L; text:10 YEARS@R"
+    },
+    {
+      "start_sec": 17.09,
+      "end_sec": 22.41,
+      "section": "explanation",
+      "narration_line": "For shorter spans, like the last week or month, answers didn't change with age.",
+      "on_screen_text": "Short spans: no age change",
+      "visual_description": "Flat line.",
+      "visual_spec": "shrug/neutral/L; lines:young,old@R"
+    },
+    {
+      "start_sec": 22.41,
+      "end_sec": 26.21,
+      "section": "explanation",
+      "narration_line": "In 2010, William Friedman and Steve Janssen surveyed 1,865 adults.",
+      "on_screen_text": "2010: 1,865 adults",
+      "visual_description": "Larger crowd.",
+      "visual_spec": "stand/neutral/L; crowd:5@R; text:1,865@TR"
+    },
+    {
+      "start_sec": 26.21,
+      "end_sec": 32.67,
+      "section": "explanation",
+      "narration_line": "Age differences in the felt speed of time were very small, except for the last ten years.",
+      "on_screen_text": "Age differences very small",
+      "visual_description": "Tiny bars.",
+      "visual_spec": "point/neutral/L; bars:young,old@R"
+    },
+    {
+      "start_sec": 32.67,
+      "end_sec": 38.36,
+      "section": "explanation",
+      "narration_line": "They tied the feeling to time pressure: people who felt rushed said time passed quickly.",
+      "on_screen_text": "Linked to time pressure",
+      "visual_description": "Stickman rushing with a checklist.",
+      "visual_spec": "walk/worry/L; list:TODO,TODO@R"
+    },
+    {
+      "start_sec": 38.36,
+      "end_sec": 45.2,
+      "section": "takeaway",
+      "narration_line": "So if time feels like it's flying, check how rushed you feel, not just how old you are.",
+      "on_screen_text": "How rushed do you feel?",
+      "visual_description": "Stickman checking a stress meter.",
+      "visual_spec": "point/smile/L; text:RUSHED?@R"
+    },
+    {
+      "start_sec": 45.2,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do crowds really make people less likely to help?",
+      "on_screen_text": "Tomorrow: the bystander effect",
+      "visual_description": "Crowd of tiny stickmen.",
+      "visual_spec": "stand/worry/L; crowd:5@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Does time really fly faster as you get older? Surveys found people of all ages say time passes quickly, with age differences mainly for the last ten years, possibly linked to time pressure. New psychology short every day on The Psyche Discourse. Source: Wittmann, M., & Lehnhoff, S. (2005). Age effects in perception of time. Psychological Reports, 97(3), 921-935. Source: Friedman, W. J., & Janssen, S. M. J. (2010). Aging and the speed of time. Acta Psychologica, 134(2), 130-141.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#timeperception",
+    "#aging",
+    "#psychologyfacts",
+    "#brain",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "These are self-report surveys, so they measure feelings about time, not time perception itself. The time-pressure account is the authors' proposed explanation. The video does not claim to explain why time seems faster; it reports what the surveys found.",
+  "thumbnail": {
+    "lines": [
+      "DOES TIME",
+      "SPEED UP",
+      "WITH AGE?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

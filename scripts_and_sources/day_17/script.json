@@ -1,0 +1,127 @@
+{
+  "day": 17,
+  "topic": "The bystander effect: more people, less help? (and when that flips)",
+  "title": "Do Crowds Really Stop People From Helping?",
+  "voiceover": "Do crowds really make people less likely to help? In 1968, John Darley and Bibb Latané staged a fake emergency. People who believed they were alone with a person having a seizure helped about 85 percent of the time. With four others they believed were listening, only about 31 percent helped. That's the bystander effect: more witnesses, less helping. But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies. And in 2020, researchers studied 219 real conflicts on CCTV in Amsterdam, Lancaster and Cape Town. Bystanders intervened in more than 90 percent of them. Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder. So 'crowds never help' is too simple: in real public conflicts, help was the norm. Tomorrow: why does bad news grab your attention?",
+  "word_count": 134,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.29,
+      "section": "hook",
+      "narration_line": "Do crowds really make people less likely to help?",
+      "on_screen_text": "Do crowds stop help?",
+      "visual_description": "Crowd of tiny stickmen watching.",
+      "visual_spec": "think/worry/C; crowd:5@R"
+    },
+    {
+      "start_sec": 3.29,
+      "end_sec": 7.31,
+      "section": "explanation",
+      "narration_line": "In 1968, John Darley and Bibb Latané staged a fake emergency.",
+      "on_screen_text": "1968: a staged emergency",
+      "visual_description": "Intercom between rooms.",
+      "visual_spec": "stand/neutral/L; text:1968@TR; list:ALARM@R"
+    },
+    {
+      "start_sec": 7.31,
+      "end_sec": 14.26,
+      "section": "explanation",
+      "narration_line": "People who believed they were alone with a person having a seizure helped about 85 percent of the time.",
+      "on_screen_text": "Alone: ~85% helped",
+      "visual_description": "Tall bar.",
+      "visual_spec": "point/smile/L; bars:alone=85%,with 4 others=31%@R"
+    },
+    {
+      "start_sec": 14.26,
+      "end_sec": 18.65,
+      "section": "explanation",
+      "narration_line": "With four others they believed were listening, only about 31 percent helped.",
+      "on_screen_text": "With four others: ~31%",
+      "visual_description": "Short bar.",
+      "visual_spec": "stand/worry/L; bars:alone=85%,with 4 others=31%@R"
+    },
+    {
+      "start_sec": 18.65,
+      "end_sec": 21.57,
+      "section": "explanation",
+      "narration_line": "That's the bystander effect: more witnesses, less helping.",
+      "on_screen_text": "The bystander effect",
+      "visual_description": "Crowd shrinking helper count.",
+      "visual_spec": "stand/neutral/L; crowd:5@R"
+    },
+    {
+      "start_sec": 21.57,
+      "end_sec": 27.06,
+      "section": "explanation",
+      "narration_line": "But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.",
+      "on_screen_text": "2011: weaker in danger",
+      "visual_description": "Shrinking bar next to a red warning.",
+      "visual_spec": "point/neutral/L; bars:safe,danger@R"
+    },
+    {
+      "start_sec": 27.06,
+      "end_sec": 32.91,
+      "section": "explanation",
+      "narration_line": "And in 2020, researchers studied 219 real conflicts on CCTV in Amsterdam, Lancaster and Cape Town.",
+      "on_screen_text": "2020: 219 real conflicts on CCTV",
+      "visual_description": "Camera icon.",
+      "visual_spec": "stand/neutral/L; text:219 CONFLICTS@R"
+    },
+    {
+      "start_sec": 32.91,
+      "end_sec": 36.2,
+      "section": "explanation",
+      "narration_line": "Bystanders intervened in more than 90 percent of them.",
+      "on_screen_text": "Bystanders stepped in: 90%+",
+      "visual_description": "Big 90%+ check.",
+      "visual_spec": "stand/smile/L; text:90%+@R; check@TR"
+    },
+    {
+      "start_sec": 36.2,
+      "end_sec": 40.59,
+      "section": "explanation",
+      "narration_line": "Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder.",
+      "on_screen_text": "Genovese '38 witnesses' myth",
+      "visual_description": "Crossed-out '38'.",
+      "visual_spec": "shrug/neutral/L; text:38?@R; cross@TR"
+    },
+    {
+      "start_sec": 40.59,
+      "end_sec": 46.07,
+      "section": "takeaway",
+      "narration_line": "So 'crowds never help' is too simple: in real public conflicts, help was the norm.",
+      "on_screen_text": "'Crowds never help' is too simple",
+      "visual_description": "Helper stepping forward from a crowd.",
+      "visual_spec": "walk/smile/L; crowd:3@R"
+    },
+    {
+      "start_sec": 46.07,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why does bad news grab your attention?",
+      "on_screen_text": "Tomorrow: bad news",
+      "visual_description": "Newspaper with a siren.",
+      "visual_spec": "stand/worry/L; text:BAD NEWS@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Do more witnesses mean less help? A 1968 experiment found they can, but a 2011 meta-analysis found the effect shrinks in dangerous emergencies, and 2020 CCTV footage of real conflicts showed people stepping in more than 90% of the time. New psychology short every day on The Psyche Discourse. Source: Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377-383. Source: Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R. (2020). Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. American Psychologist, 75(1), 66-75.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#bystandereffect",
+    "#socialpsychology",
+    "#helping",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "CONTESTED/OVERSIMPLIFIED. Darley & Latané percentages (about 85% vs about 31%) come from secondary summaries. Philpot et al. studied aggressive public conflicts in three cities; 'intervened' means at least one bystander acted. The '38 witnesses' Genovese story is not supported by court and police records (Manning et al. 2007).",
+  "thumbnail": {
+    "lines": [
+      "DO CROWDS",
+      "STOP HELP?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "day": 22,
+  "topic": "Why déjà vu happens (leading ideas)",
+  "title": "What Actually Causes Déjà Vu?",
+  "voiceover": "Why does a new place feel strangely familiar? Déjà vu is common: about 60 percent of people have experienced it. In 2003, Alan Brown reviewed the research in Psychological Bulletin. He found explanations fall into four groups: dual processing, neurological, memory and attentional. That means researchers still have several competing explanations. One memory-based idea is that a scene resembles one you've seen before, but you can't recall it. In 2012, Anne Cleary's team tested it in virtual reality. Scenes with the same layout as an earlier scene felt more familiar when people couldn't recall that earlier scene. They also reported more déjà vu. So déjà vu may be a familiarity signal firing without a memory to go with it. Tomorrow: do search engines change how you remember?",
+  "word_count": 127,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.09,
+      "section": "hook",
+      "narration_line": "Why does a new place feel strangely familiar?",
+      "on_screen_text": "Why does it feel familiar?",
+      "visual_description": "Stickman in a new room, thought bubble 'I've been here?'.",
+      "visual_spec": "think/worry/C; bubble:been here?@TR"
+    },
+    {
+      "start_sec": 3.09,
+      "end_sec": 7.72,
+      "section": "explanation",
+      "narration_line": "Déjà vu is common: about 60 percent of people have experienced it.",
+      "on_screen_text": "About 60% have had it",
+      "visual_description": "Big 60%.",
+      "visual_spec": "stand/neutral/L; text:~60%@R"
+    },
+    {
+      "start_sec": 7.72,
+      "end_sec": 11.57,
+      "section": "explanation",
+      "narration_line": "In 2003, Alan Brown reviewed the research in Psychological Bulletin.",
+      "on_screen_text": "2003 research review",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "point/neutral/L; text:2003@TR"
+    },
+    {
+      "start_sec": 11.57,
+      "end_sec": 16.59,
+      "section": "explanation",
+      "narration_line": "He found explanations fall into four groups: dual processing, neurological, memory and attentional.",
+      "on_screen_text": "Four groups of explanations",
+      "visual_description": "Four labeled boxes.",
+      "visual_spec": "stand/neutral/L; list:DUAL,NEURO,MEMORY,ATTENTION@R"
+    },
+    {
+      "start_sec": 16.59,
+      "end_sec": 19.68,
+      "section": "explanation",
+      "narration_line": "That means researchers still have several competing explanations.",
+      "on_screen_text": "Several competing explanations",
+      "visual_description": "Scale with questions.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 19.68,
+      "end_sec": 26.24,
+      "section": "explanation",
+      "narration_line": "One memory-based idea is that a scene resembles one you've seen before, but you can't recall it.",
+      "on_screen_text": "One idea: forgotten similar scene",
+      "visual_description": "Two similar rooms, one faded.",
+      "visual_spec": "think/neutral/L; list:ROOM A,ROOM B@R"
+    },
+    {
+      "start_sec": 26.24,
+      "end_sec": 30.09,
+      "section": "explanation",
+      "narration_line": "In 2012, Anne Cleary's team tested it in virtual reality.",
+      "on_screen_text": "2012: virtual reality test",
+      "visual_description": "VR headset.",
+      "visual_spec": "stand/neutral/L; text:VR@R"
+    },
+    {
+      "start_sec": 30.09,
+      "end_sec": 37.43,
+      "section": "explanation",
+      "narration_line": "Scenes with the same layout as an earlier scene felt more familiar when people couldn't recall that earlier scene.",
+      "on_screen_text": "Same layout = more familiar",
+      "visual_description": "Two rooms with the same layout.",
+      "visual_spec": "point/smile/L; list:SAME LAYOUT@R"
+    },
+    {
+      "start_sec": 37.43,
+      "end_sec": 39.74,
+      "section": "explanation",
+      "narration_line": "They also reported more déjà vu.",
+      "on_screen_text": "More déjà vu reported",
+      "visual_description": "Rising bar.",
+      "visual_spec": "shock/neutral/L; bars:novel,same layout@R"
+    },
+    {
+      "start_sec": 39.74,
+      "end_sec": 45.91,
+      "section": "takeaway",
+      "narration_line": "So déjà vu may be a familiarity signal firing without a memory to go with it.",
+      "on_screen_text": "Familiarity without the memory",
+      "visual_description": "Signal bulb with no memory bubble.",
+      "visual_spec": "think/smile/L; lightbulb@R"
+    },
+    {
+      "start_sec": 45.91,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do search engines change how you remember?",
+      "on_screen_text": "Tomorrow: Google and memory",
+      "visual_description": "Search box.",
+      "visual_spec": "stand/neutral/L; text:SEARCH@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why does a new place feel strangely familiar? About 60% of people have had déjà vu, researchers have several competing explanations, and a virtual-reality study supports a scene-layout idea. New psychology short every day on The Psyche Discourse. Source: Brown, A. S. (2003). A review of the déjà vu experience. Psychological Bulletin, 129(3), 394-413. Source: Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J. (2012). Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation. Consciousness and Cognition, 21(2), 969-975.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#dejavu",
+    "#memory",
+    "#brain",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "UNSETTLED. Brown (2003) organizes explanations into four categories; none is established as the single cause. Cleary et al. (2012) is one lab study in virtual reality supporting one idea (Gestalt familiarity). The video states this as 'may'.",
+  "thumbnail": {
+    "lines": [
+      "WHAT CAUSES",
+      "DEJA VU?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}
