@@ -117,7 +117,8 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
        expected, so a word can never straddle a pause.
     3. Inside each phrase, spread words by letter count over that phrase's speech-active frames only.
     Falls back to a global speech-active mapping, then to a plain proportional split."""
-    weight = lambda t: len(re.sub(r"\W", "", t)) + 1.5
+    weight = lambda t: (len(re.sub(r"[^A-Za-z]", "", t)) + 2 * len(re.sub(r"\D", "", t))
+                        + (8 if "$" in t else 0) + (6 if "%" in t else 0) + 1.5)   # spoken length, not written length
     w = [weight(t) for t in tokens]
     tot = sum(w)
     cumw = np.concatenate([[0], np.cumsum(w)]) / tot
@@ -202,10 +203,13 @@ def speak(text):
     return text
 
 
-def build(day, engine=None):
+def build(day, engine=None, speed_mult=1.0):
     cfg = config()["tts"]
     engine = engine or cfg["engine"]
     s = load_script(day)
+    cfg = json.loads(json.dumps(cfg))              # local copy so retries can change the speed
+    if engine == "kokoro":
+        cfg["kokoro"]["speed"] *= speed_mult
     d = day_dir(day)
     tmp = d / "tts_tmp"
     tmp.mkdir(exist_ok=True)
@@ -213,7 +217,7 @@ def build(day, engine=None):
     audio, lines, t = [np.zeros(int(lead * sr), dtype=np.float32)], [], lead
     for i, sc in enumerate(s["scenes"]):
         raw = tmp / f"line_{i:02d}.wav"
-        words = ENGINES[engine](speak(sc["narration_line"]), raw, config()["tts"])
+        words = ENGINES[engine](speak(sc["narration_line"]), raw, cfg)
         if engine != "edge":                            # edge already converted to 44.1 kHz mono
             to_wav(raw, tmp / "norm.wav")
             (tmp / "norm.wav").replace(raw)
@@ -241,6 +245,11 @@ def build(day, engine=None):
     if cfg.get("fit_to_target", True):
         target = config()["video"]["target_seconds"]
         factor = max(0.88, min(1.12, total / target))   # >1 = speed up
+        if total / target > 1.12 and engine == "kokoro" and speed_mult == 1.0:   # too long: re-read a bit faster
+            for p_ in tmp.glob("*"):
+                p_.unlink()
+            tmp.rmdir()
+            return build(day, engine, speed_mult=min(1.25, total / target / 1.06))
     wav_path = d / "voice.wav"
     write_wav(tmp / "voice_raw.wav", voice, sr)
     if abs(factor - 1) > 0.01:

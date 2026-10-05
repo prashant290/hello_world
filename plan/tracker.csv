@@ -3,32 +3,32 @@ day,topic,title,script_done,video_done,qc_passed,scheduled_date,uploaded,notes
 2,The spotlight effect: nobody's watching you as much as you think,Nobody's Watching You As Much As You Think,TRUE,TRUE,TRUE,,FALSE,QC ok
 3,Why $9.99 feels much cheaper than $10,Why $9.99 Looks Cheaper Than $10,TRUE,TRUE,TRUE,,FALSE,QC ok
 4,Confirmation bias: you only see what you already believe,Why You Test Only What You Believe,TRUE,TRUE,TRUE,,FALSE,QC ok
-5,The Zeigarnik effect: why unfinished tasks haunt you,Do Unfinished Tasks Really Haunt You?,TRUE,TRUE,FALSE,,FALSE,"1 caption chunks over silence, e.g. 'list.'"
+5,The Zeigarnik effect: why unfinished tasks haunt you,Do Unfinished Tasks Really Haunt You?,TRUE,TRUE,TRUE,,FALSE,QC ok
 6,Why you hate losing more than you love winning (loss aversion),Does Losing Really Hurt More Than Winning?,TRUE,TRUE,TRUE,,FALSE,QC ok
-7,The Dunning-Kruger effect explained in 50 seconds,Dunning-Kruger: What Everyone Gets Wrong,TRUE,TRUE,FALSE,,FALSE,build error: name 'speak' is not defined
-8,Why a song gets stuck in your head,Why That Song Won't Leave Your Head,TRUE,TRUE,FALSE,,FALSE,build error: name 'speak' is not defined
-9,The anchoring trick stores use on you,How One Random Number Changes Your Guess,TRUE,TRUE,FALSE,,FALSE,build error: name 'speak' is not defined
-10,Why you walk into a room and forget why,Does Walking Into a Room Make You Forget?,TRUE,TRUE,FALSE,,FALSE,build error: name 'speak' is not defined
-11,The Baader-Meinhof phenomenon: seeing something everywhere,Why You Suddenly See It Everywhere,TRUE,FALSE,,,FALSE,
-12,Why decisions exhaust you (decision fatigue),Is Decision Fatigue Real? The Evidence Says...,TRUE,FALSE,,,FALSE,
-13,The sunk cost fallacy: why you finish bad movies,The Sunk Cost Effect: Why Paying Keeps You Going,TRUE,FALSE,,,FALSE,
-14,Why you trust attractive people more (halo effect),The Halo Effect: Why Looks Seem to Count,TRUE,FALSE,,,FALSE,
-15,The IKEA effect: why you overvalue what you build,Why You Overvalue What You Build Yourself,TRUE,FALSE,,,FALSE,
-16,Why time flies as you get older,Does Time Really Speed Up as You Age?,TRUE,FALSE,,,FALSE,
-17,The bystander effect: why crowds don't help,Do Crowds Really Stop People From Helping?,TRUE,FALSE,,,FALSE,
-18,Why your brain loves bad news,Why Bad News Grabs Your Attention,TRUE,FALSE,,,FALSE,
-19,The decoy effect in menus and subscriptions,Can a Menu Option You Never Order Change Your Pick?,TRUE,FALSE,,,FALSE,
-20,Why you procrastinate even when you care,Why You Procrastinate on What Matters,TRUE,FALSE,,,FALSE,
-21,The mere exposure effect: why you like what's familiar,Why You Like What You've Seen a Lot,TRUE,FALSE,,,FALSE,
-22,Why déjà vu happens,What Actually Causes Déjà Vu?,TRUE,FALSE,,,FALSE,
-23,The Google effect: why you forget what you can search,Is Google Hurting Your Memory? What Held Up,TRUE,FALSE,,,FALSE,
-24,Why you think you'd never fall for a scam,Why You Think You'd Never Fall for a Scam,TRUE,FALSE,,,FALSE,
-25,"Hindsight bias: ""I knew it all along""",'I Knew It All Along': The Hindsight Trap,TRUE,FALSE,,,FALSE,
-26,Why multitasking is a myth,What Multitasking Really Costs Your Brain,TRUE,FALSE,,,FALSE,
-27,"The scarcity effect: why ""only 2 left"" works",Does Scarcity Make Things Look Better?,TRUE,FALSE,,,FALSE,
-28,Why you can't tickle yourself,Why You Can't Tickle Yourself,TRUE,FALSE,,,FALSE,
-29,The planning fallacy: why everything takes longer,Why Everything Takes Longer Than Planned,TRUE,FALSE,,,FALSE,
-30,The peak-end rule: how you actually remember experiences,Peak-End: How Endings Shape Memory,TRUE,FALSE,,,FALSE,
+7,The Dunning-Kruger effect explained in 50 seconds,Dunning-Kruger: What Everyone Gets Wrong,TRUE,TRUE,TRUE,,FALSE,QC ok
+8,Why a song gets stuck in your head,Why That Song Won't Leave Your Head,TRUE,TRUE,TRUE,,FALSE,QC ok
+9,The anchoring trick stores use on you,How One Random Number Changes Your Guess,TRUE,TRUE,TRUE,,FALSE,QC ok
+10,Why you walk into a room and forget why,Does Walking Into a Room Make You Forget?,TRUE,TRUE,TRUE,,FALSE,QC ok
+11,The Baader-Meinhof phenomenon: seeing something everywhere,Why You Suddenly See It Everywhere,TRUE,TRUE,TRUE,,FALSE,QC ok
+12,Why decisions exhaust you (decision fatigue),Is Decision Fatigue Real? The Evidence Says...,TRUE,TRUE,TRUE,,FALSE,QC ok
+13,The sunk cost fallacy: why you finish bad movies,The Sunk Cost Effect: Why Paying Keeps You Going,TRUE,TRUE,TRUE,,FALSE,QC ok
+14,Why you trust attractive people more (halo effect),The Halo Effect: Why Looks Seem to Count,TRUE,TRUE,TRUE,,FALSE,QC ok
+15,The IKEA effect: why you overvalue what you build,Why You Overvalue What You Build Yourself,TRUE,TRUE,TRUE,,FALSE,QC ok
+16,Why time flies as you get older,Does Time Really Speed Up as You Age?,TRUE,TRUE,TRUE,,FALSE,QC ok
+17,The bystander effect: why crowds don't help,Do Crowds Really Stop People From Helping?,TRUE,TRUE,FALSE,,FALSE,"1 caption chunks over silence, e.g. 'effect:'"
+18,Why your brain loves bad news,Why Bad News Grabs Your Attention,TRUE,TRUE,TRUE,,FALSE,QC ok
+19,The decoy effect in menus and subscriptions,Can a Menu Option You Never Order Change Your Pick?,TRUE,TRUE,TRUE,,FALSE,QC ok
+20,Why you procrastinate even when you care,Why You Procrastinate on What Matters,TRUE,TRUE,FALSE,,FALSE,captions reach x=981 (> 950)
+21,The mere exposure effect: why you like what's familiar,Why You Like What You've Seen a Lot,TRUE,TRUE,TRUE,,FALSE,QC ok
+22,Why déjà vu happens,What Actually Causes Déjà Vu?,TRUE,TRUE,TRUE,,FALSE,QC ok
+23,The Google effect: why you forget what you can search,Is Google Hurting Your Memory? What Held Up,TRUE,TRUE,FALSE,,FALSE,"1 caption chunks over silence, e.g. 'claim,'; captions reach x=1036 (> 950); captions reach x=43 (< 60)"
+24,Why you think you'd never fall for a scam,Why You Think You'd Never Fall for a Scam,TRUE,TRUE,TRUE,,FALSE,QC ok
+25,"Hindsight bias: ""I knew it all along""",'I Knew It All Along': The Hindsight Trap,TRUE,TRUE,TRUE,,FALSE,QC ok
+26,Why multitasking is a myth,What Multitasking Really Costs Your Brain,TRUE,TRUE,TRUE,,FALSE,QC ok
+27,"The scarcity effect: why ""only 2 left"" works",Does Scarcity Make Things Look Better?,TRUE,TRUE,TRUE,,FALSE,QC ok
+28,Why you can't tickle yourself,Why You Can't Tickle Yourself,TRUE,TRUE,FALSE,,FALSE,"on-screen text of scene 5 outside safe zone [217, 85, 863, 515]"
+29,The planning fallacy: why everything takes longer,Why Everything Takes Longer Than Planned,TRUE,TRUE,TRUE,,FALSE,QC ok
+30,The peak-end rule: how you actually remember experiences,Peak-End: How Endings Shape Memory,TRUE,TRUE,FALSE,,FALSE,"on-screen text of scene 9 outside safe zone [231, 85, 849, 515]"
 31,Why mirroring someone's body language builds trust,,FALSE,FALSE,,,FALSE,
 32,The Ben Franklin effect: ask for a favor to be liked,,FALSE,FALSE,,,FALSE,
 33,Signs someone is lying (and why most are myths),,FALSE,FALSE,,,FALSE,

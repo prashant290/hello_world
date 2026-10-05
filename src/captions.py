@@ -20,11 +20,24 @@ def ts(t):
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
-def make_chunks(words, max_words, max_chars=18):
-    """Group words into chunks: <=max_words and <=max_chars, breaking after punctuation."""
+_FONT = {}
+
+
+def text_width(text, size):
+    from PIL import ImageFont
+    key = size
+    if key not in _FONT:
+        _FONT[key] = ImageFont.truetype(str(KIT / "fonts" / "LiberationSans-Bold.ttf"), size)
+    return _FONT[key].getlength(text.upper())
+
+
+def make_chunks(words, max_words, max_chars=18, size=82, max_px=700):
+    """Group words into chunks: <=max_words, <=max_chars and narrow enough to stay inside the safe area
+    (one line at the highlighted-word scale), breaking after punctuation."""
     chunks, cur = [], []
     for w in words:
-        if cur and len(" ".join(x["w"] for x in cur + [w])) > max_chars:
+        t = " ".join(x["w"] for x in cur + [w])
+        if cur and (len(t) > max_chars or text_width(t, int(size * 1.08)) > max_px):
             chunks.append(cur); cur = []
         cur.append(w)
         if len(cur) >= max_words or w["w"][-1] in ".?!,:;":
@@ -39,7 +52,7 @@ def build(day):
     v = cfg["video"]
     timing = load_timing(day)
     words = [w for ln in timing["lines"] for w in ln["words"]]
-    chunks = make_chunks(words, cap["max_words_per_chunk"])
+    chunks = make_chunks(words, cap["max_words_per_chunk"], size=cap["font_size"])
     text_w = v["width"] - 2 * cap["side_margin"]
 
     header = f"""[Script Info]
@@ -69,7 +82,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 scale = r"\fscx108\fscy108" if j == wi else ""
                 parts.append(f"{{\\1c{col}{scale}}}{x['w'].upper()}")
             txt = " ".join(parts)
-            events.append(f"Dialogue: 0,{ts(start)},{ts(end)},Cap,,0,0,0,,{{\\an5\\pos({v['width'] // 2},{cap['center_y']})}}{txt}")
+            full_w = text_width(" ".join(x["w"] for x in ch), int(cap["font_size"] * 1.08))
+            fs = f"\\fs{int(cap['font_size'] * 700 / full_w)}" if full_w > 700 else ""
+            events.append(f"Dialogue: 0,{ts(start)},{ts(end)},Cap,,0,0,0,,{{\\an5{fs}\\pos({v['width'] // 2},{cap['center_y']})}}{txt}")
         manifest.append({"start": ch[0]["start"], "end": ch[-1]["end"], "text": " ".join(x["w"] for x in ch)})
     (day_dir(day) / "captions.ass").write_text(header + "\n".join(events) + "\n")
     (day_dir(day) / "captions.json").write_text(json.dumps(manifest, indent=1))

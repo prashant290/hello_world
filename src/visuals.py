@@ -401,6 +401,17 @@ def draw_scene(variant, scene, style):
     ot = scene["on_screen_text"]
     if ot:
         fsz = 96
+        while fsz > 60:                                  # shrink until the title fits in <=2 lines (3 if tiny)
+            words, cur, nl = ot.split(), "", 1
+            for wd in words:
+                t = (cur + " " + wd).strip()
+                if font(fsz).getlength(t) / S <= 780 or not cur:
+                    cur = t
+                else:
+                    nl += 1; cur = wd
+            if nl <= 2:
+                break
+            fsz -= 6
         lines = pen.wrapped((540, 300), ot, fsz, 780, color=pen.ink)
         f = font(fsz)
         wmax = max(f.getlength(l) / S for l in lines)
