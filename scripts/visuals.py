@@ -26,7 +26,7 @@ W, H = 1080, 1920
 REGION_Y0, REGION_Y1 = 100, 1340           # logical y-range drawn each frame (text + stage)
 S = 2                                      # supersampling
 FONT_B = str(ROOT / "assets" / "fonts" / "LiberationSans-Bold.ttf")
-SLOTS = {"TL": (300, 470), "TR": (730, 470), "R": (730, 780), "L": (300, 780), "C": (540, 780), "B": (730, 1080)}
+SLOTS = {"TL": (300, 520), "TR": (730, 520), "R": (730, 780), "L": (300, 780), "C": (540, 780), "B": (730, 1080)}
 
 
 def font(sz):
@@ -374,11 +374,11 @@ def draw_scene(variant, scene, style):
     ot = scene["on_screen_text"]
     if ot:
         fsz = 96
-        lines = pen.wrapped((540, 250), ot, fsz, 800, color=pen.ink)
+        lines = pen.wrapped((540, 300), ot, fsz, 780, color=pen.ink)
         f = font(fsz)
         wmax = max(f.getlength(l) / S for l in lines)
         hh = len(lines) * fsz * 1.12
-        bbox = [540 - wmax / 2, 250 - hh / 2, 540 + wmax / 2, 250 + hh / 2]
+        bbox = [540 - wmax / 2, 300 - hh / 2, 540 + wmax / 2, 300 + hh / 2]
         pen.line([(540 - wmax / 2, bbox[3] + 14), (540 + wmax / 2, bbox[3] + 14)], w=10, color=pen.acc)
     draw_figure(pen, fig_x, 1140, pose, face)
     ctx = {"fig_x": fig_x}
@@ -392,6 +392,16 @@ def draw_scene(variant, scene, style):
             c = (c[0], c[1])
         fn(pen, c, arg, ctx)
     return pen.img, bbox
+
+
+_LOGO = {}
+
+
+def logo():
+    if "img" not in _LOGO:
+        p = ASSETS / "logo.png"
+        _LOGO["img"] = Image.open(p).convert("RGBA").resize((110, 110), Image.LANCZOS) if p.exists() else None
+    return _LOGO["img"]
 
 
 def to_frame(layer, bgrgb, progress=1.0):
@@ -408,6 +418,9 @@ def to_frame(layer, bgrgb, progress=1.0):
     layer1 = layer.resize((W, REGION_Y1 - REGION_Y0), Image.LANCZOS)
     frame = Image.new("RGB", (W, H), bgrgb)
     frame.paste(layer1, (0, REGION_Y0), layer1)
+    lg = logo()
+    if lg is not None:
+        frame.paste(lg, (46, 122), lg)
     return frame
 
 

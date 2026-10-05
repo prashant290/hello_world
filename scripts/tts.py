@@ -155,6 +155,15 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
     return out
 
 
+SPOKEN = {"9/11": "nine eleven"}    # written form -> how it should be pronounced
+
+
+def speak(text):
+    for k, v in SPOKEN.items():
+        text = text.replace(k, v)
+    return text
+
+
 def build(day, engine=None):
     cfg = config()["tts"]
     engine = engine or cfg["engine"]
@@ -166,7 +175,7 @@ def build(day, engine=None):
     audio, lines, t = [np.zeros(int(lead * sr), dtype=np.float32)], [], lead
     for i, sc in enumerate(s["scenes"]):
         raw = tmp / f"line_{i:02d}.wav"
-        words = ENGINES[engine](sc["narration_line"], raw, config()["tts"])
+        words = ENGINES[engine](speak(sc["narration_line"]), raw, config()["tts"])
         if engine != "edge":                            # edge already converted to 44.1 kHz mono
             to_wav(raw, tmp / "norm.wav")
             (tmp / "norm.wav").replace(raw)
