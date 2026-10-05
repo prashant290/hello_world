@@ -1,13 +1,8 @@
-# generated media (re-buildable from script.json)
-shorts/day_*/*.wav
-shorts/day_*/*.mp3
-shorts/day_*/*.mp4
-shorts/day_*/scenes/
-shorts/day_*/*.ass
-output/*.mp4
+# big / regenerable files
+channel_kit/voices/*.onnx
+channel_kit/voices/*.bin
+channel_kit/music/*.wav
+build/
+videos/*.mp4
+*.zip
 __pycache__/
-assets/music/*.wav
-assets/voices/*.onnx
-assets/voices/*.bin
-output/voice_samples/
-output/*.zip
