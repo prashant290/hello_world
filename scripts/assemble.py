@@ -23,7 +23,7 @@ def build(day):
     out = OUTPUT / f"day_{day:02d}.mp4"
     OUTPUT.mkdir(exist_ok=True)
     ceiling = 10 ** (a["peak_ceiling_db"] / 20)
-    fonts = cfg["captions"]["font_file_dir"]
+    fonts = str(ROOT / cfg["captions"]["font_file_dir"])
     run(["ffmpeg", "-y", "-v", "error",
          "-f", "concat", "-safe", "0", "-i", str(d / "scenes.txt"),
          "-i", str(d / "voice_mix.wav"), "-i", str(d / "music_mix.wav"),

@@ -25,7 +25,7 @@ from common import *
 W, H = 1080, 1920
 REGION_Y0, REGION_Y1 = 100, 1340           # logical y-range drawn each frame (text + stage)
 S = 2                                      # supersampling
-FONT_B = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
+FONT_B = str(ROOT / "assets" / "fonts" / "LiberationSans-Bold.ttf")
 SLOTS = {"TL": (300, 470), "TR": (730, 470), "R": (730, 780), "L": (300, 780), "C": (540, 780), "B": (730, 1080)}
 
 

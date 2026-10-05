@@ -41,7 +41,7 @@ def caption_extents(day, dur, cfg):
     v = cfg["video"]
     d = day_dir(day)
     cmd = ["ffmpeg", "-v", "error", "-f", "lavfi", "-i", f"color=c=black:s={v['width']}x{v['height']}:r=3:d={dur:.2f}",
-           "-vf", f"subtitles={d / 'captions.ass'}:fontsdir={cfg['captions']['font_file_dir']},format=gray",
+           "-vf", f"subtitles={d / 'captions.ass'}:fontsdir={ROOT / cfg['captions']['font_file_dir']},format=gray",
            "-f", "rawvideo", "-"]
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     size = v["width"] * v["height"]

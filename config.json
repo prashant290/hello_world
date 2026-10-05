@@ -44,7 +44,7 @@
   },
   "captions": {
     "font": "Liberation Sans",
-    "font_file_dir": "/usr/share/fonts/truetype/liberation",
+    "font_file_dir": "assets/fonts",
     "font_size": 88,
     "max_words_per_chunk": 3,
     "center_y": 1390,
