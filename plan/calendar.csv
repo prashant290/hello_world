@@ -29,36 +29,36 @@ day,publish_date,weekday,month_theme,pillar,topic,verdict_vs_original,status,pub
 28,2026-11-02,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why you can't tickle yourself,Keep,scripted+built,18:00 (placeholder),America/Edmonton
 29,2026-11-03,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The planning fallacy: why everything takes longer,Keep,scripted+built,18:00 (placeholder),America/Edmonton
 30,2026-11-04,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The peak-end rule: how you actually remember experiences,Keep,scripted+built,18:00 (placeholder),America/Edmonton
-31,2026-11-05,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Mimicry: does mirroring body language build trust?,Reframe,planned,18:00 (placeholder),America/Edmonton
-32,2026-11-06,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Ben Franklin effect: does asking for a favor make people like you?,Keep,planned,18:00 (placeholder),America/Edmonton
-33,2026-11-07,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Signs someone is lying (and why most are myths),Keep,planned,18:00 (placeholder),America/Edmonton
-34,2026-11-08,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,"Why people obey authority (the Milgram experiment, and its critics)",Reframe,planned,18:00 (placeholder),America/Edmonton
-35,2026-11-09,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The foot-in-the-door technique,Keep,planned,18:00 (placeholder),America/Edmonton
-36,2026-11-10,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,The 200-millisecond rule: why a short silence feels awkward,Replace,planned,18:00 (placeholder),America/Edmonton
-37,2026-11-11,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Love bombing: what research actually says,Reframe,planned,18:00 (placeholder),America/Edmonton
-38,2026-11-12,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Gaslighting explained simply,Keep,planned,18:00 (placeholder),America/Edmonton
-39,2026-11-13,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does playing hard to get work? (the experiments),Reframe,planned,18:00 (placeholder),America/Edmonton
-40,2026-11-14,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,The pratfall effect: when mistakes make you more likable,Reframe,planned,18:00 (placeholder),America/Edmonton
-41,2026-11-15,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,Social proof: why we copy the crowd,Keep,planned,18:00 (placeholder),America/Edmonton
-42,2026-11-16,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The door-in-the-face technique,Keep,planned,18:00 (placeholder),America/Edmonton
-43,2026-11-17,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,"First impressions take a tenth of a second, not 7 seconds",Reframe,planned,18:00 (placeholder),America/Edmonton
-44,2026-11-18,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Pygmalion effect: do expectations shape people?,Reframe,planned,18:00 (placeholder),America/Edmonton
-45,2026-11-19,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why likes feel rewarding (social media and the brain),Reframe,planned,18:00 (placeholder),America/Edmonton
-46,2026-11-20,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Attachment styles in 50 seconds,Reframe,planned,18:00 (placeholder),America/Edmonton
-47,2026-11-21,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people stay in bad relationships (the investment model),Keep,planned,18:00 (placeholder),America/Edmonton
-48,2026-11-22,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The reciprocity rule: why favors and free samples work,Keep,planned,18:00 (placeholder),America/Edmonton
-49,2026-11-23,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The fundamental attribution error,Reframe,planned,18:00 (placeholder),America/Edmonton
-50,2026-11-24,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do opposites attract? Similarity and attraction,Replace,planned,18:00 (placeholder),America/Edmonton
-51,2026-11-25,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does using someone's name work? (what research shows),Reframe,planned,18:00 (placeholder),America/Edmonton
-52,2026-11-26,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Groupthink: how smart teams make dumb decisions (and critics),Keep,planned,18:00 (placeholder),America/Edmonton
-53,2026-11-27,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Stanford prison experiment and why it's disputed,Keep,planned,18:00 (placeholder),America/Edmonton
-54,2026-11-28,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people gossip,Keep,planned,18:00 (placeholder),America/Edmonton
-55,2026-11-29,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The illusion of transparency: others can't read you as well as you think,Replace,planned,18:00 (placeholder),America/Edmonton
-56,2026-11-30,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,Narcissism vs. confidence: the research difference,Reframe,planned,18:00 (placeholder),America/Edmonton
-57,2026-12-01,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Charisma: what charismatic leaders actually do,Reframe,planned,18:00 (placeholder),America/Edmonton
-58,2026-12-02,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Asch conformity experiment,Keep,planned,18:00 (placeholder),America/Edmonton
-59,2026-12-03,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do breakups really hurt like physical pain? (contested),Reframe,planned,18:00 (placeholder),America/Edmonton
-60,2026-12-04,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Trauma bonding: what the theory says,Reframe,planned,18:00 (placeholder),America/Edmonton
+31,2026-11-05,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Mimicry: does mirroring body language build trust?,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+32,2026-11-06,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Ben Franklin effect: does asking for a favor make people like you?,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+33,2026-11-07,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Signs someone is lying (and why most are myths),Keep,scripted+built,18:00 (placeholder),America/Edmonton
+34,2026-11-08,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,"Why people obey authority (the Milgram experiment, and its critics)",Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+35,2026-11-09,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The foot-in-the-door technique,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+36,2026-11-10,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,The 200-millisecond rule: why a short silence feels awkward,Replace,scripted+built,18:00 (placeholder),America/Edmonton
+37,2026-11-11,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Love bombing: what research actually says,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+38,2026-11-12,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Gaslighting explained simply,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+39,2026-11-13,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does playing hard to get work? (the experiments),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+40,2026-11-14,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,The pratfall effect: when mistakes make you more likable,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+41,2026-11-15,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,Social proof: why we copy the crowd,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+42,2026-11-16,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The door-in-the-face technique,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+43,2026-11-17,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,"First impressions take a tenth of a second, not 7 seconds",Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+44,2026-11-18,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Pygmalion effect: do expectations shape people?,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+45,2026-11-19,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why likes feel rewarding (social media and the brain),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+46,2026-11-20,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Attachment styles in 50 seconds,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+47,2026-11-21,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people stay in bad relationships (the investment model),Keep,scripted+built,18:00 (placeholder),America/Edmonton
+48,2026-11-22,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The reciprocity rule: why favors and free samples work,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+49,2026-11-23,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The fundamental attribution error,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+50,2026-11-24,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do opposites attract? Similarity and attraction,Replace,scripted+built,18:00 (placeholder),America/Edmonton
+51,2026-11-25,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does using someone's name work? (what research shows),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+52,2026-11-26,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Groupthink: how smart teams make dumb decisions (and critics),Keep,scripted+built,18:00 (placeholder),America/Edmonton
+53,2026-11-27,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Stanford prison experiment and why it's disputed,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+54,2026-11-28,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people gossip,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+55,2026-11-29,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The illusion of transparency: others can't read you as well as you think,Replace,scripted+built,18:00 (placeholder),America/Edmonton
+56,2026-11-30,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,Narcissism vs. confidence: the research difference,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+57,2026-12-01,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Charisma: what charismatic leaders actually do,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+58,2026-12-02,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Asch conformity experiment,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+59,2026-12-03,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do breakups really hurt like physical pain? (contested),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+60,2026-12-04,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Trauma bonding: what the theory says,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
 61,2026-12-05,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Is Blue Monday real? What 340,000 interviews show",Replace,planned,18:00 (placeholder),America/Edmonton
 62,2026-12-06,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","The 2-minute rule: popular, unproven, and what is supported",Reframe,planned,18:00 (placeholder),America/Edmonton
 63,2026-12-07,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Dopamine: wanting vs liking,Keep,planned,18:00 (placeholder),America/Edmonton

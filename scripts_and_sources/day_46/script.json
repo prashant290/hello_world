@@ -39,7 +39,7 @@
       "narration_line": "Fifty-six percent chose the secure description.",
       "on_screen_text": "Secure: 56%",
       "visual_description": "Bar at 56%.",
-      "visual_spec": "stand/smile/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+      "visual_spec": "stand/smile/L; bars:secure=56%,avoid=25%,anxious=19%@R"
     },
     {
       "start_sec": 14.34,
@@ -48,7 +48,7 @@
       "narration_line": "Twenty-five percent chose avoidant.",
       "on_screen_text": "Avoidant: 25%",
       "visual_description": "Bar at 25%.",
-      "visual_spec": "stand/neutral/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+      "visual_spec": "stand/neutral/L; bars:secure=56%,avoid=25%,anxious=19%@R"
     },
     {
       "start_sec": 15.93,
@@ -57,7 +57,7 @@
       "narration_line": "And nineteen percent chose anxious-ambivalent.",
       "on_screen_text": "Anxious: 19%",
       "visual_description": "Bar at 19%.",
-      "visual_spec": "stand/neutral/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+      "visual_spec": "stand/neutral/L; bars:secure=56%,avoid=25%,anxious=19%@R"
     },
     {
       "start_sec": 17.93,
@@ -66,7 +66,7 @@
       "narration_line": "Secure respondents reported relationships averaging about ten years, versus about five and six for the others.",
       "on_screen_text": "Secure ~10 yrs; others 5, 6",
       "visual_description": "Calendar.",
-      "visual_spec": "point/smile/L; bars:secure=10y,avoidant=5y,anxious=6y@R"
+      "visual_spec": "point/smile/L; bars:10 yrs=h80,5 yrs=h40,6 yrs=h48@R"
     },
     {
       "start_sec": 24.3,

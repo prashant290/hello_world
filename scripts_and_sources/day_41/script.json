@@ -39,7 +39,7 @@
       "narration_line": "A card saying most guests reuse their towels worked better than the standard environmental message.",
       "on_screen_text": "'Most guests' beat the standard card",
       "visual_description": "Taller bar for the norm card.",
-      "visual_spec": "stand/smile/L; bars:standard=h40,most guests=h65@R"
+      "visual_spec": "stand/smile/L; bars:usual=h40,most=h65@R"
     },
     {
       "start_sec": 17.75,
@@ -48,7 +48,7 @@
       "narration_line": "A message about guests who stayed in that very room did better still.",
       "on_screen_text": "This room's guests: better still",
       "visual_description": "Tallest bar.",
-      "visual_spec": "point/smile/L; bars:standard=h40,most guests=h65,this room=h85@R"
+      "visual_spec": "point/smile/L; bars:usual=h40,most=h65,room=h85@R"
     },
     {
       "start_sec": 22.37,

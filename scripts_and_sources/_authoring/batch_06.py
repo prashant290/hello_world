@@ -82,7 +82,7 @@ DAYS[53] = dict(
  scenes=[
   ("H", [("Did ordinary students really turn into cruel guards in a mock prison?", "PLAN")], "Did students turn cruel?", "Prison bars.", "think/worry/C; text:PRISON@R"),
   ("E", [("In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students.", "haney1973")], "1971: 24 students, a mock prison", "Prison bars.", "stand/neutral/L; text:1971@TR; numbers:24@R"),
-  ("E", [("Ten became prisoners and eleven became guards.", "haney1973")], "10 prisoners, 11 guards", "Two groups.", "point/neutral/L; bars:prisoners=10,guards=11@R"),
+  ("E", [("Ten became prisoners and eleven became guards.", "haney1973")], "10 prisoners, 11 guards", "Two groups.", "point/neutral/L; list:10 PRISONERS,11 GUARDS@R"),
   ("E", [("It was planned for two weeks but ended after six days.", "haney1973")], "Planned 14 days, ended day 6", "Calendar.", "shock/neutral/L; bars:planned=14d,actual=6d@R"),
   ("E", [("In 2019, Thibault Le Texier analyzed archival records and argued the guards had been coached.", "letexier2019")], "2019: archives suggest coaching", "Archive box.", "point/neutral/L; text:2019@TR; text:ARCHIVES@R"),
   ("E", [("He reported they were told which behavior was wanted.", "letexier2019")], "Told which behavior was wanted", "Instruction card.", "stand/worry/L; list:BE TOUGH@R"),

@@ -30,7 +30,7 @@
       "narration_line": "Ten became prisoners and eleven became guards.",
       "on_screen_text": "10 prisoners, 11 guards",
       "visual_description": "Two groups.",
-      "visual_spec": "point/neutral/L; bars:prisoners=10,guards=11@R"
+      "visual_spec": "point/neutral/L; list:10 PRISONERS,11 GUARDS@R"
     },
     {
       "start_sec": 13.57,

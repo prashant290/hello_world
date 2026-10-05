@@ -41,8 +41,10 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
   content plan + calendar (Day 1 = Tue 6 Oct 2026, editable); sourcing/validation tooling; **Days 1-30 scripted, built, QC'd (30/30 pass) and self-reviewed**
   (frames of every video inspected; audio transcribed offline and matched to the script, similarity 0.60-0.81; durations 49.0-49.5 s; peaks <= -1.6 dB; voice 18+ dB over music).
   Titles/descriptions/hashtags/thumbnails for Days 1-30: `channel_kit/upload_metadata.csv`, `videos/thumbnails/`.
-- **Not started:** scripts for Days 31-90. Topics are fixed in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence (web search) when scripting. Month 2 starts with Day 31 (mimicry: Chartrand & Bargh 1999; Maddux et al. 2008).
-- **Needs the owner:** (a) posting time + timezone, (b) —(logo received and applied), (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
+- **Done (Days 31-60):** scripted (batch_04-06), built, QC'd (30/30 pass; durations 48.6-49.1 s, peaks <= -1.6 dB) and self-reviewed (contact sheets of every video inspected; audio transcribed, similarity 0.5+; chart/label bugs found and fixed on Days 39, 40, 41, 46, 53). Metadata for Days 1-60 in `channel_kit/upload_metadata.csv`; thumbnails in `videos/thumbnails/`. Sensitive topics (37, 38, 47, 60) are hedged/educational with a support note in the description.
+- **Not started:** scripts for Days 61-90 (Month 3: habits, emotions & self-improvement). Day 61 = Blue Monday (Day 60's teaser already promises it).
+- Topics are fixed in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence (web search) when scripting. Month 2 starts with Day 31 (mimicry: Chartrand & Bargh 1999; Maddux et al. 2008).
+- **Needs the owner:** (a) posting time of day (timezone = America/Edmonton, given; 18:00 is a placeholder), (b) —(logo received and applied), (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
 - **Known limits:** voice is Kokoro am_michael (good, not human); word timings come from audio energy (no ASR); sources were checked through web-search summaries of abstracts/publisher pages (each source's `verified` note says which; a few figures rest on secondary summaries and are flagged in that day's caveats); the offline recognizer used for audio checks is weak (similarity 0.6+ means the right words are spoken).
 - **Lessons learned (apply to Days 31-90):**
   1. Titles, thumbnails, descriptions and on-screen text are claims too — hedge contested ones, prefer questions. Never claim what stores/marketers do without a source.
@@ -50,3 +52,4 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
   3. Check the audio under every caption chunk (QC does) and LOOK at frames: QC cannot see misleading visuals or overlapping art.
   4. Re-verify numbers from memory (Liikkanen: 89.2% not 91.7%; doorway-effect "go back to the room" advice was wrong; Zeigarnik effect failed to replicate).
   5. Don't `pkill -f` a pattern that appears in your own command line; don't commit `channel_kit/voices/*.onnx|bin` (ignored).
+  6. Bars with nearby values (10 vs 11) must not use `bars:` heights (they exaggerate); use `list:`/`text:`. Keep bar labels short (<=7 chars) when 3 bars; `export_metadata.py A B` overwrites the CSV, so always run `1 N`.

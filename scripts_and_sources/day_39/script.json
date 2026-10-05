@@ -39,7 +39,7 @@
       "narration_line": "In one study, 71 college men learned that a woman had seen their profile and four others.",
       "on_screen_text": "71 college men, 5 profiles",
       "visual_description": "Five profile cards.",
-      "visual_spec": "stand/neutral/L; list:YOU,MAN 2,MAN 3,MAN 4@R"
+      "visual_spec": "stand/neutral/L; text:5 PROFILES@R"
     },
     {
       "start_sec": 17.25,

@@ -28,7 +28,7 @@
       "end_sec": 12.6,
       "section": "explanation",
       "narration_line": "One contestant answered about 92 percent of the hard questions correctly.",
-      "on_screen_text": "Contestant A: ~92% correct",
+      "on_screen_text": "A: ~92% correct",
       "visual_description": "Tall bar.",
       "visual_spec": "stand/smile/L; bars:A=92%,B=30%@R"
     },
@@ -37,7 +37,7 @@
       "end_sec": 15.05,
       "section": "explanation",
       "narration_line": "Another answered only about 30 percent correctly.",
-      "on_screen_text": "Contestant B: ~30% correct",
+      "on_screen_text": "B: ~30% correct",
       "visual_description": "Short bar.",
       "visual_spec": "shrug/neutral/L; bars:A=92%,B=30%@R"
     },
