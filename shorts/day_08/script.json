@@ -1,0 +1,101 @@
+{
+  "day": 8,
+  "topic": "Why a song gets stuck in your head",
+  "title": "Why Songs Get Stuck in Your Head",
+  "voiceover": "Why is that song stuck in your head? Scientists call it an earworm, and in one Finnish survey over ninety percent of people said they get one weekly. Studies suggest earworms tend to be upbeat songs with simple, repetitive melodies, often triggered by recent listening, stress, or a memory cue. Songs you've heard a lot recently are prime candidates. Your brain's auditory and memory systems keep replaying the loop, even when you aren't trying. Researchers still don't fully understand why some songs stick and others don't. One small experiment found that chewing gum reduced earworms, likely because it interferes with silently singing along. Engaging, moderately tricky puzzles may help too. Try both. Tomorrow: the sneaky first number stores show you, on purpose, before the real price.",
+  "word_count": 126,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.11,
+      "section": "hook",
+      "narration_line": "Why is that song stuck in your head?",
+      "on_screen_text": "Stuck song?",
+      "visual_description": "Stickman holding head as musical notes swirl around it.",
+      "visual_spec": "shock/worry/C; notes@R"
+    },
+    {
+      "start_sec": 3.11,
+      "end_sec": 10.89,
+      "section": "explanation",
+      "narration_line": "Scientists call it an earworm, and in one Finnish survey over ninety percent of people said they get one weekly.",
+      "on_screen_text": "Earworms: 90%+ weekly",
+      "visual_description": "A worm wearing headphones; a big '90%+' label.",
+      "visual_spec": "stand/neutral/L; notes@R; text:90%+@TR"
+    },
+    {
+      "start_sec": 10.89,
+      "end_sec": 19.44,
+      "section": "explanation",
+      "narration_line": "Studies suggest earworms tend to be upbeat songs with simple, repetitive melodies, often triggered by recent listening, stress, or a memory cue.",
+      "on_screen_text": "Upbeat. Simple. Repetitive.",
+      "visual_description": "A short looping melody line with three triggers: headphones, stress cloud, memory bubble.",
+      "visual_spec": "think/neutral/L; list:UPBEAT,SIMPLE,REPEAT@R"
+    },
+    {
+      "start_sec": 19.44,
+      "end_sec": 22.94,
+      "section": "explanation",
+      "narration_line": "Songs you've heard a lot recently are prime candidates.",
+      "on_screen_text": "Recent songs loop more",
+      "visual_description": "A calendar with a song icon highlighted this week.",
+      "visual_spec": "stand/smile/L; clock@R; notes@TR"
+    },
+    {
+      "start_sec": 22.94,
+      "end_sec": 28.78,
+      "section": "explanation",
+      "narration_line": "Your brain's auditory and memory systems keep replaying the loop, even when you aren't trying.",
+      "on_screen_text": "The loop replays itself",
+      "visual_description": "Brain with a looping arrow around an ear.",
+      "visual_spec": "think/worry/L; brain:@R; loop@TR"
+    },
+    {
+      "start_sec": 28.78,
+      "end_sec": 33.44,
+      "section": "explanation",
+      "narration_line": "Researchers still don't fully understand why some songs stick and others don't.",
+      "on_screen_text": "Still a mystery why",
+      "visual_description": "A shrugging stickman with question marks.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 33.44,
+      "end_sec": 40.06,
+      "section": "takeaway",
+      "narration_line": "One small experiment found that chewing gum reduced earworms, likely because it interferes with silently singing along.",
+      "on_screen_text": "Try chewing gum",
+      "visual_description": "Stickman chewing gum; the notes shrink.",
+      "visual_spec": "stand/smile/L; text:GUM@R; notes@TR"
+    },
+    {
+      "start_sec": 40.06,
+      "end_sec": 43.56,
+      "section": "takeaway",
+      "narration_line": "Engaging, moderately tricky puzzles may help too. Try both.",
+      "on_screen_text": "Or a tricky puzzle",
+      "visual_description": "Puzzle piece clicking into place.",
+      "visual_spec": "point/smile/L; lightbulb@R"
+    },
+    {
+      "start_sec": 43.56,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: the sneaky first number stores show you, on purpose, before the real price.",
+      "on_screen_text": "Tomorrow: the first number",
+      "visual_description": "A big price tag crossed out with a smaller one.",
+      "visual_spec": "stand/smile/L; tag:$200@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do songs get stuck in your head? Earworms often follow recent exposure, stress, or memory triggers, and tend to be simple and repetitive. Source: Beaman, Powell & Rapley (2015), 'Want to block earworms from conscious awareness? B(u)y gum!', Quarterly Journal of Experimental Psychology.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#earworm",
+    "#music",
+    "#psychologyfacts",
+    "#brain"
+  ],
+  "accuracy_note": "The 90%+ weekly figure comes from a survey of Finnish adults (Liikkanen, 2012) and may not generalize. The chewing-gum finding comes from small lab experiments and shouldn't be treated as a guaranteed cure; the research on why particular songs become earworms is still developing."
+}

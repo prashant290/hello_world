@@ -1,0 +1,101 @@
+{
+  "day": 1,
+  "topic": "Why you remember embarrassing moments years later",
+  "title": "Why That Cringe Memory Never Leaves You",
+  "voiceover": "Why do you still cringe at that moment? When something embarrasses you, your body floods with stress hormones. Your amygdala, a small emotion center deep in the brain, then tells your memory system: save this one. Neuroscientist James McGaugh showed across decades of research that emotional arousal strengthens how memories get stored. Then you replay it again and again, which strengthens it even more. But vivid isn't the same as accurate. After 9/11, people felt certain about their memories, yet details drifted over time while confidence stayed high. Next time it replays, tell yourself: that's just my brain tagging it important, not proof anyone else remembers. Then shift your attention to something absorbing. Tomorrow: the strange reason almost nobody noticed it in the first place.",
+  "word_count": 125,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.14,
+      "section": "hook",
+      "narration_line": "Why do you still cringe at that moment?",
+      "on_screen_text": "Still cringing",
+      "visual_description": "Stickman clutches head, wincing, as a tiny cloud labeled 'that moment' hovers above.",
+      "visual_spec": "shock/worry/C; bubble:that moment@TR"
+    },
+    {
+      "start_sec": 3.14,
+      "end_sec": 7.06,
+      "section": "explanation",
+      "narration_line": "When something embarrasses you, your body floods with stress hormones.",
+      "on_screen_text": "Stress hormones flood in",
+      "visual_description": "Stickman blushing with wavy red lines radiating from the body.",
+      "visual_spec": "stand/worry/L; waves@R; text:STRESS@TR"
+    },
+    {
+      "start_sec": 7.06,
+      "end_sec": 14.11,
+      "section": "explanation",
+      "narration_line": "Your amygdala, a small emotion center deep in the brain, then tells your memory system: save this one.",
+      "on_screen_text": "Amygdala: 'save this one'",
+      "visual_description": "Cutaway brain with the amygdala highlighted in the accent color, stamping a SAVE tag.",
+      "visual_spec": "think/neutral/L; brain:amygdala@R; tag:SAVE@TR"
+    },
+    {
+      "start_sec": 14.11,
+      "end_sec": 20.38,
+      "section": "explanation",
+      "narration_line": "Neuroscientist James McGaugh showed across decades of research that emotional arousal strengthens how memories get stored.",
+      "on_screen_text": "Emotion = stronger memory",
+      "visual_description": "Two bars: a short grey bar 'calm' and a tall accent bar 'emotional'.",
+      "visual_spec": "point/smile/L; bars:calm,emotional@R"
+    },
+    {
+      "start_sec": 20.38,
+      "end_sec": 25.09,
+      "section": "explanation",
+      "narration_line": "Then you replay it again and again, which strengthens it even more.",
+      "on_screen_text": "Replay, replay, replay",
+      "visual_description": "A looping arrow circles a tiny stickman cringing.",
+      "visual_spec": "think/worry/L; loop@R"
+    },
+    {
+      "start_sec": 25.09,
+      "end_sec": 34.5,
+      "section": "explanation",
+      "narration_line": "But vivid isn't the same as accurate. After 9/11, people felt certain about their memories, yet details drifted over time while confidence stayed high.",
+      "on_screen_text": "Vivid is not accurate",
+      "visual_description": "Two lines on a graph: 'confidence' stays flat and high, 'accuracy' slopes down.",
+      "visual_spec": "stand/neutral/L; lines:confidence,accuracy@R"
+    },
+    {
+      "start_sec": 34.5,
+      "end_sec": 41.55,
+      "section": "takeaway",
+      "narration_line": "Next time it replays, tell yourself: that's just my brain tagging it important, not proof anyone else remembers.",
+      "on_screen_text": "Brain tagged it. That's all.",
+      "visual_description": "Stickman calmly sticking a label 'important' on a thought cloud.",
+      "visual_spec": "point/smile/L; bubble:tagged@TR"
+    },
+    {
+      "start_sec": 41.55,
+      "end_sec": 44.3,
+      "section": "takeaway",
+      "narration_line": "Then shift your attention to something absorbing.",
+      "on_screen_text": "Redirect your attention",
+      "visual_description": "Stickman turns to a glowing book and puzzle piece.",
+      "visual_spec": "walk/smile/L; lightbulb@R"
+    },
+    {
+      "start_sec": 44.3,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: the strange reason almost nobody noticed it in the first place.",
+      "on_screen_text": "Tomorrow: who noticed?",
+      "visual_description": "A crowd of tiny stickmen, all looking at their phones, none at our stickman.",
+      "visual_spec": "stand/neutral/L; crowd:5@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why do cringe-worthy memories stick for years? Emotional arousal tells your brain to store an event more strongly, and replaying it locks it in even more. Source: McGaugh (2004), 'The amygdala modulates the consolidation of memories of emotionally arousing experiences', Annual Review of Neuroscience.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#memory",
+    "#brain",
+    "#mentalhealth",
+    "#psychologyfacts"
+  ],
+  "accuracy_note": "Flashbulb-memory finding (Talarico & Rubin, 2003): confidence in 9/11 memories stayed high while consistency of details declined, similar to everyday memories. Emotional memories feel vivid but are not necessarily more accurate. Simplified: the amygdala works with other regions (e.g. hippocampus), not alone."
+}

@@ -1,0 +1,101 @@
+{
+  "day": 5,
+  "topic": "The Zeigarnik effect: why unfinished tasks haunt you",
+  "title": "Why Unfinished Tasks Haunt Your Brain",
+  "voiceover": "Why can't you stop thinking about unfinished things? It's called the Zeigarnik effect, named after psychologist Bluma Zeigarnik, who studied it in the 1920s. Her idea: interrupted tasks stick in memory better than finished ones. But later studies of that memory boost have had mixed results. What does hold up is that unfinished goals keep intruding on your thoughts. Your brain keeps the loop open until there's a plan or an ending. Researchers Masicampo and Baumeister found that making a specific plan for the task quiets those thoughts, even before you do it. So don't just keep a to-do list. Write when and where you'll start. 'Tomorrow at nine, at my desk.' That tells your brain it's handled. Tomorrow: the surprising reason losing hurts more than winning feels good.",
+  "word_count": 129,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.04,
+      "section": "hook",
+      "narration_line": "Why can't you stop thinking about unfinished things?",
+      "on_screen_text": "Why won't it let go?",
+      "visual_description": "Stickman at a desk surrounded by half-done checklists.",
+      "visual_spec": "think/worry/C; list:TODO,TODO@R"
+    },
+    {
+      "start_sec": 3.04,
+      "end_sec": 9.12,
+      "section": "explanation",
+      "narration_line": "It's called the Zeigarnik effect, named after psychologist Bluma Zeigarnik, who studied it in the 1920s.",
+      "on_screen_text": "The Zeigarnik effect",
+      "visual_description": "Vintage-style portrait frame with the name ZEIGARNIK.",
+      "visual_spec": "stand/neutral/L; text:ZEIGARNIK@R; text:1920s@TR"
+    },
+    {
+      "start_sec": 9.12,
+      "end_sec": 17.47,
+      "section": "explanation",
+      "narration_line": "Her idea: interrupted tasks stick in memory better than finished ones. But later studies of that memory boost have had mixed results.",
+      "on_screen_text": "Memory boost? Mixed results",
+      "visual_description": "A scale tipping slightly, labeled 'mixed evidence'.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 17.47,
+      "end_sec": 22.41,
+      "section": "explanation",
+      "narration_line": "What does hold up is that unfinished goals keep intruding on your thoughts.",
+      "on_screen_text": "Unfinished goals intrude",
+      "visual_description": "Little thought bubbles with 'TODO' popping up above the stickman's head.",
+      "visual_spec": "think/worry/L; bubble:TODO@TR; bubble:TODO@R"
+    },
+    {
+      "start_sec": 22.41,
+      "end_sec": 27.35,
+      "section": "explanation",
+      "narration_line": "Your brain keeps the loop open until there's a plan or an ending.",
+      "on_screen_text": "The loop stays open",
+      "visual_description": "A circular arrow with a gap, then closed.",
+      "visual_spec": "stand/neutral/L; loop@R"
+    },
+    {
+      "start_sec": 27.35,
+      "end_sec": 35.33,
+      "section": "explanation",
+      "narration_line": "Researchers Masicampo and Baumeister found that making a specific plan for the task quiets those thoughts, even before you do it.",
+      "on_screen_text": "A plan quiets the nagging",
+      "visual_description": "Stickman writing a plan, the TODO bubbles fading away.",
+      "visual_spec": "point/smile/L; check@R; text:PLAN@TR"
+    },
+    {
+      "start_sec": 35.33,
+      "end_sec": 40.26,
+      "section": "takeaway",
+      "narration_line": "So don't just keep a to-do list. Write when and where you'll start.",
+      "on_screen_text": "Write when and where",
+      "visual_description": "Calendar and map pin icons next to a task.",
+      "visual_spec": "point/smile/L; clock@R; text:WHEN + WHERE@TR"
+    },
+    {
+      "start_sec": 40.26,
+      "end_sec": 44.82,
+      "section": "takeaway",
+      "narration_line": "'Tomorrow at nine, at my desk.' That tells your brain it's handled.",
+      "on_screen_text": "'Tomorrow, 9am, my desk'",
+      "visual_description": "Sticky note reading 9:00 desk with a check.",
+      "visual_spec": "stand/smile/L; tag:9:00 DESK@R; check@TR"
+    },
+    {
+      "start_sec": 44.82,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: the surprising reason losing hurts more than winning feels good.",
+      "on_screen_text": "Tomorrow: why losing stings",
+      "visual_description": "Two coins: one gained, one lost, lost one bigger.",
+      "visual_spec": "stand/worry/L; coin:+$20@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Unfinished tasks can stay on your mind, but the details of the Zeigarnik effect are more nuanced than the popular story. Making a specific plan can quiet the mental nagging. Source: Masicampo & Baumeister (2011), 'Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals', Journal of Personality and Social Psychology.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#productivity",
+    "#procrastination",
+    "#psychologyfacts",
+    "#brain"
+  ],
+  "accuracy_note": "The original Zeigarnik memory advantage for interrupted tasks has had inconsistent replication; the safer claim is that unfinished goals intrude on thought and that specific plans reduce this intrusion (Masicampo & Baumeister, 2011). The popular 'waiter' origin story is anecdotal."
+}

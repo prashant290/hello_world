@@ -1,0 +1,101 @@
+{
+  "day": 10,
+  "topic": "Why you walk into a room and forget why",
+  "title": "Why You Forget Things Walking Into a Room",
+  "voiceover": "Why did you walk in here again? It's called the doorway effect, and it's real. In 2011, Gabriel Radvansky and colleagues had people carry objects through virtual rooms, then tested their memory. People forgot more after passing through a doorway than after walking the same distance inside one room. The leading explanation: your brain files experiences into 'events,' and a doorway marks a boundary, so the old thought gets filed away. Researchers still debate the details, but it happens to healthy young brains too. So go back to the room where you had the thought. The scene itself often brings the memory back. Or hold your goal in mind by repeating it before you move. Tomorrow: why something you just learned suddenly seems to follow you everywhere.",
+  "word_count": 127,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.7,
+      "section": "hook",
+      "narration_line": "Why did you walk in here again?",
+      "on_screen_text": "Why did I come in here?",
+      "visual_description": "Stickman standing confused in a doorway with a blank thought bubble.",
+      "visual_spec": "shrug/worry/C; door@R"
+    },
+    {
+      "start_sec": 2.7,
+      "end_sec": 5.79,
+      "section": "explanation",
+      "narration_line": "It's called the doorway effect, and it's real.",
+      "on_screen_text": "The doorway effect",
+      "visual_description": "A door with a glowing frame.",
+      "visual_spec": "point/smile/L; door@R"
+    },
+    {
+      "start_sec": 5.79,
+      "end_sec": 12.35,
+      "section": "explanation",
+      "narration_line": "In 2011, Gabriel Radvansky and colleagues had people carry objects through virtual rooms, then tested their memory.",
+      "on_screen_text": "Radvansky's virtual rooms, 2011",
+      "visual_description": "A pixelated virtual room with a box being carried.",
+      "visual_spec": "walk/neutral/L; text:VIRTUAL ROOMS@R"
+    },
+    {
+      "start_sec": 12.35,
+      "end_sec": 18.91,
+      "section": "explanation",
+      "narration_line": "People forgot more after passing through a doorway than after walking the same distance inside one room.",
+      "on_screen_text": "More forgetting after doors",
+      "visual_description": "Two paths: one through a door (more forgetting), one across a room (less).",
+      "visual_spec": "stand/neutral/L; bars:room,door@R"
+    },
+    {
+      "start_sec": 18.91,
+      "end_sec": 27.39,
+      "section": "explanation",
+      "narration_line": "The leading explanation: your brain files experiences into 'events,' and a doorway marks a boundary, so the old thought gets filed away.",
+      "on_screen_text": "Doors mark 'event boundaries'",
+      "visual_description": "Thought bubble being packed into a box as the stickman steps through.",
+      "visual_spec": "think/neutral/L; door@R; bubble:old thought@TR"
+    },
+    {
+      "start_sec": 27.39,
+      "end_sec": 32.41,
+      "section": "explanation",
+      "narration_line": "Researchers still debate the details, but it happens to healthy young brains too.",
+      "on_screen_text": "Happens to healthy brains",
+      "visual_description": "Smiling stickman with a healthy brain icon.",
+      "visual_spec": "stand/smile/L; brain:@R"
+    },
+    {
+      "start_sec": 32.41,
+      "end_sec": 39.74,
+      "section": "takeaway",
+      "narration_line": "So go back to the room where you had the thought. The scene itself often brings the memory back.",
+      "on_screen_text": "Return to the original room",
+      "visual_description": "Stickman walking back through the door; the thought bubble reappears.",
+      "visual_spec": "walk/smile/L; door@R; bubble:aha@TR"
+    },
+    {
+      "start_sec": 39.74,
+      "end_sec": 44.37,
+      "section": "takeaway",
+      "narration_line": "Or hold your goal in mind by repeating it before you move.",
+      "on_screen_text": "Repeat your goal",
+      "visual_description": "Stickman mouthing the goal word 'KEYS'.",
+      "visual_spec": "point/smile/L; text:KEYS@R"
+    },
+    {
+      "start_sec": 44.37,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why something you just learned suddenly seems to follow you everywhere.",
+      "on_screen_text": "Tomorrow: it's everywhere",
+      "visual_description": "Many identical objects popping up behind the stickman.",
+      "visual_spec": "stand/shock/L; crowd:5@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Walking through a doorway can make you forget why you entered the room. Researchers think doorways mark 'event boundaries' that make your brain file the old thought away. Source: Radvansky, Krawietz & Tamplin (2011), 'Walking through doorways causes forgetting', Quarterly Journal of Experimental Psychology.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#memory",
+    "#doorwayeffect",
+    "#psychologyfacts",
+    "#brain"
+  ],
+  "accuracy_note": "The doorway effect is documented in lab studies, but researchers still debate the exact mechanism (event boundaries vs. context change). Returning to the original room to restore context cues is supported by broader research on context-dependent memory, not just this study."
+}

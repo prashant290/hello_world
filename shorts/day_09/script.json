@@ -1,0 +1,101 @@
+{
+  "day": 9,
+  "topic": "The anchoring trick stores use on you",
+  "title": "The Pricing Trick Stores Use on You",
+  "voiceover": "Stores show you a number first. Here's why. It's the anchoring effect. In 1974, Tversky and Kahneman had people watch a rigged wheel land on either 10 or 65. Then they asked: what percent of African countries are in the United Nations? People who saw 10 guessed around 25 percent. People who saw 65 guessed around 45. A random number pulled the guesses. That's anchoring: your first number quietly shapes everything after it. Stores use it with a high 'original price' next to the sale price so the deal feels bigger. Before you shop or negotiate, decide your own number first. What's it worth to you? Then compare. In a negotiation, making the first offer often sets the anchor. Tomorrow: why walking through a doorway can make you forget everything.",
+  "word_count": 130,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.02,
+      "section": "hook",
+      "narration_line": "Stores show you a number first. Here's why.",
+      "on_screen_text": "The number they show first",
+      "visual_description": "A big price tag looming over a tiny stickman.",
+      "visual_spec": "stand/worry/L; tag:$200@R"
+    },
+    {
+      "start_sec": 3.02,
+      "end_sec": 10.93,
+      "section": "explanation",
+      "narration_line": "It's the anchoring effect. In 1974, Tversky and Kahneman had people watch a rigged wheel land on either 10 or 65.",
+      "on_screen_text": "Tversky & Kahneman, 1974",
+      "visual_description": "A wheel of fortune stopping on 10, then on 65.",
+      "visual_spec": "point/neutral/L; wheel:10@R"
+    },
+    {
+      "start_sec": 10.93,
+      "end_sec": 15.83,
+      "section": "explanation",
+      "narration_line": "Then they asked: what percent of African countries are in the United Nations?",
+      "on_screen_text": "A random number, then a question",
+      "visual_description": "Question mark above a globe.",
+      "visual_spec": "think/neutral/L; qmark@R; text:% IN THE UN?@TR"
+    },
+    {
+      "start_sec": 15.83,
+      "end_sec": 21.48,
+      "section": "explanation",
+      "narration_line": "People who saw 10 guessed around 25 percent. People who saw 65 guessed around 45.",
+      "on_screen_text": "Saw 10: ~25%. Saw 65: ~45%",
+      "visual_description": "Two bars: ~25% and ~45%, labeled by the wheel number.",
+      "visual_spec": "point/neutral/L; bars:saw 10,saw 65@R"
+    },
+    {
+      "start_sec": 21.48,
+      "end_sec": 27.52,
+      "section": "explanation",
+      "narration_line": "A random number pulled the guesses. That's anchoring: your first number quietly shapes everything after it.",
+      "on_screen_text": "First number pulls your guess",
+      "visual_description": "Rope tied from a number to a thought bubble, pulling it.",
+      "visual_spec": "shock/neutral/L; text:ANCHOR@R"
+    },
+    {
+      "start_sec": 27.52,
+      "end_sec": 34.3,
+      "section": "explanation",
+      "narration_line": "Stores use it with a high 'original price' next to the sale price so the deal feels bigger.",
+      "on_screen_text": "'Was $200, now $120'",
+      "visual_description": "Crossed-out $200 next to $120.",
+      "visual_spec": "stand/smile/L; tag:$200@TR; tag:$120@R"
+    },
+    {
+      "start_sec": 34.3,
+      "end_sec": 40.71,
+      "section": "takeaway",
+      "narration_line": "Before you shop or negotiate, decide your own number first. What's it worth to you? Then compare.",
+      "on_screen_text": "Set your own number first",
+      "visual_description": "Stickman writing a number on a sticky note before entering a store.",
+      "visual_spec": "point/smile/L; tag:MY #@R"
+    },
+    {
+      "start_sec": 40.71,
+      "end_sec": 44.85,
+      "section": "takeaway",
+      "narration_line": "In a negotiation, making the first offer often sets the anchor.",
+      "on_screen_text": "Make the first offer",
+      "visual_description": "Stickman planting a flag on a number line.",
+      "visual_spec": "walk/smile/L; arrow:right@R"
+    },
+    {
+      "start_sec": 44.85,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why walking through a doorway can make you forget everything.",
+      "on_screen_text": "Tomorrow: doorways",
+      "visual_description": "A doorway with a thought bubble vanishing through it.",
+      "visual_spec": "stand/neutral/L; door@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Anchoring means the first number you see quietly shapes your later judgments, which is why stores show a high original price. Source: Tversky & Kahneman (1974), 'Judgment under uncertainty: heuristics and biases', Science.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#anchoring",
+    "#marketing",
+    "#psychologyfacts",
+    "#negotiation"
+  ],
+  "accuracy_note": "Anchoring is one of the more robust effects in judgment research, though effect sizes vary by task. Figures are medians from the original wheel-of-fortune experiment (about 25% vs about 45%). Some later 'arbitrary anchor' studies (e.g. the Social Security number version) have had mixed replication, so we stick to the classic study."
+}

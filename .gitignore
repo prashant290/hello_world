@@ -1,0 +1,9 @@
+# generated media (re-buildable from script.json)
+shorts/day_*/*.wav
+shorts/day_*/*.mp3
+shorts/day_*/*.mp4
+shorts/day_*/scenes/
+shorts/day_*/*.ass
+output/*.mp4
+__pycache__/
+assets/music/*.wav

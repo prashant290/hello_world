@@ -1,0 +1,101 @@
+{
+  "day": 6,
+  "topic": "Why you hate losing more than you love winning (loss aversion)",
+  "title": "Why Losing Hurts More Than Winning Feels Good",
+  "voiceover": "Why does losing hurt more than winning feels good? This is loss aversion, a core idea from Daniel Kahneman and Amos Tversky's prospect theory in 1979. In experiments, many people turn down a coin flip where they could lose $100 unless they could win roughly $200. Your brain puts a loss on the scale with extra weight. One theory is that for our ancestors, losing food or shelter cost more than gaining extra helped. Not every researcher agrees on how strong it is, though. Some argue it depends heavily on context and the stakes. To catch it, rewrite a decision as a gain instead of a loss and see if your answer changes. If it does, that's the bias talking. Tomorrow: the famous psychology effect that you've almost certainly been misquoting.",
+  "word_count": 131,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.37,
+      "section": "hook",
+      "narration_line": "Why does losing hurt more than winning feels good?",
+      "on_screen_text": "Losing hurts more",
+      "visual_description": "Stickman holding a lost coin, crying, beside a smaller won coin.",
+      "visual_spec": "shock/worry/C; coin:-$20@R"
+    },
+    {
+      "start_sec": 3.37,
+      "end_sec": 9.73,
+      "section": "explanation",
+      "narration_line": "This is loss aversion, a core idea from Daniel Kahneman and Amos Tversky's prospect theory in 1979.",
+      "on_screen_text": "Loss aversion",
+      "visual_description": "Two portraits with the title PROSPECT THEORY 1979.",
+      "visual_spec": "stand/neutral/L; text:LOSS AVERSION@TR; text:1979@R"
+    },
+    {
+      "start_sec": 9.73,
+      "end_sec": 17.21,
+      "section": "explanation",
+      "narration_line": "In experiments, many people turn down a coin flip where they could lose $100 unless they could win roughly $200.",
+      "on_screen_text": "Lose $100? Need to win $200",
+      "visual_description": "A coin flip with two sides: -$100 and +$200.",
+      "visual_spec": "think/neutral/L; coin:-$100@R; coin:+$200@B"
+    },
+    {
+      "start_sec": 17.21,
+      "end_sec": 21.32,
+      "section": "explanation",
+      "narration_line": "Your brain puts a loss on the scale with extra weight.",
+      "on_screen_text": "Losses weigh more",
+      "visual_description": "A balance scale tipping toward the loss side.",
+      "visual_spec": "point/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 21.32,
+      "end_sec": 27.68,
+      "section": "explanation",
+      "narration_line": "One theory is that for our ancestors, losing food or shelter cost more than gaining extra helped.",
+      "on_screen_text": "Why? Survival, maybe",
+      "visual_description": "A cave with a few food items disappearing.",
+      "visual_spec": "stand/worry/L; text:SURVIVAL@R"
+    },
+    {
+      "start_sec": 27.68,
+      "end_sec": 35.16,
+      "section": "explanation",
+      "narration_line": "Not every researcher agrees on how strong it is, though. Some argue it depends heavily on context and the stakes.",
+      "on_screen_text": "Strength is debated",
+      "visual_description": "Two stickmen arguing with a '?' between them.",
+      "visual_spec": "shrug/neutral/L; qmark@R; text:DEBATED@TR"
+    },
+    {
+      "start_sec": 35.16,
+      "end_sec": 42.27,
+      "section": "takeaway",
+      "narration_line": "To catch it, rewrite a decision as a gain instead of a loss and see if your answer changes.",
+      "on_screen_text": "Flip loss into gain",
+      "visual_description": "A card flips from 'lose $10' to 'keep $10'.",
+      "visual_spec": "point/smile/L; arrow:right@R"
+    },
+    {
+      "start_sec": 42.27,
+      "end_sec": 44.89,
+      "section": "takeaway",
+      "narration_line": "If it does, that's the bias talking.",
+      "on_screen_text": "That's the bias talking",
+      "visual_description": "A little devil speech bubble labeled 'bias'.",
+      "visual_spec": "stand/smile/L; bubble:bias@TR"
+    },
+    {
+      "start_sec": 44.89,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: the famous psychology effect that you've almost certainly been misquoting.",
+      "on_screen_text": "Tomorrow: a misquoted effect",
+      "visual_description": "A quote bubble with a crossed-out sentence.",
+      "visual_spec": "stand/neutral/L; bubble:\"?\"@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Loss aversion is the idea that losses loom larger than equivalent gains. It's a cornerstone of behavioral economics, though researchers still debate how strong and universal it is. Source: Kahneman & Tversky (1979), 'Prospect theory: an analysis of decision under risk', Econometrica.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#lossaversion",
+    "#behavioraleconomics",
+    "#psychologyfacts",
+    "#decisionmaking"
+  ],
+  "accuracy_note": "'Roughly twice as large' is a common estimate (about 2 to 2.5 in Tversky & Kahneman, 1992), but some researchers (e.g. Gal & Rucker, 2018) argue loss aversion is overstated or context-dependent. The evolutionary explanation is a hypothesis, not established fact."
+}

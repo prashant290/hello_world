@@ -1,0 +1,36 @@
+{
+  "_note": "Edit these values to change the look, voice and schedule. Everything marked EDIT ME in your brief lives here.",
+  "video": {"width": 1080, "height": 1920, "fps": 30, "target_seconds": 49.0, "min_seconds": 45.0, "max_seconds": 52.0},
+  "style": {
+    "name": "Minimalist hand-drawn stickman with 3-frame line boil",
+    "background": "#F5F1E8",
+    "ink": "#222222",
+    "accent": "#E4572E",
+    "boil_fps": 12,
+    "line_width": 9
+  },
+  "tts": {
+    "engine": "espeak",
+    "_engines": "espeak (offline, free, robotic; sandbox default) | edge (free Microsoft neural voices via edge-tts, no API key, needs internet) | piper (free offline neural, needs a downloaded .onnx voice)",
+    "espeak": {"voice": "en-us+f3", "speed_wpm": 158, "pitch": 55},
+    "edge": {"voice": "en-US-AriaNeural", "rate": "+0%"},
+    "piper": {"model": "assets/voices/en_US-lessac-medium.onnx"},
+    "line_gap_sec": 0.12,
+    "fit_to_target": true
+  },
+  "captions": {
+    "font": "Liberation Sans",
+    "font_file_dir": "/usr/share/fonts/truetype/liberation",
+    "font_size": 88,
+    "max_words_per_chunk": 3,
+    "center_y": 1390,
+    "side_margin": 150,
+    "text_color": "#222222",
+    "highlight_color": "#E4572E",
+    "outline_color": "#F5F1E8",
+    "outline_px": 7
+  },
+  "safe_zone": {"bottom_pct": 20, "right_px": 130, "left_px": 60, "top_px": 120},
+  "audio": {"music_gain_db": -18, "target_lufs": -16, "peak_ceiling_db": -1.5, "min_voice_over_music_db": 12},
+  "schedule": {"_note": "EDIT ME: used only by the optional upload script", "time": "18:00", "timezone": "America/New_York", "start_date": null}
+}

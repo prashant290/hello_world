@@ -1,0 +1,101 @@
+{
+  "day": 3,
+  "topic": "Why $9.99 feels much cheaper than $10",
+  "title": "Why $9.99 Tricks Your Brain",
+  "voiceover": "Why does $9.99 feel so much cheaper? It's called the left-digit effect. Your brain reads numbers left to right and anchors on the first digit. So $9.99 gets filed as 'about nine dollars' while $10 gets filed as 'ten dollars', even though the gap is one cent. Researchers Manoj Thomas and Vicki Morwitz found that a one-cent drop feels bigger when it changes the first digit, like $3.00 to $2.99. Stores know this, which is why so many prices end in nine. The effect varies by product, and round prices can signal quality for premium brands. So when you see a price ending in nine, mentally round up before deciding. Ask yourself: would I buy this at ten? You'll spot it everywhere. Tomorrow: the reason your brain quietly ignores facts you disagree with.",
+  "word_count": 133,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.58,
+      "section": "hook",
+      "narration_line": "Why does $9.99 feel so much cheaper?",
+      "on_screen_text": "$9.99 vs $10",
+      "visual_description": "Two price tags side by side: $9.99 and $10.00, one cent apart.",
+      "visual_spec": "stand/neutral/L; tag:$9.99@TR; tag:$10@R"
+    },
+    {
+      "start_sec": 2.58,
+      "end_sec": 9.21,
+      "section": "explanation",
+      "narration_line": "It's called the left-digit effect. Your brain reads numbers left to right and anchors on the first digit.",
+      "on_screen_text": "The left-digit effect",
+      "visual_description": "Magnifying glass over the leftmost digit of $9.99.",
+      "visual_spec": "point/neutral/L; numbers:9 . 9 9@R"
+    },
+    {
+      "start_sec": 9.21,
+      "end_sec": 17.32,
+      "section": "explanation",
+      "narration_line": "So $9.99 gets filed as 'about nine dollars' while $10 gets filed as 'ten dollars', even though the gap is one cent.",
+      "on_screen_text": "'Nine-ish' vs 'Ten'",
+      "visual_description": "Two mental drawers labeled 'nine dollars' and 'ten dollars'.",
+      "visual_spec": "think/neutral/L; bubble:nine-ish@TR; bubble:ten@R"
+    },
+    {
+      "start_sec": 17.32,
+      "end_sec": 25.79,
+      "section": "explanation",
+      "narration_line": "Researchers Manoj Thomas and Vicki Morwitz found that a one-cent drop feels bigger when it changes the first digit, like $3.00 to $2.99.",
+      "on_screen_text": "$3.00 to $2.99 feels bigger",
+      "visual_description": "Arrow from $3.00 to $2.99 with a big jump drawn beneath it.",
+      "visual_spec": "point/smile/L; tag:$3.00@TR; arrow:right@R; tag:$2.99@B"
+    },
+    {
+      "start_sec": 25.79,
+      "end_sec": 30.21,
+      "section": "explanation",
+      "narration_line": "Stores know this, which is why so many prices end in nine.",
+      "on_screen_text": "Stores know this",
+      "visual_description": "Rows of price tags all ending in 9.",
+      "visual_spec": "stand/smile/L; list:.99,.99,.99@R"
+    },
+    {
+      "start_sec": 30.21,
+      "end_sec": 35.37,
+      "section": "explanation",
+      "narration_line": "The effect varies by product, and round prices can signal quality for premium brands.",
+      "on_screen_text": "Premium brands use round prices",
+      "visual_description": "A luxury watch with a round price tag.",
+      "visual_spec": "stand/neutral/L; coin:$500@R"
+    },
+    {
+      "start_sec": 35.37,
+      "end_sec": 40.53,
+      "section": "takeaway",
+      "narration_line": "So when you see a price ending in nine, mentally round up before deciding.",
+      "on_screen_text": "Round the price up",
+      "visual_description": "Stickman rounds $9.99 up to $10 with an eraser.",
+      "visual_spec": "point/smile/L; tag:$9.99@TR; arrow:right@R; tag:$10@B"
+    },
+    {
+      "start_sec": 40.53,
+      "end_sec": 44.95,
+      "section": "takeaway",
+      "narration_line": "Ask yourself: would I buy this at ten? You'll spot it everywhere.",
+      "on_screen_text": "Would you pay $10?",
+      "visual_description": "Thought bubble with a question mark over a price tag.",
+      "visual_spec": "think/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 44.95,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: the reason your brain quietly ignores facts you disagree with.",
+      "on_screen_text": "Tomorrow: facts you ignore",
+      "visual_description": "A stickman with hands over his eyes in front of a fact sheet.",
+      "visual_spec": "stand/worry/L; list:FACT,FACT,FACT@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Why does $9.99 feel so much cheaper than $10? Your brain anchors on the leftmost digit, so a one-cent change can feel like a much bigger drop. Source: Thomas & Morwitz (2005), 'Penny wise and pound foolish: the left-digit effect in price cognition', Journal of Consumer Research.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#pricing",
+    "#marketing",
+    "#psychologyfacts",
+    "#shopping"
+  ],
+  "accuracy_note": "The left-digit effect is well documented, but its strength depends on the product and context. Premium or luxury brands often use round prices because round numbers can signal quality."
+}

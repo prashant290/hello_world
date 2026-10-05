@@ -1,0 +1,159 @@
+"""Generate voiceover audio + word timings from script.json.
+
+Writes shorts/day_XX/voice.wav and shorts/day_XX/timing.json.
+Engines (config.json -> tts.engine):
+  espeak  offline/free, robotic (used in the build sandbox)
+  edge    free Microsoft neural voices via `pip install edge-tts` (no API key, needs internet)
+  piper   free offline neural voice (needs a downloaded .onnx model)
+Each narration line is synthesized separately so scenes line up exactly with speech.
+"""
+import asyncio
+import json
+import re
+import sys
+import wave
+
+import numpy as np
+
+from common import *
+
+
+def read_wav(path):
+    with wave.open(str(path)) as w:
+        assert w.getsampwidth() == 2
+        sr, ch = w.getframerate(), w.getnchannels()
+        a = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
+    return (a.reshape(-1, ch).mean(axis=1) if ch > 1 else a), sr
+
+
+def write_wav(path, a, sr):
+    with wave.open(str(path), "wb") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
+        w.writeframes((np.clip(a, -1, 1) * 32767).astype(np.int16).tobytes())
+
+
+def to_wav(src, dst, sr=44100):
+    run(["ffmpeg", "-y", "-v", "error", "-i", str(src), "-ac", "1", "-ar", str(sr), "-sample_fmt", "s16", str(dst)])
+
+
+def trim(a, sr, thresh=0.008, pad=0.03):
+    idx = np.where(np.abs(a) > thresh)[0]
+    if len(idx) == 0:
+        return a, 0.0
+    s, e = max(0, idx[0] - int(pad * sr)), min(len(a), idx[-1] + int(pad * sr))
+    return a[s:e], s / sr
+
+
+# ------------------------------------------------------------------ engines
+def synth_espeak(text, out, cfg):
+    c = cfg["espeak"]
+    run(["espeak-ng", "-v", c["voice"], "-s", str(c["speed_wpm"]), "-p", str(c["pitch"]), "-w", str(out), text])
+    return None
+
+
+def synth_edge(text, out, cfg):
+    import edge_tts
+    words = []
+
+    async def go():
+        com = edge_tts.Communicate(text, cfg["edge"]["voice"], rate=cfg["edge"]["rate"], boundary="WordBoundary")
+        with open(str(out) + ".mp3", "wb") as f:
+            async for ch in com.stream():
+                if ch["type"] == "audio":
+                    f.write(ch["data"])
+                elif ch["type"] == "WordBoundary":
+                    words.append((ch["text"], ch["offset"] / 1e7, (ch["offset"] + ch["duration"]) / 1e7))
+    asyncio.run(go())
+    to_wav(str(out) + ".mp3", out)
+    return words
+
+
+def synth_piper(text, out, cfg):
+    run(["piper", "-m", str(ROOT / cfg["piper"]["model"]), "-f", str(out)], input=text)
+    return None
+
+
+ENGINES = {"espeak": synth_espeak, "edge": synth_edge, "piper": synth_piper}
+
+
+def estimate_words(tokens, dur):
+    """Distribute a line's speech time across words by letter count + punctuation pauses."""
+    w = []
+    for t in tokens:
+        weight = len(re.sub(r"\W", "", t)) + 1.5
+        if t[-1] in ",;:": weight += 3
+        elif t[-1] in ".?!": weight += 5
+        w.append(weight)
+    tot, acc, out = sum(w), 0.0, []
+    for t, x in zip(tokens, w):
+        out.append((t, acc / tot * dur, (acc + x) / tot * dur))
+        acc += x
+    return out
+
+
+def build(day, engine=None):
+    cfg = config()["tts"]
+    engine = engine or cfg["engine"]
+    s = load_script(day)
+    d = day_dir(day)
+    tmp = d / "tts_tmp"
+    tmp.mkdir(exist_ok=True)
+    sr, gap, lead = 44100, cfg["line_gap_sec"], 0.12
+    audio, lines, t = [np.zeros(int(lead * sr), dtype=np.float32)], [], lead
+    for i, sc in enumerate(s["scenes"]):
+        raw = tmp / f"line_{i:02d}.wav"
+        words = ENGINES[engine](sc["narration_line"], raw, config()["tts"])
+        if engine != "edge":                            # edge already converted to 44.1 kHz mono
+            to_wav(raw, tmp / "norm.wav")
+            (tmp / "norm.wav").replace(raw)
+        a, _ = read_wav(raw)
+        a, off = trim(a, sr)
+        dur = len(a) / sr
+        toks = tokenize(sc["narration_line"])
+        if words and len(words) == len(toks):          # engine gave real word timings
+            w = [(tk, max(0, ws - off), max(0, we - off)) for tk, (_, ws, we) in zip(toks, words)]
+            w = [(tk, a_, min(b_, dur)) for tk, a_, b_ in w]
+        else:
+            w = estimate_words(toks, dur)
+        lines.append({"idx": i, "start": t, "end": t + dur,
+                      "words": [{"w": x, "start": round(t + a_, 3), "end": round(t + b_, 3)} for x, a_, b_ in w]})
+        audio += [a, np.zeros(int(gap * sr), dtype=np.float32)]
+        t += dur + gap
+    audio.append(np.zeros(int(0.5 * sr), dtype=np.float32))   # tail so the last word isn't clipped
+    voice = np.concatenate(audio)
+    speech_end = lines[-1]["end"]
+    tail = 0.5
+    total = speech_end + tail
+
+    # fit to the 49 s target by gentle time-stretching (keeps pitch via atempo)
+    factor = 1.0
+    if cfg.get("fit_to_target", True):
+        target = config()["video"]["target_seconds"]
+        factor = max(0.88, min(1.12, total / target))   # >1 = speed up
+    wav_path = d / "voice.wav"
+    write_wav(tmp / "voice_raw.wav", voice, sr)
+    if abs(factor - 1) > 0.01:
+        run(["ffmpeg", "-y", "-v", "error", "-i", str(tmp / "voice_raw.wav"), "-filter:a", f"atempo={factor:.5f}", str(wav_path)])
+    else:
+        factor = 1.0
+        (tmp / "voice_raw.wav").replace(wav_path)
+    for ln in lines:
+        ln["start"] = round(ln["start"] / factor, 3); ln["end"] = round(ln["end"] / factor, 3)
+        for w in ln["words"]:
+            w["start"] = round(w["start"] / factor, 3); w["end"] = round(w["end"] / factor, 3)
+    total = round(ffprobe_duration(wav_path) + 0.0, 3)
+    # pad the tail so video outlasts last word slightly
+    scenes = [{"start": 0.0 if i == 0 else lines[i]["start"],
+               "end": total if i == len(lines) - 1 else lines[i + 1]["start"]} for i in range(len(lines))]
+    timing = {"engine": engine, "tempo_factor": round(factor, 4), "duration": total,
+              "speech_end": lines[-1]["end"], "lines": lines, "scenes": scenes}
+    (d / "timing.json").write_text(json.dumps(timing, indent=1))
+    for p in tmp.glob("*"):
+        p.unlink()
+    tmp.rmdir()
+    print(f"day {day:02d} tts[{engine}]: {total:.1f}s (tempo x{factor:.3f}), speech ends {timing['speech_end']:.1f}s")
+    return timing
+
+
+if __name__ == "__main__":
+    build(int(sys.argv[1]), sys.argv[2] if len(sys.argv) > 2 else None)

@@ -1,0 +1,734 @@
+{
+ "engine": "espeak",
+ "tempo_factor": 1.0202,
+ "duration": 49.095,
+ "speech_end": 48.51,
+ "lines": [
+  {
+   "idx": 0,
+   "start": 0.118,
+   "end": 2.272,
+   "words": [
+    {
+     "w": "Why",
+     "start": 0.118,
+     "end": 0.32
+    },
+    {
+     "w": "do",
+     "start": 0.32,
+     "end": 0.476
+    },
+    {
+     "w": "you",
+     "start": 0.476,
+     "end": 0.678
+    },
+    {
+     "w": "still",
+     "start": 0.678,
+     "end": 0.97
+    },
+    {
+     "w": "cringe",
+     "start": 0.97,
+     "end": 1.307
+    },
+    {
+     "w": "at",
+     "start": 1.307,
+     "end": 1.464
+    },
+    {
+     "w": "that",
+     "start": 1.464,
+     "end": 1.711
+    },
+    {
+     "w": "moment?",
+     "start": 1.711,
+     "end": 2.272
+    }
+   ]
+  },
+  {
+   "idx": 1,
+   "start": 2.39,
+   "end": 6.268,
+   "words": [
+    {
+     "w": "When",
+     "start": 2.39,
+     "end": 2.65
+    },
+    {
+     "w": "something",
+     "start": 2.65,
+     "end": 3.146
+    },
+    {
+     "w": "embarrasses",
+     "start": 3.146,
+     "end": 3.738
+    },
+    {
+     "w": "you,",
+     "start": 3.738,
+     "end": 4.092
+    },
+    {
+     "w": "your",
+     "start": 4.092,
+     "end": 4.352
+    },
+    {
+     "w": "body",
+     "start": 4.352,
+     "end": 4.613
+    },
+    {
+     "w": "floods",
+     "start": 4.613,
+     "end": 4.967
+    },
+    {
+     "w": "with",
+     "start": 4.967,
+     "end": 5.227
+    },
+    {
+     "w": "stress",
+     "start": 5.227,
+     "end": 5.582
+    },
+    {
+     "w": "hormones.",
+     "start": 5.582,
+     "end": 6.267
+    }
+   ]
+  },
+  {
+   "idx": 2,
+   "start": 6.385,
+   "end": 12.715,
+   "words": [
+    {
+     "w": "Your",
+     "start": 6.385,
+     "end": 6.67
+    },
+    {
+     "w": "amygdala,",
+     "start": 6.67,
+     "end": 7.319
+    },
+    {
+     "w": "a",
+     "start": 7.319,
+     "end": 7.449
+    },
+    {
+     "w": "small",
+     "start": 7.449,
+     "end": 7.786
+    },
+    {
+     "w": "emotion",
+     "start": 7.786,
+     "end": 8.227
+    },
+    {
+     "w": "center",
+     "start": 8.227,
+     "end": 8.616
+    },
+    {
+     "w": "deep",
+     "start": 8.616,
+     "end": 8.901
+    },
+    {
+     "w": "in",
+     "start": 8.901,
+     "end": 9.083
+    },
+    {
+     "w": "the",
+     "start": 9.083,
+     "end": 9.317
+    },
+    {
+     "w": "brain,",
+     "start": 9.317,
+     "end": 9.809
+    },
+    {
+     "w": "then",
+     "start": 9.809,
+     "end": 10.094
+    },
+    {
+     "w": "tells",
+     "start": 10.094,
+     "end": 10.431
+    },
+    {
+     "w": "your",
+     "start": 10.431,
+     "end": 10.718
+    },
+    {
+     "w": "memory",
+     "start": 10.718,
+     "end": 11.107
+    },
+    {
+     "w": "system:",
+     "start": 11.107,
+     "end": 11.651
+    },
+    {
+     "w": "save",
+     "start": 11.651,
+     "end": 11.936
+    },
+    {
+     "w": "this",
+     "start": 11.936,
+     "end": 12.221
+    },
+    {
+     "w": "one.",
+     "start": 12.221,
+     "end": 12.714
+    }
+   ]
+  },
+  {
+   "idx": 3,
+   "start": 12.832,
+   "end": 19.28,
+   "words": [
+    {
+     "w": "Neuroscientist",
+     "start": 12.832,
+     "end": 13.572
+    },
+    {
+     "w": "James",
+     "start": 13.572,
+     "end": 13.883
+    },
+    {
+     "w": "McGaugh",
+     "start": 13.883,
+     "end": 14.289
+    },
+    {
+     "w": "showed",
+     "start": 14.289,
+     "end": 14.647
+    },
+    {
+     "w": "across",
+     "start": 14.647,
+     "end": 15.005
+    },
+    {
+     "w": "decades",
+     "start": 15.005,
+     "end": 15.411
+    },
+    {
+     "w": "of",
+     "start": 15.411,
+     "end": 15.579
+    },
+    {
+     "w": "research",
+     "start": 15.579,
+     "end": 16.032
+    },
+    {
+     "w": "that",
+     "start": 16.032,
+     "end": 16.295
+    },
+    {
+     "w": "emotional",
+     "start": 16.295,
+     "end": 16.796
+    },
+    {
+     "w": "arousal",
+     "start": 16.796,
+     "end": 17.203
+    },
+    {
+     "w": "strengthens",
+     "start": 17.203,
+     "end": 17.8
+    },
+    {
+     "w": "how",
+     "start": 17.8,
+     "end": 18.014
+    },
+    {
+     "w": "memories",
+     "start": 18.014,
+     "end": 18.468
+    },
+    {
+     "w": "get",
+     "start": 18.468,
+     "end": 18.683
+    },
+    {
+     "w": "stored.",
+     "start": 18.683,
+     "end": 19.28
+    }
+   ]
+  },
+  {
+   "idx": 4,
+   "start": 19.398,
+   "end": 23.41,
+   "words": [
+    {
+     "w": "Then",
+     "start": 19.397,
+     "end": 19.673
+    },
+    {
+     "w": "you",
+     "start": 19.673,
+     "end": 19.899
+    },
+    {
+     "w": "replay",
+     "start": 19.899,
+     "end": 20.275
+    },
+    {
+     "w": "it",
+     "start": 20.275,
+     "end": 20.45
+    },
+    {
+     "w": "again",
+     "start": 20.45,
+     "end": 20.777
+    },
+    {
+     "w": "and",
+     "start": 20.777,
+     "end": 21.002
+    },
+    {
+     "w": "again,",
+     "start": 21.002,
+     "end": 21.478
+    },
+    {
+     "w": "which",
+     "start": 21.478,
+     "end": 21.805
+    },
+    {
+     "w": "strengthens",
+     "start": 21.805,
+     "end": 22.431
+    },
+    {
+     "w": "it",
+     "start": 22.431,
+     "end": 22.608
+    },
+    {
+     "w": "even",
+     "start": 22.608,
+     "end": 22.883
+    },
+    {
+     "w": "more.",
+     "start": 22.883,
+     "end": 23.41
+    }
+   ]
+  },
+  {
+   "idx": 5,
+   "start": 23.527,
+   "end": 33.836,
+   "words": [
+    {
+     "w": "But",
+     "start": 23.527,
+     "end": 23.794
+    },
+    {
+     "w": "vivid",
+     "start": 23.794,
+     "end": 24.179
+    },
+    {
+     "w": "isn't",
+     "start": 24.179,
+     "end": 24.504
+    },
+    {
+     "w": "the",
+     "start": 24.504,
+     "end": 24.771
+    },
+    {
+     "w": "same",
+     "start": 24.771,
+     "end": 25.097
+    },
+    {
+     "w": "as",
+     "start": 25.097,
+     "end": 25.304
+    },
+    {
+     "w": "accurate.",
+     "start": 25.304,
+     "end": 26.164
+    },
+    {
+     "w": "After",
+     "start": 26.164,
+     "end": 26.549
+    },
+    {
+     "w": "9/11,",
+     "start": 26.549,
+     "end": 26.993
+    },
+    {
+     "w": "people",
+     "start": 26.993,
+     "end": 27.437
+    },
+    {
+     "w": "felt",
+     "start": 27.437,
+     "end": 27.764
+    },
+    {
+     "w": "certain",
+     "start": 27.764,
+     "end": 28.266
+    },
+    {
+     "w": "about",
+     "start": 28.266,
+     "end": 28.652
+    },
+    {
+     "w": "their",
+     "start": 28.652,
+     "end": 29.037
+    },
+    {
+     "w": "memories,",
+     "start": 29.037,
+     "end": 29.778
+    },
+    {
+     "w": "yet",
+     "start": 29.778,
+     "end": 30.045
+    },
+    {
+     "w": "details",
+     "start": 30.045,
+     "end": 30.547
+    },
+    {
+     "w": "drifted",
+     "start": 30.547,
+     "end": 31.051
+    },
+    {
+     "w": "over",
+     "start": 31.051,
+     "end": 31.378
+    },
+    {
+     "w": "time",
+     "start": 31.378,
+     "end": 31.703
+    },
+    {
+     "w": "while",
+     "start": 31.703,
+     "end": 32.088
+    },
+    {
+     "w": "confidence",
+     "start": 32.088,
+     "end": 32.77
+    },
+    {
+     "w": "stayed",
+     "start": 32.77,
+     "end": 33.214
+    },
+    {
+     "w": "high.",
+     "start": 33.214,
+     "end": 33.836
+    }
+   ]
+  },
+  {
+   "idx": 6,
+   "start": 33.953,
+   "end": 41.213,
+   "words": [
+    {
+     "w": "Next",
+     "start": 33.954,
+     "end": 34.259
+    },
+    {
+     "w": "time",
+     "start": 34.259,
+     "end": 34.563
+    },
+    {
+     "w": "it",
+     "start": 34.563,
+     "end": 34.757
+    },
+    {
+     "w": "replays,",
+     "start": 34.757,
+     "end": 35.395
+    },
+    {
+     "w": "tell",
+     "start": 35.395,
+     "end": 35.699
+    },
+    {
+     "w": "yourself:",
+     "start": 35.699,
+     "end": 36.391
+    },
+    {
+     "w": "that's",
+     "start": 36.391,
+     "end": 36.752
+    },
+    {
+     "w": "just",
+     "start": 36.752,
+     "end": 37.057
+    },
+    {
+     "w": "my",
+     "start": 37.057,
+     "end": 37.251
+    },
+    {
+     "w": "brain",
+     "start": 37.251,
+     "end": 37.611
+    },
+    {
+     "w": "tagging",
+     "start": 37.611,
+     "end": 38.082
+    },
+    {
+     "w": "it",
+     "start": 38.082,
+     "end": 38.275
+    },
+    {
+     "w": "important,",
+     "start": 38.275,
+     "end": 39.024
+    },
+    {
+     "w": "not",
+     "start": 39.024,
+     "end": 39.273
+    },
+    {
+     "w": "proof",
+     "start": 39.273,
+     "end": 39.634
+    },
+    {
+     "w": "anyone",
+     "start": 39.634,
+     "end": 40.05
+    },
+    {
+     "w": "else",
+     "start": 40.05,
+     "end": 40.354
+    },
+    {
+     "w": "remembers.",
+     "start": 40.354,
+     "end": 41.213
+    }
+   ]
+  },
+  {
+   "idx": 7,
+   "start": 41.331,
+   "end": 44.102,
+   "words": [
+    {
+     "w": "Then",
+     "start": 41.331,
+     "end": 41.595
+    },
+    {
+     "w": "shift",
+     "start": 41.595,
+     "end": 41.909
+    },
+    {
+     "w": "your",
+     "start": 41.909,
+     "end": 42.174
+    },
+    {
+     "w": "attention",
+     "start": 42.174,
+     "end": 42.68
+    },
+    {
+     "w": "to",
+     "start": 42.68,
+     "end": 42.848
+    },
+    {
+     "w": "something",
+     "start": 42.848,
+     "end": 43.355
+    },
+    {
+     "w": "absorbing.",
+     "start": 43.355,
+     "end": 44.102
+    }
+   ]
+  },
+  {
+   "idx": 8,
+   "start": 44.219,
+   "end": 48.51,
+   "words": [
+    {
+     "w": "Tomorrow:",
+     "start": 44.219,
+     "end": 44.843
+    },
+    {
+     "w": "the",
+     "start": 44.843,
+     "end": 45.067
+    },
+    {
+     "w": "strange",
+     "start": 45.067,
+     "end": 45.492
+    },
+    {
+     "w": "reason",
+     "start": 45.492,
+     "end": 45.865
+    },
+    {
+     "w": "almost",
+     "start": 45.865,
+     "end": 46.24
+    },
+    {
+     "w": "nobody",
+     "start": 46.24,
+     "end": 46.614
+    },
+    {
+     "w": "noticed",
+     "start": 46.614,
+     "end": 47.039
+    },
+    {
+     "w": "it",
+     "start": 47.039,
+     "end": 47.213
+    },
+    {
+     "w": "in",
+     "start": 47.213,
+     "end": 47.388
+    },
+    {
+     "w": "the",
+     "start": 47.388,
+     "end": 47.612
+    },
+    {
+     "w": "first",
+     "start": 47.612,
+     "end": 47.936
+    },
+    {
+     "w": "place.",
+     "start": 47.936,
+     "end": 48.51
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.39
+  },
+  {
+   "start": 2.39,
+   "end": 6.385
+  },
+  {
+   "start": 6.385,
+   "end": 12.832
+  },
+  {
+   "start": 12.832,
+   "end": 19.398
+  },
+  {
+   "start": 19.398,
+   "end": 23.527
+  },
+  {
+   "start": 23.527,
+   "end": 33.953
+  },
+  {
+   "start": 33.953,
+   "end": 41.331
+  },
+  {
+   "start": 41.331,
+   "end": 44.219
+  },
+  {
+   "start": 44.219,
+   "end": 49.095
+  }
+ ]
+}

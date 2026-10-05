@@ -1,0 +1,23 @@
+{
+ "day": 1,
+ "passed": true,
+ "issues": [],
+ "metrics": {
+  "duration": 49.1,
+  "resolution": "1080x1920",
+  "fps": "30/1",
+  "codec": "h264",
+  "speech_start": 0.05,
+  "speech_end": 48.5,
+  "caption_bbox": [
+   142,
+   1305,
+   933,
+   1486
+  ],
+  "peak_db": -1.9,
+  "voice_mean_db": -16.8,
+  "music_mean_db": -35.9,
+  "voice_over_music_db": 19.1
+ }
+}

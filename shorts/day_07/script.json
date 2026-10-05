@@ -1,0 +1,101 @@
+{
+  "day": 7,
+  "topic": "The Dunning-Kruger effect explained in 50 seconds",
+  "title": "Dunning-Kruger: What Everyone Gets Wrong",
+  "voiceover": "Do clueless people really think they're geniuses? In 1999, David Dunning and Justin Kruger tested people on logic, grammar, and humor. Those who scored lowest still guessed they'd done better than average. The idea: the skills you need to do something well are the same skills you need to judge it. Importantly, their finding was about specific skills, not general intelligence. But here's the catch. Some statisticians argue part of that famous pattern is a statistical artifact, and the popular 'Mount Stupid' graph isn't actually from the paper. So don't use it to label other people. Use it on yourself: when you're new at something, ask an experienced person to rate your work. Tomorrow: why that annoying song is playing in your head right now.",
+  "word_count": 125,
+  "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.74,
+      "section": "hook",
+      "narration_line": "Do clueless people really think they're geniuses?",
+      "on_screen_text": "Do they think they're geniuses?",
+      "visual_description": "Stickman wearing a paper crown looking proud.",
+      "visual_spec": "stand/smile/C; text:GENIUS?@R"
+    },
+    {
+      "start_sec": 2.74,
+      "end_sec": 8.23,
+      "section": "explanation",
+      "narration_line": "In 1999, David Dunning and Justin Kruger tested people on logic, grammar, and humor.",
+      "on_screen_text": "Dunning & Kruger, 1999",
+      "visual_description": "Quiz sheets labeled LOGIC, GRAMMAR, HUMOR.",
+      "visual_spec": "point/neutral/L; list:LOGIC,GRAMMAR,HUMOR@R"
+    },
+    {
+      "start_sec": 8.23,
+      "end_sec": 12.54,
+      "section": "explanation",
+      "narration_line": "Those who scored lowest still guessed they'd done better than average.",
+      "on_screen_text": "Lowest scorers guessed 'above average'",
+      "visual_description": "Two bars: low actual, higher guessed.",
+      "visual_spec": "stand/smile/L; bars:actual,guessed@R"
+    },
+    {
+      "start_sec": 12.54,
+      "end_sec": 19.99,
+      "section": "explanation",
+      "narration_line": "The idea: the skills you need to do something well are the same skills you need to judge it.",
+      "on_screen_text": "Doing and judging: same skill",
+      "visual_description": "Two linked gears labeled DO and JUDGE.",
+      "visual_spec": "think/neutral/L; text:DO + JUDGE@R"
+    },
+    {
+      "start_sec": 19.99,
+      "end_sec": 23.91,
+      "section": "explanation",
+      "narration_line": "Importantly, their finding was about specific skills, not general intelligence.",
+      "on_screen_text": "Specific skills, not IQ",
+      "visual_description": "Brain icon with a crossed-out 'IQ'.",
+      "visual_spec": "stand/neutral/L; brain:@R; cross@TR"
+    },
+    {
+      "start_sec": 23.91,
+      "end_sec": 34.5,
+      "section": "explanation",
+      "narration_line": "But here's the catch. Some statisticians argue part of that famous pattern is a statistical artifact, and the popular 'Mount Stupid' graph isn't actually from the paper.",
+      "on_screen_text": "The catch: it's debated",
+      "visual_description": "A hill-shaped graph stamped 'NOT IN THE PAPER'.",
+      "visual_spec": "shrug/neutral/L; lines:myth,real@R; text:DEBATED@TR"
+    },
+    {
+      "start_sec": 34.5,
+      "end_sec": 39.2,
+      "section": "takeaway",
+      "narration_line": "So don't use it to label other people. Use it on yourself:",
+      "on_screen_text": "Use it on yourself",
+      "visual_description": "Stickman pointing a finger at his own chest.",
+      "visual_spec": "point/smile/L; qmark@R"
+    },
+    {
+      "start_sec": 39.2,
+      "end_sec": 44.3,
+      "section": "takeaway",
+      "narration_line": "when you're new at something, ask an experienced person to rate your work.",
+      "on_screen_text": "Ask an expert to rate you",
+      "visual_description": "Stickman handing a paper to a bigger, experienced stickman.",
+      "visual_spec": "stand/smile/L; crowd:1@R; check@TR"
+    },
+    {
+      "start_sec": 44.3,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why that annoying song is playing in your head right now.",
+      "on_screen_text": "Tomorrow: your stuck song",
+      "visual_description": "Musical notes floating from the stickman's head.",
+      "visual_spec": "stand/neutral/L; notes@R; text:TOMORROW@TR"
+    }
+  ],
+  "description": "Do unskilled people really think they're geniuses? Not quite. Dunning and Kruger found that low performers on specific tasks overestimated their performance, but the popular version of the story is oversimplified. Source: Kruger & Dunning (1999), 'Unskilled and unaware of it', Journal of Personality and Social Psychology.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#dunningkruger",
+    "#cognitivebias",
+    "#psychologyfacts",
+    "#selfawareness"
+  ],
+  "accuracy_note": "Disputed/oversimplified: critics argue part of the classic pattern can arise from statistical effects (regression to the mean and the better-than-average effect). The popular 'Mount Stupid' curve does not appear in the original paper. The finding concerns specific skills, not general intelligence."
+}
