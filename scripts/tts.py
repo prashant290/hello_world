@@ -145,6 +145,15 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
     return out
 
 
+SPOKEN = {"9/11": "nine eleven"}    # written form -> how it should be pronounced
+
+
+def speak(text):
+    for k, v in SPOKEN.items():
+        text = text.replace(k, v)
+    return text
+
+
 def build(day, engine=None):
     cfg = config()["tts"]
     engine = engine or cfg["engine"]
