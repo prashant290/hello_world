@@ -6,3 +6,4 @@ build/
 videos/*.mp4
 *.zip
 __pycache__/
+delivery/
