@@ -32,7 +32,7 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
   look at extracted frames and check audio before showing anything.
 - Voice: Kokoro `am_michael` (free, offline). Model files are not in git: download links in `channel_kit/config.json` (tts.kokoro._download) -> `channel_kit/voices/`.
   Pronunciation fixes live in `src/tts.py` (SPOKEN dict, e.g. "9/11" -> "nine eleven").
-- Look: hand-drawn stickman + 3-frame boil, palette from `channel_kit/config.json` (sage bg, navy ink, orange accent). Logo = recreation (`src/make_logo.py`); owner can drop in the real `channel_kit/logo.png`.
+- Look: hand-drawn stickman + 3-frame boil, palette from `channel_kit/config.json` (sage bg, navy ink, orange accent). Logo = the owner's real mark (`channel_kit/logo.png`, supplied 2026-10-05; the old recreation is `logo_recreated_old.png`, made by `src/make_logo.py`).
 - Git: push to branch `claude/youtube-shorts-psychology-fq5fjx` (GitHub access works via `git push`; if 403, `add_repo` with access=push then retry).
 - No YouTube upload from the sandbox (needs the owner's Google credentials + network). Upload is manual or an optional script only if the owner confirms.
 
@@ -42,7 +42,7 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
   (frames of every video inspected; audio transcribed offline and matched to the script, similarity 0.60-0.81; durations 49.0-49.5 s; peaks <= -1.6 dB; voice 18+ dB over music).
   Titles/descriptions/hashtags/thumbnails for Days 1-30: `channel_kit/upload_metadata.csv`, `videos/thumbnails/`.
 - **Not started:** scripts for Days 31-90. Topics are fixed in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence (web search) when scripting. Month 2 starts with Day 31 (mimicry: Chartrand & Bargh 1999; Maddux et al. 2008).
-- **Needs the owner:** (a) posting time + timezone, (b) the real logo file (current logo is a recreation), (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
+- **Needs the owner:** (a) posting time + timezone, (b) —(logo received and applied), (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
 - **Known limits:** voice is Kokoro am_michael (good, not human); word timings come from audio energy (no ASR); sources were checked through web-search summaries of abstracts/publisher pages (each source's `verified` note says which; a few figures rest on secondary summaries and are flagged in that day's caveats); the offline recognizer used for audio checks is weak (similarity 0.6+ means the right words are spoken).
 - **Lessons learned (apply to Days 31-90):**
   1. Titles, thumbnails, descriptions and on-screen text are claims too — hedge contested ones, prefer questions. Never claim what stores/marketers do without a source.
