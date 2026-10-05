@@ -111,57 +111,38 @@ def find_gaps(a, sr, thresh=0.01, min_gap=0.09):
 
 
 def estimate_words(tokens, dur, audio=None, sr=44100):
-    """Word timings by letter count within phrases. Phrase breaks (at , ; : . ? !) are snapped to the
-    real silences found in the audio, so captions never sit over a pause."""
+    """Word timings placed only on stretches where the voice is actually speaking.
+    Word boundaries are mapped onto the cumulative *speech-active* time axis (weighted by letter count),
+    so no word can land inside a pause. Falls back to a plain proportional split without audio."""
     weight = lambda t: len(re.sub(r"\W", "", t)) + 1.5
-    breaks = [i for i, t in enumerate(tokens[:-1]) if t[-1] in ",;:.?!"]
-    gaps = find_gaps(audio, sr) if audio is not None else []
-    if breaks and gaps:
-        cum, tot_w, exp = 0.0, sum(weight(t) for t in tokens), []
-        for i, t in enumerate(tokens):
-            cum += weight(t)
-            if i in breaks:
-                exp.append(cum / tot_w * dur)
-        chosen, used = [], set()
-        for e in exp:                                   # nearest unused silence to each expected break
-            cand = [(abs((g[0] + g[1]) / 2 - e), k) for k, g in enumerate(gaps) if k not in used]
-            if not cand:
-                chosen = None
-                break
-            _, k = min(cand)
-            used.add(k); chosen.append(gaps[k])
-        if chosen:
-            chosen.sort()
-            spans, prev = [], 0.0
-            for g in chosen:
-                spans.append((prev, g[0])); prev = g[1]
-            spans.append((prev, dur))
-            cuts = [0] + [i + 1 for i in breaks] + [len(tokens)]
-            ok = all((s1 - s0) >= 0.12 * (c1 - c0) for (s0, s1), (c0, c1) in zip(spans, zip(cuts, cuts[1:])))
-            if ok:
-                out = []
-                for (s0, s1), (c0, c1) in zip(spans, zip(cuts, cuts[1:])):
-                    ph = tokens[c0:c1]
-                    tw, acc = sum(weight(t) for t in ph), 0.0
-                    for t in ph:
-                        out.append((t, s0 + acc / tw * (s1 - s0), s0 + (acc + weight(t)) / tw * (s1 - s0)))
-                        acc += weight(t)
-                return out
     w = [weight(t) for t in tokens]
-    tot, acc, out = sum(w), 0.0, []
-    for t, x in zip(tokens, w):
-        out.append((t, acc / tot * dur, (acc + x) / tot * dur))
-        acc += x
+    tot = sum(w)
+    cumw = np.concatenate([[0], np.cumsum(w)]) / tot
+    if audio is None or len(audio) < sr * 0.2:
+        return [(t, cumw[i] * dur, cumw[i + 1] * dur) for i, t in enumerate(tokens)]
+    hop = int(0.01 * sr)
+    n = len(audio) // hop
+    act = np.sqrt((audio[:n * hop].reshape(n, hop) ** 2).mean(axis=1)) > 0.01
+    i = 0
+    while i < n:                                   # treat gaps shorter than 80 ms as speech
+        if not act[i]:
+            j = i
+            while j < n and not act[j]:
+                j += 1
+            if j - i < 8 and i > 0 and j < n:
+                act[i:j] = True
+            i = j
+        else:
+            i += 1
+    cum = np.cumsum(act)
+    total = cum[-1]
+    out = []
+    for k, t in enumerate(tokens):
+        p0, p1 = cumw[k] * total, cumw[k + 1] * total
+        s = np.searchsorted(cum, p0, side="right") / 100          # first active frame after p0
+        e = (np.searchsorted(cum, max(p1, 1e-9), side="left") + 1) / 100
+        out.append((t, min(s, dur), min(max(e, s + 0.05), dur)))
     return out
-
-
-SPOKEN = {"9/11": "nine eleven"}    # written form -> how it should be pronounced
-
-
-def speak(text):
-    for k, v in SPOKEN.items():
-        text = text.replace(k, v)
-    return text
 
 
 def build(day, engine=None):
