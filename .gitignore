@@ -9,3 +9,5 @@ __pycache__/
 assets/music/*.wav
 assets/voices/*.onnx
 assets/voices/*.bin
+output/voice_samples/
+output/*.zip
