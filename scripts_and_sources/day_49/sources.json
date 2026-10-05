@@ -1,0 +1,193 @@
+{
+  "day": 49,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do we blame a person's character for what a situation caused?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1967, Edward Jones and Victor Harris had students read essays about Fidel Castro's Cuba.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Some were told the writers chose their positions freely.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Others were told the writers had been assigned them.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Readers inferred the writers' attitudes from the essays.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Even when the position was assigned, readers still saw some of that attitude in the writer.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "In 1977, Lee Ross named this tendency the fundamental attribution error.",
+      "cites": [
+        "ross1977"
+      ],
+      "sources": [
+        {
+          "id": "ross1977",
+          "authors": "Ross, L.",
+          "year": 1977,
+          "title": "The intuitive psychologist and his shortcomings: Distortions in the attribution process",
+          "venue": "Advances in Experimental Social Psychology, 10, 173-220",
+          "url": "https://doi.org/10.1016/S0065-2601(08)60357-3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (coined 'fundamental attribution error')"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It is the tendency to explain behavior by character and underestimate the situation.",
+      "cites": [
+        "ross1977"
+      ],
+      "sources": [
+        {
+          "id": "ross1977",
+          "authors": "Ross, L.",
+          "year": 1977,
+          "title": "The intuitive psychologist and his shortcomings: Distortions in the attribution process",
+          "venue": "Advances in Experimental Social Psychology, 10, 173-220",
+          "url": "https://doi.org/10.1016/S0065-2601(08)60357-3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (coined 'fundamental attribution error')"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "The original studies used student readers in a laboratory.",
+      "cites": [
+        "jones1967"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So we may read a person's behavior as who they are, even when the situation explains it.",
+      "cites": [
+        "jones1967",
+        "ross1977"
+      ],
+      "sources": [
+        {
+          "id": "jones1967",
+          "authors": "Jones, E. E., & Harris, V. A.",
+          "year": 1967,
+          "title": "The attribution of attitudes",
+          "venue": "Journal of Experimental Social Psychology, 3(1), 1-24",
+          "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (Castro essays; attitudes inferred even when position was assigned)"
+        },
+        {
+          "id": "ross1977",
+          "authors": "Ross, L.",
+          "year": 1977,
+          "title": "The intuitive psychologist and his shortcomings: Distortions in the attribution process",
+          "venue": "Advances in Experimental Social Psychology, 10, 173-220",
+          "url": "https://doi.org/10.1016/S0065-2601(08)60357-3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (coined 'fundamental attribution error')"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do opposites really attract?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

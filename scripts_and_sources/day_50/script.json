@@ -1,0 +1,127 @@
+{
+  "day": 50,
+  "topic": "Do opposites attract? Similarity and attraction",
+  "title": "Do Opposites Attract? What 313 Studies Found",
+  "voiceover": "Do opposites really attract? In 2008, Montoya, Horton and Kirchner combined 313 studies on similarity and attraction. They compared actual similarity, meaning real shared traits, with perceived similarity, meaning what people believe they share. Perceived similarity predicted attraction more strongly than actual similarity did. The effect of actual similarity was large overall. But it depended on whether the people had actually interacted. So in this analysis, believing you're alike may matter at least as much as actually being alike. This research measured similarity and attraction, not every kind of difference. Meta-analyses summarize many studies, and their conclusions depend on which studies were included. So in this research, feeling similar went with liking more than actually being similar did. Tomorrow: does using someone's name make them more likely to say yes?",
+  "word_count": 130,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 1.51,
+      "section": "hook",
+      "narration_line": "Do opposites really attract?",
+      "on_screen_text": "Do opposites attract?",
+      "visual_description": "Two magnets.",
+      "visual_spec": "think/neutral/C; magnet@R"
+    },
+    {
+      "start_sec": 1.51,
+      "end_sec": 6.41,
+      "section": "explanation",
+      "narration_line": "In 2008, Montoya, Horton and Kirchner combined 313 studies on similarity and attraction.",
+      "on_screen_text": "2008: 313 studies combined",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:2008@TR; numbers:313@R"
+    },
+    {
+      "start_sec": 6.41,
+      "end_sec": 12.82,
+      "section": "explanation",
+      "narration_line": "They compared actual similarity, meaning real shared traits, with perceived similarity, meaning what people believe they share.",
+      "on_screen_text": "Actual vs perceived similarity",
+      "visual_description": "Two cards.",
+      "visual_spec": "point/neutral/L; list:ACTUAL,PERCEIVED@R"
+    },
+    {
+      "start_sec": 12.82,
+      "end_sec": 16.58,
+      "section": "explanation",
+      "narration_line": "Perceived similarity predicted attraction more strongly than actual similarity did.",
+      "on_screen_text": "Perceived beat actual",
+      "visual_description": "Taller bar for perceived.",
+      "visual_spec": "stand/smile/L; bars:actual=h40,perceived=h70@R"
+    },
+    {
+      "start_sec": 16.58,
+      "end_sec": 19.6,
+      "section": "explanation",
+      "narration_line": "The effect of actual similarity was large overall.",
+      "on_screen_text": "Actual similarity: large overall",
+      "visual_description": "Tall bar.",
+      "visual_spec": "stand/neutral/L; bars:actual=h70@R"
+    },
+    {
+      "start_sec": 19.6,
+      "end_sec": 23.37,
+      "section": "explanation",
+      "narration_line": "But it depended on whether the people had actually interacted.",
+      "on_screen_text": "But it depended on interaction",
+      "visual_description": "Two stickmen talking.",
+      "visual_spec": "think/neutral/L; crowd:1@R; qmark@TR"
+    },
+    {
+      "start_sec": 23.37,
+      "end_sec": 29.78,
+      "section": "explanation",
+      "narration_line": "So in this analysis, believing you're alike may matter at least as much as actually being alike.",
+      "on_screen_text": "Feeling alike may matter",
+      "visual_description": "Thought bubble: 'we're alike'.",
+      "visual_spec": "stand/smile/L; bubble:we're alike@TR"
+    },
+    {
+      "start_sec": 29.78,
+      "end_sec": 33.92,
+      "section": "explanation",
+      "narration_line": "This research measured similarity and attraction, not every kind of difference.",
+      "on_screen_text": "Similarity only, not all differences",
+      "visual_description": "Scale.",
+      "visual_spec": "shrug/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 33.92,
+      "end_sec": 38.82,
+      "section": "explanation",
+      "narration_line": "Meta-analyses summarize many studies, and their conclusions depend on which studies were included.",
+      "on_screen_text": "A summary of studies",
+      "visual_description": "Papers.",
+      "visual_spec": "shrug/neutral/L; text:SUMMARY@R"
+    },
+    {
+      "start_sec": 38.82,
+      "end_sec": 44.48,
+      "section": "takeaway",
+      "narration_line": "So in this research, feeling similar went with liking more than actually being similar did.",
+      "on_screen_text": "Feeling similar went with liking",
+      "visual_description": "Stickman with a heart.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 44.48,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does using someone's name make them more likely to say yes?",
+      "on_screen_text": "Tomorrow: using someone's name",
+      "visual_description": "Name tag.",
+      "visual_spec": "stand/neutral/L; tag:HELLO@R"
+    }
+  ],
+  "description": "Do opposites attract? A meta-analysis of 313 studies found perceived similarity predicted attraction more strongly than actual similarity, and the effect of actual similarity depended on whether people had interacted. New psychology short every day on The Psyche Discourse. Source: Montoya, R. M., Horton, R. S., & Kirchner, J. (2008). Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity. Journal of Social and Personal Relationships, 25(6), 889-922.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#attraction",
+    "#relationships",
+    "#similarity",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The video reports the meta-analysis conclusions about similarity (perceived vs actual) and does not claim to settle every kind of difference. The details of the interaction moderator are stated loosely, as in the abstract.",
+  "thumbnail": {
+    "lines": [
+      "DO OPPOSITES",
+      "ATTRACT?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

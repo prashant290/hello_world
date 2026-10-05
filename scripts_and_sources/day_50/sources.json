@@ -1,0 +1,183 @@
+{
+  "day": 50,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do opposites really attract?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2008, Montoya, Horton and Kirchner combined 313 studies on similarity and attraction.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They compared actual similarity, meaning real shared traits, with perceived similarity, meaning what people believe they share.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Perceived similarity predicted attraction more strongly than actual similarity did.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "The effect of actual similarity was large overall.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "But it depended on whether the people had actually interacted.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "So in this analysis, believing you're alike may matter at least as much as actually being alike.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "This research measured similarity and attraction, not every kind of difference.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Meta-analyses summarize many studies, and their conclusions depend on which studies were included.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So in this research, feeling similar went with liking more than actually being similar did.",
+      "cites": [
+        "montoya2008"
+      ],
+      "sources": [
+        {
+          "id": "montoya2008",
+          "authors": "Montoya, R. M., Horton, R. S., & Kirchner, J.",
+          "year": 2008,
+          "title": "Is actual similarity necessary for attraction? A meta-analysis of actual and perceived similarity",
+          "venue": "Journal of Social and Personal Relationships, 25(6), 889-922",
+          "url": "https://doi.org/10.1177/0265407508096700",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (313 studies; perceived > actual similarity; actual effect depended on interaction)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: does using someone's name make them more likely to say yes?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

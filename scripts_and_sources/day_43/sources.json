@@ -1,0 +1,183 @@
+{
+  "day": 43,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do first impressions really form in a tenth of a second?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Other people saw the faces for 500 milliseconds or a full second.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "They rated traits like trustworthiness and competence.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Judgments after 100 milliseconds correlated with judgments made with no time limit.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Extra viewing time did not significantly raise that correlation.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "It did make people more confident in their ratings.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Judgments were also more negative at 500 milliseconds than at 100.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Agreement between ratings is not accuracy, and the study did not test whether the faces really had those traits.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So snap judgments form fast, but this study doesn't show they're right.",
+      "cites": [
+        "willis2006"
+      ],
+      "sources": [
+        {
+          "id": "willis2006",
+          "authors": "Willis, J., & Todorov, A.",
+          "year": 2006,
+          "title": "First impressions: Making up your mind after a 100-ms exposure to a face",
+          "venue": "Psychological Science, 17(7), 592-598",
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100-ms judgments correlated with unlimited-time judgments; more time raised confidence, not correlations significantly)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: do a teacher's expectations change how students perform?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

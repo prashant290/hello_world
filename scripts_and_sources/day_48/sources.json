@@ -1,0 +1,183 @@
+{
+  "day": 48,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does getting a small favor make us want to give something back?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1971, Dennis Regan ran an experiment in which people rated paintings.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Later, Joe asked participants to buy raffle tickets.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Participants who got the favor bought more tickets than those who did not.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "This held even when they said they didn't like Joe.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Regan linked the result to a norm of reciprocity: we feel we should repay.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "It was one laboratory experiment.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "Applying it to free samples in stores is an extension, not something this study tested.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So a small favor may create a pull to repay, even toward someone you don't like.",
+      "cites": [
+        "regan1971"
+      ],
+      "sources": [
+        {
+          "id": "regan1971",
+          "authors": "Regan, D. T.",
+          "year": 1971,
+          "title": "Effects of a favor and liking on compliance",
+          "venue": "Journal of Experimental Social Psychology, 7(6), 627-639",
+          "url": "https://doi.org/10.1016/0022-1031(71)90025-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Coke favor; more raffle tickets even when the giver was not liked)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why do we judge other people's character but explain away our own behavior?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

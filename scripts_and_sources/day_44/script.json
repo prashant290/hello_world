@@ -1,0 +1,127 @@
+{
+  "day": 44,
+  "topic": "The Pygmalion effect: do expectations shape people?",
+  "title": "The Pygmalion Effect: Do Expectations Shape Students?",
+  "voiceover": "Can a teacher's expectations change how a student performs? In 1968, Robert Rosenthal and Lenore Jacobson told teachers that some students were about to show unusual intellectual growth. Those students had actually been chosen at random. The authors reported bigger IQ gains for some of them, especially in the first two grades. Early critics argued the IQ test was inappropriate for first and second graders. In 2005, Lee Jussim and Kent Harber reviewed decades of research on teacher expectations. They concluded that self-fulfilling prophecies in classrooms do occur. But the effects are typically small. And they don't appear to accumulate over time. So expectations can nudge outcomes, but not as powerfully as the famous story suggests. Tomorrow: why do likes feel so rewarding?",
+  "word_count": 123,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.59,
+      "section": "hook",
+      "narration_line": "Can a teacher's expectations change how a student performs?",
+      "on_screen_text": "Do expectations matter?",
+      "visual_description": "Teacher and student.",
+      "visual_spec": "think/neutral/C; crowd:1@R"
+    },
+    {
+      "start_sec": 3.59,
+      "end_sec": 11.15,
+      "section": "explanation",
+      "narration_line": "In 1968, Robert Rosenthal and Lenore Jacobson told teachers that some students were about to show unusual intellectual growth.",
+      "on_screen_text": "1968: 'these students will bloom'",
+      "visual_description": "Flower above a student.",
+      "visual_spec": "point/neutral/L; text:1968@TR; text:BLOOM@R"
+    },
+    {
+      "start_sec": 11.15,
+      "end_sec": 14.34,
+      "section": "explanation",
+      "narration_line": "Those students had actually been chosen at random.",
+      "on_screen_text": "They were picked at random",
+      "visual_description": "Dice.",
+      "visual_spec": "shrug/neutral/L; wheel@R"
+    },
+    {
+      "start_sec": 14.34,
+      "end_sec": 20.72,
+      "section": "explanation",
+      "narration_line": "The authors reported bigger IQ gains for some of them, especially in the first two grades.",
+      "on_screen_text": "Reported IQ gains",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:others=h35,'bloomers'=h60@R"
+    },
+    {
+      "start_sec": 20.72,
+      "end_sec": 25.89,
+      "section": "explanation",
+      "narration_line": "Early critics argued the IQ test was inappropriate for first and second graders.",
+      "on_screen_text": "Critics: wrong test for age",
+      "visual_description": "Test sheet with a question mark.",
+      "visual_spec": "shrug/worry/L; qmark@R"
+    },
+    {
+      "start_sec": 25.89,
+      "end_sec": 31.47,
+      "section": "explanation",
+      "narration_line": "In 2005, Lee Jussim and Kent Harber reviewed decades of research on teacher expectations.",
+      "on_screen_text": "2005: a review of the research",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:2005@TR; text:REVIEW@R"
+    },
+    {
+      "start_sec": 31.47,
+      "end_sec": 35.06,
+      "section": "explanation",
+      "narration_line": "They concluded that self-fulfilling prophecies in classrooms do occur.",
+      "on_screen_text": "Self-fulfilling prophecies occur",
+      "visual_description": "Check mark.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 35.06,
+      "end_sec": 37.45,
+      "section": "explanation",
+      "narration_line": "But the effects are typically small.",
+      "on_screen_text": "But typically small",
+      "visual_description": "Short bar.",
+      "visual_spec": "shrug/neutral/L; bars:effect=h20@R"
+    },
+    {
+      "start_sec": 37.45,
+      "end_sec": 40.63,
+      "section": "explanation",
+      "narration_line": "And they don't appear to accumulate over time.",
+      "on_screen_text": "And don't seem to accumulate",
+      "visual_description": "Flat line.",
+      "visual_spec": "point/neutral/L; lines:effect,years,flat@R"
+    },
+    {
+      "start_sec": 40.63,
+      "end_sec": 46.21,
+      "section": "takeaway",
+      "narration_line": "So expectations can nudge outcomes, but not as powerfully as the famous story suggests.",
+      "on_screen_text": "A nudge, not a transformation",
+      "visual_description": "Stickman with a small arrow.",
+      "visual_spec": "stand/neutral/L; arrow@R"
+    },
+    {
+      "start_sec": 46.21,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do likes feel so rewarding?",
+      "on_screen_text": "Tomorrow: why likes feel good",
+      "visual_description": "Heart.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Can a teacher's expectations change a student's results? The famous 1968 study reported IQ gains, critics questioned its test, and a later review found classroom expectation effects are real but typically small. New psychology short every day on The Psyche Discourse. Source: Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. Holt, Rinehart & Winston (book). Source: Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9(2), 131-155.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#pygmalioneffect",
+    "#education",
+    "#expectations",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The Rosenthal & Jacobson design and critiques come from several consistent secondary summaries of the book. The 2005 review (Jussim & Harber) is the stronger evidence for 'real but small, not cumulative'. The video does not claim expectations transform students.",
+  "thumbnail": {
+    "lines": [
+      "DO EXPECTATIONS",
+      "SHAPE STUDENTS?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

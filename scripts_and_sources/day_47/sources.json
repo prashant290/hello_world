@@ -1,0 +1,211 @@
+{
+  "day": 47,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do some people stay in relationships that hurt?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1980, Caryl Rusbult proposed the investment model of commitment.",
+      "cites": [
+        "rusbult1980"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1980",
+          "authors": "Rusbult, C. E.",
+          "year": 1980,
+          "title": "Commitment and satisfaction in romantic associations: A test of the investment model",
+          "venue": "Journal of Experimental Social Psychology, 16(2), 172-186",
+          "url": "https://doi.org/10.1016/0022-1031(80)90007-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (investment model: satisfaction, alternatives, investments)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "It says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
+      "cites": [
+        "rusbult1980"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1980",
+          "authors": "Rusbult, C. E.",
+          "year": 1980,
+          "title": "Commitment and satisfaction in romantic associations: A test of the investment model",
+          "venue": "Journal of Experimental Social Psychology, 16(2), 172-186",
+          "url": "https://doi.org/10.1016/0022-1031(80)90007-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (investment model: satisfaction, alternatives, investments)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Investments are resources tied to the relationship.",
+      "cites": [
+        "rusbult1980"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1980",
+          "authors": "Rusbult, C. E.",
+          "year": 1980,
+          "title": "Commitment and satisfaction in romantic associations: A test of the investment model",
+          "venue": "Journal of Experimental Social Psychology, 16(2), 172-186",
+          "url": "https://doi.org/10.1016/0022-1031(80)90007-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (investment model: satisfaction, alternatives, investments)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "In 1995, Rusbult and Martz studied one hundred women at shelters for abused women.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Their commitment was greater when they had poorer alternatives.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "And when they had higher investments in the relationship.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "And when they reported less abuse.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "The authors called this nonvoluntary dependence: leaving is hard when options are limited.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "This describes constraints in a study, not blame for anyone who stays.",
+      "cites": [
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So research on staying points to limited alternatives and heavy investments, not simple weakness.",
+      "cites": [
+        "rusbult1980",
+        "rusbult1995"
+      ],
+      "sources": [
+        {
+          "id": "rusbult1980",
+          "authors": "Rusbult, C. E.",
+          "year": 1980,
+          "title": "Commitment and satisfaction in romantic associations: A test of the investment model",
+          "venue": "Journal of Experimental Social Psychology, 16(2), 172-186",
+          "url": "https://doi.org/10.1016/0022-1031(80)90007-4",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (investment model: satisfaction, alternatives, investments)"
+        },
+        {
+          "id": "rusbult1995",
+          "authors": "Rusbult, C. E., & Martz, J. M.",
+          "year": 1995,
+          "title": "Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence",
+          "venue": "Personality and Social Psychology Bulletin, 21(6), 558-571",
+          "url": "https://doi.org/10.1177/0146167295216002",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (100 women in shelters; commitment higher with poorer alternatives, higher investments, less reported abuse)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: why does a free sample make us want to give something back?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "day": 48,
+  "topic": "The reciprocity rule: why favors and free samples work",
+  "title": "The Reciprocity Rule: Why Favors Create Debts",
+  "voiceover": "Does getting a small favor make us want to give something back? In 1971, Dennis Regan ran an experiment in which people rated paintings. During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant. Later, Joe asked participants to buy raffle tickets. Participants who got the favor bought more tickets than those who did not. This held even when they said they didn't like Joe. Regan linked the result to a norm of reciprocity: we feel we should repay. It was one laboratory experiment. Applying it to free samples in stores is an extension, not something this study tested. So a small favor may create a pull to repay, even toward someone you don't like. Tomorrow: why do we judge other people's character but explain away our own behavior?",
+  "word_count": 136,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.32,
+      "section": "hook",
+      "narration_line": "Does getting a small favor make us want to give something back?",
+      "on_screen_text": "Do favors create debts?",
+      "visual_description": "Gift box.",
+      "visual_spec": "think/neutral/C; text:FAVOR@R"
+    },
+    {
+      "start_sec": 4.32,
+      "end_sec": 8.65,
+      "section": "explanation",
+      "narration_line": "In 1971, Dennis Regan ran an experiment in which people rated paintings.",
+      "on_screen_text": "1971: rating paintings",
+      "visual_description": "Painting.",
+      "visual_spec": "stand/neutral/L; text:1971@TR; text:PAINTINGS@R"
+    },
+    {
+      "start_sec": 8.65,
+      "end_sec": 14.77,
+      "section": "explanation",
+      "narration_line": "During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant.",
+      "on_screen_text": "Joe brings a Coke",
+      "visual_description": "Soda bottle.",
+      "visual_spec": "point/smile/L; text:COKE@R"
+    },
+    {
+      "start_sec": 14.77,
+      "end_sec": 17.65,
+      "section": "explanation",
+      "narration_line": "Later, Joe asked participants to buy raffle tickets.",
+      "on_screen_text": "Later: 'buy raffle tickets?'",
+      "visual_description": "Ticket.",
+      "visual_spec": "stand/neutral/L; tag:RAFFLE@R"
+    },
+    {
+      "start_sec": 17.65,
+      "end_sec": 22.34,
+      "section": "explanation",
+      "narration_line": "Participants who got the favor bought more tickets than those who did not.",
+      "on_screen_text": "Favor: more tickets bought",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:no favor=h35,favor=h70@R"
+    },
+    {
+      "start_sec": 22.34,
+      "end_sec": 25.94,
+      "section": "explanation",
+      "narration_line": "This held even when they said they didn't like Joe.",
+      "on_screen_text": "Even if they didn't like him",
+      "visual_description": "Frown beside ticket.",
+      "visual_spec": "shock/worry/L; text:DISLIKED@R"
+    },
+    {
+      "start_sec": 25.94,
+      "end_sec": 30.99,
+      "section": "explanation",
+      "narration_line": "Regan linked the result to a norm of reciprocity: we feel we should repay.",
+      "on_screen_text": "Norm of reciprocity",
+      "visual_description": "Two-way arrow.",
+      "visual_spec": "think/neutral/L; arrow@R"
+    },
+    {
+      "start_sec": 30.99,
+      "end_sec": 32.79,
+      "section": "explanation",
+      "narration_line": "It was one laboratory experiment.",
+      "on_screen_text": "One lab experiment",
+      "visual_description": "Single card.",
+      "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
+    },
+    {
+      "start_sec": 32.79,
+      "end_sec": 38.19,
+      "section": "explanation",
+      "narration_line": "Applying it to free samples in stores is an extension, not something this study tested.",
+      "on_screen_text": "Free samples: not tested here",
+      "visual_description": "Cross.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 38.19,
+      "end_sec": 43.96,
+      "section": "takeaway",
+      "narration_line": "So a small favor may create a pull to repay, even toward someone you don't like.",
+      "on_screen_text": "A pull to repay",
+      "visual_description": "Stickman with a gift.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 43.96,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do we judge other people's character but explain away our own behavior?",
+      "on_screen_text": "Tomorrow: judging others",
+      "visual_description": "Magnifier.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    }
+  ],
+  "description": "Does a small favor make us want to repay it? In a 1971 experiment, people who got a free Coke later bought more raffle tickets from the giver, even when they said they didn't like him. New psychology short every day on The Psyche Discourse. Source: Regan, D. T. (1971). Effects of a favor and liking on compliance. Journal of Experimental Social Psychology, 7(6), 627-639.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#reciprocity",
+    "#persuasion",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "One 1971 laboratory experiment. Applying it to free samples is an extension, and the video says so rather than claiming stores use it.",
+  "thumbnail": {
+    "lines": [
+      "FAVORS CREATE",
+      "DEBTS?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

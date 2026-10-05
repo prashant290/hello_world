@@ -1,0 +1,211 @@
+{
+  "day": 42,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Does asking for too much first make people agree to less?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1975, Robert Cialdini and colleagues tested what they called the door-in-the-face technique.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "The idea: make a large request first, then a smaller one.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Across their experiments, they approached 202 passersby.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "About half agreed to the small request after refusing the large one.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "Only 17 percent agreed when asked the small request alone.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Their explanation was reciprocal concessions: you backed down, so I'll meet you halfway.",
+      "cites": [
+        "cialdini1975"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In 1984, Dillard and colleagues combined many studies in a meta-analysis.",
+      "cites": [
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "They found the average effect was small.",
+      "cites": [
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "It also depended on factors such as whether the request was for a good cause.",
+      "cites": [
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So asking big then small can work, but the average effect is small.",
+      "cites": [
+        "cialdini1975",
+        "dillard1984"
+      ],
+      "sources": [
+        {
+          "id": "cialdini1975",
+          "authors": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L.",
+          "year": 1975,
+          "title": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+          "venue": "Journal of Personality and Social Psychology, 31(2), 206-215",
+          "url": "https://doi.org/10.1037/h0076284",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (three experiments, 202 passersby; 50% vs 17% small-request-only and 25% in another control)"
+        },
+        {
+          "id": "dillard1984",
+          "authors": "Dillard, J. P., Hunter, J. E., & Burgoon, M.",
+          "year": 1984,
+          "title": "Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face",
+          "venue": "Human Communication Research, 10(4), 461-488",
+          "url": "https://www.simplypsychology.org/compliance.html",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (effects small: r = .17 and .15; moderated by prosocial requests)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: do first impressions really form in a tenth of a second?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

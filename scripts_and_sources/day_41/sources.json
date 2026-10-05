@@ -1,0 +1,193 @@
+{
+  "day": 41,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Do we really copy the crowd, even over hotel towels?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2008, Noah Goldstein, Robert Cialdini and Vladas Griskevicius ran field experiments in a hotel.",
+      "cites": [
+        "goldstein2008"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Guests saw a card asking them to reuse their towels.",
+      "cites": [
+        "goldstein2008"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "A card saying most guests reuse their towels worked better than the standard environmental message.",
+      "cites": [
+        "goldstein2008"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "A message about guests who stayed in that very room did better still.",
+      "cites": [
+        "goldstein2008"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "The researchers took this as a sign that people follow what similar others do.",
+      "cites": [
+        "goldstein2008"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "But in 2014, Gerd Bohner and Lisa Schluter tried the idea in German hotels.",
+      "cites": [
+        "bohner2014"
+      ],
+      "sources": [
+        {
+          "id": "bohner2014",
+          "authors": "Bohner, G., & Schluter, L. E.",
+          "year": 2014,
+          "title": "A room with a viewpoint revisited: Descriptive norms and hotel guests' towel reuse behavior",
+          "venue": "PLOS ONE, 9(8), e104086",
+          "url": "https://doi.org/10.1371/journal.pone.0104086",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (German hotels; both messages beat no message; norm message not more effective than the standard message)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Both messages beat no message at all.",
+      "cites": [
+        "bohner2014"
+      ],
+      "sources": [
+        {
+          "id": "bohner2014",
+          "authors": "Bohner, G., & Schluter, L. E.",
+          "year": 2014,
+          "title": "A room with a viewpoint revisited: Descriptive norms and hotel guests' towel reuse behavior",
+          "venue": "PLOS ONE, 9(8), e104086",
+          "url": "https://doi.org/10.1371/journal.pone.0104086",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (German hotels; both messages beat no message; norm message not more effective than the standard message)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "But the norm message was not more effective than the standard one.",
+      "cites": [
+        "bohner2014"
+      ],
+      "sources": [
+        {
+          "id": "bohner2014",
+          "authors": "Bohner, G., & Schluter, L. E.",
+          "year": 2014,
+          "title": "A room with a viewpoint revisited: Descriptive norms and hotel guests' towel reuse behavior",
+          "venue": "PLOS ONE, 9(8), e104086",
+          "url": "https://doi.org/10.1371/journal.pone.0104086",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (German hotels; both messages beat no message; norm message not more effective than the standard message)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So social proof may nudge people, but this famous towel result is not guaranteed to hold.",
+      "cites": [
+        "goldstein2008",
+        "bohner2014"
+      ],
+      "sources": [
+        {
+          "id": "goldstein2008",
+          "authors": "Goldstein, N. J., Cialdini, R. B., & Griskevicius, V.",
+          "year": 2008,
+          "title": "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels",
+          "venue": "Journal of Consumer Research, 35(3), 472-482",
+          "url": "https://doi.org/10.1086/586910",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (descriptive-norm message beat the standard message; room-specific message did better still)"
+        },
+        {
+          "id": "bohner2014",
+          "authors": "Bohner, G., & Schluter, L. E.",
+          "year": 2014,
+          "title": "A room with a viewpoint revisited: Descriptive norms and hotel guests' towel reuse behavior",
+          "venue": "PLOS ONE, 9(8), e104086",
+          "url": "https://doi.org/10.1371/journal.pone.0104086",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (German hotels; both messages beat no message; norm message not more effective than the standard message)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: does asking for too much first make people agree to less?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

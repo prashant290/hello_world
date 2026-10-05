@@ -1,0 +1,136 @@
+{
+  "day": 47,
+  "topic": "Why people stay in bad relationships (the investment model)",
+  "title": "Why Do People Stay in Relationships That Hurt?",
+  "voiceover": "Why do some people stay in relationships that hurt? In 1980, Caryl Rusbult proposed the investment model of commitment. It says commitment depends on satisfaction, the quality of alternatives and the size of investments. Investments are resources tied to the relationship. In 1995, Rusbult and Martz studied one hundred women at shelters for abused women. Their commitment was greater when they had poorer alternatives. And when they had higher investments in the relationship. And when they reported less abuse. The authors called this nonvoluntary dependence: leaving is hard when options are limited. This describes constraints in a study, not blame for anyone who stays. So research on staying points to limited alternatives and heavy investments, not simple weakness. Tomorrow: why does a free sample make us want to give something back?",
+  "word_count": 131,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.37,
+      "section": "hook",
+      "narration_line": "Why do some people stay in relationships that hurt?",
+      "on_screen_text": "Why do people stay?",
+      "visual_description": "Stickman at a crossroads.",
+      "visual_spec": "think/worry/C; qmark@R"
+    },
+    {
+      "start_sec": 3.37,
+      "end_sec": 7.11,
+      "section": "explanation",
+      "narration_line": "In 1980, Caryl Rusbult proposed the investment model of commitment.",
+      "on_screen_text": "1980: the investment model",
+      "visual_description": "Model diagram.",
+      "visual_spec": "point/neutral/L; text:1980@TR; text:INVESTMENT MODEL@R"
+    },
+    {
+      "start_sec": 7.11,
+      "end_sec": 12.72,
+      "section": "explanation",
+      "narration_line": "It says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
+      "on_screen_text": "Satisfaction, alternatives, investments",
+      "visual_description": "Three-item list.",
+      "visual_spec": "stand/neutral/L; list:SATISFACTION,ALTERNATIVES,INVESTMENTS@R"
+    },
+    {
+      "start_sec": 12.72,
+      "end_sec": 15.34,
+      "section": "explanation",
+      "narration_line": "Investments are resources tied to the relationship.",
+      "on_screen_text": "Investments: resources tied to it",
+      "visual_description": "Stack of coins.",
+      "visual_spec": "stand/neutral/L; coin:$@R"
+    },
+    {
+      "start_sec": 15.34,
+      "end_sec": 20.57,
+      "section": "explanation",
+      "narration_line": "In 1995, Rusbult and Martz studied one hundred women at shelters for abused women.",
+      "on_screen_text": "1995: 100 women at shelters",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; text:1995@TR; numbers:100@R"
+    },
+    {
+      "start_sec": 20.57,
+      "end_sec": 23.94,
+      "section": "explanation",
+      "narration_line": "Their commitment was greater when they had poorer alternatives.",
+      "on_screen_text": "More commitment: poorer alternatives",
+      "visual_description": "Narrow door.",
+      "visual_spec": "point/neutral/L; door@R"
+    },
+    {
+      "start_sec": 23.94,
+      "end_sec": 27.31,
+      "section": "explanation",
+      "narration_line": "And when they had higher investments in the relationship.",
+      "on_screen_text": "And higher investments",
+      "visual_description": "More coins.",
+      "visual_spec": "stand/neutral/L; coin:$$@R"
+    },
+    {
+      "start_sec": 27.31,
+      "end_sec": 29.55,
+      "section": "explanation",
+      "narration_line": "And when they reported less abuse.",
+      "on_screen_text": "And less reported abuse",
+      "visual_description": "Lower bar.",
+      "visual_spec": "stand/neutral/L; bars:abuse=h25@R"
+    },
+    {
+      "start_sec": 29.55,
+      "end_sec": 34.41,
+      "section": "explanation",
+      "narration_line": "The authors called this nonvoluntary dependence: leaving is hard when options are limited.",
+      "on_screen_text": "Nonvoluntary dependence",
+      "visual_description": "Narrow exit.",
+      "visual_spec": "think/neutral/L; door@R"
+    },
+    {
+      "start_sec": 34.41,
+      "end_sec": 38.9,
+      "section": "explanation",
+      "narration_line": "This describes constraints in a study, not blame for anyone who stays.",
+      "on_screen_text": "Constraints, not blame",
+      "visual_description": "Stickman with open hands.",
+      "visual_spec": "stand/neutral/L; text:NO BLAME@R"
+    },
+    {
+      "start_sec": 38.9,
+      "end_sec": 44.14,
+      "section": "takeaway",
+      "narration_line": "So research on staying points to limited alternatives and heavy investments, not simple weakness.",
+      "on_screen_text": "Constraints, not weakness",
+      "visual_description": "Stickman with a small check.",
+      "visual_spec": "stand/neutral/L; check@R"
+    },
+    {
+      "start_sec": 44.14,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why does a free sample make us want to give something back?",
+      "on_screen_text": "Tomorrow: free samples",
+      "visual_description": "Gift box.",
+      "visual_spec": "stand/neutral/L; text:FREE?@R"
+    }
+  ],
+  "description": "The investment model says commitment depends on satisfaction, alternatives and investments. A 1995 study of women in shelters linked commitment with poorer alternatives and higher investments. This is research, not personal advice; if you or someone you know is unsafe, contact local support services. New psychology short every day on The Psyche Discourse. Source: Rusbult, C. E. (1980). Commitment and satisfaction in romantic associations: A test of the investment model. Journal of Experimental Social Psychology, 16(2), 172-186. Source: Rusbult, C. E., & Martz, J. M. (1995). Remaining in an abusive relationship: An investment model analysis of nonvoluntary dependence. Personality and Social Psychology Bulletin, 21(6), 558-571.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#relationships",
+    "#investmentmodel",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Sensitive topic. The video is educational, describes constraints rather than blaming anyone, and does not give advice. The 1995 finding on reported abuse is as summarized in abstracts; the sample was 100 women in shelters. Add a support-line note in the description.",
+  "thumbnail": {
+    "lines": [
+      "WHY PEOPLE STAY",
+      "WHEN IT HURTS"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

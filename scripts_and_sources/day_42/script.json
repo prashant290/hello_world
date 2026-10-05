@@ -1,0 +1,136 @@
+{
+  "day": 42,
+  "topic": "The door-in-the-face technique",
+  "title": "The Door-in-the-Face Technique: Does It Work?",
+  "voiceover": "Does asking for too much first make people agree to less? In 1975, Robert Cialdini and colleagues tested what they called the door-in-the-face technique. The idea: make a large request first, then a smaller one. Across their experiments, they approached 202 passersby. About half agreed to the small request after refusing the large one. Only 17 percent agreed when asked the small request alone. Their explanation was reciprocal concessions: you backed down, so I'll meet you halfway. In 1984, Dillard and colleagues combined many studies in a meta-analysis. They found the average effect was small. It also depended on factors such as whether the request was for a good cause. So asking big then small can work, but the average effect is small. Tomorrow: do first impressions really form in a tenth of a second?",
+  "word_count": 135,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.99,
+      "section": "hook",
+      "narration_line": "Does asking for too much first make people agree to less?",
+      "on_screen_text": "Ask big, then small?",
+      "visual_description": "Big box then small box.",
+      "visual_spec": "think/neutral/C; text:BIG > SMALL@R"
+    },
+    {
+      "start_sec": 3.99,
+      "end_sec": 8.71,
+      "section": "explanation",
+      "narration_line": "In 1975, Robert Cialdini and colleagues tested what they called the door-in-the-face technique.",
+      "on_screen_text": "1975: door-in-the-face",
+      "visual_description": "Door with a face-shaped shape.",
+      "visual_spec": "point/neutral/L; door@R; text:1975@TR"
+    },
+    {
+      "start_sec": 8.71,
+      "end_sec": 12.7,
+      "section": "explanation",
+      "narration_line": "The idea: make a large request first, then a smaller one.",
+      "on_screen_text": "Large request, then smaller",
+      "visual_description": "Two boxes, large and small.",
+      "visual_spec": "stand/neutral/L; list:BIG,SMALL@R"
+    },
+    {
+      "start_sec": 12.7,
+      "end_sec": 15.24,
+      "section": "explanation",
+      "narration_line": "Across their experiments, they approached 202 passersby.",
+      "on_screen_text": "202 passersby",
+      "visual_description": "Counter.",
+      "visual_spec": "stand/neutral/L; numbers:202@R"
+    },
+    {
+      "start_sec": 15.24,
+      "end_sec": 19.6,
+      "section": "explanation",
+      "narration_line": "About half agreed to the small request after refusing the large one.",
+      "on_screen_text": "~50% agreed after a big ask",
+      "visual_description": "Bar at 50%.",
+      "visual_spec": "stand/smile/L; bars:big first=50%,small only=17%@R"
+    },
+    {
+      "start_sec": 19.6,
+      "end_sec": 23.23,
+      "section": "explanation",
+      "narration_line": "Only 17 percent agreed when asked the small request alone.",
+      "on_screen_text": "Small ask alone: 17%",
+      "visual_description": "Short bar at 17%.",
+      "visual_spec": "shrug/neutral/L; bars:big first=50%,small only=17%@R"
+    },
+    {
+      "start_sec": 23.23,
+      "end_sec": 27.95,
+      "section": "explanation",
+      "narration_line": "Their explanation was reciprocal concessions: you backed down, so I'll meet you halfway.",
+      "on_screen_text": "Reciprocal concessions",
+      "visual_description": "Two figures stepping toward each other.",
+      "visual_spec": "think/neutral/L; arrow@R"
+    },
+    {
+      "start_sec": 27.95,
+      "end_sec": 31.94,
+      "section": "explanation",
+      "narration_line": "In 1984, Dillard and colleagues combined many studies in a meta-analysis.",
+      "on_screen_text": "1984: a meta-analysis",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:META-ANALYSIS@R"
+    },
+    {
+      "start_sec": 31.94,
+      "end_sec": 34.48,
+      "section": "explanation",
+      "narration_line": "They found the average effect was small.",
+      "on_screen_text": "Average effect: small",
+      "visual_description": "Short bar.",
+      "visual_spec": "shrug/neutral/L; bars:effect=h20@R"
+    },
+    {
+      "start_sec": 34.48,
+      "end_sec": 39.93,
+      "section": "explanation",
+      "narration_line": "It also depended on factors such as whether the request was for a good cause.",
+      "on_screen_text": "Depends on the request",
+      "visual_description": "Scale.",
+      "visual_spec": "point/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 39.93,
+      "end_sec": 44.64,
+      "section": "takeaway",
+      "narration_line": "So asking big then small can work, but the average effect is small.",
+      "on_screen_text": "Can work, effect is small",
+      "visual_description": "Stickman with a small check.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 44.64,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do first impressions really form in a tenth of a second?",
+      "on_screen_text": "Tomorrow: first impressions",
+      "visual_description": "Stopwatch.",
+      "visual_spec": "stand/neutral/L; clock@R"
+    }
+  ],
+  "description": "Does a big request first make people agree to a smaller one? In 1975 experiments with 202 passersby, about half agreed to the small request after refusing a large one, versus 17% when asked the small request alone. New psychology short every day on The Psyche Discourse. Source: Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L. (1975). Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique. Journal of Personality and Social Psychology, 31(2), 206-215. Source: Dillard, J. P., Hunter, J. E., & Burgoon, M. (1984). Sequential-request persuasive strategies: Meta-analysis of foot-in-the-door and door-in-the-face. Human Communication Research, 10(4), 461-488.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#doorintheface",
+    "#persuasion",
+    "#cialdini",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Percentages come from secondary summaries of Cialdini et al. (1975). The average effect in the 1984 meta-analysis is small, and results depend on factors such as whether the request is prosocial. The video does not claim the technique works reliably.",
+  "thumbnail": {
+    "lines": [
+      "ASK BIG,",
+      "THEN SMALL?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

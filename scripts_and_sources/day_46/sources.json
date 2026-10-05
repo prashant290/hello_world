@@ -1,0 +1,211 @@
+{
+  "day": 46,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "What are attachment styles, in under a minute?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "They ran a love quiz in a newspaper.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Fifty-six percent chose the secure description.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Twenty-five percent chose avoidant.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "And nineteen percent chose anxious-ambivalent.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "Secure respondents reported relationships averaging about ten years, versus about five and six for the others.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood.",
+      "cites": [
+        "fraley2002"
+      ],
+      "sources": [
+        {
+          "id": "fraley2002",
+          "authors": "Fraley, R. C.",
+          "year": 2002,
+          "title": "Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms",
+          "venue": "Personality and Social Psychology Review, 6(2), 123-151",
+          "url": "https://doi.org/10.1207/S15327957PSPR0602_03",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (27 effect sizes from 23 papers; r about .39)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "He found a correlation of about point three nine: moderate, not fixed.",
+      "cites": [
+        "fraley2002"
+      ],
+      "sources": [
+        {
+          "id": "fraley2002",
+          "authors": "Fraley, R. C.",
+          "year": 2002,
+          "title": "Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms",
+          "venue": "Personality and Social Psychology Review, 6(2), 123-151",
+          "url": "https://doi.org/10.1207/S15327957PSPR0602_03",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (27 effect sizes from 23 papers; r about .39)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "The newspaper sample was self-selected, so those percentages are not a census.",
+      "cites": [
+        "hazan1987"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "So attachment styles are a useful framework, with real limits.",
+      "cites": [
+        "hazan1987",
+        "fraley2002"
+      ],
+      "sources": [
+        {
+          "id": "hazan1987",
+          "authors": "Hazan, C., & Shaver, P.",
+          "year": 1987,
+          "title": "Romantic love conceptualized as an attachment process",
+          "venue": "Journal of Personality and Social Psychology, 52(3), 511-524",
+          "url": "https://doi.org/10.1037/0022-3514.52.3.511",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (newspaper love quiz; 56/25/19%; relationship length averages)"
+        },
+        {
+          "id": "fraley2002",
+          "authors": "Fraley, R. C.",
+          "year": 2002,
+          "title": "Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms",
+          "venue": "Personality and Social Psychology Review, 6(2), 123-151",
+          "url": "https://doi.org/10.1207/S15327957PSPR0602_03",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (27 effect sizes from 23 papers; r about .39)"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "sentence": "Tomorrow: why do some people stay in relationships that hurt?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

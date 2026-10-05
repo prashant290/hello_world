@@ -1,0 +1,127 @@
+{
+  "day": 49,
+  "topic": "The fundamental attribution error",
+  "title": "The Fundamental Attribution Error Explained",
+  "voiceover": "Why do we blame a person's character for what a situation caused? In 1967, Edward Jones and Victor Harris had students read essays about Fidel Castro's Cuba. Some were told the writers chose their positions freely. Others were told the writers had been assigned them. Readers inferred the writers' attitudes from the essays. Even when the position was assigned, readers still saw some of that attitude in the writer. In 1977, Lee Ross named this tendency the fundamental attribution error. It is the tendency to explain behavior by character and underestimate the situation. The original studies used student readers in a laboratory. So we may read a person's behavior as who they are, even when the situation explains it. Tomorrow: do opposites really attract?",
+  "word_count": 124,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 4.74,
+      "section": "hook",
+      "narration_line": "Why do we blame a person's character for what a situation caused?",
+      "on_screen_text": "Character or situation?",
+      "visual_description": "Stickman and a question mark.",
+      "visual_spec": "think/neutral/C; qmark@R"
+    },
+    {
+      "start_sec": 4.74,
+      "end_sec": 10.67,
+      "section": "explanation",
+      "narration_line": "In 1967, Edward Jones and Victor Harris had students read essays about Fidel Castro's Cuba.",
+      "on_screen_text": "1967: essays on Castro's Cuba",
+      "visual_description": "Essay page.",
+      "visual_spec": "stand/neutral/L; text:1967@TR; text:ESSAYS@R"
+    },
+    {
+      "start_sec": 10.67,
+      "end_sec": 14.23,
+      "section": "explanation",
+      "narration_line": "Some were told the writers chose their positions freely.",
+      "on_screen_text": "Writers 'chose' the position",
+      "visual_description": "Open hand.",
+      "visual_spec": "stand/neutral/L; check@R"
+    },
+    {
+      "start_sec": 14.23,
+      "end_sec": 17.78,
+      "section": "explanation",
+      "narration_line": "Others were told the writers had been assigned them.",
+      "on_screen_text": "Writers 'were assigned' it",
+      "visual_description": "Assignment card.",
+      "visual_spec": "shrug/neutral/L; list:ASSIGNED@R"
+    },
+    {
+      "start_sec": 17.78,
+      "end_sec": 20.94,
+      "section": "explanation",
+      "narration_line": "Readers inferred the writers' attitudes from the essays.",
+      "on_screen_text": "Readers inferred attitudes",
+      "visual_description": "Thought bubble.",
+      "visual_spec": "think/neutral/L; bubble:what they believe@TR"
+    },
+    {
+      "start_sec": 20.94,
+      "end_sec": 27.27,
+      "section": "explanation",
+      "narration_line": "Even when the position was assigned, readers still saw some of that attitude in the writer.",
+      "on_screen_text": "Even when assigned, they inferred it",
+      "visual_description": "Stickman with a bubble.",
+      "visual_spec": "shock/neutral/L; bubble:they mean it@TR"
+    },
+    {
+      "start_sec": 27.27,
+      "end_sec": 31.61,
+      "section": "explanation",
+      "narration_line": "In 1977, Lee Ross named this tendency the fundamental attribution error.",
+      "on_screen_text": "1977: named 'FAE'",
+      "visual_description": "Label.",
+      "visual_spec": "point/neutral/L; text:1977@TR; tag:FAE@R"
+    },
+    {
+      "start_sec": 31.61,
+      "end_sec": 36.75,
+      "section": "explanation",
+      "narration_line": "It is the tendency to explain behavior by character and underestimate the situation.",
+      "on_screen_text": "Character over situation",
+      "visual_description": "Scale tilted.",
+      "visual_spec": "stand/neutral/L; scale@R"
+    },
+    {
+      "start_sec": 36.75,
+      "end_sec": 40.31,
+      "section": "explanation",
+      "narration_line": "The original studies used student readers in a laboratory.",
+      "on_screen_text": "Student readers, lab setting",
+      "visual_description": "Lab flask.",
+      "visual_spec": "shrug/neutral/L; text:LAB@R"
+    },
+    {
+      "start_sec": 40.31,
+      "end_sec": 47.02,
+      "section": "takeaway",
+      "narration_line": "So we may read a person's behavior as who they are, even when the situation explains it.",
+      "on_screen_text": "Who they are, or the situation?",
+      "visual_description": "Stickman with two options.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 47.02,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: do opposites really attract?",
+      "on_screen_text": "Tomorrow: do opposites attract?",
+      "visual_description": "Two magnets.",
+      "visual_spec": "stand/neutral/L; magnet@R"
+    }
+  ],
+  "description": "Do we read other people's behavior as who they are? A 1967 study found people inferred attitudes from essays even when told the writer had been assigned the position. This tendency was later named the fundamental attribution error. New psychology short every day on The Psyche Discourse. Source: Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. Journal of Experimental Social Psychology, 3(1), 1-24. Source: Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173-220.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#attributionerror",
+    "#cognitivebias",
+    "#socialpsychology",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The Jones & Harris design is known from consistent secondary summaries. The title phrase 'judge ourselves differently' is not claimed in the video; only the attribution of others' behavior to their character is covered.",
+  "thumbnail": {
+    "lines": [
+      "CHARACTER OR",
+      "SITUATION?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

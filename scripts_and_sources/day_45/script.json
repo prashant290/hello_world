@@ -1,0 +1,118 @@
+{
+  "day": 45,
+  "topic": "Why likes feel rewarding (social media and the brain)",
+  "title": "Why Do Likes Feel So Rewarding? A Teen Brain Study",
+  "voiceover": "Why do likes feel so good? In 2016, Lauren Sherman and colleagues scanned teenagers' brains while they viewed a simulated social media feed. The photos appeared with varying numbers of likes. Teens were more likely to like photos that already had many likes. Photos with many likes were linked with activity in brain regions tied to reward, social cognition, imitation and attention. When teens viewed risky photos, activity was lower in regions tied to cognitive control. These are findings from teenagers in one lab study. Brain activity alone does not prove that likes cause craving. So likes may engage the brain's reward circuitry, at least in this study of teens. Tomorrow: what are the attachment styles, in under a minute?",
+  "word_count": 120,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 2.45,
+      "section": "hook",
+      "narration_line": "Why do likes feel so good?",
+      "on_screen_text": "Why do likes feel good?",
+      "visual_description": "Phone with hearts.",
+      "visual_spec": "think/neutral/C; text:LIKES@R"
+    },
+    {
+      "start_sec": 2.45,
+      "end_sec": 9.39,
+      "section": "explanation",
+      "narration_line": "In 2016, Lauren Sherman and colleagues scanned teenagers' brains while they viewed a simulated social media feed.",
+      "on_screen_text": "2016: teens in a brain scanner",
+      "visual_description": "Brain scan.",
+      "visual_spec": "stand/neutral/L; brain@R; text:2016@TR"
+    },
+    {
+      "start_sec": 9.39,
+      "end_sec": 12.66,
+      "section": "explanation",
+      "narration_line": "The photos appeared with varying numbers of likes.",
+      "on_screen_text": "Photos with different like counts",
+      "visual_description": "Photo cards with hearts.",
+      "visual_spec": "point/neutral/L; numbers:LIKES@R"
+    },
+    {
+      "start_sec": 12.66,
+      "end_sec": 17.56,
+      "section": "explanation",
+      "narration_line": "Teens were more likely to like photos that already had many likes.",
+      "on_screen_text": "Many likes, more liking",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:few likes=h35,many likes=h70@R"
+    },
+    {
+      "start_sec": 17.56,
+      "end_sec": 25.32,
+      "section": "explanation",
+      "narration_line": "Photos with many likes were linked with activity in brain regions tied to reward, social cognition, imitation and attention.",
+      "on_screen_text": "Linked to reward and attention regions",
+      "visual_description": "Brain with glowing areas.",
+      "visual_spec": "point/neutral/L; brain@R"
+    },
+    {
+      "start_sec": 25.32,
+      "end_sec": 31.03,
+      "section": "explanation",
+      "narration_line": "When teens viewed risky photos, activity was lower in regions tied to cognitive control.",
+      "on_screen_text": "Risky photos: less cognitive control",
+      "visual_description": "Brain, dimmer area.",
+      "visual_spec": "stand/worry/L; brain@R"
+    },
+    {
+      "start_sec": 31.03,
+      "end_sec": 34.71,
+      "section": "explanation",
+      "narration_line": "These are findings from teenagers in one lab study.",
+      "on_screen_text": "One lab study of teens",
+      "visual_description": "Single card.",
+      "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
+    },
+    {
+      "start_sec": 34.71,
+      "end_sec": 38.79,
+      "section": "explanation",
+      "narration_line": "Brain activity alone does not prove that likes cause craving.",
+      "on_screen_text": "Activity is not proof of craving",
+      "visual_description": "Cross over a heart.",
+      "visual_spec": "shrug/neutral/L; cross@R"
+    },
+    {
+      "start_sec": 38.79,
+      "end_sec": 44.92,
+      "section": "takeaway",
+      "narration_line": "So likes may engage the brain's reward circuitry, at least in this study of teens.",
+      "on_screen_text": "Likes may engage reward circuits",
+      "visual_description": "Stickman with a smile.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 44.92,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: what are the attachment styles, in under a minute?",
+      "on_screen_text": "Tomorrow: attachment styles",
+      "visual_description": "Two linked hearts.",
+      "visual_spec": "stand/neutral/L; text:ATTACHMENT?@R"
+    }
+  ],
+  "description": "In a 2016 brain-imaging study, teenagers viewing a simulated social media feed liked photos more when they already had many likes, and those photos were linked with activity in reward-related brain regions. New psychology short every day on The Psyche Discourse. Source: Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M. (2016). The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media. Psychological Science, 27(7), 1027-1035.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#socialmedia",
+    "#brain",
+    "#neuroscience",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "A single small lab study of teenagers using a simulated feed; brain activity does not prove addiction or craving. The video says 'linked with', not 'causes'.",
+  "thumbnail": {
+    "lines": [
+      "WHY LIKES",
+      "FEEL GOOD"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

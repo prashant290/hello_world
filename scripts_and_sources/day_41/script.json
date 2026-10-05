@@ -1,0 +1,127 @@
+{
+  "day": 41,
+  "topic": "Social proof: why we copy the crowd",
+  "title": "Social Proof: Does the Crowd Really Sway You?",
+  "voiceover": "Do we really copy the crowd, even over hotel towels? In 2008, Noah Goldstein, Robert Cialdini and Vladas Griskevicius ran field experiments in a hotel. Guests saw a card asking them to reuse their towels. A card saying most guests reuse their towels worked better than the standard environmental message. A message about guests who stayed in that very room did better still. The researchers took this as a sign that people follow what similar others do. But in 2014, Gerd Bohner and Lisa Schluter tried the idea in German hotels. Both messages beat no message at all. But the norm message was not more effective than the standard one. So social proof may nudge people, but this famous towel result is not guaranteed to hold. Tomorrow: does asking for too much first make people agree to less?",
+  "word_count": 138,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.55,
+      "section": "hook",
+      "narration_line": "Do we really copy the crowd, even over hotel towels?",
+      "on_screen_text": "Do we copy the crowd?",
+      "visual_description": "Stickman beside a towel.",
+      "visual_spec": "think/neutral/C; crowd:5@R"
+    },
+    {
+      "start_sec": 3.55,
+      "end_sec": 8.88,
+      "section": "explanation",
+      "narration_line": "In 2008, Noah Goldstein, Robert Cialdini and Vladas Griskevicius ran field experiments in a hotel.",
+      "on_screen_text": "2008: hotel field experiments",
+      "visual_description": "Hotel building.",
+      "visual_spec": "stand/neutral/L; text:2008@TR; text:HOTEL@R"
+    },
+    {
+      "start_sec": 8.88,
+      "end_sec": 12.43,
+      "section": "explanation",
+      "narration_line": "Guests saw a card asking them to reuse their towels.",
+      "on_screen_text": "A card: reuse your towels",
+      "visual_description": "Towel and card.",
+      "visual_spec": "point/neutral/L; list:REUSE TOWELS@R"
+    },
+    {
+      "start_sec": 12.43,
+      "end_sec": 17.75,
+      "section": "explanation",
+      "narration_line": "A card saying most guests reuse their towels worked better than the standard environmental message.",
+      "on_screen_text": "'Most guests' beat the standard card",
+      "visual_description": "Taller bar for the norm card.",
+      "visual_spec": "stand/smile/L; bars:standard=h40,most guests=h65@R"
+    },
+    {
+      "start_sec": 17.75,
+      "end_sec": 22.37,
+      "section": "explanation",
+      "narration_line": "A message about guests who stayed in that very room did better still.",
+      "on_screen_text": "This room's guests: better still",
+      "visual_description": "Tallest bar.",
+      "visual_spec": "point/smile/L; bars:standard=h40,most guests=h65,this room=h85@R"
+    },
+    {
+      "start_sec": 22.37,
+      "end_sec": 27.34,
+      "section": "explanation",
+      "narration_line": "The researchers took this as a sign that people follow what similar others do.",
+      "on_screen_text": "People follow similar others",
+      "visual_description": "Crowd of similar stickmen.",
+      "visual_spec": "think/neutral/L; crowd:5@R"
+    },
+    {
+      "start_sec": 27.34,
+      "end_sec": 32.31,
+      "section": "explanation",
+      "narration_line": "But in 2014, Gerd Bohner and Lisa Schluter tried the idea in German hotels.",
+      "on_screen_text": "2014: tested again, in Germany",
+      "visual_description": "Map pin.",
+      "visual_spec": "stand/neutral/L; text:2014@TR; text:GERMANY@R"
+    },
+    {
+      "start_sec": 32.31,
+      "end_sec": 34.8,
+      "section": "explanation",
+      "narration_line": "Both messages beat no message at all.",
+      "on_screen_text": "Both messages beat no message",
+      "visual_description": "Two bars above a short one.",
+      "visual_spec": "stand/smile/L; bars:none=h20,standard=h60,norm=h60@R"
+    },
+    {
+      "start_sec": 34.8,
+      "end_sec": 39.06,
+      "section": "explanation",
+      "narration_line": "But the norm message was not more effective than the standard one.",
+      "on_screen_text": "Norm message: no extra gain",
+      "visual_description": "Two equal bars.",
+      "visual_spec": "shrug/neutral/L; bars:standard=h60,norm=h60@R"
+    },
+    {
+      "start_sec": 39.06,
+      "end_sec": 44.74,
+      "section": "takeaway",
+      "narration_line": "So social proof may nudge people, but this famous towel result is not guaranteed to hold.",
+      "on_screen_text": "A nudge, not a guarantee",
+      "visual_description": "Stickman shrugging.",
+      "visual_spec": "stand/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 44.74,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: does asking for too much first make people agree to less?",
+      "on_screen_text": "Tomorrow: ask big, then small",
+      "visual_description": "Big and small boxes.",
+      "visual_spec": "stand/neutral/L; text:BIG, THEN SMALL?@R"
+    }
+  ],
+  "description": "Do we copy what others do? A famous hotel-towel study found a 'most guests reuse towels' card beat the standard message, but a 2014 study in German hotels found the norm message was not more effective than the standard one. New psychology short every day on The Psyche Discourse. Source: Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A room with a viewpoint: Using social norms to motivate environmental conservation in hotels. Journal of Consumer Research, 35(3), 472-482. Source: Bohner, G., & Schluter, L. E. (2014). A room with a viewpoint revisited: Descriptive norms and hotel guests' towel reuse behavior. PLOS ONE, 9(8), e104086.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#socialproof",
+    "#persuasion",
+    "#cialdini",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "Goldstein et al. (2008) is a classic result, but Bohner & Schluter (2014) found the norm message was not more effective than the standard one in German hotels. The video presents both and does not claim social proof is guaranteed. No percentages are quoted.",
+  "thumbnail": {
+    "lines": [
+      "DOES THE CROWD",
+      "SWAY YOU?"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

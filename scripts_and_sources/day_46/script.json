@@ -1,0 +1,136 @@
+{
+  "day": 46,
+  "topic": "Attachment styles in 50 seconds",
+  "title": "Attachment Styles in 50 Seconds",
+  "voiceover": "What are attachment styles, in under a minute? In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love. They ran a love quiz in a newspaper. Fifty-six percent chose the secure description. Twenty-five percent chose avoidant. And nineteen percent chose anxious-ambivalent. Secure respondents reported relationships averaging about ten years, versus about five and six for the others. In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood. He found a correlation of about point three nine: moderate, not fixed. The newspaper sample was self-selected, so those percentages are not a census. So attachment styles are a useful framework, with real limits. Tomorrow: why do some people stay in relationships that hurt?",
+  "word_count": 123,
+  "scenes": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 3.19,
+      "section": "hook",
+      "narration_line": "What are attachment styles, in under a minute?",
+      "on_screen_text": "Attachment styles in 50 s",
+      "visual_description": "Two linked hearts.",
+      "visual_spec": "think/neutral/C; text:3 STYLES@R"
+    },
+    {
+      "start_sec": 3.19,
+      "end_sec": 8.76,
+      "section": "explanation",
+      "narration_line": "In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love.",
+      "on_screen_text": "1987: attachment in adult love",
+      "visual_description": "Heart.",
+      "visual_spec": "point/neutral/L; text:1987@TR; text:ADULT LOVE@R"
+    },
+    {
+      "start_sec": 8.76,
+      "end_sec": 11.95,
+      "section": "explanation",
+      "narration_line": "They ran a love quiz in a newspaper.",
+      "on_screen_text": "A newspaper love quiz",
+      "visual_description": "Newspaper.",
+      "visual_spec": "stand/neutral/L; list:LOVE QUIZ@R"
+    },
+    {
+      "start_sec": 11.95,
+      "end_sec": 14.34,
+      "section": "explanation",
+      "narration_line": "Fifty-six percent chose the secure description.",
+      "on_screen_text": "Secure: 56%",
+      "visual_description": "Bar at 56%.",
+      "visual_spec": "stand/smile/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+    },
+    {
+      "start_sec": 14.34,
+      "end_sec": 15.93,
+      "section": "explanation",
+      "narration_line": "Twenty-five percent chose avoidant.",
+      "on_screen_text": "Avoidant: 25%",
+      "visual_description": "Bar at 25%.",
+      "visual_spec": "stand/neutral/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+    },
+    {
+      "start_sec": 15.93,
+      "end_sec": 17.93,
+      "section": "explanation",
+      "narration_line": "And nineteen percent chose anxious-ambivalent.",
+      "on_screen_text": "Anxious: 19%",
+      "visual_description": "Bar at 19%.",
+      "visual_spec": "stand/neutral/L; bars:secure=56%,avoidant=25%,anxious=19%@R"
+    },
+    {
+      "start_sec": 17.93,
+      "end_sec": 24.3,
+      "section": "explanation",
+      "narration_line": "Secure respondents reported relationships averaging about ten years, versus about five and six for the others.",
+      "on_screen_text": "Secure ~10 yrs; others 5, 6",
+      "visual_description": "Calendar.",
+      "visual_spec": "point/smile/L; bars:secure=10y,avoidant=5y,anxious=6y@R"
+    },
+    {
+      "start_sec": 24.3,
+      "end_sec": 31.47,
+      "section": "explanation",
+      "narration_line": "In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood.",
+      "on_screen_text": "2002: 27 effect sizes, 23 papers",
+      "visual_description": "Stack of papers.",
+      "visual_spec": "stand/neutral/L; text:2002@TR; numbers:27@R"
+    },
+    {
+      "start_sec": 31.47,
+      "end_sec": 36.25,
+      "section": "explanation",
+      "narration_line": "He found a correlation of about point three nine: moderate, not fixed.",
+      "on_screen_text": "Moderate stability, not fixed",
+      "visual_description": "Medium bar.",
+      "visual_spec": "point/neutral/L; bars:stability=h40@R"
+    },
+    {
+      "start_sec": 36.25,
+      "end_sec": 41.03,
+      "section": "explanation",
+      "narration_line": "The newspaper sample was self-selected, so those percentages are not a census.",
+      "on_screen_text": "Self-selected sample",
+      "visual_description": "Newspaper with a question mark.",
+      "visual_spec": "shrug/neutral/L; qmark@R"
+    },
+    {
+      "start_sec": 41.03,
+      "end_sec": 45.02,
+      "section": "takeaway",
+      "narration_line": "So attachment styles are a useful framework, with real limits.",
+      "on_screen_text": "Useful, with limits",
+      "visual_description": "Stickman with a small check.",
+      "visual_spec": "stand/smile/L; check@R"
+    },
+    {
+      "start_sec": 45.02,
+      "end_sec": 49.0,
+      "section": "cliffhanger",
+      "narration_line": "Tomorrow: why do some people stay in relationships that hurt?",
+      "on_screen_text": "Tomorrow: why people stay",
+      "visual_description": "Stickman at a door.",
+      "visual_spec": "stand/neutral/L; door@R"
+    }
+  ],
+  "description": "What are secure, avoidant and anxious attachment? A 1987 newspaper love quiz found 56%, 25% and 19% chose each description, and a meta-analysis found attachment moderately, not completely, stable over a lifetime. New psychology short every day on The Psyche Discourse. Source: Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. Journal of Personality and Social Psychology, 52(3), 511-524. Source: Fraley, R. C. (2002). Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms. Personality and Social Psychology Review, 6(2), 123-151.",
+  "hashtags": [
+    "#psychology",
+    "#shorts",
+    "#attachmentstyles",
+    "#relationships",
+    "#attachmenttheory",
+    "#psychologyfacts",
+    "#thepsychediscourse"
+  ],
+  "accuracy_note": "The 1987 sample was a self-selected newspaper sample, so the percentages are not a population census. The stability figure (r about .39) is from a meta-analysis of infancy-to-adulthood studies and does not mean attachment is fixed.",
+  "thumbnail": {
+    "lines": [
+      "ATTACHMENT",
+      "STYLES IN 50s"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
+}

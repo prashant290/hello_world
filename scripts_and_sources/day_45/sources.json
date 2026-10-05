@@ -1,0 +1,165 @@
+{
+  "day": 45,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Why do likes feel so good?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 2016, Lauren Sherman and colleagues scanned teenagers' brains while they viewed a simulated social media feed.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "The photos appeared with varying numbers of likes.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "Teens were more likely to like photos that already had many likes.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Photos with many likes were linked with activity in brain regions tied to reward, social cognition, imitation and attention.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "When teens viewed risky photos, activity was lower in regions tied to cognitive control.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "These are findings from teenagers in one lab study.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "Brain activity alone does not prove that likes cause craving.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "So likes may engage the brain's reward circuitry, at least in this study of teens.",
+      "cites": [
+        "sherman2016"
+      ],
+      "sources": [
+        {
+          "id": "sherman2016",
+          "authors": "Sherman, L. E., Payton, A. A., Hernandez, L. M., Greenfield, P. M., & Dapretto, M.",
+          "year": 2016,
+          "title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+          "venue": "Psychological Science, 27(7), 1027-1035",
+          "url": "https://doi.org/10.1177/0956797616645673",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (more likes -> more liking; reward, social cognition, imitation, attention regions; risky photos -> reduced cognitive-control activity)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "Tomorrow: what are the attachment styles, in under a minute?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}

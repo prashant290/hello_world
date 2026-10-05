@@ -1,0 +1,193 @@
+{
+  "day": 44,
+  "sentences": [
+    {
+      "scene": 0,
+      "sentence": "Can a teacher's expectations change how a student performs?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    },
+    {
+      "scene": 1,
+      "sentence": "In 1968, Robert Rosenthal and Lenore Jacobson told teachers that some students were about to show unusual intellectual growth.",
+      "cites": [
+        "rosenthal1968"
+      ],
+      "sources": [
+        {
+          "id": "rosenthal1968",
+          "authors": "Rosenthal, R., & Jacobson, L.",
+          "year": 1968,
+          "title": "Pygmalion in the classroom: Teacher expectation and pupils' intellectual development",
+          "venue": "Holt, Rinehart & Winston (book)",
+          "url": "https://en.wikipedia.org/wiki/Pygmalion_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (teachers told randomly chosen pupils would bloom; early critiques of the IQ test for first and second graders)"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "sentence": "Those students had actually been chosen at random.",
+      "cites": [
+        "rosenthal1968"
+      ],
+      "sources": [
+        {
+          "id": "rosenthal1968",
+          "authors": "Rosenthal, R., & Jacobson, L.",
+          "year": 1968,
+          "title": "Pygmalion in the classroom: Teacher expectation and pupils' intellectual development",
+          "venue": "Holt, Rinehart & Winston (book)",
+          "url": "https://en.wikipedia.org/wiki/Pygmalion_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (teachers told randomly chosen pupils would bloom; early critiques of the IQ test for first and second graders)"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "sentence": "The authors reported bigger IQ gains for some of them, especially in the first two grades.",
+      "cites": [
+        "rosenthal1968"
+      ],
+      "sources": [
+        {
+          "id": "rosenthal1968",
+          "authors": "Rosenthal, R., & Jacobson, L.",
+          "year": 1968,
+          "title": "Pygmalion in the classroom: Teacher expectation and pupils' intellectual development",
+          "venue": "Holt, Rinehart & Winston (book)",
+          "url": "https://en.wikipedia.org/wiki/Pygmalion_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (teachers told randomly chosen pupils would bloom; early critiques of the IQ test for first and second graders)"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "sentence": "Early critics argued the IQ test was inappropriate for first and second graders.",
+      "cites": [
+        "rosenthal1968"
+      ],
+      "sources": [
+        {
+          "id": "rosenthal1968",
+          "authors": "Rosenthal, R., & Jacobson, L.",
+          "year": 1968,
+          "title": "Pygmalion in the classroom: Teacher expectation and pupils' intellectual development",
+          "venue": "Holt, Rinehart & Winston (book)",
+          "url": "https://en.wikipedia.org/wiki/Pygmalion_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (teachers told randomly chosen pupils would bloom; early critiques of the IQ test for first and second graders)"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "sentence": "In 2005, Lee Jussim and Kent Harber reviewed decades of research on teacher expectations.",
+      "cites": [
+        "jussim2005"
+      ],
+      "sources": [
+        {
+          "id": "jussim2005",
+          "authors": "Jussim, L., & Harber, K. D.",
+          "year": 2005,
+          "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+          "venue": "Personality and Social Psychology Review, 9(2), 131-155",
+          "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (self-fulfilling prophecies occur but effects are small and do not accumulate)"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "sentence": "They concluded that self-fulfilling prophecies in classrooms do occur.",
+      "cites": [
+        "jussim2005"
+      ],
+      "sources": [
+        {
+          "id": "jussim2005",
+          "authors": "Jussim, L., & Harber, K. D.",
+          "year": 2005,
+          "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+          "venue": "Personality and Social Psychology Review, 9(2), 131-155",
+          "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (self-fulfilling prophecies occur but effects are small and do not accumulate)"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "sentence": "But the effects are typically small.",
+      "cites": [
+        "jussim2005"
+      ],
+      "sources": [
+        {
+          "id": "jussim2005",
+          "authors": "Jussim, L., & Harber, K. D.",
+          "year": 2005,
+          "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+          "venue": "Personality and Social Psychology Review, 9(2), 131-155",
+          "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (self-fulfilling prophecies occur but effects are small and do not accumulate)"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "sentence": "And they don't appear to accumulate over time.",
+      "cites": [
+        "jussim2005"
+      ],
+      "sources": [
+        {
+          "id": "jussim2005",
+          "authors": "Jussim, L., & Harber, K. D.",
+          "year": 2005,
+          "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+          "venue": "Personality and Social Psychology Review, 9(2), 131-155",
+          "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (self-fulfilling prophecies occur but effects are small and do not accumulate)"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "sentence": "So expectations can nudge outcomes, but not as powerfully as the famous story suggests.",
+      "cites": [
+        "rosenthal1968",
+        "jussim2005"
+      ],
+      "sources": [
+        {
+          "id": "rosenthal1968",
+          "authors": "Rosenthal, R., & Jacobson, L.",
+          "year": 1968,
+          "title": "Pygmalion in the classroom: Teacher expectation and pupils' intellectual development",
+          "venue": "Holt, Rinehart & Winston (book)",
+          "url": "https://en.wikipedia.org/wiki/Pygmalion_effect",
+          "verified": "web search 2026-10-05: citation confirmed; specific figures confirmed from secondary summaries that quote the paper (primary PDF not directly readable from this environment) (teachers told randomly chosen pupils would bloom; early critiques of the IQ test for first and second graders)"
+        },
+        {
+          "id": "jussim2005",
+          "authors": "Jussim, L., & Harber, K. D.",
+          "year": 2005,
+          "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+          "venue": "Personality and Social Psychology Review, 9(2), 131-155",
+          "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (self-fulfilling prophecies occur but effects are small and do not accumulate)"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "sentence": "Tomorrow: why do likes feel so rewarding?",
+      "cites": [
+        "PLAN"
+      ],
+      "sources": []
+    }
+  ]
+}
