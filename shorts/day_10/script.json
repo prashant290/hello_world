@@ -88,14 +88,24 @@
       "visual_spec": "stand/shock/L; crowd:5@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Walking through a doorway can make you forget why you entered the room. Researchers think doorways mark 'event boundaries' that make your brain file the old thought away. Source: Radvansky, Krawietz & Tamplin (2011), 'Walking through doorways causes forgetting', Quarterly Journal of Experimental Psychology.",
+  "description": "Walking through a doorway can make you forget why you entered the room. Researchers think doorways mark 'event boundaries' that make your brain file the old thought away. New psychology short every day on The Psyche Discourse. Source: Radvansky, Krawietz & Tamplin (2011), 'Walking through doorways causes forgetting', Quarterly Journal of Experimental Psychology.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#memory",
     "#doorwayeffect",
+    "#brain",
     "#psychologyfacts",
-    "#brain"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "The doorway effect is documented in lab studies, but researchers still debate the exact mechanism (event boundaries vs. context change). Returning to the original room to restore context cues is supported by broader research on context-dependent memory, not just this study."
+  "accuracy_note": "The doorway effect is documented in lab studies, but researchers still debate the exact mechanism (event boundaries vs. context change). Returning to the original room to restore context cues is supported by broader research on context-dependent memory, not just this study.",
+  "thumbnail": {
+    "lines": [
+      "WHY DID I",
+      "COME IN",
+      "HERE?"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
 }

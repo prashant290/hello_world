@@ -88,14 +88,23 @@
       "visual_spec": "stand/neutral/L; bubble:\"?\"@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Loss aversion is the idea that losses loom larger than equivalent gains. It's a cornerstone of behavioral economics, though researchers still debate how strong and universal it is. Source: Kahneman & Tversky (1979), 'Prospect theory: an analysis of decision under risk', Econometrica.",
+  "description": "Losses tend to feel bigger than equal gains, an idea called loss aversion. Researchers still debate how strong and universal it really is. New psychology short every day on The Psyche Discourse. Source: Kahneman & Tversky (1979), 'Prospect theory: an analysis of decision under risk', Econometrica.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#lossaversion",
     "#behavioraleconomics",
+    "#decisionmaking",
     "#psychologyfacts",
-    "#decisionmaking"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "'Roughly twice as large' is a common estimate (about 2 to 2.5 in Tversky & Kahneman, 1992), but some researchers (e.g. Gal & Rucker, 2018) argue loss aversion is overstated or context-dependent. The evolutionary explanation is a hypothesis, not established fact."
+  "accuracy_note": "'Roughly twice as large' is a common estimate (about 2 to 2.5 in Tversky & Kahneman, 1992), but some researchers (e.g. Gal & Rucker, 2018) argue loss aversion is overstated or context-dependent. The evolutionary explanation is a hypothesis, not established fact.",
+  "thumbnail": {
+    "lines": [
+      "LOSING",
+      "HURTS MORE"
+    ],
+    "accent_line": 0,
+    "scene": 0
+  }
 }

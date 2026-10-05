@@ -1,8 +1,8 @@
 {
   "day": 4,
   "topic": "Confirmation bias: you only see what you already believe",
-  "title": "You're Not Seeing All the Evidence",
-  "voiceover": "You're not seeing all the evidence. Here's why. In 1960, psychologist Peter Wason gave people three numbers: 2, 4, 6. Their job was to guess the hidden rule. Most guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes. The real rule was simply any increasing numbers. Many people never tested something that could prove them wrong, like 5, 4, 3. That's confirmation bias: searching for, favoring, and remembering information that supports what you already believe. Try this: before an important decision, ask 'what would prove me wrong?' Then actually go look for it. Sources that disagree with you aren't enemies. They're free error-checking. Tomorrow: why unfinished tasks keep nagging at the back of your mind.",
+  "title": "Your Brain Hides Evidence You Disagree With",
+  "voiceover": "You're not seeing all the evidence. Here's why. In 1960, psychologist Peter Wason gave people three numbers: 2, 4, 6. Their job was to guess the hidden rule. Many guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes. The real rule was simply any increasing numbers. Many people never tested something that could prove them wrong, like 5, 4, 3. That's confirmation bias: searching for, favoring, and remembering information that supports what you already believe. Try this: before an important decision, ask 'what would prove me wrong?' Then actually go look for it. Sources that disagree with you aren't enemies. They're free error-checking. Tomorrow: why unfinished tasks keep nagging at the back of your mind.",
   "word_count": 127,
   "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
   "scenes": [
@@ -28,7 +28,7 @@
       "start_sec": 10.8,
       "end_sec": 19.29,
       "section": "explanation",
-      "narration_line": "Most guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes.",
+      "narration_line": "Many guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes.",
       "on_screen_text": "They tested what fit",
       "visual_description": "A row of green checkmarks next to 8, 10, 12.",
       "visual_spec": "think/smile/L; numbers:8 10 12@R; check@TR"
@@ -79,14 +79,23 @@
       "visual_spec": "stand/worry/L; list:TODO,TODO,TODO@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Confirmation bias means you naturally seek and favor information that matches what you already believe. Wason's classic 2-4-6 task shows how people test ideas in ways that can only confirm them. Source: Wason (1960), 'On the failure to eliminate hypotheses in a conceptual task', Quarterly Journal of Experimental Psychology.",
+  "description": "Your brain naturally seeks out information that agrees with what you already believe. Peter Wason's classic 2-4-6 task shows how people test ideas in ways that can only confirm them. New psychology short every day on The Psyche Discourse. Source: Wason (1960), 'On the failure to eliminate hypotheses in a conceptual task', Quarterly Journal of Experimental Psychology.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#confirmationbias",
     "#cognitivebias",
+    "#criticalthinking",
     "#psychologyfacts",
-    "#criticalthinking"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "Wason's task is a classic demonstration of seeking confirming evidence; it is a simplified model of real-world belief formation. Confirmation bias is robust but not absolute: people can be nudged to look for disconfirming evidence."
+  "accuracy_note": "Wason's task is a classic demonstration of seeking confirming evidence; it is a simplified model of real-world belief formation. Confirmation bias is robust but not absolute: people can be nudged to look for disconfirming evidence.",
+  "thumbnail": {
+    "lines": [
+      "YOUR BRAIN",
+      "HIDES FACTS"
+    ],
+    "accent_line": 1,
+    "scene": 4
+  }
 }

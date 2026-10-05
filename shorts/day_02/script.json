@@ -1,14 +1,14 @@
 {
   "day": 2,
   "topic": "The spotlight effect: nobody's watching you as much as you think",
-  "title": "Nobody Noticed Your Mistake (Here's the Proof)",
-  "voiceover": "Do you think everyone noticed that mistake? Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience. In 2000, Thomas Gilovich and colleagues had students walk into a room wearing a Barry Manilow T-shirt, which most found mortifying. The wearers guessed about half the people would notice it. Only around a quarter actually did. Why? You're the star of your own experience, so your flaws feel huge. Everyone else is busy starring in theirs. Your own embarrassment feels loud, but other people can't hear it. Before your next big moment, ask: if I saw this happen to someone else, would I remember it tomorrow? Probably not. Then go ahead and take the stage. Tomorrow: the sneaky reason a price ending in nine feels so much cheaper.",
-  "word_count": 133,
+  "title": "Nobody's Watching You As Much As You Think",
+  "voiceover": "Do you think everyone noticed that mistake? Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience. In 2000, Thomas Gilovich and colleagues had students wear an embarrassing Barry Manilow T-shirt into a room of other students. The wearers guessed about half the people would notice it. Only around a quarter actually did. Why? You're the star of your own experience, so your flaws feel huge. Everyone else is busy starring in theirs. Your own embarrassment feels loud, but other people can't hear it. Before your next big moment, ask: if I saw this happen to someone else, would I remember it tomorrow? Probably not. Then go ahead and take the stage. Tomorrow: the sneaky reason a price ending in nine feels so much cheaper.",
+  "word_count": 132,
   "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.58,
+      "end_sec": 2.6,
       "section": "hook",
       "narration_line": "Do you think everyone noticed that mistake?",
       "on_screen_text": "Did everyone notice?",
@@ -16,8 +16,8 @@
       "visual_spec": "shock/worry/C; spotlight@C"
     },
     {
-      "start_sec": 2.58,
-      "end_sec": 8.84,
+      "start_sec": 2.6,
+      "end_sec": 8.91,
       "section": "explanation",
       "narration_line": "Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience.",
       "on_screen_text": "The spotlight effect",
@@ -25,26 +25,26 @@
       "visual_spec": "stand/worry/L; spotlight@L; text:SPOTLIGHT EFFECT@TR"
     },
     {
-      "start_sec": 8.84,
-      "end_sec": 16.58,
+      "start_sec": 8.91,
+      "end_sec": 16.33,
       "section": "explanation",
-      "narration_line": "In 2000, Thomas Gilovich and colleagues had students walk into a room wearing a Barry Manilow T-shirt, which most found mortifying.",
+      "narration_line": "In 2000, Thomas Gilovich and colleagues had students wear an embarrassing Barry Manilow T-shirt into a room of other students.",
       "on_screen_text": "The embarrassing T-shirt study",
       "visual_description": "Stickman in a goofy T-shirt entering a room of tiny stickmen.",
       "visual_spec": "walk/worry/L; tshirt:BARRY@R; crowd:4@B"
     },
     {
-      "start_sec": 16.58,
-      "end_sec": 22.47,
+      "start_sec": 16.33,
+      "end_sec": 22.27,
       "section": "explanation",
       "narration_line": "The wearers guessed about half the people would notice it. Only around a quarter actually did.",
       "on_screen_text": "Guessed 50%. Actual: 25%",
       "visual_description": "Two bars: 'predicted ~50%' tall, 'noticed ~25%' short.",
-      "visual_spec": "point/neutral/L; bars:guessed,actual@R"
+      "visual_spec": "point/neutral/L; bars:guessed=50%,actual=25%@R"
     },
     {
-      "start_sec": 22.47,
-      "end_sec": 29.84,
+      "start_sec": 22.27,
+      "end_sec": 29.7,
       "section": "explanation",
       "narration_line": "Why? You're the star of your own experience, so your flaws feel huge. Everyone else is busy starring in theirs.",
       "on_screen_text": "Everyone's busy with their own show",
@@ -52,8 +52,8 @@
       "visual_spec": "stand/smile/L; crowd:5@R"
     },
     {
-      "start_sec": 29.84,
-      "end_sec": 33.89,
+      "start_sec": 29.7,
+      "end_sec": 33.78,
       "section": "explanation",
       "narration_line": "Your own embarrassment feels loud, but other people can't hear it.",
       "on_screen_text": "Loud to you. Silent to them.",
@@ -61,8 +61,8 @@
       "visual_spec": "shrug/neutral/L; text:LOUD TO YOU@TR"
     },
     {
-      "start_sec": 33.89,
-      "end_sec": 40.89,
+      "start_sec": 33.78,
+      "end_sec": 40.83,
       "section": "takeaway",
       "narration_line": "Before your next big moment, ask: if I saw this happen to someone else, would I remember it tomorrow?",
       "on_screen_text": "Would you remember it?",
@@ -70,8 +70,8 @@
       "visual_spec": "think/neutral/L; bubble:would I remember?@TR"
     },
     {
-      "start_sec": 40.89,
-      "end_sec": 44.21,
+      "start_sec": 40.83,
+      "end_sec": 44.17,
       "section": "takeaway",
       "narration_line": "Probably not. Then go ahead and take the stage.",
       "on_screen_text": "Probably not. Go.",
@@ -79,7 +79,7 @@
       "visual_spec": "walk/smile/L; spotlight@R"
     },
     {
-      "start_sec": 44.21,
+      "start_sec": 44.17,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: the sneaky reason a price ending in nine feels so much cheaper.",
@@ -88,14 +88,24 @@
       "visual_spec": "stand/smile/L; tag:$9.99@R; text:TOMORROW@TR"
     }
   ],
-  "description": "You probably think people noticed your slip-up far more than they did. Gilovich and colleagues found that people overestimate how much others notice them. Source: Gilovich, Medvec & Savitsky (2000), 'The spotlight effect in social judgment', Journal of Personality and Social Psychology.",
+  "description": "Think everyone noticed your slip-up? In a classic study, people wearing an embarrassing T-shirt guessed about twice as many observers would notice it as actually did. New psychology short every day on The Psyche Discourse. Source: Gilovich, Medvec & Savitsky (2000), 'The spotlight effect in social judgment', Journal of Personality and Social Psychology.",
   "hashtags": [
     "#psychology",
     "#shorts",
+    "#spotlighteffect",
     "#socialanxiety",
-    "#psychologyfacts",
     "#confidence",
-    "#brain"
+    "#psychologyfacts",
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "Figures are approximate: in the original study wearers estimated roughly 46% of observers would notice the shirt, versus roughly 23% who did. The effect has been replicated across several tasks, but sizes vary."
+  "accuracy_note": "Figures are approximate: in the original study wearers estimated roughly 46% of observers would notice the shirt, versus roughly 23% who did. The effect has been replicated across several tasks, but sizes vary.",
+  "thumbnail": {
+    "lines": [
+      "NOBODY'S",
+      "WATCHING",
+      "YOU"
+    ],
+    "accent_line": 0,
+    "scene": 0
+  }
 }

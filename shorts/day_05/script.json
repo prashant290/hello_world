@@ -88,14 +88,24 @@
       "visual_spec": "stand/worry/L; coin:+$20@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Unfinished tasks can stay on your mind, but the details of the Zeigarnik effect are more nuanced than the popular story. Making a specific plan can quiet the mental nagging. Source: Masicampo & Baumeister (2011), 'Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals', Journal of Personality and Social Psychology.",
+  "description": "Unfinished tasks can nag at your mind, but the details of the Zeigarnik effect are more nuanced than the popular story. Making a specific plan can quiet that mental nagging. New psychology short every day on The Psyche Discourse. Source: Masicampo & Baumeister (2011), 'Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals', Journal of Personality and Social Psychology.",
   "hashtags": [
     "#psychology",
     "#shorts",
+    "#zeigarnik",
     "#productivity",
     "#procrastination",
     "#psychologyfacts",
-    "#brain"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "The original Zeigarnik memory advantage for interrupted tasks has had inconsistent replication; the safer claim is that unfinished goals intrude on thought and that specific plans reduce this intrusion (Masicampo & Baumeister, 2011). The popular 'waiter' origin story is anecdotal."
+  "accuracy_note": "The original Zeigarnik memory advantage for interrupted tasks has had inconsistent replication; the safer claim is that unfinished goals intrude on thought and that specific plans reduce this intrusion (Masicampo & Baumeister, 2011). The popular 'waiter' origin story is anecdotal.",
+  "thumbnail": {
+    "lines": [
+      "UNFINISHED",
+      "TASKS",
+      "HAUNT YOU"
+    ],
+    "accent_line": 0,
+    "scene": 0
+  }
 }

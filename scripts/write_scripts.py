@@ -21,6 +21,14 @@ def load_content():
     return days
 
 
+def load_meta():
+    meta, thumbs = {}, {}
+    for p in sorted((Path(__file__).parent / "content").glob("meta_*.py")):
+        mod = importlib.import_module(f"content.{p.stem}")
+        meta.update(mod.META); thumbs.update(mod.THUMBS)
+    return meta, thumbs
+
+
 def build(day, d, topic):
     lines = [s[1] for s in d["scenes"]]
     voiceover = " ".join(lines)
@@ -39,7 +47,10 @@ def build(day, d, topic):
             "visual_spec": spec,
         })
         acc += n
-    return {
+    meta, thumbs = load_meta()
+    m = meta.get(day, {})
+    d = {**d, **m}
+    out = {
         "day": day, "topic": topic, "title": d["title"],
         "voiceover": voiceover, "word_count": total,
         "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
@@ -47,6 +58,10 @@ def build(day, d, topic):
         "description": d["description"], "hashtags": d["hashtags"],
         "accuracy_note": d["accuracy_note"],
     }
+    if day in thumbs:
+        lines, acc, sc = thumbs[day]
+        out["thumbnail"] = {"lines": lines, "accent_line": acc, "scene": sc}
+    return out
 
 
 def validate(s):

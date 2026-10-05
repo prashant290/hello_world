@@ -40,7 +40,7 @@
       "narration_line": "People who saw 10 guessed around 25 percent. People who saw 65 guessed around 45.",
       "on_screen_text": "Saw 10: ~25%. Saw 65: ~45%",
       "visual_description": "Two bars: ~25% and ~45%, labeled by the wheel number.",
-      "visual_spec": "point/neutral/L; bars:saw 10,saw 65@R"
+      "visual_spec": "point/neutral/L; bars:saw 10=25%,saw 65=45%@R"
     },
     {
       "start_sec": 21.48,
@@ -88,14 +88,23 @@
       "visual_spec": "stand/neutral/L; door@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Anchoring means the first number you see quietly shapes your later judgments, which is why stores show a high original price. Source: Tversky & Kahneman (1974), 'Judgment under uncertainty: heuristics and biases', Science.",
+  "description": "The first number you see quietly shapes your later judgments, which is why stores show a high original price next to the sale price. This is called anchoring. New psychology short every day on The Psyche Discourse. Source: Tversky & Kahneman (1974), 'Judgment under uncertainty: heuristics and biases', Science.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#anchoring",
     "#marketing",
+    "#negotiation",
     "#psychologyfacts",
-    "#negotiation"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "Anchoring is one of the more robust effects in judgment research, though effect sizes vary by task. Figures are medians from the original wheel-of-fortune experiment (about 25% vs about 45%). Some later 'arbitrary anchor' studies (e.g. the Social Security number version) have had mixed replication, so we stick to the classic study."
+  "accuracy_note": "Anchoring is one of the more robust effects in judgment research, though effect sizes vary by task. Figures are medians from the original wheel-of-fortune experiment (about 25% vs about 45%). Some later 'arbitrary anchor' studies (e.g. the Social Security number version) have had mixed replication, so we stick to the classic study.",
+  "thumbnail": {
+    "lines": [
+      "STORES SHOW",
+      "THIS FIRST"
+    ],
+    "accent_line": 1,
+    "scene": 1
+  }
 }

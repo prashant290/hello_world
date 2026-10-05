@@ -31,7 +31,7 @@
       "narration_line": "Those who scored lowest still guessed they'd done better than average.",
       "on_screen_text": "Lowest scorers guessed 'above average'",
       "visual_description": "Two bars: low actual, higher guessed.",
-      "visual_spec": "stand/smile/L; bars:actual,guessed@R"
+      "visual_spec": "stand/smile/L; bars:actual=25%,guessed=60%@R"
     },
     {
       "start_sec": 12.54,
@@ -88,14 +88,23 @@
       "visual_spec": "stand/neutral/L; notes@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Do unskilled people really think they're geniuses? Not quite. Dunning and Kruger found that low performers on specific tasks overestimated their performance, but the popular version of the story is oversimplified. Source: Kruger & Dunning (1999), 'Unskilled and unaware of it', Journal of Personality and Social Psychology.",
+  "description": "Do unskilled people really think they're geniuses? Not quite: Dunning and Kruger found that low performers overestimated their ability on specific tasks, but the popular version of the story is oversimplified. New psychology short every day on The Psyche Discourse. Source: Kruger & Dunning (1999), 'Unskilled and unaware of it', Journal of Personality and Social Psychology.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#dunningkruger",
     "#cognitivebias",
+    "#selfawareness",
     "#psychologyfacts",
-    "#selfawareness"
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "Disputed/oversimplified: critics argue part of the classic pattern can arise from statistical effects (regression to the mean and the better-than-average effect). The popular 'Mount Stupid' curve does not appear in the original paper. The finding concerns specific skills, not general intelligence."
+  "accuracy_note": "Disputed/oversimplified: critics argue part of the classic pattern can arise from statistical effects (regression to the mean and the better-than-average effect). The popular 'Mount Stupid' curve does not appear in the original paper. The finding concerns specific skills, not general intelligence.",
+  "thumbnail": {
+    "lines": [
+      "DUNNING-KRUGER",
+      "MISUNDERSTOOD"
+    ],
+    "accent_line": 1,
+    "scene": 0
+  }
 }

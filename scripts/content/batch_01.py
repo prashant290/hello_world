@@ -7,7 +7,7 @@ DAYS = {}
 DAYS[1] = dict(
     title="Why That Cringe Memory Never Leaves You",
     scenes=[
-        ("H", "Why do you still cringe at that moment?",
+        ("H", "Why do you still cringe at that embarrassing moment?",
          "Still cringing", "Stickman clutches head, wincing, as a tiny cloud labeled 'that moment' hovers above.",
          "shock/worry/C; bubble:that moment@TR"),
         ("E", "When something embarrasses you, your body floods with stress hormones.",
@@ -49,7 +49,7 @@ DAYS[2] = dict(
         ("E", "Psychologists call this the spotlight effect: feeling like you're on stage when you're actually in the audience.",
          "The spotlight effect", "Stickman alone under a spotlight, then the view zooms out to show an ordinary audience seat.",
          "stand/worry/L; spotlight@L; text:SPOTLIGHT EFFECT@TR"),
-        ("E", "In 2000, Thomas Gilovich and colleagues had students walk into a room wearing a Barry Manilow T-shirt, which most found mortifying.",
+        ("E", "In 2000, Thomas Gilovich and colleagues had students wear an embarrassing Barry Manilow T-shirt into a room of other students.",
          "The embarrassing T-shirt study", "Stickman in a goofy T-shirt entering a room of tiny stickmen.",
          "walk/worry/L; tshirt:BARRY@R; crowd:4@B"),
         ("E", "The wearers guessed about half the people would notice it. Only around a quarter actually did.",
@@ -88,8 +88,8 @@ DAYS[3] = dict(
         ("E", "So $9.99 gets filed as 'about nine dollars' while $10 gets filed as 'ten dollars', even though the gap is one cent.",
          "'Nine-ish' vs 'Ten'", "Two mental drawers labeled 'nine dollars' and 'ten dollars'.",
          "think/neutral/L; bubble:nine-ish@TR; bubble:ten@R"),
-        ("E", "Researchers Manoj Thomas and Vicki Morwitz found that a one-cent drop feels bigger when it changes the first digit, like $3.00 to $2.99.",
-         "$3.00 to $2.99 feels bigger", "Arrow from $3.00 to $2.99 with a big jump drawn beneath it.",
+        ("E", "Researchers Manoj Thomas and Vicki Morwitz found that the same price difference feels bigger when it changes the leftmost digit.",
+         "Changing the digit feels bigger", "Arrow from $3.00 to $2.99 with a big jump drawn beneath it.",
          "point/smile/L; tag:$3.00@TR; arrow:right@R; tag:$2.99@B"),
         ("E", "Stores know this, which is why so many prices end in nine.",
          "Stores know this", "Rows of price tags all ending in 9.",
@@ -109,7 +109,7 @@ DAYS[3] = dict(
     ],
     description="Why does $9.99 feel so much cheaper than $10? Your brain anchors on the leftmost digit, so a one-cent change can feel like a much bigger drop. Source: Thomas & Morwitz (2005), 'Penny wise and pound foolish: the left-digit effect in price cognition', Journal of Consumer Research.",
     hashtags=["#psychology", "#shorts", "#pricing", "#marketing", "#psychologyfacts", "#shopping"],
-    accuracy_note="The left-digit effect is well documented, but its strength depends on the product and context. Premium or luxury brands often use round prices because round numbers can signal quality.",
+    accuracy_note="The left-digit effect is well documented, but its strength depends on the product and context. Premium or luxury brands often use round prices because round numbers can signal quality. Thomas & Morwitz also showed that the same price difference is judged larger when it changes the leftmost digit.",
 )
 
 DAYS[4] = dict(
@@ -121,7 +121,7 @@ DAYS[4] = dict(
         ("E", "In 1960, psychologist Peter Wason gave people three numbers: 2, 4, 6. Their job was to guess the hidden rule.",
          "Wason's 2-4-6 puzzle", "Three big numbers 2 - 4 - 6 with a question mark rule box.",
          "point/neutral/L; numbers:2 4 6@R; qmark@TR"),
-        ("E", "Most guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes.",
+        ("E", "Many guessed 'add two each time,' then tested only numbers that fit, like 8, 10, 12. All of them got a yes.",
          "They tested what fit", "A row of green checkmarks next to 8, 10, 12.",
          "think/smile/L; numbers:8 10 12@R; check@TR"),
         ("E", "The real rule was simply any increasing numbers. Many people never tested something that could prove them wrong, like 5, 4, 3.",
@@ -262,9 +262,9 @@ DAYS[8] = dict(
         ("E", "Scientists call it an earworm, and in one Finnish survey over ninety percent of people said they get one weekly.",
          "Earworms: 90%+ weekly", "A worm wearing headphones; a big '90%+' label.",
          "stand/neutral/L; notes@R; text:90%+@TR"),
-        ("E", "Studies suggest earworms tend to be upbeat songs with simple, repetitive melodies, often triggered by recent listening, stress, or a memory cue.",
-         "Upbeat. Simple. Repetitive.", "A short looping melody line with three triggers: headphones, stress cloud, memory bubble.",
-         "think/neutral/L; list:UPBEAT,SIMPLE,REPEAT@R"),
+        ("E", "Studies suggest earworms tend to be fairly fast, with simple, easy-to-sing melodies, often triggered by recent listening, stress, or a memory cue.",
+         "Fast. Simple. Easy to sing.", "A checklist: fast tempo, simple melody, easy to sing.",
+         "think/neutral/L; list:FAST,SIMPLE,CATCHY@R"),
         ("E", "Songs you've heard a lot recently are prime candidates.",
          "Recent songs loop more", "A calendar with a song icon highlighted this week.",
          "stand/smile/L; clock@R; notes@TR"),
@@ -286,7 +286,7 @@ DAYS[8] = dict(
     ],
     description="Why do songs get stuck in your head? Earworms often follow recent exposure, stress, or memory triggers, and tend to be simple and repetitive. Source: Beaman, Powell & Rapley (2015), 'Want to block earworms from conscious awareness? B(u)y gum!', Quarterly Journal of Experimental Psychology.",
     hashtags=["#psychology", "#shorts", "#earworm", "#music", "#psychologyfacts", "#brain"],
-    accuracy_note="The 90%+ weekly figure comes from a survey of Finnish adults (Liikkanen, 2012) and may not generalize. The chewing-gum finding comes from small lab experiments and shouldn't be treated as a guaranteed cure; the research on why particular songs become earworms is still developing.",
+    accuracy_note="The 90%+ weekly figure comes from a survey of Finnish adults (Liikkanen, 2012) and may not generalize. Song traits (fairly fast tempo, simple/common melodic shapes) follow Jakubowski et al. (2016). The chewing-gum finding comes from small lab experiments and shouldn't be treated as a guaranteed cure; the research on why particular songs become earworms is still developing.",
 )
 
 DAYS[9] = dict(

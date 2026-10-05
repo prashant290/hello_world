@@ -2,22 +2,22 @@
   "day": 1,
   "topic": "Why you remember embarrassing moments years later",
   "title": "Why That Cringe Memory Never Leaves You",
-  "voiceover": "Why do you still cringe at that moment? When something embarrasses you, your body floods with stress hormones. Your amygdala, a small emotion center deep in the brain, then tells your memory system: save this one. Neuroscientist James McGaugh showed across decades of research that emotional arousal strengthens how memories get stored. Then you replay it again and again, which strengthens it even more. But vivid isn't the same as accurate. After 9/11, people felt certain about their memories, yet details drifted over time while confidence stayed high. Next time it replays, tell yourself: that's just my brain tagging it important, not proof anyone else remembers. Then shift your attention to something absorbing. Tomorrow: the strange reason almost nobody noticed it in the first place.",
-  "word_count": 125,
+  "voiceover": "Why do you still cringe at that embarrassing moment? When something embarrasses you, your body floods with stress hormones. Your amygdala, a small emotion center deep in the brain, then tells your memory system: save this one. Neuroscientist James McGaugh showed across decades of research that emotional arousal strengthens how memories get stored. Then you replay it again and again, which strengthens it even more. But vivid isn't the same as accurate. After 9/11, people felt certain about their memories, yet details drifted over time while confidence stayed high. Next time it replays, tell yourself: that's just my brain tagging it important, not proof anyone else remembers. Then shift your attention to something absorbing. Tomorrow: the strange reason almost nobody noticed it in the first place.",
+  "word_count": 126,
   "estimated_duration_sec_note": "scene times are estimates; tts.py writes the real ones to timing.json",
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.14,
+      "end_sec": 3.5,
       "section": "hook",
-      "narration_line": "Why do you still cringe at that moment?",
+      "narration_line": "Why do you still cringe at that embarrassing moment?",
       "on_screen_text": "Still cringing",
       "visual_description": "Stickman clutches head, wincing, as a tiny cloud labeled 'that moment' hovers above.",
       "visual_spec": "shock/worry/C; bubble:that moment@TR"
     },
     {
-      "start_sec": 3.14,
-      "end_sec": 7.06,
+      "start_sec": 3.5,
+      "end_sec": 7.39,
       "section": "explanation",
       "narration_line": "When something embarrasses you, your body floods with stress hormones.",
       "on_screen_text": "Stress hormones flood in",
@@ -25,8 +25,8 @@
       "visual_spec": "stand/worry/L; waves@R; text:STRESS@TR"
     },
     {
-      "start_sec": 7.06,
-      "end_sec": 14.11,
+      "start_sec": 7.39,
+      "end_sec": 14.39,
       "section": "explanation",
       "narration_line": "Your amygdala, a small emotion center deep in the brain, then tells your memory system: save this one.",
       "on_screen_text": "Amygdala: 'save this one'",
@@ -34,8 +34,8 @@
       "visual_spec": "think/neutral/L; brain:amygdala@R; tag:SAVE@TR"
     },
     {
-      "start_sec": 14.11,
-      "end_sec": 20.38,
+      "start_sec": 14.39,
+      "end_sec": 20.61,
       "section": "explanation",
       "narration_line": "Neuroscientist James McGaugh showed across decades of research that emotional arousal strengthens how memories get stored.",
       "on_screen_text": "Emotion = stronger memory",
@@ -43,8 +43,8 @@
       "visual_spec": "point/smile/L; bars:calm,emotional@R"
     },
     {
-      "start_sec": 20.38,
-      "end_sec": 25.09,
+      "start_sec": 20.61,
+      "end_sec": 25.28,
       "section": "explanation",
       "narration_line": "Then you replay it again and again, which strengthens it even more.",
       "on_screen_text": "Replay, replay, replay",
@@ -52,8 +52,8 @@
       "visual_spec": "think/worry/L; loop@R"
     },
     {
-      "start_sec": 25.09,
-      "end_sec": 34.5,
+      "start_sec": 25.28,
+      "end_sec": 34.61,
       "section": "explanation",
       "narration_line": "But vivid isn't the same as accurate. After 9/11, people felt certain about their memories, yet details drifted over time while confidence stayed high.",
       "on_screen_text": "Vivid is not accurate",
@@ -61,8 +61,8 @@
       "visual_spec": "stand/neutral/L; lines:confidence,accuracy@R"
     },
     {
-      "start_sec": 34.5,
-      "end_sec": 41.55,
+      "start_sec": 34.61,
+      "end_sec": 41.61,
       "section": "takeaway",
       "narration_line": "Next time it replays, tell yourself: that's just my brain tagging it important, not proof anyone else remembers.",
       "on_screen_text": "Brain tagged it. That's all.",
@@ -70,8 +70,8 @@
       "visual_spec": "point/smile/L; bubble:tagged@TR"
     },
     {
-      "start_sec": 41.55,
-      "end_sec": 44.3,
+      "start_sec": 41.61,
+      "end_sec": 44.33,
       "section": "takeaway",
       "narration_line": "Then shift your attention to something absorbing.",
       "on_screen_text": "Redirect your attention",
@@ -79,7 +79,7 @@
       "visual_spec": "walk/smile/L; lightbulb@R"
     },
     {
-      "start_sec": 44.3,
+      "start_sec": 44.33,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: the strange reason almost nobody noticed it in the first place.",
@@ -88,14 +88,24 @@
       "visual_spec": "stand/neutral/L; crowd:5@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Why do cringe-worthy memories stick for years? Emotional arousal tells your brain to store an event more strongly, and replaying it locks it in even more. Source: McGaugh (2004), 'The amygdala modulates the consolidation of memories of emotionally arousing experiences', Annual Review of Neuroscience.",
+  "description": "Why does an embarrassing moment replay in your head for years? Emotional arousal tells your brain to store an event more strongly, and replaying it locks it in even deeper. New psychology short every day on The Psyche Discourse. Source: McGaugh (2004), 'The amygdala modulates the consolidation of memories of emotionally arousing experiences', Annual Review of Neuroscience.",
   "hashtags": [
     "#psychology",
     "#shorts",
     "#memory",
     "#brain",
-    "#mentalhealth",
-    "#psychologyfacts"
+    "#psychologyfacts",
+    "#cognitivebias",
+    "#thepsychediscourse"
   ],
-  "accuracy_note": "Flashbulb-memory finding (Talarico & Rubin, 2003): confidence in 9/11 memories stayed high while consistency of details declined, similar to everyday memories. Emotional memories feel vivid but are not necessarily more accurate. Simplified: the amygdala works with other regions (e.g. hippocampus), not alone."
+  "accuracy_note": "Flashbulb-memory finding (Talarico & Rubin, 2003): confidence in 9/11 memories stayed high while consistency of details declined, similar to everyday memories. Emotional memories feel vivid but are not necessarily more accurate. Simplified: the amygdala works with other regions (e.g. hippocampus), not alone.",
+  "thumbnail": {
+    "lines": [
+      "WHY YOU",
+      "REMEMBER",
+      "CRINGE"
+    ],
+    "accent_line": 2,
+    "scene": 0
+  }
 }

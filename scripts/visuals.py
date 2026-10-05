@@ -240,7 +240,7 @@ def p_crowd(pen, c, arg, ctx):
 
 def p_spotlight(pen, c, arg, ctx):
     fx = ctx["fig_x"]
-    pen.poly([(fx - 40, 330), (fx + 40, 330), (fx + 210, 1150), (fx - 210, 1150)], fill=(255, 224, 150, 90), color=pen.acc, w=5)
+    pen.poly([(fx - 40, 420), (fx + 40, 420), (fx + 210, 1150), (fx - 210, 1150)], fill=(255, 224, 150, 90), color=pen.acc, w=5)
     pen.ellipse((fx, 1150), 215, 38, color=pen.acc, w=5)
 
 
@@ -380,8 +380,12 @@ def draw_scene(variant, scene, style):
         hh = len(lines) * fsz * 1.12
         bbox = [540 - wmax / 2, 300 - hh / 2, 540 + wmax / 2, 300 + hh / 2]
         pen.line([(540 - wmax / 2, bbox[3] + 14), (540 + wmax / 2, bbox[3] + 14)], w=10, color=pen.acc)
-    draw_figure(pen, fig_x, 1140, pose, face)
     ctx = {"fig_x": fig_x}
+    for name, arg, slot in props:               # backdrop props (spotlight) are drawn behind the figure
+        if name == "spotlight":
+            PROPS[name](pen, SLOTS.get(slot, SLOTS["R"]), arg, ctx)
+    draw_figure(pen, fig_x, 1140, pose, face)
+    props = [p_ for p_ in props if p_[0] != "spotlight"]
     for name, arg, slot in props:
         fn = PROPS.get(name)
         if fn is None:
