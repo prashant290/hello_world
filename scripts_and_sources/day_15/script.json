@@ -39,7 +39,7 @@
       "narration_line": "They valued their own creations more than similar products they hadn't made.",
       "on_screen_text": "Valued their own more",
       "visual_description": "Two bars: own high, others lower.",
-      "visual_spec": "stand/smile/L; bars:others,own@R"
+      "visual_spec": "stand/smile/L; bars:others=h40,own=h70@R"
     },
     {
       "start_sec": 18.07,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: does time really speed up as you get older?",
       "on_screen_text": "Tomorrow: time and age",
       "visual_description": "Clock spinning fast.",
-      "visual_spec": "stand/neutral/L; clock@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; clock@R"
     }
   ],
   "description": "Why do you love things you built yourself? In four studies, people valued their own creations more, but the effect vanished when they failed to finish or their creation was destroyed. New psychology short every day on The Psyche Discourse. Source: Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453-460.",

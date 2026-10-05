@@ -84,7 +84,7 @@
       "narration_line": "Tomorrow: did everyone else notice that moment as much as you think?",
       "on_screen_text": "Tomorrow: who noticed?",
       "visual_description": "Crowd of tiny stickmen, none looking at ours.",
-      "visual_spec": "stand/neutral/L; crowd:5@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; crowd:5@R"
     }
   ],
   "description": "Why does an embarrassing moment replay in your head for years? Research suggests emotional arousal helps your brain store memories more strongly, but a vivid memory is not necessarily an accurate one. New psychology short every day on The Psyche Discourse. Source: McGaugh, J. L. (2004). The amygdala modulates the consolidation of memories of emotionally arousing experiences. Annual Review of Neuroscience, 27, 1-28. Source: Talarico, J. M., & Rubin, D. C. (2003). Confidence, not consistency, characterizes flashbulb memories. Psychological Science, 14(5), 455-461.",

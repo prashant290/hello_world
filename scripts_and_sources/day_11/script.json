@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: do decisions really wear your brain out?",
       "on_screen_text": "Tomorrow: decision fatigue",
       "visual_description": "Stickman surrounded by choices.",
-      "visual_spec": "stand/worry/L; list:A?,B?,C?@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; list:A?,B?,C?@R"
     }
   ],
   "description": "Ever learn a new word and then see it everywhere? Linguist Arnold Zwicky called it the frequency illusion, and a famous attention study shows we miss much of what we're not focused on. New psychology short every day on The Psyche Discourse. Source: Zwicky, A. M. (2005). Just between Dr. Language and I (Language Log post introducing 'frequency illusion'). Language Log (blog). Source: Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28(9), 1059-1074.",

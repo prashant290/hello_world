@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why does losing hurt more than winning feels good?",
       "on_screen_text": "Tomorrow: why losing stings",
       "visual_description": "Two coins: one lost, one won.",
-      "visual_spec": "stand/worry/L; coin:+$20@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; coin:+$20@R"
     }
   ],
   "description": "Do unfinished tasks really stick in memory? A 2025 meta-analysis found no memory advantage, but unfinished goals can still intrude on your thoughts, and a specific plan can quiet them. New psychology short every day on The Psyche Discourse. Source: Masicampo, E. J., & Baumeister, R. F. (2011). Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. Journal of Personality and Social Psychology, 101(4), 667-683. Source: Ghibellini, R., & Meier, B. (2025). Interruption, recall and resumption: A meta-analysis of the Zeigarnik and Ovsiankina effects. Humanities and Social Sciences Communications (Palgrave Communications), 12.",

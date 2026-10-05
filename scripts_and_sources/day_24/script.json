@@ -39,7 +39,7 @@
       "narration_line": "Students rated their own chances of good events as above average.",
       "on_screen_text": "Good events: above average",
       "visual_description": "Bar high.",
-      "visual_spec": "stand/smile/L; bars:average,mine@R"
+      "visual_spec": "stand/smile/L; bars:average=h50,mine=h72@R"
     },
     {
       "start_sec": 16.59,
@@ -48,7 +48,7 @@
       "narration_line": "And their chances of bad events as below average.",
       "on_screen_text": "Bad events: below average",
       "visual_description": "Bar low.",
-      "visual_spec": "stand/smile/L; bars:average,mine@R"
+      "visual_spec": "stand/smile/L; bars:average=h50,mine=h28@R"
     },
     {
       "start_sec": 20.06,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: why do you say 'I knew it all along'?",
       "on_screen_text": "Tomorrow: 'I knew it all along'",
       "visual_description": "Speech bubble.",
-      "visual_spec": "stand/smile/L; bubble:knew it@R; text:TOMORROW@TR"
+      "visual_spec": "stand/smile/L; bubble:knew it@R"
     }
   ],
   "description": "Why do so many people think they'd never be fooled? Research on unrealistic optimism shows people rate their own odds of bad events as below average, while an FTC survey estimated 10.8% of U.S. adults were fraud victims in 2011. New psychology short every day on The Psyche Discourse. Source: Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806-820. Source: Anderson, K. B. (2013). Consumer fraud in the United States, 2011: The third FTC survey. U.S. Federal Trade Commission staff report.",

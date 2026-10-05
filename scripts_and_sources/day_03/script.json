@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do you test only the ideas you already believe?",
       "on_screen_text": "Tomorrow: your beliefs",
       "visual_description": "Stickman with blinders in front of a fact sheet.",
-      "visual_spec": "stand/worry/L; list:FACT,FACT,FACT@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; list:FACT,FACT,FACT@R"
     }
   ],
   "description": "Why does $9.99 feel so much cheaper than $10? Experiments show a nine-ending price looks smaller than a price one cent higher, but only when the leftmost digits differ. New psychology short every day on The Psyche Discourse. Source: Thomas, M., & Morwitz, V. G. (2005). Penny wise and pound foolish: The left-digit effect in price cognition. Journal of Consumer Research, 32(1), 54-64. Source: Stiving, M. (2000). Price-endings when prices signal quality. Management Science, 46(12), 1617-1629.",

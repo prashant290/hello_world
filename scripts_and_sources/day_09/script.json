@@ -111,7 +111,7 @@
       "narration_line": "Tomorrow: why do you forget why you walked into a room?",
       "on_screen_text": "Tomorrow: doorways",
       "visual_description": "Doorway with a fading thought bubble.",
-      "visual_spec": "stand/neutral/L; door@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; door@R"
     }
   ],
   "description": "Can a random number change your guess? In a classic experiment it did, a result known as anchoring. New psychology short every day on The Psyche Discourse. Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131. Source: Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81(4), 657-669.",

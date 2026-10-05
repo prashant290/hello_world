@@ -57,7 +57,7 @@
       "narration_line": "A 2017 replication did find higher task-switching costs in heavy media multitaskers.",
       "on_screen_text": "2017: higher switching costs",
       "visual_description": "Higher bar.",
-      "visual_spec": "stand/neutral/L; bars:light,heavy@R"
+      "visual_spec": "stand/neutral/L; bars:light=h35,heavy=h65@R"
     },
     {
       "start_sec": 27.38,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why does scarcity make things look more valuable?",
       "on_screen_text": "Tomorrow: scarcity",
       "visual_description": "Nearly empty jar.",
-      "visual_spec": "stand/neutral/L; text:2 LEFT@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; text:2 LEFT@R"
     }
   ],
   "description": "Can you really do two things at once? Switching between tasks has measurable costs, and while a small minority of 'supertaskers' show no decline, most people do. New psychology short every day on The Psyche Discourse. Source: Rubinstein, J. S., Meyer, D. E., & Evans, J. E. (2001). Executive control of cognitive processes in task switching. Journal of Experimental Psychology: Human Perception and Performance, 27(4), 763-797. Source: Watson, J. M., & Strayer, D. L. (2010). Supertaskers: Profiles in extraordinary multitasking ability. Psychonomic Bulletin & Review, 17(4), 479-485.",

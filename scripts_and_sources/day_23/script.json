@@ -30,7 +30,7 @@
       "narration_line": "When people expected to have future access to information, they recalled the information itself less.",
       "on_screen_text": "Expect access: recall less",
       "visual_description": "Bar low.",
-      "visual_spec": "stand/neutral/L; bars:no access,expect access@R"
+      "visual_spec": "stand/neutral/L; bars:no access=h70,expect access=h40@R"
     },
     {
       "start_sec": 14.17,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do you think you'd never fall for a scam?",
       "on_screen_text": "Tomorrow: scams",
       "visual_description": "Warning sign.",
-      "visual_spec": "stand/worry/L; text:SCAM?@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; text:SCAM?@R"
     }
   ],
   "description": "Does Google make you forget? A 2011 study found people recalled information less when they expected to find it later, but its 'Google Stroop' claim failed replication attempts. New psychology short every day on The Psyche Discourse. Source: Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776-778. Source: Hesselmann, G. (2020). No conclusive evidence that difficult general knowledge questions cause a 'Google Stroop effect': A replication study. PeerJ, 8, e10325.",

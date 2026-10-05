@@ -26,7 +26,7 @@ W, H = 1080, 1920
 REGION_Y0, REGION_Y1 = 100, 1340           # logical y-range drawn each frame (text + stage)
 S = 2                                      # supersampling
 FONT_B = str(KIT / "fonts" / "LiberationSans-Bold.ttf")
-SLOTS = {"TL": (300, 520), "TR": (730, 520), "R": (730, 780), "L": (300, 780), "C": (540, 780), "B": (730, 1080)}
+SLOTS = {"TL": (300, 565), "TR": (730, 565), "R": (730, 780), "L": (300, 780), "C": (540, 780), "B": (730, 1080)}
 
 
 def font(sz):
@@ -183,32 +183,51 @@ def p_brain(pen, c, arg, ctx):
 
 
 def p_tag(pen, c, arg, ctx):
+    arg = arg or ""
+    sz = 74
+    while sz > 26 and font(sz).getlength(arg) / S > 190:
+        sz -= 4
     pts = [(c[0] - 150, c[1]), (c[0] - 90, c[1] - 85), (c[0] + 150, c[1] - 85), (c[0] + 150, c[1] + 85), (c[0] - 90, c[1] + 85)]
     pen.poly(pts, fill=pen.bg)
     pen.ellipse((c[0] - 96, c[1]), 11, w=5)
-    pen.text((c[0] + 22, c[1]), arg or "", 74 if len(arg or "") <= 6 else 46, pen.acc)
+    pen.text((c[0] + 32, c[1]), arg, sz, pen.acc)
 
 
 def p_bars(pen, c, arg, ctx):
-    """bars:label=value%,label=value% -- values scale bars; unlabeled values use a short/tall default."""
+    """bars:label=value,...   value: 46% (labelled ~46%) | h40 (height only, no number) | h40:12th (height + custom label)
+    | 33.9d (days, labelled '33.9 days').  Heights never invent numbers: use h-mode when the source gives no figure."""
     items = []
     for tok in (arg or "a,b").split(","):
         lab, _, val = tok.partition("=")
         items.append((lab.strip(), val.strip()))
+    n = len(items)
     known = {"calm": 90, "emotional": 300, "room": 110, "door": 290}
+    spacing = min(190, 380 / n)
+    half = min(55, spacing * 0.3)
     base = c[1] + 190
     for i, (lab, val) in enumerate(items):
-        if val.endswith("%"):
-            hh = float(val.rstrip("%")) / 100 * 560
+        top = ""
+        if val.startswith("h"):
+            body, _, top = val[1:].partition(":")
+            hh = float(body) / 100 * 560
+        elif val.endswith("%"):
+            hh = float(val.rstrip("%")) / 100 * 560; top = "~" + val
+        elif val.endswith("d"):
+            num = float(val[:-1]); hh = num / 75 * 560; top = f"{num:g} days"
         else:
             hh = known.get(lab, 120 if i == 0 else 300)
-        x = c[0] - 90 + i * 190
-        pen.poly([(x - 55, base), (x - 55, base - hh), (x + 55, base - hh), (x + 55, base)],
-                 fill=pen.acc if i == len(items) - 1 else (210, 205, 195, 255))
-        pen.text((x, base + 40), lab, 34)
-        if val.endswith("%"):
-            pen.text((x, base - hh - 32), "~" + val, 40, pen.acc)
-    pen.line([(c[0] - 190, base), (c[0] + 190, base)], w=6)
+        x = c[0] + (i - (n - 1) / 2) * spacing
+        pen.poly([(x - half, base), (x - half, base - hh), (x + half, base - hh), (x + half, base)],
+                 fill=pen.acc if i == n - 1 else (210, 205, 195, 255))
+        words = lab.split()
+        if len(lab) > 11 and len(words) > 1:                   # wrap long labels onto two lines
+            mid = len(words) // 2
+            pen.text((x, base + 34), " ".join(words[:mid]), 28); pen.text((x, base + 64), " ".join(words[mid:]), 28)
+        else:
+            pen.text((x, base + 40), lab, 34 if len(lab) <= 9 else 28)
+        if top:
+            pen.text((x, base - hh - 32), top, 40, pen.acc)
+    pen.line([(c[0] - 200, base), (c[0] + 200, base)], w=6)
 
 
 def p_loop(pen, c, arg, ctx):
@@ -347,19 +366,29 @@ def p_cross(pen, c, arg, ctx):
 def p_list(pen, c, arg, ctx):
     items = (arg or "a,b,c").split(",")
     h = 80 * len(items)
-    pen.poly([(c[0] - 170, c[1] - h / 2 - 20), (c[0] + 170, c[1] - h / 2 - 20), (c[0] + 170, c[1] + h / 2 + 20), (c[0] - 170, c[1] + h / 2 + 20)], fill=pen.bg)
+    fs = 44 if max(len(t) for t in items) <= 8 else 36 if max(len(t) for t in items) <= 12 else 30
+    wmax = max(font(fs).getlength(t) / S for t in items)
+    half = max(150, (wmax + 110) / 2)
+    pen.poly([(c[0] - half, c[1] - h / 2 - 20), (c[0] + half, c[1] - h / 2 - 20), (c[0] + half, c[1] + h / 2 + 20), (c[0] - half, c[1] + h / 2 + 20)], fill=pen.bg)
     for i, it in enumerate(items):
         y = c[1] - h / 2 + 40 + i * 80
-        pen.poly([(c[0] - 140, y - 20), (c[0] - 100, y - 20), (c[0] - 100, y + 20), (c[0] - 140, y + 20)], w=5)
+        bx = c[0] - half + 25
+        pen.poly([(bx, y - 18), (bx + 36, y - 18), (bx + 36, y + 18), (bx, y + 18)], w=5)
         if i % 2 == 0 and it.upper() != "TODO":
-            pen.line([(c[0] - 136, y), (c[0] - 120, y + 14), (c[0] - 98, y - 24)], w=6, color=pen.acc)
-        pen.text((c[0] + 20, y), it, 44)
+            pen.line([(bx + 4, y), (bx + 18, y + 13), (bx + 34, y - 20)], w=6, color=pen.acc)
+        pen.text((bx + 60 + wmax / 2, y), it, fs)
 
 
 def p_numbers(pen, c, arg, ctx):
     toks = (arg or "").split()
+    sz = 130 if len(toks) <= 3 else 100
+    widest = max(font(sz).getlength(t) / S for t in toks) if toks else 0
+    sp = max(120, widest + 36) if toks else 120
+    while sp * (len(toks) - 1) + widest > 640 and sz > 50:
+        sz -= 10
+        widest = max(font(sz).getlength(t) / S for t in toks); sp = max(80, widest + 30)
     for i, t in enumerate(toks):
-        pen.text((c[0] + (i - (len(toks) - 1) / 2) * 120, c[1]), t, 130 if len(toks) <= 3 else 100, pen.ink if i < len(toks) else pen.acc)
+        pen.text((c[0] + (i - (len(toks) - 1) / 2) * sp, c[1]), t, sz, pen.ink)
     pen.line([(c[0] - 180, c[1] + 90), (c[0] + 180, c[1] + 90)], w=10, color=pen.acc)
 
 

@@ -174,6 +174,31 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
             spans = [(edges[2 * x], edges[2 * x + 1], cuts[x], cuts[x + 1]) for x in range(len(cuts) - 1)]
             if any((e - s_) / 100 < 0.1 * (c1 - c0) for s_, e, c0, c1 in spans):
                 spans = None
+    def snap(item):
+        """Cut a word to the speech segment (silences >= 100 ms separate segments) it overlaps most."""
+        t, st, en = item
+        a, b = int(st * 100), max(int(st * 100) + 1, int(en * 100))
+        segs, i2 = [], a
+        while i2 < min(b, n):
+            if act[i2]:
+                j2 = i2
+                while j2 < min(b, n) and act[j2]:
+                    j2 += 1
+                segs.append((i2, j2)); i2 = j2
+            else:
+                i2 += 1
+        # merge segments separated by gaps shorter than 100 ms
+        merged = []
+        for sg in segs:
+            if merged and sg[0] - merged[-1][1] < 10:
+                merged[-1] = (merged[-1][0], sg[1])
+            else:
+                merged.append(sg)
+        if len(merged) == 0:
+            return item
+        sg = max(merged, key=lambda x: x[1] - x[0])
+        return (t, sg[0] / 100, max(sg[1] / 100, sg[0] / 100 + 0.05))
+
     out = []
     if spans:
         for s_, e, c0, c1 in spans:
@@ -186,12 +211,12 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
                 st = np.searchsorted(cum, base + pc[k] * pa, side="right") / 100
                 en = (np.searchsorted(cum, base + max(pc[k + 1] * pa, 1e-9), side="left") + 1) / 100
                 out.append((t, min(max(st, s_ / 100), dur), min(max(en, st + 0.05), e / 100, dur)))
-        return out
+        return [snap(x) for x in out]
     for k, t in enumerate(tokens):                 # global mapping fallback
         p0, p1 = cumw[k] * total_act, cumw[k + 1] * total_act
         st = to_time(p0, "right"); en = to_time(max(p1, 1e-9), "left") + 0.01
         out.append((t, min(st, dur), min(max(en, st + 0.05), dur)))
-    return out
+    return [snap(x) for x in out]
 
 
 SPOKEN = {"9/11": "nine eleven"}    # written form -> how it should be pronounced

@@ -66,7 +66,7 @@
       "narration_line": "Age differences in the felt speed of time were very small, except for the last ten years.",
       "on_screen_text": "Age differences very small",
       "visual_description": "Tiny bars.",
-      "visual_spec": "point/neutral/L; bars:young,old@R"
+      "visual_spec": "point/neutral/L; bars:young=h40,old=h44@R"
     },
     {
       "start_sec": 32.67,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: do crowds really make people less likely to help?",
       "on_screen_text": "Tomorrow: the bystander effect",
       "visual_description": "Crowd of tiny stickmen.",
-      "visual_spec": "stand/worry/L; crowd:5@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; crowd:5@R"
     }
   ],
   "description": "Does time really fly faster as you get older? Surveys found people of all ages say time passes quickly, with age differences mainly for the last ten years, possibly linked to time pressure. New psychology short every day on The Psyche Discourse. Source: Wittmann, M., & Lehnhoff, S. (2005). Age effects in perception of time. Psychological Reports, 97(3), 921-935. Source: Friedman, W. J., & Janssen, S. M. J. (2010). Aging and the speed of time. Acta Psychologica, 134(2), 130-141.",

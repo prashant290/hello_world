@@ -57,7 +57,7 @@
       "narration_line": "In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities.",
       "on_screen_text": "1972: attractive = nicer?",
       "visual_description": "Two photos; one with a halo.",
-      "visual_spec": "point/neutral/L; text:1972@TR"
+      "visual_spec": "point/neutral/L; crowd:2@R; text:1972@TR"
     },
     {
       "start_sec": 26.83,
@@ -66,7 +66,7 @@
       "narration_line": "A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies.",
       "on_screen_text": "1991: modest and variable",
       "visual_description": "Wobbly small bars.",
-      "visual_spec": "shrug/neutral/L; bars:study 1,study 2@R"
+      "visual_spec": "shrug/neutral/L; bars:study 1=h22,study 2=h46,study 3=h12@R"
     },
     {
       "start_sec": 34.22,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do you love things you built yourself?",
       "on_screen_text": "Tomorrow: things you built",
       "visual_description": "Stickman proudly holding a wobbly box.",
-      "visual_spec": "stand/smile/L; text:TOMORROW@TR; list:DIY@R"
+      "visual_spec": "stand/smile/L; list:DIY@R"
     }
   ],
   "description": "Do we assume attractive people are better people? The halo effect was named in 1920, and later research found attractive people were rated as more socially competent, though the effect varies a lot between studies. New psychology short every day on The Psyche Discourse. Source: Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29. Source: Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C. (1991). What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype. Psychological Bulletin, 110(1), 109-128.",

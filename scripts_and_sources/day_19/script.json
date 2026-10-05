@@ -39,7 +39,7 @@
       "narration_line": "Adding a decoy could increase how often people picked the option that dominated it.",
       "on_screen_text": "Decoy boosts the dominating option",
       "visual_description": "Bars: option rises.",
-      "visual_spec": "point/smile/L; bars:without,with decoy@R"
+      "visual_spec": "point/smile/L; bars:without=h35,with decoy=h65@R"
     },
     {
       "start_sec": 19.11,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do you put off things you care about?",
       "on_screen_text": "Tomorrow: procrastination",
       "visual_description": "Stickman and a pile of tasks.",
-      "visual_spec": "stand/worry/L; list:TODO,TODO@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; list:TODO,TODO@R"
     }
   ],
   "description": "Can a third option you never choose change your pick? In 1982 researchers showed a decoy can shift choices, but a 2014 paper found the effect may be limited to choices shown as numbers. New psychology short every day on The Psyche Discourse. Source: Huber, J., Payne, J. W., & Puto, C. (1982). Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis. Journal of Consumer Research, 9(1), 90-98. Source: Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487-507.",

@@ -30,7 +30,7 @@
       "narration_line": "Those who scored in the bottom quarter guessed they'd done much better than they had.",
       "on_screen_text": "Lowest scorers overestimated",
       "visual_description": "Two bars: low actual, higher guessed.",
-      "visual_spec": "stand/smile/L; bars:actual=12%,guessed=62%@R"
+      "visual_spec": "stand/smile/L; bars:actual=h12:12th,guessed=h62:62nd@R"
     },
     {
       "start_sec": 12.97,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why is that song stuck in your head?",
       "on_screen_text": "Tomorrow: stuck songs",
       "visual_description": "Musical notes floating from the stickman's head.",
-      "visual_spec": "stand/neutral/L; notes@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; notes@R"
     }
   ],
   "description": "Do unskilled people really think they're geniuses? Not quite: in the original study the lowest scorers overestimated their rank, but a 2020 analysis argued much of the classic pattern is a statistical artefact. New psychology short every day on The Psyche Discourse. Source: Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134. Source: Gignac, G. E., & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. Intelligence, 80, 101449.",

@@ -57,7 +57,7 @@
       "narration_line": "But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.",
       "on_screen_text": "2011: weaker in danger",
       "visual_description": "Shrinking bar next to a red warning.",
-      "visual_spec": "point/neutral/L; bars:safe,danger@R"
+      "visual_spec": "point/neutral/L; bars:safe=h60,danger=h25@R"
     },
     {
       "start_sec": 27.06,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: why does bad news grab your attention?",
       "on_screen_text": "Tomorrow: bad news",
       "visual_description": "Newspaper with a siren.",
-      "visual_spec": "stand/worry/L; text:BAD NEWS@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; text:BAD NEWS@R"
     }
   ],
   "description": "Do more witnesses mean less help? A 1968 experiment found they can, but a 2011 meta-analysis found the effect shrinks in dangerous emergencies, and 2020 CCTV footage of real conflicts showed people stepping in more than 90% of the time. New psychology short every day on The Psyche Discourse. Source: Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377-383. Source: Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R. (2020). Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. American Psychologist, 75(1), 66-75.",

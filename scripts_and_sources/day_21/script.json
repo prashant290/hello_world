@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do you get déjà vu?",
       "on_screen_text": "Tomorrow: déjà vu",
       "visual_description": "Repeated scene.",
-      "visual_spec": "stand/neutral/L; text:DEJA VU@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; text:DEJA VU@R"
     }
   ],
   "description": "Does seeing something again and again make you like it more? Zajonc proposed the mere exposure effect in 1968, and a 2017 meta-analysis found liking rises with exposure and then levels off and declines. New psychology short every day on The Psyche Discourse. Source: Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27. Source: Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A. (2017). A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking. Psychological Bulletin, 143(5), 459-498.",

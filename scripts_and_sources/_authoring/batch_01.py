@@ -50,7 +50,7 @@ DAYS[1] = dict(
   ("E", [("Their memories of the attacks became just as inconsistent as their memories of an everyday event.", "talarico2003")], "Same inconsistency", "Two matching downward lines labeled 'attacks' and 'everyday'.", "stand/neutral/L; lines:attacks,everyday,same@R"),
   ("E", [("Yet only for the everyday memories did vividness and belief in accuracy fade.", "talarico2003")], "Confidence stayed high", "Confidence line stays high while the everyday line falls.", "think/worry/L; lines:flashbulb,everyday@R"),
   ("T", [("So when a cringe memory feels crystal clear, remember that clarity is not proof of accuracy.", "talarico2003")], "Clear is not accurate", "Stickman pauses and peers at a clear memory bubble.", "point/smile/L; bubble:clear?@TR"),
-  ("C", [("Tomorrow: did everyone else notice that moment as much as you think?", "PLAN")], "Tomorrow: who noticed?", "Crowd of tiny stickmen, none looking at ours.", "stand/neutral/L; crowd:5@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: did everyone else notice that moment as much as you think?", "PLAN")], "Tomorrow: who noticed?", "Crowd of tiny stickmen, none looking at ours.", "stand/neutral/L; crowd:5@R"),
  ])
 
 DAYS[2] = dict(
@@ -69,7 +69,7 @@ DAYS[2] = dict(
   ("E", [("Researchers call this the spotlight effect: we overestimate how much others notice us.", "gilovich2000")], "We overestimate attention", "Stickman in a spotlight; crowd looks elsewhere.", "stand/smile/L; spotlight@L"),
   ("E", [("They attribute it to egocentrism: you experience your own flaws so intensely that you assume others do too.", "gilovich2000")], "Egocentrism", "Stickman is the big star of his own show; others are small.", "shrug/neutral/L; crowd:5@R"),
   ("T", [("Next time you feel watched, remember the shirt study: people notice you roughly half as much as you expect.", "gilovich2000")], "Roughly half as much", "Two bars side by side, expected and real.", "walk/smile/L; bars:expected=46%,real=23%@R"),
-  ("C", [("Tomorrow: why does $9.99 feel so much cheaper than $10?", "PLAN")], "Tomorrow: $9.99", "A price tag reading $9.99 with a sly eye.", "stand/smile/L; tag:$9.99@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why does $9.99 feel so much cheaper than $10?", "PLAN")], "Tomorrow: $9.99", "A price tag reading $9.99 with a sly eye.", "stand/smile/L; tag:$9.99@R"),
  ])
 
 DAYS[3] = dict(
@@ -89,7 +89,7 @@ DAYS[3] = dict(
   ("E", [("A separate analysis found that firms tend to use more round prices for higher-quality products.", "stiving2000")], "Round prices, higher quality", "A luxury watch with a round price tag.", "stand/neutral/L; coin:$500@R"),
   ("E", [("Researcher Mark Stiving argued that firms signaling quality are more likely to use round prices.", "stiving2000")], "Round can signal quality", "Premium shelf with round tags vs sale shelf with 9s.", "stand/smile/L; list:$500,$99.99@R"),
   ("T", [("So when a price ends in nine, try rounding it up to the next number before you decide.", "thomas2005")], "Round it up first", "Stickman rounds $9.99 up to $10 with an eraser.", "point/smile/L; tag:$9.99@TR; arrow:right@R; tag:$10@B"),
-  ("C", [("Tomorrow: why do you test only the ideas you already believe?", "PLAN")], "Tomorrow: your beliefs", "Stickman with blinders in front of a fact sheet.", "stand/worry/L; list:FACT,FACT,FACT@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do you test only the ideas you already believe?", "PLAN")], "Tomorrow: your beliefs", "Stickman with blinders in front of a fact sheet.", "stand/worry/L; list:FACT,FACT,FACT@R"),
  ])
 
 DAYS[4] = dict(
@@ -108,9 +108,9 @@ DAYS[4] = dict(
   ("E", [("Only 6 of the 29 announced the correct rule without first announcing a wrong one.", "wason1960")], "Only 6 of 29", "Counter showing 6 of 29 lit up.", "shock/neutral/L; text:6 OF 29@R"),
   ("E", [("Wason concluded people tend to seek only confirming evidence.", "wason1960")], "Confirmation bias", "Magnet pulling only 'agree' papers.", "point/neutral/L; magnet@R; text:CONFIRMATION@TR"),
   ("T", [("Psychologists Lord, Lepper and Preston tested a fix: consider the opposite.", "lord1984")], "Consider the opposite", "Stickman flipping a card to its other side.", "stand/smile/L; arrow:right@R"),
-  ("T", [("In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased.", "lord1984")], "Beats 'be fair'", "Two bars: 'be fair' short, 'consider the opposite' tall.", "stand/smile/L; bars:be fair,opposite@R"),
+  ("T", [("In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased.", "lord1984")], "Beats 'be fair'", "Two bars: 'be fair' short, 'consider the opposite' tall.", "stand/smile/L; bars:be fair=h30,opposite=h70@R"),
   ("T", [("So before a big decision, ask yourself: what would prove me wrong?", "lord1984")], "What would prove me wrong?", "Stickman holding a magnifying glass toward a red NO paper.", "think/smile/L; qmark@R; text:PROVE ME WRONG@TR"),
-  ("C", [("Tomorrow: do unfinished tasks really haunt your memory?", "PLAN")], "Tomorrow: unfinished tasks", "Open to-do list glowing.", "stand/worry/L; list:TODO,TODO,TODO@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: do unfinished tasks really haunt your memory?", "PLAN")], "Tomorrow: unfinished tasks", "Open to-do list glowing.", "stand/worry/L; list:TODO,TODO,TODO@R"),
  ])
 
 DAYS[5] = dict(
@@ -130,7 +130,7 @@ DAYS[5] = dict(
   ("E", [("Psychologists Masicampo and Baumeister showed that making a specific plan for a goal eliminated those effects.", "masicampo2011")], "A specific plan helped", "Stickman writes a plan; TODO bubbles fade.", "point/smile/L; check@R; text:PLAN@TR"),
   ("E", [("In one study, the people who later carried out their plans were the ones whose intrusive thoughts stopped.", "masicampo2011")], "Real plans quiet the mind", "Check mark next to a calm brain.", "stand/smile/L; brain:@R; check@TR"),
   ("T", [("So instead of just listing a task, decide exactly when and where you will start.", "masicampo2011")], "Decide when and where", "Clock and map pin next to a task.", "point/smile/L; clock@R; text:WHEN + WHERE@TR"),
-  ("C", [("Tomorrow: why does losing hurt more than winning feels good?", "PLAN")], "Tomorrow: why losing stings", "Two coins: one lost, one won.", "stand/worry/L; coin:+$20@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why does losing hurt more than winning feels good?", "PLAN")], "Tomorrow: why losing stings", "Two coins: one lost, one won.", "stand/worry/L; coin:+$20@R"),
  ])
 
 DAYS[6] = dict(
@@ -151,7 +151,7 @@ DAYS[6] = dict(
   ("E", [("They argue the impact of losses versus gains depends on context.", "gal2018")], "It depends on context", "Different scenes: shop, casino, job.", "shrug/smile/L; list:SHOP,JOB,GAME@R"),
   ("T", [("So treat 'losses hurt twice as much' as a debated rule of thumb, not a law.", "gal2018")], "Debated rule of thumb", "Rule-of-thumb ruler with a question mark.", "stand/smile/L; qmark@R; text:NOT A LAW@TR"),
   ("T", [("When you hear it, ask: in which situation, and compared with what?", "gal2018")], "Which situation? Compared to what?", "Stickman asking two questions.", "point/smile/L; text:WHEN? VS WHAT?@R"),
-  ("C", [("Tomorrow: do unskilled people really think they're geniuses?", "PLAN")], "Tomorrow: Dunning-Kruger", "Quote bubble with a crown.", "stand/neutral/L; text:GENIUS?@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: do unskilled people really think they're geniuses?", "PLAN")], "Tomorrow: Dunning-Kruger", "Quote bubble with a crown.", "stand/neutral/L; text:GENIUS?@R"),
  ])
 
 DAYS[7] = dict(
@@ -164,14 +164,14 @@ DAYS[7] = dict(
  scenes=[
   ("H", [("Do unskilled people really think they're geniuses?", "PLAN")], "Do they think they're geniuses?", "Stickman wearing a paper crown.", "stand/smile/C; text:GENIUS?@R"),
   ("E", [("In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic.", "kruger1999")], "Kruger & Dunning, 1999", "Quiz sheets: humor, grammar, logic.", "point/neutral/L; list:HUMOR,GRAMMAR,LOGIC@R"),
-  ("E", [("Those who scored in the bottom quarter guessed they'd done much better than they had.", "kruger1999")], "Lowest scorers overestimated", "Two bars: low actual, higher guessed.", "stand/smile/L; bars:actual=12%,guessed=62%@R"),
+  ("E", [("Those who scored in the bottom quarter guessed they'd done much better than they had.", "kruger1999")], "Lowest scorers overestimated", "Two bars: low actual, higher guessed.", "stand/smile/L; bars:actual=h12:12th,guessed=h62:62nd@R"),
   ("E", [("They scored around the 12th percentile but estimated themselves near the 62nd.", "kruger1999")], "12th vs 62nd percentile", "Numbers 12 and 62.", "think/neutral/L; numbers:12 62@R"),
   ("E", [("The researchers argued that skill and the ability to judge your skill are linked.", "kruger1999")], "Skill and self-judging linked", "Two linked gears: DO and JUDGE.", "think/neutral/L; text:DO + JUDGE@R"),
   ("E", [("When they trained participants, those participants became better at recognizing their own limits.", "kruger1999")], "Training helped self-judgment", "Stickman studying, then checking a score.", "stand/smile/L; check@R"),
   ("E", [("But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.", "gignac2020")], "2020: mostly a statistical artifact?", "Graph stamped 'DEBATED'.", "shrug/neutral/L; text:DEBATED@R"),
   ("E", [("It found that self-rated and measured intelligence rose together in almost a straight line.", "gignac2020")], "Almost a straight line", "Straight upward line.", "stand/neutral/L; lines:rated,measured,up@R"),
   ("T", [("So when you're learning something new, building skill may also improve your ability to judge your own work.", "kruger1999")], "Skill helps you judge your work", "Stickman holding up his work next to a ruler.", "point/smile/L; check@R; text:SKILL + JUDGMENT@TR"),
-  ("C", [("Tomorrow: why is that song stuck in your head?", "PLAN")], "Tomorrow: stuck songs", "Musical notes floating from the stickman's head.", "stand/neutral/L; notes@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why is that song stuck in your head?", "PLAN")], "Tomorrow: stuck songs", "Musical notes floating from the stickman's head.", "stand/neutral/L; notes@R"),
  ])
 
 DAYS[8] = dict(
@@ -187,12 +187,12 @@ DAYS[8] = dict(
   ("E", [("In a survey of 12,519 Finnish adults, 89 percent reported having one at least once a week.", "liikkanen2012")], "89% get one weekly", "Big 89% label with notes.", "think/neutral/L; text:89%@R; notes@TR"),
   ("E", [("A 2016 study compared tunes that people named as earworms with other songs.", "jakubowski2016")], "2016: earworm tunes vs others", "Two song lists side by side.", "point/neutral/L; list:EARWORMS,OTHERS@R"),
   ("E", [("Earworm tunes tended to have faster tempos.", "jakubowski2016")], "Faster tempos", "Metronome ticking fast.", "stand/smile/L; clock@R; notes@TR"),
-  ("E", [("They also followed common melodic shapes, with unusual steps between turning points.", "jakubowski2016")], "Common shapes, odd steps", "A melody line with a few odd jumps.", "think/neutral/L; lines:shape,steps@R"),
+  ("E", [("They also followed common melodic shapes, with unusual steps between turning points.", "jakubowski2016")], "Common shapes, odd steps", "A melody line with a few odd jumps.", "think/neutral/L; notes@R"),
   ("E", [("In 2015, Beaman and colleagues had 98 people try not to think about two pop songs for three minutes.", "beaman2015")], "2015: 98 people, 3 minutes", "Stopwatch at three minutes.", "stand/neutral/L; clock@R; text:98 PEOPLE@TR"),
-  ("E", [("People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers.", "beaman2015")], "Gum reduced earworms", "Bars: gum low, nothing high, tapping high.", "stand/smile/L; bars:gum,tapping@R"),
+  ("E", [("People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers.", "beaman2015")], "Gum reduced earworms", "Bars: gum low, nothing high, tapping high.", "stand/smile/L; bars:gum=h30,tapping=h70@R"),
   ("E", [("The authors suggest gum interferes with the motor planning behind imagining the song.", "beaman2015")], "Gum blocks 'inner singing'", "Mouth and note with a blocked arrow.", "point/neutral/L; notes@R; cross@TR"),
   ("T", [("So chewing gum might help next time, though this was a small lab experiment.", "beaman2015")], "Gum might help (small study)", "Stickman chewing gum, notes shrinking.", "stand/smile/L; text:GUM@R; notes@TR"),
-  ("C", [("Tomorrow: can a random number change your guess?", "PLAN")], "Tomorrow: a random number", "A wheel with a random number.", "stand/smile/L; tag:$200@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: can a random number change your guess?", "PLAN")], "Tomorrow: a random number", "A wheel with a random number.", "stand/smile/L; wheel:?@R"),
  ])
 
 DAYS[9] = dict(
@@ -214,7 +214,7 @@ DAYS[9] = dict(
   ("E", [("In three experiments, whoever made the first offer got a better outcome.", "galinsky2001")], "First offer wins", "Flag planted on a number line.", "walk/smile/L; arrow:right@R"),
   ("E", [("But when the other side thought about their own alternatives, the first-offer advantage disappeared.", "galinsky2001")], "Unless they think of alternatives", "Alternatives list cancelling the anchor.", "think/smile/L; list:ALT 1,ALT 2@R; cross@TR"),
   ("T", [("So when someone makes the first offer, think about your own target and their alternatives before you answer.", "galinsky2001")], "Think target + alternatives", "Stickman with a target and two options.", "point/smile/L; text:MY TARGET@R"),
-  ("C", [("Tomorrow: why do you forget why you walked into a room?", "PLAN")], "Tomorrow: doorways", "Doorway with a fading thought bubble.", "stand/neutral/L; door@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do you forget why you walked into a room?", "PLAN")], "Tomorrow: doorways", "Doorway with a fading thought bubble.", "stand/neutral/L; door@R"),
  ])
 
 DAYS[10] = dict(
@@ -227,12 +227,12 @@ DAYS[10] = dict(
  scenes=[
   ("H", [("Why do you forget why you walked into this room?", "PLAN")], "Why did I come in here?", "Stickman confused in a doorway.", "shrug/worry/C; door@R"),
   ("E", [("In 2011, Gabriel Radvansky's team studied students moving through real and virtual rooms.", "radvansky2011")], "Radvansky, 2011", "Virtual room with a box being carried.", "walk/neutral/L; text:2011@TR; door@R"),
-  ("E", [("People forgot more after walking through a doorway than after walking the same distance within one room.", "radvansky2011")], "More forgetting after doors", "Bars: room low, door high.", "stand/neutral/L; bars:room,door@R"),
+  ("E", [("People forgot more after walking through a doorway than after walking the same distance within one room.", "radvansky2011")], "More forgetting after doors", "Bars: room low, door high.", "stand/neutral/L; bars:room=h30,door=h70@R"),
   ("E", [("The researchers proposed that a doorway creates a new memory episode, an event boundary, making the old information harder to retrieve.", "radvansky2011")], "Doors = event boundaries", "Thought bubble packed into a box as the stickman steps through.", "think/neutral/L; door@R; bubble:old thought@TR"),
   ("E", [("But in 2021, Jessica McFadyen and colleagues ran four experiments across virtual reality, video and real-life movement.", "mcfadyen2021")], "2021: four experiments", "Four panels: VR, VR+load, video, real.", "stand/neutral/L; list:VR,VR+LOAD,VIDEO,REAL@R"),
   ("E", [("They found no significant effect of doorways on forgetting.", "mcfadyen2021")], "No significant effect", "Check replaced by cross.", "shrug/neutral/L; cross@R"),
-  ("E", [("Only when people had to hold information in mind did doorways increase certain memory errors.", "mcfadyen2021")], "Only under mental load", "Brain carrying heavy load near a door.", "think/worry/L; brain:@R; door@TR"),
+  ("E", [("Only when people had to hold information in mind did doorways increase certain memory errors.", "mcfadyen2021")], "Only under mental load", "Brain carrying heavy load near a door.", "think/worry/L; brain:@R"),
   ("E", [("So the doorway effect looks real in some conditions, but not guaranteed.", "radvansky2011,mcfadyen2021")], "Real in some conditions", "Scale tipping slightly.", "shrug/smile/L; scale@R"),
   ("T", [("So if you blank in a doorway, it's a documented memory quirk studied in healthy students.", "radvansky2011")], "A documented memory quirk", "Smiling stickman with a healthy brain icon.", "stand/smile/L; brain:@R"),
-  ("C", [("Tomorrow: why does something you just learned seem to appear everywhere?", "PLAN")], "Tomorrow: it's everywhere", "Many identical objects behind the stickman.", "stand/shock/L; crowd:5@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why does something you just learned seem to appear everywhere?", "PLAN")], "Tomorrow: it's everywhere", "Many identical objects behind the stickman.", "stand/shock/L; crowd:5@R"),
  ])

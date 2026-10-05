@@ -84,7 +84,7 @@
       "narration_line": "Tomorrow: why does $9.99 feel so much cheaper than $10?",
       "on_screen_text": "Tomorrow: $9.99",
       "visual_description": "A price tag reading $9.99 with a sly eye.",
-      "visual_spec": "stand/smile/L; tag:$9.99@R; text:TOMORROW@TR"
+      "visual_spec": "stand/smile/L; tag:$9.99@R"
     }
   ],
   "description": "Do you think everyone noticed your slip-up? In a classic study, people wearing an embarrassing T-shirt guessed about twice as many classmates would notice it as actually did. New psychology short every day on The Psyche Discourse. Source: Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211-222.",

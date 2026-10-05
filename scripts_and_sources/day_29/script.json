@@ -39,7 +39,7 @@
       "narration_line": "On average, students' best guess was 33.9 days.",
       "on_screen_text": "Best guess: 33.9 days",
       "visual_description": "Bar at 33.9.",
-      "visual_spec": "stand/smile/L; bars:guess=34%,actual=56%@R"
+      "visual_spec": "stand/smile/L; bars:guess=33.9d,actual=55.5d@R"
     },
     {
       "start_sec": 15.02,
@@ -48,7 +48,7 @@
       "narration_line": "They actually took 55.5 days on average.",
       "on_screen_text": "Actual: 55.5 days",
       "visual_description": "Taller bar at 55.5.",
-      "visual_spec": "shock/worry/L; bars:guess=34%,actual=56%@R"
+      "visual_spec": "shock/worry/L; bars:guess=33.9d,actual=55.5d@R"
     },
     {
       "start_sec": 17.78,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: how do you actually remember an experience?",
       "on_screen_text": "Tomorrow: how you remember",
       "visual_description": "Memory bubble.",
-      "visual_spec": "stand/neutral/L; bubble:memory@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; bubble:memory@R"
     }
   ],
   "description": "Why do projects run late? In a classic study, students' best guesses for finishing their thesis averaged 33.9 days, but they took 55.5 days, and only about 30% finished by their predicted date. New psychology short every day on The Psyche Discourse. Source: Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the planning fallacy: Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366-381.",

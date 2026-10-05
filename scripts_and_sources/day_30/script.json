@@ -93,7 +93,7 @@
       "narration_line": "Those patients rated the experience as less unpleasant and were more likely to return for a follow-up.",
       "on_screen_text": "Less unpleasant; more likely to return",
       "visual_description": "Smile bar.",
-      "visual_spec": "stand/smile/L; bars:standard,milder end@R"
+      "visual_spec": "stand/smile/L; bars:standard=h70,milder end=h45@R"
     },
     {
       "start_sec": 40.16,
@@ -111,7 +111,7 @@
       "narration_line": "Tomorrow: does copying someone's body language build trust?",
       "on_screen_text": "Tomorrow: mirroring",
       "visual_description": "Two stickmen mirroring.",
-      "visual_spec": "stand/neutral/L; crowd:1@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; crowd:1@R"
     }
   ],
   "description": "Do you remember experiences by their total length? Experiments suggest the peak and the ending matter more: people preferred a longer cold-water trial that ended slightly warmer, and colonoscopy patients with a milder ending rated the procedure less unpleasant. New psychology short every day on The Psyche Discourse. Source: Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401-405. Source: Redelmeier, D. A., Katz, J., & Kahneman, D. (2003). Memories of colonoscopy: A randomized trial. Pain, 104(1-2), 187-194.",

@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: do unskilled people really think they're geniuses?",
       "on_screen_text": "Tomorrow: Dunning-Kruger",
       "visual_description": "Quote bubble with a crown.",
-      "visual_spec": "stand/neutral/L; text:GENIUS?@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; text:GENIUS?@R"
     }
   ],
   "description": "Do losses really hurt about twice as much as equal gains? That's the classic prospect-theory idea, but a 2018 review argued the evidence doesn't support it as a general rule. New psychology short every day on The Psyche Discourse. Source: Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291. Source: Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain?. Journal of Consumer Psychology, 28(3), 497-516.",

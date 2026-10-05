@@ -57,7 +57,7 @@
       "narration_line": "They also followed common melodic shapes, with unusual steps between turning points.",
       "on_screen_text": "Common shapes, odd steps",
       "visual_description": "A melody line with a few odd jumps.",
-      "visual_spec": "think/neutral/L; lines:shape,steps@R"
+      "visual_spec": "think/neutral/L; notes@R"
     },
     {
       "start_sec": 23.43,
@@ -75,7 +75,7 @@
       "narration_line": "People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers.",
       "on_screen_text": "Gum reduced earworms",
       "visual_description": "Bars: gum low, nothing high, tapping high.",
-      "visual_spec": "stand/smile/L; bars:gum,tapping@R"
+      "visual_spec": "stand/smile/L; bars:gum=h30,tapping=h70@R"
     },
     {
       "start_sec": 36.57,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: can a random number change your guess?",
       "on_screen_text": "Tomorrow: a random number",
       "visual_description": "A wheel with a random number.",
-      "visual_spec": "stand/smile/L; tag:$200@R; text:TOMORROW@TR"
+      "visual_spec": "stand/smile/L; wheel:?@R"
     }
   ],
   "description": "Why does a song get stuck in your head? A large survey found nearly nine in ten people get an earworm weekly, earworm tunes tend to be faster with common melodic shapes, and chewing gum reduced them in a small lab experiment. New psychology short every day on The Psyche Discourse. Source: Beaman, C. P., Powell, K., & Rapley, E. (2015). Want to block earworms from conscious awareness? B(u)y gum!. Quarterly Journal of Experimental Psychology, 68(6), 1049-1057. Source: Liikkanen, L. A. (2012). Musical activities predispose to involuntary musical imagery. Psychology of Music, 40(2), 236-256.",

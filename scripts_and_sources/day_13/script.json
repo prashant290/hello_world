@@ -57,7 +57,7 @@
       "narration_line": "Over the next six months, people who paid full price attended more plays than those who paid less.",
       "on_screen_text": "Full price = more plays",
       "visual_description": "Bars: $15 high, $8 low.",
-      "visual_spec": "stand/smile/L; bars:$8,$15@R"
+      "visual_spec": "stand/smile/L; bars:$8=h35,$15=h70@R"
     },
     {
       "start_sec": 32.91,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why do we assume attractive people are better people?",
       "on_screen_text": "Tomorrow: the halo effect",
       "visual_description": "Halo above a stickman.",
-      "visual_spec": "stand/neutral/L; text:HALO@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; text:HALO@R"
     }
   ],
   "description": "Why do you keep going with something you've already paid for? A 1985 field study found people who paid full price for theater season tickets attended more plays than discounted buyers. New psychology short every day on The Psyche Discourse. Source: Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140.",

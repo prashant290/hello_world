@@ -30,7 +30,7 @@
       "narration_line": "People forgot more after walking through a doorway than after walking the same distance within one room.",
       "on_screen_text": "More forgetting after doors",
       "visual_description": "Bars: room low, door high.",
-      "visual_spec": "stand/neutral/L; bars:room,door@R"
+      "visual_spec": "stand/neutral/L; bars:room=h30,door=h70@R"
     },
     {
       "start_sec": 13.9,
@@ -66,7 +66,7 @@
       "narration_line": "Only when people had to hold information in mind did doorways increase certain memory errors.",
       "on_screen_text": "Only under mental load",
       "visual_description": "Brain carrying heavy load near a door.",
-      "visual_spec": "think/worry/L; brain:@R; door@TR"
+      "visual_spec": "think/worry/L; brain:@R"
     },
     {
       "start_sec": 35.45,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why does something you just learned seem to appear everywhere?",
       "on_screen_text": "Tomorrow: it's everywhere",
       "visual_description": "Many identical objects behind the stickman.",
-      "visual_spec": "stand/shock/L; crowd:5@R; text:TOMORROW@TR"
+      "visual_spec": "stand/shock/L; crowd:5@R"
     }
   ],
   "description": "Does walking through a doorway really make you forget? A 2011 study found people forgot more after passing through a door, but a 2021 set of experiments mostly did not find a clean effect. New psychology short every day on The Psyche Discourse. Source: Radvansky, G. A., Krawietz, S. A., & Tamplin, A. K. (2011). Walking through doorways causes forgetting: Further explorations. Quarterly Journal of Experimental Psychology, 64(8), 1632-1645. Source: McFadyen, J., Nolan, C., Pinocy, E., Buteri, D., & Baumann, O. (2021). Doorways do not always cause forgetting: A multimodal investigation. BMC Psychology, 9.",

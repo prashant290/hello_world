@@ -15,20 +15,20 @@ day,topic,title,script_done,video_done,qc_passed,scheduled_date,uploaded,notes
 14,Why you trust attractive people more (halo effect),The Halo Effect: Why Looks Seem to Count,TRUE,TRUE,TRUE,,FALSE,QC ok
 15,The IKEA effect: why you overvalue what you build,Why You Overvalue What You Build Yourself,TRUE,TRUE,TRUE,,FALSE,QC ok
 16,Why time flies as you get older,Does Time Really Speed Up as You Age?,TRUE,TRUE,TRUE,,FALSE,QC ok
-17,The bystander effect: why crowds don't help,Do Crowds Really Stop People From Helping?,TRUE,TRUE,FALSE,,FALSE,"1 caption chunks over silence, e.g. 'effect:'"
+17,The bystander effect: why crowds don't help,Do Crowds Really Stop People From Helping?,TRUE,TRUE,TRUE,,FALSE,QC ok
 18,Why your brain loves bad news,Why Bad News Grabs Your Attention,TRUE,TRUE,TRUE,,FALSE,QC ok
 19,The decoy effect in menus and subscriptions,Can a Menu Option You Never Order Change Your Pick?,TRUE,TRUE,TRUE,,FALSE,QC ok
-20,Why you procrastinate even when you care,Why You Procrastinate on What Matters,TRUE,TRUE,FALSE,,FALSE,captions reach x=981 (> 950)
+20,Why you procrastinate even when you care,Why You Procrastinate on What Matters,TRUE,TRUE,TRUE,,FALSE,QC ok
 21,The mere exposure effect: why you like what's familiar,Why You Like What You've Seen a Lot,TRUE,TRUE,TRUE,,FALSE,QC ok
 22,Why déjà vu happens,What Actually Causes Déjà Vu?,TRUE,TRUE,TRUE,,FALSE,QC ok
-23,The Google effect: why you forget what you can search,Is Google Hurting Your Memory? What Held Up,TRUE,TRUE,FALSE,,FALSE,"1 caption chunks over silence, e.g. 'claim,'; captions reach x=1036 (> 950); captions reach x=43 (< 60)"
+23,The Google effect: why you forget what you can search,Is Google Hurting Your Memory? What Held Up,TRUE,TRUE,TRUE,,FALSE,QC ok
 24,Why you think you'd never fall for a scam,Why You Think You'd Never Fall for a Scam,TRUE,TRUE,TRUE,,FALSE,QC ok
 25,"Hindsight bias: ""I knew it all along""",'I Knew It All Along': The Hindsight Trap,TRUE,TRUE,TRUE,,FALSE,QC ok
 26,Why multitasking is a myth,What Multitasking Really Costs Your Brain,TRUE,TRUE,TRUE,,FALSE,QC ok
 27,"The scarcity effect: why ""only 2 left"" works",Does Scarcity Make Things Look Better?,TRUE,TRUE,TRUE,,FALSE,QC ok
-28,Why you can't tickle yourself,Why You Can't Tickle Yourself,TRUE,TRUE,FALSE,,FALSE,"on-screen text of scene 5 outside safe zone [217, 85, 863, 515]"
+28,Why you can't tickle yourself,Why You Can't Tickle Yourself,TRUE,TRUE,TRUE,,FALSE,QC ok
 29,The planning fallacy: why everything takes longer,Why Everything Takes Longer Than Planned,TRUE,TRUE,TRUE,,FALSE,QC ok
-30,The peak-end rule: how you actually remember experiences,Peak-End: How Endings Shape Memory,TRUE,TRUE,FALSE,,FALSE,"on-screen text of scene 9 outside safe zone [231, 85, 849, 515]"
+30,The peak-end rule: how you actually remember experiences,Peak-End: How Endings Shape Memory,TRUE,TRUE,TRUE,,FALSE,QC ok
 31,Why mirroring someone's body language builds trust,,FALSE,FALSE,,,FALSE,
 32,The Ben Franklin effect: ask for a favor to be liked,,FALSE,FALSE,,,FALSE,
 33,Signs someone is lying (and why most are myths),,FALSE,FALSE,,,FALSE,

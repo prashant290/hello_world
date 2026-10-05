@@ -84,7 +84,7 @@
       "narration_line": "In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased.",
       "on_screen_text": "Beats 'be fair'",
       "visual_description": "Two bars: 'be fair' short, 'consider the opposite' tall.",
-      "visual_spec": "stand/smile/L; bars:be fair,opposite@R"
+      "visual_spec": "stand/smile/L; bars:be fair=h30,opposite=h70@R"
     },
     {
       "start_sec": 41.46,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: do unfinished tasks really haunt your memory?",
       "on_screen_text": "Tomorrow: unfinished tasks",
       "visual_description": "Open to-do list glowing.",
-      "visual_spec": "stand/worry/L; list:TODO,TODO,TODO@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; list:TODO,TODO,TODO@R"
     }
   ],
   "description": "Do you really look at all the evidence? In Peter Wason's classic 2-4-6 task, most people tested only examples that fit their own guess, and a simple 'consider the opposite' strategy reduced bias in later experiments. New psychology short every day on The Psyche Discourse. Source: Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140. Source: Lord, C. G., Lepper, M. R., & Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231-1243.",

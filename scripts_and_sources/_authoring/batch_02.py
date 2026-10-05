@@ -50,7 +50,7 @@ DAYS[11] = dict(
   ("E", [("That shows we can miss things we aren't paying attention to.", "simons1999")], "We miss what we ignore", "Eye with a blind spot.", "stand/neutral/L; qmark@R"),
   ("E", [("One idea is that once something captures your attention, you start noticing what you previously missed.", "zwicky2005,simons1999")], "One idea: you start noticing", "Light bulb switching on a hidden pile of words.", "think/smile/L; lightbulb@R"),
   ("T", [("So if something suddenly seems to be everywhere, ask whether it increased, or whether you simply started noticing.", "zwicky2005")], "Increased, or just noticed?", "Stickman holding a magnifier between two options.", "point/smile/L; text:MORE? OR NOTICED?@R"),
-  ("C", [("Tomorrow: do decisions really wear your brain out?", "PLAN")], "Tomorrow: decision fatigue", "Stickman surrounded by choices.", "stand/worry/L; list:A?,B?,C?@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: do decisions really wear your brain out?", "PLAN")], "Tomorrow: decision fatigue", "Stickman surrounded by choices.", "stand/worry/L; list:A?,B?,C?@R"),
  ])
 
 DAYS[12] = dict(
@@ -63,7 +63,7 @@ DAYS[12] = dict(
  scenes=[
   ("H", [("Do your decisions really wear your brain out?", "PLAN")], "Decisions wear you out?", "Tired stickman surrounded by choices.", "shock/worry/C; list:?,?,?@R"),
   ("E", [("In 2011, researchers studied more than 1,000 parole decisions by eight Israeli judges.", "danziger2011")], "2011: 1,000+ parole decisions", "Eight judges' desks.", "stand/neutral/L; text:8 JUDGES@R"),
-  ("E", [("After a food break, about 65 percent of cases were granted parole.", "danziger2011")], "After a break: ~65%", "High bar after a snack.", "point/smile/L; bars:break=65%,before=10%@R"),
+  ("E", [("After a food break, about 65 percent of cases were granted parole.", "danziger2011")], "After a break: ~65%", "High bar after a snack.", "point/smile/L; bars:after break=65%,end of session=h6@R"),
   ("E", [("Then the rate fell gradually, sometimes to nearly zero, until the next break.", "danziger2011")], "Then it fell toward zero", "Falling line between breaks.", "stand/worry/L; lines:rate,time,fall@R"),
   ("E", [("The authors argued that irrelevant factors, like breaks, influence rulings.", "danziger2011")], "Breaks influence rulings?", "Cookie and a gavel.", "think/neutral/L; text:BREAKS?@R"),
   ("E", [("But Keren Weinshall-Margel and John Shapard replied that case order isn't random.", "weinshall2011")], "Critics: case order isn't random", "Shuffled case files.", "shrug/neutral/L; list:CASE 1,CASE 2@R"),
@@ -71,7 +71,7 @@ DAYS[12] = dict(
   ("E", [("In a 2016 test across 23 labs and 2,141 people, the related ego-depletion effect was close to zero.", "hagger2016")], "2016: ego depletion near zero", "23 lab icons; zero.", "stand/neutral/L; numbers:23 LABS@R; text:~ZERO@TR"),
   ("E", [("So decision fatigue isn't settled science.", "danziger2011,weinshall2011,hagger2016")], "Not settled science", "Scale balanced.", "shrug/smile/L; scale@R"),
   ("T", [("So be careful with claims that your brain simply runs out of decision power.", "hagger2016,weinshall2011")], "Be careful with 'runs out'", "Battery icon with a question mark.", "point/smile/L; qmark@R"),
-  ("C", [("Tomorrow: why do you finish a bad movie you're already hating?", "PLAN")], "Tomorrow: sunk costs", "Stickman watching a bad movie.", "stand/worry/L; coin:$12@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do you finish a bad movie you're already hating?", "PLAN")], "Tomorrow: sunk costs", "Stickman watching a bad movie.", "stand/worry/L; coin:$12@R"),
  ])
 
 DAYS[13] = dict(
@@ -87,11 +87,11 @@ DAYS[13] = dict(
   ("E", [("It's the tendency to continue something after you've invested money, effort or time.", "arkes1985")], "Keep going after investing", "Coin sinking into water.", "stand/neutral/L; coin:$@R"),
   ("E", [("At an Ohio University theater, they arranged for season tickets to be sold at three prices.", "arkes1985")], "Ohio University theater", "Ticket booth.", "stand/neutral/L; tag:3 PRICES@R"),
   ("E", [("At the beginning of the season, about a third bought at the full $15, a third at $13, and a third at $8.", "arkes1985")], "$15, $13 or $8", "Three tickets with prices.", "point/neutral/L; list:$15,$13,$8@R"),
-  ("E", [("Over the next six months, people who paid full price attended more plays than those who paid less.", "arkes1985")], "Full price = more plays", "Bars: $15 high, $8 low.", "stand/smile/L; bars:$8,$15@R"),
+  ("E", [("Over the next six months, people who paid full price attended more plays than those who paid less.", "arkes1985")], "Full price = more plays", "Bars: $15 high, $8 low.", "stand/smile/L; bars:$8=h35,$15=h70@R"),
   ("E", [("The authors suggest people continue partly to avoid appearing wasteful.", "arkes1985")], "Avoiding looking wasteful", "Stickman hiding an unused ticket.", "think/worry/L; tag:WASTE@R"),
   ("E", [("This was one field study with theater patrons.", "arkes1985")], "One field study", "Single theater icon.", "shrug/neutral/L; text:1 STUDY@R"),
   ("T", [("So when you're deciding whether to continue, ask what you'd choose if you hadn't already paid.", "arkes1985")], "Would you choose it unpaid?", "Stickman with a price tag crossed out.", "point/smile/L; tag:$0?@R"),
-  ("C", [("Tomorrow: why do we assume attractive people are better people?", "PLAN")], "Tomorrow: the halo effect", "Halo above a stickman.", "stand/neutral/L; text:HALO@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do we assume attractive people are better people?", "PLAN")], "Tomorrow: the halo effect", "Halo above a stickman.", "stand/neutral/L; text:HALO@R"),
  ])
 
 DAYS[14] = dict(
@@ -107,11 +107,11 @@ DAYS[14] = dict(
   ("E", [("The ratings were supposed to be independent: physique, intelligence, leadership and character.", "thorndike1920")], "Four separate ratings", "Four labeled boxes.", "point/neutral/L; list:BODY,MIND,LEAD,CHAR@R"),
   ("E", [("Soldiers rated as physically impressive were also rated as more intelligent, better leaders and finer in character.", "thorndike1920")], "Impressive in one = all", "One checked box pulling the others.", "think/neutral/L; check@R"),
   ("E", [("Thorndike called this a halo.", "thorndike1920")], "He called it a halo", "Halo over a head.", "stand/smile/L; text:HALO@R"),
-  ("E", [("In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities.", "dion1972")], "1972: attractive = nicer?", "Two photos; one with a halo.", "point/neutral/L; text:1972@TR"),
-  ("E", [("A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies.", "eagly1991")], "1991: modest and variable", "Wobbly small bars.", "shrug/neutral/L; bars:study 1,study 2@R"),
+  ("E", [("In 1972, Karen Dion and colleagues found people assumed attractive strangers had more desirable personalities.", "dion1972")], "1972: attractive = nicer?", "Two photos; one with a halo.", "point/neutral/L; crowd:2@R; text:1972@TR"),
+  ("E", [("A 1991 meta-analysis by Alice Eagly's team found that this beauty-is-good effect was moderately low and varied across studies.", "eagly1991")], "1991: modest and variable", "Wobbly small bars.", "shrug/neutral/L; bars:study 1=h22,study 2=h46,study 3=h12@R"),
   ("E", [("Attractive people were rated as more socially competent and better adjusted, on average.", "eagly1991")], "Rated more socially competent", "Smiling faces with checks.", "stand/smile/L; check@R"),
   ("T", [("So when someone seems impressive in one way, ask what you actually know about the rest.", "thorndike1920")], "What do I actually know?", "Stickman peering behind a halo.", "point/smile/L; qmark@R"),
-  ("C", [("Tomorrow: why do you love things you built yourself?", "PLAN")], "Tomorrow: things you built", "Stickman proudly holding a wobbly box.", "stand/smile/L; text:TOMORROW@TR; list:DIY@R"),
+  ("C", [("Tomorrow: why do you love things you built yourself?", "PLAN")], "Tomorrow: things you built", "Stickman proudly holding a wobbly box.", "stand/smile/L; list:DIY@R"),
  ])
 
 DAYS[15] = dict(
@@ -125,13 +125,13 @@ DAYS[15] = dict(
   ("H", [("Why do you love things you built yourself?", "PLAN")], "Why love your own build?", "Stickman proudly holding a wobbly box.", "stand/smile/C; list:DIY@R"),
   ("E", [("Michael Norton, Daniel Mochon and Dan Ariely call it the IKEA effect.", "norton2012")], "The IKEA effect", "Title card IKEA EFFECT.", "point/neutral/L; text:IKEA EFFECT@R"),
   ("E", [("In four studies, people assembled IKEA boxes, folded origami and built Lego sets.", "norton2012")], "IKEA boxes, origami, Lego", "Three craft icons.", "stand/neutral/L; list:BOX,ORIGAMI,LEGO@R"),
-  ("E", [("They valued their own creations more than similar products they hadn't made.", "norton2012")], "Valued their own more", "Two bars: own high, others lower.", "stand/smile/L; bars:others,own@R"),
+  ("E", [("They valued their own creations more than similar products they hadn't made.", "norton2012")], "Valued their own more", "Two bars: own high, others lower.", "stand/smile/L; bars:others=h40,own=h70@R"),
   ("E", [("Participants also saw their amateur creations as similar in value to experts' creations.", "norton2012")], "Amateur = expert?", "Wobbly crane next to a perfect one.", "think/smile/L; list:MINE,EXPERT@R"),
   ("E", [("And they expected other people to share their opinion.", "norton2012")], "Expected others to agree", "Crowd nodding.", "stand/smile/L; crowd:4@R"),
   ("E", [("In another study, the effect held even for simple boxes that couldn't be customized.", "norton2012")], "Even simple, uncustomizable boxes", "Plain boxes.", "point/neutral/L; list:BOX,BOX@R"),
   ("E", [("But the effect disappeared when people failed to finish building, or when their creation was destroyed.", "norton2012")], "Gone if unfinished or destroyed", "Broken box with a cross.", "shock/worry/L; cross@R"),
   ("T", [("So when you've built something, ask how much of your attachment comes from the effort.", "norton2012")], "How much is the effort?", "Stickman weighing effort vs. object.", "think/smile/L; scale@R"),
-  ("C", [("Tomorrow: does time really speed up as you get older?", "PLAN")], "Tomorrow: time and age", "Clock spinning fast.", "stand/neutral/L; clock@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: does time really speed up as you get older?", "PLAN")], "Tomorrow: time and age", "Clock spinning fast.", "stand/neutral/L; clock@R"),
  ])
 
 DAYS[16] = dict(
@@ -148,10 +148,10 @@ DAYS[16] = dict(
   ("E", [("But when asked about the last 10 years, older people said they'd passed faster.", "wittmann2005")], "Last 10 years: older = faster", "Calendar of ten years.", "think/neutral/L; text:10 YEARS@R"),
   ("E", [("For shorter spans, like the last week or month, answers didn't change with age.", "wittmann2005")], "Short spans: no age change", "Flat line.", "shrug/neutral/L; lines:young,old,flat@R"),
   ("E", [("In 2010, William Friedman and Steve Janssen surveyed 1,865 adults.", "friedman2010")], "2010: 1,865 adults", "Larger crowd.", "stand/neutral/L; crowd:5@R; text:1,865@TR"),
-  ("E", [("Age differences in the felt speed of time were very small, except for the last ten years.", "friedman2010")], "Age differences very small", "Tiny bars.", "point/neutral/L; bars:young,old@R"),
+  ("E", [("Age differences in the felt speed of time were very small, except for the last ten years.", "friedman2010")], "Age differences very small", "Tiny bars.", "point/neutral/L; bars:young=h40,old=h44@R"),
   ("E", [("They tied the feeling to time pressure: people who felt rushed said time passed quickly.", "friedman2010")], "Linked to time pressure", "Stickman rushing with a checklist.", "walk/worry/L; list:TODO,TODO@R"),
   ("T", [("So if time feels like it's flying, check how rushed you feel, not just how old you are.", "friedman2010")], "How rushed do you feel?", "Stickman checking a stress meter.", "point/smile/L; text:RUSHED?@R"),
-  ("C", [("Tomorrow: do crowds really make people less likely to help?", "PLAN")], "Tomorrow: the bystander effect", "Crowd of tiny stickmen.", "stand/worry/L; crowd:5@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: do crowds really make people less likely to help?", "PLAN")], "Tomorrow: the bystander effect", "Crowd of tiny stickmen.", "stand/worry/L; crowd:5@R"),
  ])
 
 DAYS[17] = dict(
@@ -167,12 +167,12 @@ DAYS[17] = dict(
   ("E", [("People who believed they were alone with a person having a seizure helped about 85 percent of the time.", "darley1968")], "Alone: ~85% helped", "Tall bar.", "point/smile/L; bars:alone=85%,with 4 others=31%@R"),
   ("E", [("With four others they believed were listening, only about 31 percent helped.", "darley1968")], "With four others: ~31%", "Short bar.", "stand/worry/L; bars:alone=85%,with 4 others=31%@R"),
   ("E", [("That's the bystander effect: more witnesses, less helping.", "darley1968")], "The bystander effect", "Crowd shrinking helper count.", "stand/neutral/L; crowd:5@R"),
-  ("E", [("But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.", "fischer2011")], "2011: weaker in danger", "Shrinking bar next to a red warning.", "point/neutral/L; bars:safe,danger@R"),
+  ("E", [("But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.", "fischer2011")], "2011: weaker in danger", "Shrinking bar next to a red warning.", "point/neutral/L; bars:safe=h60,danger=h25@R"),
   ("E", [("And in 2020, researchers studied 219 real conflicts on CCTV in Amsterdam, Lancaster and Cape Town.", "philpot2020")], "2020: 219 real conflicts on CCTV", "Camera icon.", "stand/neutral/L; text:219 CONFLICTS@R"),
   ("E", [("Bystanders intervened in more than 90 percent of them.", "philpot2020")], "Bystanders stepped in: 90%+", "Big 90%+ check.", "stand/smile/L; text:90%+@R; check@TR"),
   ("E", [("Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder.", "manning2007")], "'38 witnesses': no evidence", "Crossed-out '38'.", "shrug/neutral/L; text:38?@R; cross@TR"),
   ("T", [("So 'crowds never help' is too simple: in real public conflicts, help was the norm.", "philpot2020")], "'Crowds never help' is too simple", "Helper stepping forward from a crowd.", "walk/smile/L; crowd:3@R"),
-  ("C", [("Tomorrow: why does bad news grab your attention?", "PLAN")], "Tomorrow: bad news", "Newspaper with a siren.", "stand/worry/L; text:BAD NEWS@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why does bad news grab your attention?", "PLAN")], "Tomorrow: bad news", "Newspaper with a siren.", "stand/worry/L; text:BAD NEWS@R"),
  ])
 
 DAYS[18] = dict(
@@ -186,13 +186,13 @@ DAYS[18] = dict(
   ("H", [("Why does bad news grab your attention?", "PLAN")], "Why bad news?", "Stickman staring at a siren headline.", "shock/worry/C; text:BAD NEWS@R"),
   ("E", [("In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents.", "soroka2019")], "2019: 17 countries", "Globe with 17.", "stand/neutral/L; text:17 COUNTRIES@R"),
   ("E", [("They measured the bodily reactions of 1,156 people watching real news videos.", "soroka2019")], "1,156 people, real news", "Sensor on a viewer.", "stand/neutral/L; text:1,156@R"),
-  ("E", [("On average, negative stories produced stronger physiological activation than positive ones.", "soroka2019")], "Negative = stronger reaction", "Bars: negative higher.", "point/neutral/L; bars:positive,negative@R"),
-  ("E", [("But individuals varied a lot in how strongly they reacted.", "soroka2019")], "People varied a lot", "Scatter of different heights.", "shrug/neutral/L; bars:person A,person B@R"),
+  ("E", [("On average, negative stories produced stronger physiological activation than positive ones.", "soroka2019")], "Negative = stronger reaction", "Bars: negative higher.", "point/neutral/L; bars:positive=h35,negative=h65@R"),
+  ("E", [("But individuals varied a lot in how strongly they reacted.", "soroka2019")], "People varied a lot", "Scatter of different heights.", "shrug/neutral/L; bars:person A=h30,person B=h75@R"),
   ("E", [("In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read.", "trussler2014")], "2014: people choose stories", "Menu of headlines.", "think/neutral/L; list:GOOD,BAD,OTHER@R"),
   ("E", [("People's choices leaned negative, even when that didn't match what they said they wanted.", "trussler2014")], "Choices leaned negative", "Arrow toward BAD.", "stand/worry/L; arrow:right@R; text:BAD@TR"),
   ("E", [("The authors argue that demand, not just editors, helps explain why news is negative.", "trussler2014")], "Demand helps explain it", "Readers as a crowd.", "stand/neutral/L; crowd:4@R"),
   ("T", [("So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally.", "soroka2019")], "A common bias, not universal", "Stickman noticing the pull.", "point/smile/L; text:NOTICE IT@R"),
-  ("C", [("Tomorrow: how can a menu option you never order change what you pick?", "PLAN")], "Tomorrow: the decoy effect", "Menu with three options.", "stand/neutral/L; list:S,M,L@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: how can a menu option you never order change what you pick?", "PLAN")], "Tomorrow: the decoy effect", "Menu with three options.", "stand/neutral/L; list:S,M,L@R"),
  ])
 
 DAYS[19] = dict(
@@ -206,13 +206,13 @@ DAYS[19] = dict(
   ("H", [("Can a third option you never choose change your pick?", "PLAN")], "A third option changes picks?", "Menu with three options.", "think/neutral/C; list:A,B,C@R"),
   ("E", [("In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options.", "huber1982")], "1982: dominated options", "Title card DECOY.", "point/neutral/L; text:DECOY@R"),
   ("E", [("A decoy is an option that's clearly worse than one item, but not clearly worse than the other.", "huber1982")], "A decoy: worse than one only", "Three tags: one clearly worse than another.", "stand/neutral/L; list:A,B,DECOY@R"),
-  ("E", [("Adding a decoy could increase how often people picked the option that dominated it.", "huber1982")], "Decoy boosts the dominating option", "Bars: option rises.", "point/smile/L; bars:without,with decoy@R"),
+  ("E", [("Adding a decoy could increase how often people picked the option that dominated it.", "huber1982")], "Decoy boosts the dominating option", "Bars: option rises.", "point/smile/L; bars:without=h35,with decoy=h65@R"),
   ("E", [("In 2014, Shane Frederick and colleagues tested the limits of this attraction effect.", "frederick2014")], "2014: testing the limits", "Magnifier on a bar.", "stand/neutral/L; text:2014@TR"),
   ("E", [("They found it showed up mainly when every product feature was shown as a number.", "frederick2014")], "Mostly with numbers on paper", "Spec sheet with numbers.", "think/neutral/L; list:7.2,5.5@R"),
   ("E", [("It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room.", "frederick2014")], "Not with tasting or photos", "Drink and photo with crosses.", "shrug/neutral/L; cross@R"),
   ("E", [("The authors suggest it may be limited to numbers-on-a-page choices.", "frederick2014")], "May be limited to numbers", "Page with numbers.", "stand/neutral/L; text:NUMBERS@R"),
   ("T", [("So when options are listed as numbers, ask if one of them is just there to make another look good.", "huber1982")], "Is one just a decoy?", "Stickman pointing at the odd one out.", "point/smile/L; list:A,B,C?@R"),
-  ("C", [("Tomorrow: why do you put off things you care about?", "PLAN")], "Tomorrow: procrastination", "Stickman and a pile of tasks.", "stand/worry/L; list:TODO,TODO@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do you put off things you care about?", "PLAN")], "Tomorrow: procrastination", "Stickman and a pile of tasks.", "stand/worry/L; list:TODO,TODO@R"),
  ])
 
 DAYS[20] = dict(
@@ -233,5 +233,5 @@ DAYS[20] = dict(
   ("E", [("You avoid the task to escape bad feelings now.", "sirois2013")], "Escape bad feelings now", "Stickman running from a cloud.", "walk/worry/L; waves@R"),
   ("E", [("While the consequences land on your future self.", "sirois2013")], "Consequences hit future you", "Arrow to a later date.", "stand/worry/L; arrow:right@R; text:LATER@TR"),
   ("T", [("So when you stall, ask what feeling you're avoiding, not just whether you're lazy.", "sirois2013")], "What feeling are you avoiding?", "Stickman asking himself.", "point/smile/L; qmark@R"),
-  ("C", [("Tomorrow: why do you like what you've seen a lot?", "PLAN")], "Tomorrow: familiarity", "Same shape repeated.", "stand/neutral/L; crowd:4@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: why do you like what you've seen a lot?", "PLAN")], "Tomorrow: familiarity", "Same shape repeated.", "stand/neutral/L; crowd:4@R"),
  ])

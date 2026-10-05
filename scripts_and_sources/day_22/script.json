@@ -84,7 +84,7 @@
       "narration_line": "They also reported more déjà vu.",
       "on_screen_text": "More déjà vu reported",
       "visual_description": "Rising bar.",
-      "visual_spec": "shock/neutral/L; bars:novel,same layout@R"
+      "visual_spec": "shock/neutral/L; bars:novel=h30,same layout=h65@R"
     },
     {
       "start_sec": 39.74,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: do search engines change how you remember?",
       "on_screen_text": "Tomorrow: Google and memory",
       "visual_description": "Search box.",
-      "visual_spec": "stand/neutral/L; text:SEARCH@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; text:SEARCH@R"
     }
   ],
   "description": "Why does a new place feel strangely familiar? About 60% of people have had déjà vu, researchers have several competing explanations, and a virtual-reality study supports a scene-layout idea. New psychology short every day on The Psyche Discourse. Source: Brown, A. S. (2003). A review of the déjà vu experience. Psychological Bulletin, 129(3), 394-413. Source: Cleary, A. M., Brown, A. S., Sawyer, B. D., Nomi, J. S., Ajoku, A. C., & Ryals, A. J. (2012). Familiarity from the configuration of objects in 3-dimensional space and its relation to déjà vu: A virtual reality investigation. Consciousness and Cognition, 21(2), 969-975.",

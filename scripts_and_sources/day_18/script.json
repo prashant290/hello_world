@@ -39,7 +39,7 @@
       "narration_line": "On average, negative stories produced stronger physiological activation than positive ones.",
       "on_screen_text": "Negative = stronger reaction",
       "visual_description": "Bars: negative higher.",
-      "visual_spec": "point/neutral/L; bars:positive,negative@R"
+      "visual_spec": "point/neutral/L; bars:positive=h35,negative=h65@R"
     },
     {
       "start_sec": 16.58,
@@ -48,7 +48,7 @@
       "narration_line": "But individuals varied a lot in how strongly they reacted.",
       "on_screen_text": "People varied a lot",
       "visual_description": "Scatter of different heights.",
-      "visual_spec": "shrug/neutral/L; bars:person A,person B@R"
+      "visual_spec": "shrug/neutral/L; bars:person A=h30,person B=h75@R"
     },
     {
       "start_sec": 20.26,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: how can a menu option you never order change what you pick?",
       "on_screen_text": "Tomorrow: the decoy effect",
       "visual_description": "Menu with three options.",
-      "visual_spec": "stand/neutral/L; list:S,M,L@R; text:TOMORROW@TR"
+      "visual_spec": "stand/neutral/L; list:S,M,L@R"
     }
   ],
   "description": "Why does bad news pull you in? A 17-country lab study found negative news produced stronger physiological reactions on average, and a separate study found people's choices leaned negative. New psychology short every day on The Psyche Discourse. Source: Soroka, S., Fournier, P., & Nir, L. (2019). Cross-national evidence of a negativity bias in psychophysiological reactions to news. Proceedings of the National Academy of Sciences, 116(38), 18888-18892. Source: Trussler, M., & Soroka, S. (2014). Consumer demand for cynical and negative news frames. International Journal of Press/Politics, 19(3), 360-379.",

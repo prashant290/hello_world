@@ -39,7 +39,7 @@
       "narration_line": "People rated self-produced touch as less ticklish, less intense and less pleasant.",
       "on_screen_text": "Self-touch: less ticklish",
       "visual_description": "Bars: self low, robot high.",
-      "visual_spec": "stand/smile/L; bars:self,robot@R"
+      "visual_spec": "stand/smile/L; bars:self=h30,robot=h70@R"
     },
     {
       "start_sec": 16.7,
@@ -93,7 +93,7 @@
       "narration_line": "Tomorrow: why does everything take longer than you planned?",
       "on_screen_text": "Tomorrow: planning",
       "visual_description": "Clock and calendar.",
-      "visual_spec": "stand/worry/L; clock@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; clock@R"
     }
   ],
   "description": "Why can't you tickle yourself? A 1998 experiment found self-produced touch felt less ticklish than the same touch from a robot, and the brain appears to predict the sensory result of your own movements. New psychology short every day on The Psyche Discourse. Source: Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. Nature Neuroscience, 1(7), 635-640.",

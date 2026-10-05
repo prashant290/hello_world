@@ -30,7 +30,7 @@
       "narration_line": "After a food break, about 65 percent of cases were granted parole.",
       "on_screen_text": "After a break: ~65%",
       "visual_description": "High bar after a snack.",
-      "visual_spec": "point/smile/L; bars:break=65%,before=10%@R"
+      "visual_spec": "point/smile/L; bars:after break=65%,end of session=h6@R"
     },
     {
       "start_sec": 12.44,
@@ -102,7 +102,7 @@
       "narration_line": "Tomorrow: why do you finish a bad movie you're already hating?",
       "on_screen_text": "Tomorrow: sunk costs",
       "visual_description": "Stickman watching a bad movie.",
-      "visual_spec": "stand/worry/L; coin:$12@R; text:TOMORROW@TR"
+      "visual_spec": "stand/worry/L; coin:$12@R"
     }
   ],
   "description": "Do decisions really wear your brain out? A famous parole study seemed to show it, but critics say case order explains the pattern, and a 23-lab replication of the related ego-depletion effect found it near zero. New psychology short every day on The Psyche Discourse. Source: Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889-6892. Source: Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546-573.",
