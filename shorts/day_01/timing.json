@@ -1,694 +1,694 @@
 {
- "engine": "espeak",
- "tempo_factor": 1.0202,
- "duration": 49.095,
- "speech_end": 48.51,
+ "engine": "kokoro",
+ "tempo_factor": 1.12,
+ "duration": 49.517,
+ "speech_end": 48.983,
  "lines": [
   {
    "idx": 0,
-   "start": 0.118,
-   "end": 2.272,
+   "start": 0.107,
+   "end": 1.913,
    "words": [
     {
      "w": "Why",
-     "start": 0.118,
-     "end": 0.32
+     "start": 0.107,
+     "end": 0.296
     },
     {
      "w": "do",
-     "start": 0.32,
-     "end": 0.476
+     "start": 0.296,
+     "end": 0.443
     },
     {
      "w": "you",
-     "start": 0.476,
-     "end": 0.678
+     "start": 0.443,
+     "end": 0.632
     },
     {
      "w": "still",
-     "start": 0.678,
-     "end": 0.97
+     "start": 0.632,
+     "end": 0.905
     },
     {
      "w": "cringe",
-     "start": 0.97,
-     "end": 1.307
+     "start": 0.905,
+     "end": 1.221
     },
     {
      "w": "at",
-     "start": 1.307,
-     "end": 1.464
+     "start": 1.221,
+     "end": 1.367
     },
     {
      "w": "that",
-     "start": 1.464,
-     "end": 1.711
+     "start": 1.367,
+     "end": 1.598
     },
     {
      "w": "moment?",
-     "start": 1.711,
-     "end": 2.272
+     "start": 1.598,
+     "end": 1.913
     }
    ]
   },
   {
    "idx": 1,
-   "start": 2.39,
-   "end": 6.268,
+   "start": 2.02,
+   "end": 5.961,
    "words": [
     {
      "w": "When",
-     "start": 2.39,
-     "end": 2.65
+     "start": 2.021,
+     "end": 2.242
     },
     {
      "w": "something",
-     "start": 2.65,
-     "end": 3.146
+     "start": 2.242,
+     "end": 2.665
     },
     {
      "w": "embarrasses",
-     "start": 3.146,
-     "end": 3.738
+     "start": 2.665,
+     "end": 3.17
     },
     {
      "w": "you,",
-     "start": 3.738,
-     "end": 4.092
+     "start": 3.17,
+     "end": 3.351
     },
     {
      "w": "your",
-     "start": 4.092,
-     "end": 4.352
+     "start": 3.788,
+     "end": 4.079
     },
     {
      "w": "body",
-     "start": 4.352,
-     "end": 4.613
+     "start": 4.079,
+     "end": 4.371
     },
     {
      "w": "floods",
-     "start": 4.613,
-     "end": 4.967
+     "start": 4.371,
+     "end": 4.769
     },
     {
      "w": "with",
-     "start": 4.967,
-     "end": 5.227
+     "start": 4.769,
+     "end": 5.06
     },
     {
      "w": "stress",
-     "start": 5.227,
-     "end": 5.582
+     "start": 5.06,
+     "end": 5.458
     },
     {
      "w": "hormones.",
-     "start": 5.582,
-     "end": 6.267
+     "start": 5.458,
+     "end": 5.961
     }
    ]
   },
   {
    "idx": 2,
-   "start": 6.385,
-   "end": 12.715,
+   "start": 6.068,
+   "end": 12.439,
    "words": [
     {
      "w": "Your",
-     "start": 6.385,
-     "end": 6.67
+     "start": 6.068,
+     "end": 6.412
     },
     {
      "w": "amygdala,",
-     "start": 6.67,
-     "end": 7.319
+     "start": 6.412,
+     "end": 7.005
     },
     {
      "w": "a",
-     "start": 7.319,
-     "end": 7.449
+     "start": 7.184,
+     "end": 7.308
     },
     {
      "w": "small",
-     "start": 7.449,
-     "end": 7.786
+     "start": 7.308,
+     "end": 7.629
     },
     {
      "w": "emotion",
-     "start": 7.786,
-     "end": 8.227
+     "start": 7.629,
+     "end": 8.049
     },
     {
      "w": "center",
-     "start": 8.227,
-     "end": 8.616
+     "start": 8.049,
+     "end": 8.42
     },
     {
      "w": "deep",
-     "start": 8.616,
-     "end": 8.901
+     "start": 8.42,
+     "end": 8.691
     },
     {
      "w": "in",
-     "start": 8.901,
-     "end": 9.083
+     "start": 8.691,
+     "end": 8.864
     },
     {
      "w": "the",
-     "start": 9.083,
-     "end": 9.317
+     "start": 8.864,
+     "end": 9.087
     },
     {
      "w": "brain,",
-     "start": 9.317,
-     "end": 9.809
+     "start": 9.087,
+     "end": 9.407
     },
     {
      "w": "then",
-     "start": 9.809,
-     "end": 10.094
+     "start": 9.773,
+     "end": 10.004
     },
     {
      "w": "tells",
-     "start": 10.094,
-     "end": 10.431
+     "start": 10.004,
+     "end": 10.278
     },
     {
      "w": "your",
-     "start": 10.431,
-     "end": 10.718
+     "start": 10.278,
+     "end": 10.509
     },
     {
      "w": "memory",
-     "start": 10.718,
-     "end": 11.107
+     "start": 10.509,
+     "end": 10.824
     },
     {
      "w": "system:",
-     "start": 11.107,
-     "end": 11.651
+     "start": 10.824,
+     "end": 11.139
     },
     {
      "w": "save",
-     "start": 11.651,
-     "end": 11.936
+     "start": 11.648,
+     "end": 11.929
     },
     {
      "w": "this",
-     "start": 11.936,
-     "end": 12.221
+     "start": 11.929,
+     "end": 12.21
     },
     {
      "w": "one.",
-     "start": 12.221,
-     "end": 12.714
+     "start": 12.21,
+     "end": 12.438
     }
    ]
   },
   {
    "idx": 3,
-   "start": 12.832,
-   "end": 19.28,
+   "start": 12.546,
+   "end": 20.575,
    "words": [
     {
      "w": "Neuroscientist",
-     "start": 12.832,
-     "end": 13.572
+     "start": 12.546,
+     "end": 13.504
     },
     {
      "w": "James",
-     "start": 13.572,
-     "end": 13.883
+     "start": 13.504,
+     "end": 13.904
     },
     {
      "w": "McGaugh",
-     "start": 13.883,
-     "end": 14.289
+     "start": 13.904,
+     "end": 14.429
     },
     {
      "w": "showed",
-     "start": 14.289,
-     "end": 14.647
+     "start": 14.429,
+     "end": 14.893
     },
     {
      "w": "across",
-     "start": 14.647,
-     "end": 15.005
+     "start": 14.893,
+     "end": 15.356
     },
     {
      "w": "decades",
-     "start": 15.005,
-     "end": 15.411
+     "start": 15.356,
+     "end": 15.881
     },
     {
      "w": "of",
-     "start": 15.411,
-     "end": 15.579
+     "start": 15.881,
+     "end": 16.097
     },
     {
      "w": "research",
-     "start": 15.579,
-     "end": 16.032
+     "start": 16.097,
+     "end": 16.684
     },
     {
      "w": "that",
-     "start": 16.032,
-     "end": 16.295
+     "start": 16.684,
+     "end": 17.023
     },
     {
      "w": "emotional",
-     "start": 16.295,
-     "end": 16.796
+     "start": 17.023,
+     "end": 17.671
     },
     {
      "w": "arousal",
-     "start": 16.796,
-     "end": 17.203
+     "start": 17.671,
+     "end": 18.196
     },
     {
      "w": "strengthens",
-     "start": 17.203,
-     "end": 17.8
+     "start": 18.196,
+     "end": 18.969
     },
     {
      "w": "how",
-     "start": 17.8,
-     "end": 18.014
+     "start": 18.969,
+     "end": 19.246
     },
     {
      "w": "memories",
-     "start": 18.014,
-     "end": 18.468
+     "start": 19.246,
+     "end": 19.833
     },
     {
      "w": "get",
-     "start": 18.468,
-     "end": 18.683
+     "start": 19.833,
+     "end": 20.112
     },
     {
      "w": "stored.",
-     "start": 18.683,
-     "end": 19.28
+     "start": 20.112,
+     "end": 20.574
     }
    ]
   },
   {
    "idx": 4,
-   "start": 19.398,
-   "end": 23.41,
+   "start": 20.682,
+   "end": 24.294,
    "words": [
     {
      "w": "Then",
-     "start": 19.397,
-     "end": 19.673
+     "start": 20.681,
+     "end": 20.912
     },
     {
      "w": "you",
-     "start": 19.673,
-     "end": 19.899
+     "start": 20.912,
+     "end": 21.102
     },
     {
      "w": "replay",
-     "start": 19.899,
-     "end": 20.275
+     "start": 21.102,
+     "end": 21.416
     },
     {
      "w": "it",
-     "start": 20.275,
-     "end": 20.45
+     "start": 21.416,
+     "end": 21.563
     },
     {
      "w": "again",
-     "start": 20.45,
-     "end": 20.777
+     "start": 21.563,
+     "end": 21.836
     },
     {
      "w": "and",
-     "start": 20.777,
-     "end": 21.002
+     "start": 21.836,
+     "end": 22.025
     },
     {
      "w": "again,",
-     "start": 21.002,
-     "end": 21.478
+     "start": 22.025,
+     "end": 22.297
     },
     {
      "w": "which",
-     "start": 21.478,
-     "end": 21.805
+     "start": 22.753,
+     "end": 23.052
     },
     {
      "w": "strengthens",
-     "start": 21.805,
-     "end": 22.431
+     "start": 23.052,
+     "end": 23.627
     },
     {
      "w": "it",
-     "start": 22.431,
-     "end": 22.608
+     "start": 23.627,
+     "end": 23.787
     },
     {
      "w": "even",
-     "start": 22.608,
-     "end": 22.883
+     "start": 23.787,
+     "end": 24.041
     },
     {
      "w": "more.",
-     "start": 22.883,
-     "end": 23.41
+     "start": 24.041,
+     "end": 24.294
     }
    ]
   },
   {
    "idx": 5,
-   "start": 23.527,
-   "end": 33.836,
+   "start": 24.401,
+   "end": 34.667,
    "words": [
     {
      "w": "But",
-     "start": 23.527,
-     "end": 23.794
+     "start": 24.401,
+     "end": 24.62
     },
     {
      "w": "vivid",
-     "start": 23.794,
-     "end": 24.179
+     "start": 24.62,
+     "end": 24.936
     },
     {
      "w": "isn't",
-     "start": 24.179,
-     "end": 24.504
+     "start": 24.936,
+     "end": 25.203
     },
     {
      "w": "the",
-     "start": 24.504,
-     "end": 24.771
+     "start": 25.203,
+     "end": 25.421
     },
     {
      "w": "same",
-     "start": 24.771,
-     "end": 25.097
+     "start": 25.421,
+     "end": 25.688
     },
     {
      "w": "as",
-     "start": 25.097,
-     "end": 25.304
+     "start": 25.688,
+     "end": 25.859
     },
     {
      "w": "accurate.",
-     "start": 25.304,
-     "end": 26.164
+     "start": 25.859,
+     "end": 26.321
     },
     {
      "w": "After",
-     "start": 26.164,
-     "end": 26.549
+     "start": 27.008,
+     "end": 27.895
     },
     {
      "w": "9/11,",
-     "start": 26.549,
-     "end": 26.993
+     "start": 27.895,
+     "end": 28.508
     },
     {
      "w": "people",
-     "start": 26.993,
-     "end": 27.437
+     "start": 28.928,
+     "end": 29.223
     },
     {
      "w": "felt",
-     "start": 27.437,
-     "end": 27.764
+     "start": 29.223,
+     "end": 29.439
     },
     {
      "w": "certain",
-     "start": 27.764,
-     "end": 28.266
+     "start": 29.439,
+     "end": 29.774
     },
     {
      "w": "about",
-     "start": 28.266,
-     "end": 28.652
+     "start": 29.774,
+     "end": 30.029
     },
     {
      "w": "their",
-     "start": 28.652,
-     "end": 29.037
+     "start": 30.029,
+     "end": 30.286
     },
     {
      "w": "memories,",
-     "start": 29.037,
-     "end": 29.778
+     "start": 30.286,
+     "end": 30.66
     },
     {
      "w": "yet",
-     "start": 29.778,
-     "end": 30.045
+     "start": 30.767,
+     "end": 31.043
     },
     {
      "w": "details",
-     "start": 30.045,
-     "end": 30.547
+     "start": 31.043,
+     "end": 31.565
     },
     {
      "w": "drifted",
-     "start": 30.547,
-     "end": 31.051
+     "start": 31.565,
+     "end": 32.087
     },
     {
      "w": "over",
-     "start": 31.051,
-     "end": 31.378
+     "start": 32.087,
+     "end": 32.425
     },
     {
      "w": "time",
-     "start": 31.378,
-     "end": 31.703
+     "start": 32.425,
+     "end": 32.762
     },
     {
      "w": "while",
-     "start": 31.703,
-     "end": 32.088
+     "start": 32.762,
+     "end": 33.162
     },
     {
      "w": "confidence",
-     "start": 32.088,
-     "end": 32.77
+     "start": 33.162,
+     "end": 33.868
     },
     {
      "w": "stayed",
-     "start": 32.77,
-     "end": 33.214
+     "start": 33.868,
+     "end": 34.329
     },
     {
      "w": "high.",
-     "start": 33.214,
-     "end": 33.836
+     "start": 34.329,
+     "end": 34.667
     }
    ]
   },
   {
    "idx": 6,
-   "start": 33.953,
-   "end": 41.213,
+   "start": 34.774,
+   "end": 41.751,
    "words": [
     {
      "w": "Next",
-     "start": 33.954,
-     "end": 34.259
+     "start": 34.774,
+     "end": 35.102
     },
     {
      "w": "time",
-     "start": 34.259,
-     "end": 34.563
+     "start": 35.102,
+     "end": 35.429
     },
     {
      "w": "it",
-     "start": 34.563,
-     "end": 34.757
+     "start": 35.429,
+     "end": 35.638
     },
     {
      "w": "replays,",
-     "start": 34.757,
-     "end": 35.395
+     "start": 35.638,
+     "end": 36.146
     },
     {
      "w": "tell",
-     "start": 35.395,
-     "end": 35.699
+     "start": 36.146,
+     "end": 36.473
     },
     {
      "w": "yourself:",
-     "start": 35.699,
-     "end": 36.391
+     "start": 36.473,
+     "end": 37.04
     },
     {
      "w": "that's",
-     "start": 36.391,
-     "end": 36.752
+     "start": 37.04,
+     "end": 37.428
     },
     {
      "w": "just",
-     "start": 36.752,
-     "end": 37.057
+     "start": 37.428,
+     "end": 37.755
     },
     {
      "w": "my",
-     "start": 37.057,
-     "end": 37.251
+     "start": 37.755,
+     "end": 37.964
     },
     {
      "w": "brain",
-     "start": 37.251,
-     "end": 37.611
+     "start": 37.964,
+     "end": 38.352
     },
     {
      "w": "tagging",
-     "start": 37.611,
-     "end": 38.082
+     "start": 38.352,
+     "end": 38.859
     },
     {
      "w": "it",
-     "start": 38.082,
-     "end": 38.275
+     "start": 38.859,
+     "end": 39.067
     },
     {
      "w": "important,",
-     "start": 38.275,
-     "end": 39.024
+     "start": 39.067,
+     "end": 39.694
     },
     {
      "w": "not",
-     "start": 39.024,
-     "end": 39.273
+     "start": 39.694,
+     "end": 39.962
     },
     {
      "w": "proof",
-     "start": 39.273,
-     "end": 39.634
+     "start": 39.962,
+     "end": 40.349
     },
     {
      "w": "anyone",
-     "start": 39.634,
-     "end": 40.05
+     "start": 40.349,
+     "end": 40.796
     },
     {
      "w": "else",
-     "start": 40.05,
-     "end": 40.354
+     "start": 40.796,
+     "end": 41.125
     },
     {
      "w": "remembers.",
-     "start": 40.354,
-     "end": 41.213
+     "start": 41.125,
+     "end": 41.751
     }
    ]
   },
   {
    "idx": 7,
-   "start": 41.331,
-   "end": 44.102,
+   "start": 41.858,
+   "end": 44.381,
    "words": [
     {
      "w": "Then",
-     "start": 41.331,
-     "end": 41.595
+     "start": 41.858,
+     "end": 42.122
     },
     {
      "w": "shift",
-     "start": 41.595,
-     "end": 41.909
+     "start": 42.122,
+     "end": 42.435
     },
     {
      "w": "your",
-     "start": 41.909,
-     "end": 42.174
+     "start": 42.435,
+     "end": 42.699
     },
     {
      "w": "attention",
-     "start": 42.174,
-     "end": 42.68
+     "start": 42.699,
+     "end": 43.204
     },
     {
      "w": "to",
-     "start": 42.68,
-     "end": 42.848
+     "start": 43.204,
+     "end": 43.371
     },
     {
      "w": "something",
-     "start": 42.848,
-     "end": 43.355
+     "start": 43.371,
+     "end": 43.877
     },
     {
      "w": "absorbing.",
-     "start": 43.355,
-     "end": 44.102
+     "start": 43.877,
+     "end": 44.381
     }
    ]
   },
   {
    "idx": 8,
-   "start": 44.219,
-   "end": 48.51,
+   "start": 44.488,
+   "end": 48.983,
    "words": [
     {
      "w": "Tomorrow:",
-     "start": 44.219,
-     "end": 44.843
+     "start": 44.488,
+     "end": 44.988
     },
     {
      "w": "the",
-     "start": 44.843,
-     "end": 45.067
+     "start": 45.444,
+     "end": 45.676
     },
     {
      "w": "strange",
-     "start": 45.067,
-     "end": 45.492
+     "start": 45.676,
+     "end": 46.115
     },
     {
      "w": "reason",
-     "start": 45.492,
-     "end": 45.865
+     "start": 46.115,
+     "end": 46.503
     },
     {
      "w": "almost",
-     "start": 45.865,
-     "end": 46.24
+     "start": 46.503,
+     "end": 46.89
     },
     {
      "w": "nobody",
-     "start": 46.24,
-     "end": 46.614
+     "start": 46.89,
+     "end": 47.278
     },
     {
      "w": "noticed",
-     "start": 46.614,
-     "end": 47.039
+     "start": 47.278,
+     "end": 47.717
     },
     {
      "w": "it",
-     "start": 47.039,
-     "end": 47.213
+     "start": 47.717,
+     "end": 47.897
     },
     {
      "w": "in",
-     "start": 47.213,
-     "end": 47.388
+     "start": 47.897,
+     "end": 48.079
     },
     {
      "w": "the",
-     "start": 47.388,
-     "end": 47.612
+     "start": 48.079,
+     "end": 48.311
     },
     {
      "w": "first",
-     "start": 47.612,
-     "end": 47.936
+     "start": 48.311,
+     "end": 48.646
     },
     {
      "w": "place.",
-     "start": 47.936,
-     "end": 48.51
+     "start": 48.646,
+     "end": 48.982
     }
    ]
   }
@@ -696,39 +696,39 @@
  "scenes": [
   {
    "start": 0.0,
-   "end": 2.39
+   "end": 2.02
   },
   {
-   "start": 2.39,
-   "end": 6.385
+   "start": 2.02,
+   "end": 6.068
   },
   {
-   "start": 6.385,
-   "end": 12.832
+   "start": 6.068,
+   "end": 12.546
   },
   {
-   "start": 12.832,
-   "end": 19.398
+   "start": 12.546,
+   "end": 20.682
   },
   {
-   "start": 19.398,
-   "end": 23.527
+   "start": 20.682,
+   "end": 24.401
   },
   {
-   "start": 23.527,
-   "end": 33.953
+   "start": 24.401,
+   "end": 34.774
   },
   {
-   "start": 33.953,
-   "end": 41.331
+   "start": 34.774,
+   "end": 41.858
   },
   {
-   "start": 41.331,
-   "end": 44.219
+   "start": 41.858,
+   "end": 44.488
   },
   {
-   "start": 44.219,
-   "end": 49.095
+   "start": 44.488,
+   "end": 49.517
   }
  ]
 }

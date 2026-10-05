@@ -17,7 +17,7 @@
     "line_width": 9
   },
   "tts": {
-    "engine": "espeak",
+    "engine": "kokoro",
     "_engines": "espeak (offline, free, robotic; sandbox default) | edge (free Microsoft neural voices via edge-tts, no API key, needs internet) | piper (free offline neural, needs a downloaded .onnx voice)",
     "espeak": {
       "voice": "en-us+f3",
@@ -32,7 +32,15 @@
       "model": "assets/voices/en_US-lessac-medium.onnx"
     },
     "line_gap_sec": 0.12,
-    "fit_to_target": true
+    "fit_to_target": true,
+    "kokoro": {
+      "voice": "am_michael",
+      "speed": 0.92,
+      "lang": "en-us",
+      "model": "assets/voices/kokoro-v1.0.onnx",
+      "voices": "assets/voices/voices-v1.0.bin",
+      "_download": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/ (kokoro-v1.0.onnx, voices-v1.0.bin) -> assets/voices/"
+    }
   },
   "captions": {
     "font": "Liberation Sans",
