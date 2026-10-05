@@ -1,11 +1,11 @@
-# Day 9: The Pricing Trick Stores Use on You — source table
+# Day 9: How One Random Number Changes Your Guess — source table
 
 Topic: Anchoring: the first number you see  
-Words: 128
+Words: 126
 
 | # | Sentence (spoken) | Source(s) | How it was checked |
 |---|---|---|---|
-| 1 | Why do stores show you a big number first? | — (question; makes no claim) | n/a |
+| 1 | Can a random number change your guess? | — (question; makes no claim) | n/a |
 | 2 | In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number. | Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131. [link](https://pubmed.ncbi.nlm.nih.gov/17835457/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45) |
 | 3 | Then they asked what percentage of African countries are in the United Nations. | Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131. [link](https://pubmed.ncbi.nlm.nih.gov/17835457/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45) |
 | 4 | People who saw the number 10 guessed about 25 percent. | Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131. [link](https://pubmed.ncbi.nlm.nih.gov/17835457/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (wheel of fortune; medians 25 and 45) |

@@ -1,7 +1,7 @@
 {
   "day": 4,
   "topic": "Confirmation bias: how you test only what you already believe",
-  "title": "Your Brain Hides Evidence You Disagree With",
+  "title": "Why You Test Only What You Believe",
   "voiceover": "Do you really look at all the evidence? In 1960, psychologist Peter Wason gave 29 people the numbers 2, 4, 6. Their task was to discover the hidden rule by proposing their own sets of three numbers. The actual rule was simply any ascending sequence. Most people tested only examples that fit their own guess. Only 6 of the 29 announced the correct rule without first announcing a wrong one. Wason concluded people tend to seek only confirming evidence. Psychologists Lord, Lepper and Preston tested a fix: consider the opposite. In two experiments, asking people to consider the opposite reduced bias more than telling them to be fair and unbiased. So before a big decision, ask yourself: what would prove me wrong? Tomorrow: do unfinished tasks really haunt your memory?",
   "word_count": 130,
   "scenes": [
@@ -118,10 +118,11 @@
   "accuracy_note": "Wason's task is a simplified lab model of hypothesis testing; the sample was 29 people. The rule wording ('any ascending sequence') and the 'most tested only fitting examples' summary come from secondary descriptions of the 1960 paper. Lord, Lepper & Preston tested consider-the-opposite on biased assimilation and impression formation, not every decision.",
   "thumbnail": {
     "lines": [
-      "YOUR BRAIN",
-      "HIDES FACTS"
+      "TESTING ONLY",
+      "WHAT YOU",
+      "BELIEVE?"
     ],
-    "accent_line": 1,
+    "accent_line": 2,
     "scene": 4
   }
 }

@@ -111,9 +111,12 @@ def find_gaps(a, sr, thresh=0.01, min_gap=0.09):
 
 
 def estimate_words(tokens, dur, audio=None, sr=44100):
-    """Word timings placed only on stretches where the voice is actually speaking.
-    Word boundaries are mapped onto the cumulative *speech-active* time axis (weighted by letter count),
-    so no word can land inside a pause. Falls back to a plain proportional split without audio."""
+    """Word timings from the audio itself (no ASR needed).
+    1. Find where the voice is speaking (10 ms frames; micro-gaps < 60 ms count as speech).
+    2. Match each punctuation break (, ; : . ? !) to the nearest real silence (>= 100 ms) around where it is
+       expected, so a word can never straddle a pause.
+    3. Inside each phrase, spread words by letter count over that phrase's speech-active frames only.
+    Falls back to a global speech-active mapping, then to a plain proportional split."""
     weight = lambda t: len(re.sub(r"\W", "", t)) + 1.5
     w = [weight(t) for t in tokens]
     tot = sum(w)
@@ -124,24 +127,69 @@ def estimate_words(tokens, dur, audio=None, sr=44100):
     n = len(audio) // hop
     act = np.sqrt((audio[:n * hop].reshape(n, hop) ** 2).mean(axis=1)) > 0.01
     i = 0
-    while i < n:                                   # treat gaps shorter than 80 ms as speech
+    while i < n:
         if not act[i]:
             j = i
             while j < n and not act[j]:
                 j += 1
-            if j - i < 8 and i > 0 and j < n:
+            if j - i < 6 and i > 0 and j < n:
                 act[i:j] = True
             i = j
         else:
             i += 1
     cum = np.cumsum(act)
-    total = cum[-1]
+    first = int(np.argmax(act)); last = int(n - 1 - np.argmax(act[::-1]))
+    gaps, i = [], first
+    while i <= last:
+        if not act[i]:
+            j = i
+            while j <= last and not act[j]:
+                j += 1
+            if j - i >= 10:
+                gaps.append((i, j))
+            i = j
+        else:
+            i += 1
+    breaks = [k for k, t in enumerate(tokens[:-1]) if t[-1] in ",;:.?!"]
+    total_act = cum[last] - (cum[first - 1] if first else 0)
+
+    def to_time(p, side):                         # speech-active position -> frame
+        return (np.searchsorted(cum, p, side=side)) / 100
+
+    spans = None
+    if breaks and gaps:
+        chosen, used = [], set()
+        for bk in breaks:
+            exp_frame = np.searchsorted(cum, cumw[bk + 1] * total_act, side="left")
+            cand = [(abs((g[0] + g[1]) / 2 - exp_frame), k) for k, g in enumerate(gaps) if k not in used]
+            if not cand:
+                chosen = None
+                break
+            d, k = min(cand)
+            used.add(k); chosen.append(gaps[k])
+        if chosen and all(chosen[x][0] < chosen[x + 1][0] for x in range(len(chosen) - 1)):
+            cuts = [0] + [bk + 1 for bk in breaks] + [len(tokens)]
+            edges = [first] + [e for g in chosen for e in g] + [last + 1]
+            spans = [(edges[2 * x], edges[2 * x + 1], cuts[x], cuts[x + 1]) for x in range(len(cuts) - 1)]
+            if any((e - s_) / 100 < 0.1 * (c1 - c0) for s_, e, c0, c1 in spans):
+                spans = None
     out = []
-    for k, t in enumerate(tokens):
-        p0, p1 = cumw[k] * total, cumw[k + 1] * total
-        s = np.searchsorted(cum, p0, side="right") / 100          # first active frame after p0
-        e = (np.searchsorted(cum, max(p1, 1e-9), side="left") + 1) / 100
-        out.append((t, min(s, dur), min(max(e, s + 0.05), dur)))
+    if spans:
+        for s_, e, c0, c1 in spans:
+            base = cum[s_ - 1] if s_ else 0
+            pa = cum[e - 1] - base
+            ph = tokens[c0:c1]
+            pw = [weight(t) for t in ph]
+            pc = np.concatenate([[0], np.cumsum(pw)]) / sum(pw)
+            for k, t in enumerate(ph):
+                st = np.searchsorted(cum, base + pc[k] * pa, side="right") / 100
+                en = (np.searchsorted(cum, base + max(pc[k + 1] * pa, 1e-9), side="left") + 1) / 100
+                out.append((t, min(max(st, s_ / 100), dur), min(max(en, st + 0.05), e / 100, dur)))
+        return out
+    for k, t in enumerate(tokens):                 # global mapping fallback
+        p0, p1 = cumw[k] * total_act, cumw[k + 1] * total_act
+        st = to_time(p0, "right"); en = to_time(max(p1, 1e-9), "left") + 0.01
+        out.append((t, min(st, dur), min(max(en, st + 0.05), dur)))
     return out
 
 

@@ -35,7 +35,7 @@ C = lambda s: s  # readability
 DAYS = {}
 
 DAYS[1] = dict(
- title="Why That Cringe Memory Never Leaves You",
+ title="Why Embarrassing Memories Stick Around",
  description_core="Why does an embarrassing moment replay in your head for years? Research suggests emotional arousal helps your brain store memories more strongly, but a vivid memory is not necessarily an accurate one.",
  primary=["mcgaugh2004", "talarico2003"],
  hashtags=["#psychology", "#shorts", "#memory", "#brain", "#psychologyfacts", "#cognitivebias"],
@@ -47,7 +47,7 @@ DAYS[1] = dict(
   ("E", [("Neuroscientist James McGaugh argued that this signal helps the brain store the memory more strongly.", "mcgaugh2004")], "Stronger storage", "Memory file stamped with a bold SAVE tag.", "point/neutral/L; tag:SAVE@R"),
   ("E", [("But a strong memory is not always an accurate one.", "talarico2003")], "Strong is not accurate", "Two cards: 'vivid' with a check, 'accurate' with a question mark.", "shrug/neutral/L; qmark@R"),
   ("E", [("On September 12, 2001, researchers asked 54 students to record how they heard about the attacks, then retested them up to 32 weeks later.", "talarico2003")], "54 students, retested later", "A calendar with three marks: 1, 6 and 32 weeks.", "stand/neutral/L; clock@R; text:54 STUDENTS@TR"),
-  ("E", [("Their memories of the attacks became just as inconsistent as their memories of an everyday event.", "talarico2003")], "Same inconsistency", "Two matching downward lines labeled 'attacks' and 'everyday'.", "stand/neutral/L; lines:attacks,everyday@R"),
+  ("E", [("Their memories of the attacks became just as inconsistent as their memories of an everyday event.", "talarico2003")], "Same inconsistency", "Two matching downward lines labeled 'attacks' and 'everyday'.", "stand/neutral/L; lines:attacks,everyday,same@R"),
   ("E", [("Yet only for the everyday memories did vividness and belief in accuracy fade.", "talarico2003")], "Confidence stayed high", "Confidence line stays high while the everyday line falls.", "think/worry/L; lines:flashbulb,everyday@R"),
   ("T", [("So when a cringe memory feels crystal clear, remember that clarity is not proof of accuracy.", "talarico2003")], "Clear is not accurate", "Stickman pauses and peers at a clear memory bubble.", "point/smile/L; bubble:clear?@TR"),
   ("C", [("Tomorrow: did everyone else notice that moment as much as you think?", "PLAN")], "Tomorrow: who noticed?", "Crowd of tiny stickmen, none looking at ours.", "stand/neutral/L; crowd:5@R; text:TOMORROW@TR"),
@@ -59,7 +59,7 @@ DAYS[2] = dict(
  primary=["gilovich2000"],
  hashtags=["#psychology", "#shorts", "#spotlighteffect", "#socialanxiety", "#confidence", "#psychologyfacts"],
  caveats="Percentages (46% predicted vs 23% observed) come from secondary summaries of the paper; the PDF could not be opened from this environment. The effect was shown with college students in a lab. Egocentrism is the authors' proposed explanation.",
- thumb=(["NOBODY'S", "WATCHING", "YOU"], 0, 0),
+ thumb=(["LESS NOTICED", "THAN YOU", "THINK"], 0, 0),
  scenes=[
   ("H", [("Do you think everyone noticed that mistake?", "PLAN")], "Did everyone notice?", "Stickman cowering under a harsh spotlight.", "shock/worry/C; spotlight@C"),
   ("E", [("In 2000, psychologist Thomas Gilovich and colleagues published the first empirical evidence of the spotlight effect.", "gilovich2000")], "The spotlight effect, 2000", "Title card 'SPOTLIGHT EFFECT' above a stickman in a light cone.", "stand/neutral/L; spotlight@L; text:SPOTLIGHT EFFECT@TR"),
@@ -73,12 +73,12 @@ DAYS[2] = dict(
  ])
 
 DAYS[3] = dict(
- title="The One-Cent Trick Behind Every $9.99",
+ title="Why $9.99 Looks Cheaper Than $10",
  description_core="Why does $9.99 feel so much cheaper than $10? Experiments show a nine-ending price looks smaller than a price one cent higher, but only when the leftmost digits differ.",
  primary=["thomas2005", "stiving2000"],
  hashtags=["#psychology", "#shorts", "#pricing", "#marketing", "#shopping", "#psychologyfacts"],
  caveats="Thomas & Morwitz (2005) identify when the effect occurs; its size varies. Stiving (2000) is an economic model plus empirical evidence that firms use round prices more for higher-quality products; the model is debated (a 2003 comment exists).",
- thumb=(["THE $9.99", "TRICK"], 0, 0),
+ thumb=(["WHY $9.99", "LOOKS", "CHEAPER"], 2, 0),
  scenes=[
   ("H", [("Why does $9.99 feel so much cheaper than $10?", "PLAN")], "$9.99 vs $10", "Two price tags side by side, one cent apart.", "stand/neutral/L; tag:$9.99@TR; tag:$10@R"),
   ("E", [("Researchers call it the left-digit effect.", "thomas2005")], "The left-digit effect", "Magnifying glass over the leftmost digit.", "point/neutral/L; numbers:9 . 9 9@R"),
@@ -93,12 +93,12 @@ DAYS[3] = dict(
  ])
 
 DAYS[4] = dict(
- title="Your Brain Hides Evidence You Disagree With",
+ title="Why You Test Only What You Believe",
  description_core="Do you really look at all the evidence? In Peter Wason's classic 2-4-6 task, most people tested only examples that fit their own guess, and a simple 'consider the opposite' strategy reduced bias in later experiments.",
  primary=["wason1960", "lord1984"],
  hashtags=["#psychology", "#shorts", "#confirmationbias", "#cognitivebias", "#criticalthinking", "#psychologyfacts"],
  caveats="Wason's task is a simplified lab model of hypothesis testing; the sample was 29 people. The rule wording ('any ascending sequence') and the 'most tested only fitting examples' summary come from secondary descriptions of the 1960 paper. Lord, Lepper & Preston tested consider-the-opposite on biased assimilation and impression formation, not every decision.",
- thumb=(["YOUR BRAIN", "HIDES FACTS"], 1, 4),
+ thumb=(["TESTING ONLY", "WHAT YOU", "BELIEVE?"], 2, 4),
  scenes=[
   ("H", [("Do you really look at all the evidence?", "PLAN")], "All the evidence?", "Stickman wearing blinders in front of a pile of papers.", "stand/neutral/C; list:YES,YES,NO@R"),
   ("E", [("In 1960, psychologist Peter Wason gave 29 people the numbers 2, 4, 6.", "wason1960")], "Wason's 2-4-6 puzzle", "Three big numbers: 2, 4, 6.", "point/neutral/L; numbers:2 4 6@R; qmark@TR"),
@@ -114,12 +114,12 @@ DAYS[4] = dict(
  ])
 
 DAYS[5] = dict(
- title="Why Unfinished Tasks Haunt Your Brain",
+ title="Do Unfinished Tasks Really Haunt You?",
  description_core="Do unfinished tasks really stick in memory? A 2025 meta-analysis found no memory advantage, but unfinished goals can still intrude on your thoughts, and a specific plan can quiet them.",
  primary=["masicampo2011", "ghibellini2025"],
  hashtags=["#psychology", "#shorts", "#zeigarnik", "#productivity", "#procrastination", "#psychologyfacts"],
  caveats="Zeigarnik's original memory claim has failed to replicate (Van Bergen 1968; Ghibellini & Meier 2025 meta-analysis). Masicampo & Baumeister (2011) studied goal-related intrusive thoughts in lab tasks, not everyday to-do lists.",
- thumb=(["UNFINISHED", "TASKS", "HAUNT YOU"], 0, 0),
+ thumb=(["DO UNFINISHED", "TASKS HAUNT", "YOU?"], 2, 0),
  scenes=[
   ("H", [("Why do unfinished tasks nag at you?", "PLAN")], "Why won't it let go?", "Stickman at a desk surrounded by half-done checklists.", "think/worry/C; list:TODO,TODO@R"),
   ("E", [("In the 1920s, psychologist Bluma Zeigarnik reported that people remembered interrupted tasks better than completed ones.", "zeigarnik1927")], "The Zeigarnik effect", "Vintage portrait frame with the name ZEIGARNIK.", "stand/neutral/L; text:ZEIGARNIK@R; text:1920s@TR"),
@@ -134,12 +134,12 @@ DAYS[5] = dict(
  ])
 
 DAYS[6] = dict(
- title="Why Losing Hurts More Than Winning Feels Good",
+ title="Does Losing Really Hurt More Than Winning?",
  description_core="Do losses really hurt about twice as much as equal gains? That's the classic prospect-theory idea, but a 2018 review argued the evidence doesn't support it as a general rule.",
  primary=["kahneman1979", "gal2018"],
  hashtags=["#psychology", "#shorts", "#lossaversion", "#behavioraleconomics", "#decisionmaking", "#psychologyfacts"],
  caveats="CONTESTED. 'About twice' reflects a model parameter (2.25) fitted to certain gambling choices (Tversky & Kahneman 1992). Gal & Rucker (2018) argue evidence does not support losses being more impactful on balance and that context matters; defenders of loss aversion disagree. Video presents it as a debated rule of thumb.",
- thumb=(["LOSING", "HURTS MORE"], 0, 0),
+ thumb=(["DOES LOSING", "HURT MORE?"], 1, 0),
  scenes=[
   ("H", [("Why does losing feel worse than winning feels good?", "PLAN")], "Losing hurts more?", "Stickman holding a lost coin next to a smaller won coin.", "shock/worry/C; coin:-$20@R"),
   ("E", [("In 1979, Daniel Kahneman and Amos Tversky proposed prospect theory.", "kahneman1979")], "Prospect theory, 1979", "Title card PROSPECT THEORY 1979.", "stand/neutral/L; text:PROSPECT THEORY@TR; text:1979@R"),
@@ -167,9 +167,9 @@ DAYS[7] = dict(
   ("E", [("Those who scored in the bottom quarter guessed they'd done much better than they had.", "kruger1999")], "Lowest scorers overestimated", "Two bars: low actual, higher guessed.", "stand/smile/L; bars:actual=12%,guessed=62%@R"),
   ("E", [("They scored around the 12th percentile but estimated themselves near the 62nd.", "kruger1999")], "12th vs 62nd percentile", "Numbers 12 and 62.", "think/neutral/L; numbers:12 62@R"),
   ("E", [("The researchers argued that skill and the ability to judge your skill are linked.", "kruger1999")], "Skill and self-judging linked", "Two linked gears: DO and JUDGE.", "think/neutral/L; text:DO + JUDGE@R"),
-  ("E", [("When they trained participants in logic, those participants became better at recognizing their own limits.", "kruger1999")], "Training helped self-judgment", "Stickman studying, then checking a score.", "stand/smile/L; check@R"),
-  ("E", [("But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.", "gignac2020")], "2020: mostly a statistical artifact?", "Graph stamped 'DEBATED'.", "shrug/neutral/L; lines:myth,test@R; text:DEBATED@TR"),
-  ("E", [("It found that self-rated and measured intelligence rose together in almost a straight line.", "gignac2020")], "Almost a straight line", "Straight upward line.", "stand/neutral/L; lines:rated,measured@R"),
+  ("E", [("When they trained participants, those participants became better at recognizing their own limits.", "kruger1999")], "Training helped self-judgment", "Stickman studying, then checking a score.", "stand/smile/L; check@R"),
+  ("E", [("But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.", "gignac2020")], "2020: mostly a statistical artifact?", "Graph stamped 'DEBATED'.", "shrug/neutral/L; text:DEBATED@R"),
+  ("E", [("It found that self-rated and measured intelligence rose together in almost a straight line.", "gignac2020")], "Almost a straight line", "Straight upward line.", "stand/neutral/L; lines:rated,measured,up@R"),
   ("T", [("So when you're learning something new, building skill may also improve your ability to judge your own work.", "kruger1999")], "Skill helps you judge your work", "Stickman holding up his work next to a ruler.", "point/smile/L; check@R; text:SKILL + JUDGMENT@TR"),
   ("C", [("Tomorrow: why is that song stuck in your head?", "PLAN")], "Tomorrow: stuck songs", "Musical notes floating from the stickman's head.", "stand/neutral/L; notes@R; text:TOMORROW@TR"),
  ])
@@ -192,18 +192,18 @@ DAYS[8] = dict(
   ("E", [("People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers.", "beaman2015")], "Gum reduced earworms", "Bars: gum low, nothing high, tapping high.", "stand/smile/L; bars:gum,tapping@R"),
   ("E", [("The authors suggest gum interferes with the motor planning behind imagining the song.", "beaman2015")], "Gum blocks 'inner singing'", "Mouth and note with a blocked arrow.", "point/neutral/L; notes@R; cross@TR"),
   ("T", [("So chewing gum might help next time, though this was a small lab experiment.", "beaman2015")], "Gum might help (small study)", "Stickman chewing gum, notes shrinking.", "stand/smile/L; text:GUM@R; notes@TR"),
-  ("C", [("Tomorrow: why do stores show you a number before the price?", "PLAN")], "Tomorrow: the first number", "Big crossed-out price tag.", "stand/smile/L; tag:$200@R; text:TOMORROW@TR"),
+  ("C", [("Tomorrow: can a random number change your guess?", "PLAN")], "Tomorrow: a random number", "A wheel with a random number.", "stand/smile/L; tag:$200@R; text:TOMORROW@TR"),
  ])
 
 DAYS[9] = dict(
- title="The Pricing Trick Stores Use on You",
- description_core="Why do stores show a big number first? In a classic experiment, a random number changed people's estimates, a result known as anchoring.",
+ title="How One Random Number Changes Your Guess",
+ description_core="Can a random number change your guess? In a classic experiment it did, a result known as anchoring.",
  primary=["tversky1974", "galinsky2001"],
  hashtags=["#psychology", "#shorts", "#anchoring", "#marketing", "#negotiation", "#psychologyfacts"],
  caveats="Figures are medians from the original wheel-of-fortune experiment (25 and 45). Anchoring is a robust finding, but effect size varies by task. Galinsky & Mussweiler studied simulated negotiations. The video does not claim that stores' 'original prices' work exactly this way; it presents the lab result and the negotiation research.",
- thumb=(["STORES SHOW", "THIS FIRST"], 1, 1),
+ thumb=(["A RANDOM NUMBER", "CHANGES YOUR", "GUESS"], 2, 1),
  scenes=[
-  ("H", [("Why do stores show you a big number first?", "PLAN")], "The number they show first", "Big price tag looming over a small stickman.", "stand/worry/L; tag:$200@R"),
+  ("H", [("Can a random number change your guess?", "PLAN")], "A number shown first", "Random number looming over a small stickman.", "stand/worry/L; numbers:65@R"),
   ("E", [("In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number.", "tversky1974")], "Tversky & Kahneman, 1974", "Wheel of fortune stopping on 10, then 65.", "point/neutral/L; wheel:10@R"),
   ("E", [("Then they asked what percentage of African countries are in the United Nations.", "tversky1974")], "Then a question", "Question mark above a globe.", "think/neutral/L; qmark@R; text:% IN THE UN?@TR"),
   ("E", [("People who saw the number 10 guessed about 25 percent.", "tversky1974")], "Saw 10: guessed ~25%", "Bar at 25%.", "stand/neutral/L; bars:saw 10=25%,saw 65=45%@R"),
@@ -218,7 +218,7 @@ DAYS[9] = dict(
  ])
 
 DAYS[10] = dict(
- title="Why You Forget Things Walking Into a Room",
+ title="Does Walking Into a Room Make You Forget?",
  description_core="Does walking through a doorway really make you forget? A 2011 study found people forgot more after passing through a door, but a 2021 set of experiments mostly did not find a clean effect.",
  primary=["radvansky2011", "mcfadyen2021"],
  hashtags=["#psychology", "#shorts", "#memory", "#doorwayeffect", "#brain", "#psychologyfacts"],

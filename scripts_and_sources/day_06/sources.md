@@ -1,4 +1,4 @@
-# Day 6: Why Losing Hurts More Than Winning Feels Good — source table
+# Day 6: Does Losing Really Hurt More Than Winning? — source table
 
 Topic: Loss aversion: why losses feel bigger than gains (and who disagrees)  
 Words: 135

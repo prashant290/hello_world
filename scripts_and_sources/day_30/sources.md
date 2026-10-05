@@ -1,4 +1,4 @@
-# Day 30: How You Really Remember an Experience — source table
+# Day 30: Peak-End: How Endings Shape Memory — source table
 
 Topic: The peak-end rule: how you actually remember experiences  
 Words: 133

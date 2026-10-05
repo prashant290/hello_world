@@ -41,7 +41,7 @@ DAYS[21] = dict(
   ("E", [("Repeated exposure to something can make you like it more.", "zajonc1968"), ("Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes.", "zajonc1968")], "Repeat exposure = more liking", "Heart growing.", "stand/smile/L; text:SEEN IT AGAIN@R"),
   ("E", [("His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments.", "zajonc1968")], "Four kinds of evidence", "Four labeled boxes.", "think/neutral/L; list:WORDS,SYMBOLS,ATTITUDES,TESTS@R"),
   ("E", [("In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles.", "montoya2017")], "2017: 268 curves, 81 articles", "Stack of papers.", "stand/neutral/L; text:81 ARTICLES@R"),
-  ("E", [("Liking rose with repeated exposure, then leveled off and declined.", "montoya2017")], "Rise, then decline", "Inverted-U curve.", "point/neutral/L; lines:liking,exposure@R"),
+  ("E", [("Liking rose with repeated exposure, then leveled off and declined.", "montoya2017")], "Rise, then decline", "Inverted-U curve.", "point/neutral/L; lines:liking,exposure,hill@R"),
   ("E", [("So more exposure helps up to a point; overexposure can backfire.", "montoya2017")], "Overexposure can backfire", "Curve peaking and falling.", "stand/worry/L; arrow:down@R"),
   ("E", [("Their meta-analysis covered effects on liking, familiarity and recognition.", "montoya2017")], "Liking, familiarity, recognition", "Three labels.", "stand/neutral/L; list:LIKING,FAMILIAR,RECOGNIZE@R"),
   ("T", [("So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'.", "zajonc1968")], "Seen a lot is not good", "Stickman separating two labels.", "point/smile/L; text:SEEN <> GOOD@R"),
@@ -147,18 +147,18 @@ DAYS[26] = dict(
   ("E", [("But later studies didn't all find that link.", "wiradhany2017")], "Later studies: mixed", "Mixed check and cross.", "shrug/neutral/L; check@R; cross@TR"),
   ("E", [("A 2017 replication did find higher task-switching costs in heavy media multitaskers.", "wiradhany2017")], "2017: higher switching costs", "Higher bar.", "stand/neutral/L; bars:light,heavy@R"),
   ("E", [("And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together.", "watson2010")], "2010: 2.5% 'supertaskers'", "Single gold star among many.", "stand/smile/L; text:2.5%@R"),
-  ("E", [("For the other 97.5 percent, performance dropped.", "watson2010")], "Everyone else declined", "Falling bar.", "stand/worry/L; arrow:down@R"),
+  ("E", [("For most other people, performance dropped when they did both.", "watson2010")], "Most others declined", "Falling bar.", "stand/worry/L; arrow:down@R"),
   ("T", [("So most of us pay a cost when we switch tasks, even if a few people don't.", "rubinstein2001,watson2010")], "Switching isn't free", "Price tag on a switch.", "point/smile/L; tag:SWITCH@R"),
   ("C", [("Tomorrow: why does scarcity make things look more valuable?", "PLAN")], "Tomorrow: scarcity", "Nearly empty jar.", "stand/neutral/L; text:2 LEFT@R; text:TOMORROW@TR"),
  ])
 
 DAYS[27] = dict(
- title="Why 'Only Two Left' Makes You Want It More",
+ title="Does Scarcity Make Things Look Better?",
  description_core="Does scarcity make things look better? In a 1975 experiment, identical cookies from a nearly empty jar were rated as more desirable.",
  primary=["worchel1975"],
  hashtags=["#psychology", "#shorts", "#scarcity", "#marketing", "#persuasion", "#psychologyfacts"],
  caveats="One classic lab experiment with 200 female undergraduates and one product (cookies); real shopping may differ. The study did not test 'only 2 left' messages in stores.",
- thumb=(["WHY SCARCE", "FEELS BETTER"], 1, 0),
+ thumb=(["DOES SCARCITY", "WORK?"], 1, 0),
  scenes=[
   ("H", [("Does 'almost gone' make things look better?", "PLAN")], "'Almost gone' = better?", "Stickman eyeing a nearly empty jar.", "think/neutral/C; text:2 LEFT@R"),
   ("E", [("In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value.", "worchel1975")], "1975: supply and value", "Jar icons.", "point/neutral/L; text:1975@TR; text:SUPPLY@R"),
@@ -214,12 +214,12 @@ DAYS[29] = dict(
  ])
 
 DAYS[30] = dict(
- title="How You Really Remember an Experience",
+ title="Peak-End: How Endings Shape Memory",
  description_core="Do you remember experiences by their total length? Experiments suggest the peak and the ending matter more: people preferred a longer cold-water trial that ended slightly warmer, and colonoscopy patients with a milder ending rated the procedure less unpleasant.",
  primary=["kahneman1993", "redelmeier2003"],
  hashtags=["#psychology", "#shorts", "#peakendrule", "#memory", "#kahneman", "#psychologyfacts"],
  caveats="The 1993 study used mild cold-water pain with volunteers (about 70% chose the longer trial); the colonoscopy trial (n=682) is one clinical setting. 'Peak-end rule' is a proposed account that fits these results, not an exact law.",
- thumb=(["HOW YOU", "REMEMBER", "EXPERIENCES"], 1, 0),
+ thumb=(["HOW ENDINGS", "SHAPE MEMORY"], 1, 0),
  scenes=[
   ("H", [("How do you actually remember an experience?", "PLAN")], "How do you remember it?", "Stickman with a memory bubble.", "think/neutral/C; bubble:memory@R"),
   ("E", [("In 1993, Daniel Kahneman and colleagues had people put a hand in painfully cold water.", "kahneman1993")], "1993: cold-water hand", "Hand in cold water.", "stand/worry/L; text:14C@R; text:1993@TR"),
@@ -227,7 +227,7 @@ DAYS[30] = dict(
   ("E", [("The other lasted 90 seconds, with the last 30 seconds slightly warmer.", "kahneman1993")], "90 s, slightly warmer end", "Clock at 90.", "point/neutral/L; clock@R; text:90 S@TR"),
   ("E", [("Afterwards, people could choose which trial to repeat.", "kahneman1993")], "They chose which to repeat", "Two options.", "think/neutral/L; list:60 S,90 S@R"),
   ("E", [("Nearly 70 percent chose the longer one.", "kahneman1993")], "Nearly 70% chose the longer", "Bar ~70%.", "shock/neutral/L; text:~70%@R"),
-  ("E", [("They chose more total discomfort because it ended a bit better.", "kahneman1993")], "More total pain, better ending", "Line ending upward.", "stand/smile/L; lines:pain,time@R"),
+  ("E", [("They chose more total discomfort because it ended a bit better.", "kahneman1993")], "More total pain, better ending", "Line ending upward.", "stand/smile/L; lines:pain,time,endup@R"),
   ("E", [("In 2003, Donald Redelmeier, Joel Katz and Kahneman tested it on 682 colonoscopy patients.", "redelmeier2003")], "2003: 682 colonoscopy patients", "Clipboard.", "stand/neutral/L; text:682@R; text:2003@TR"),
   ("E", [("Half had a short, milder period added to the end of the procedure.", "redelmeier2003")], "Half got a milder ending", "Two groups.", "point/neutral/L; list:NORMAL,MILDER END@R"),
   ("E", [("Those patients rated the experience as less unpleasant and were more likely to return for a follow-up.", "redelmeier2003")], "Less unpleasant; more likely to return", "Smile bar.", "stand/smile/L; bars:standard,milder end@R"),

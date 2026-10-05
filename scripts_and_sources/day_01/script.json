@@ -1,7 +1,7 @@
 {
   "day": 1,
   "topic": "Why embarrassing moments stay in memory (emotional memory)",
-  "title": "Why That Cringe Memory Never Leaves You",
+  "title": "Why Embarrassing Memories Stick Around",
   "voiceover": "Why do you still cringe at that embarrassing moment? After an emotional experience, a brain region called the amygdala activates your stress-hormone systems. Neuroscientist James McGaugh argued that this signal helps the brain store the memory more strongly. But a strong memory is not always an accurate one. On September 12, 2001, researchers asked 54 students to record how they heard about the attacks, then retested them up to 32 weeks later. Their memories of the attacks became just as inconsistent as their memories of an everyday event. Yet only for the everyday memories did vividness and belief in accuracy fade. So when a cringe memory feels crystal clear, remember that clarity is not proof of accuracy. Tomorrow: did everyone else notice that moment as much as you think?",
   "word_count": 129,
   "scenes": [
@@ -57,7 +57,7 @@
       "narration_line": "Their memories of the attacks became just as inconsistent as their memories of an everyday event.",
       "on_screen_text": "Same inconsistency",
       "visual_description": "Two matching downward lines labeled 'attacks' and 'everyday'.",
-      "visual_spec": "stand/neutral/L; lines:attacks,everyday@R"
+      "visual_spec": "stand/neutral/L; lines:attacks,everyday,same@R"
     },
     {
       "start_sec": 33.43,

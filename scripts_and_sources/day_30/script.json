@@ -1,7 +1,7 @@
 {
   "day": 30,
   "topic": "The peak-end rule: how you actually remember experiences",
-  "title": "How You Really Remember an Experience",
+  "title": "Peak-End: How Endings Shape Memory",
   "voiceover": "How do you actually remember an experience? In 1993, Daniel Kahneman and colleagues had people put a hand in painfully cold water. One trial lasted 60 seconds. The other lasted 90 seconds, with the last 30 seconds slightly warmer. Afterwards, people could choose which trial to repeat. Nearly 70 percent chose the longer one. They chose more total discomfort because it ended a bit better. In 2003, Donald Redelmeier, Joel Katz and Kahneman tested it on 682 colonoscopy patients. Half had a short, milder period added to the end of the procedure. Those patients rated the experience as less unpleasant and were more likely to return for a follow-up. So how an experience ends can shape how you remember it, so plan a good ending. Tomorrow: does copying someone's body language build trust?",
   "word_count": 133,
   "scenes": [
@@ -66,7 +66,7 @@
       "narration_line": "They chose more total discomfort because it ended a bit better.",
       "on_screen_text": "More total pain, better ending",
       "visual_description": "Line ending upward.",
-      "visual_spec": "stand/smile/L; lines:pain,time@R"
+      "visual_spec": "stand/smile/L; lines:pain,time,endup@R"
     },
     {
       "start_sec": 23.95,
@@ -127,9 +127,8 @@
   "accuracy_note": "The 1993 study used mild cold-water pain with volunteers (about 70% chose the longer trial); the colonoscopy trial (n=682) is one clinical setting. 'Peak-end rule' is a proposed account that fits these results, not an exact law.",
   "thumbnail": {
     "lines": [
-      "HOW YOU",
-      "REMEMBER",
-      "EXPERIENCES"
+      "HOW ENDINGS",
+      "SHAPE MEMORY"
     ],
     "accent_line": 1,
     "scene": 0

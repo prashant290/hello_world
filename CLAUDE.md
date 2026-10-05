@@ -36,6 +36,12 @@ Plan: 90 Shorts = 3 monthly themes (Days 1-30 / 31-60 / 61-90). Format: 1080x192
 - Git: push to branch `claude/youtube-shorts-psychology-fq5fjx` (GitHub access works via `git push`; if 403, `add_repo` with access=push then retry).
 - No YouTube upload from the sandbox (needs the owner's Google credentials + network). Upload is manual or an optional script only if the owner confirms.
 
-## CURRENT STATE
-(see bottom — updated as work progresses)
-- Folder restructured; rules captured. Old Days 1-10 scripts (written before the sourcing rule) are being re-researched and rewritten.
+## CURRENT STATE (update me)
+- **Done:** folder structure; topic review of all 90 ideas (`plan/topic_review.md`: 37 kept / 47 reframed / 6 replaced; final list `plan/topics_final.csv`);
+  content plan + calendar (Day 1 = Tue 6 Oct 2026, editable); sourcing/validation tooling; **Days 1-30 scripted** with per-sentence source tables
+  (web-verified 2026-10-05; verification level is stated in each `sources.json`); titles/descriptions/hashtags/thumbnails for Days 1-30 (`channel_kit/upload_metadata.csv`).
+- **In progress:** build + QC + self-review of Days 1-30 videos (`python src/build_range.py 1 30`, then `python src/review.py N` per day).
+- **Not started:** scripts for Days 31-90 (topics are decided in `plan/topics_final.csv`; sources named in `plan/topic_review.md` must be re-verified per sentence when scripting).
+- **Needs the owner:** (a) confirm posting time + timezone, (b) the real logo file if they want the exact mark, (c) YouTube upload is manual or needs their OK + Google credentials (not possible from the sandbox).
+- **Known limits:** voice is Kokoro (good, but not human); word timings are derived from audio energy, not ASR; sources are checked via web-search summaries of abstracts/publisher pages, not full-text PDFs (the verification note on each source says which).
+- **Lessons:** titles/thumbnails/descriptions are claims too — hedge contested ones (several were rewritten as questions). Never claim what stores/marketers do unless a source says so.

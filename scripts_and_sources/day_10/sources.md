@@ -1,4 +1,4 @@
-# Day 10: Why You Forget Things Walking Into a Room — source table
+# Day 10: Does Walking Into a Room Make You Forget? — source table
 
 Topic: The doorway effect: why you forget why you walked into a room  
 Words: 141

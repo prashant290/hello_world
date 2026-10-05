@@ -1,7 +1,7 @@
 # Day 8: Why That Song Won't Leave Your Head — source table
 
 Topic: Earworms: why a song gets stuck in your head  
-Words: 141
+Words: 138
 
 | # | Sentence (spoken) | Source(s) | How it was checked |
 |---|---|---|---|
@@ -15,7 +15,7 @@ Words: 141
 | 8 | People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers. | Beaman, C. P., Powell, K., & Rapley, E. (2015). *Want to block earworms from conscious awareness? B(u)y gum!*. Quarterly Journal of Experimental Psychology, 68(6), 1049-1057. [link](https://centaur.reading.ac.uk/40114/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Experiment 1: 98 participants) |
 | 9 | The authors suggest gum interferes with the motor planning behind imagining the song. | Beaman, C. P., Powell, K., & Rapley, E. (2015). *Want to block earworms from conscious awareness? B(u)y gum!*. Quarterly Journal of Experimental Psychology, 68(6), 1049-1057. [link](https://centaur.reading.ac.uk/40114/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Experiment 1: 98 participants) |
 | 10 | So chewing gum might help next time, though this was a small lab experiment. | Beaman, C. P., Powell, K., & Rapley, E. (2015). *Want to block earworms from conscious awareness? B(u)y gum!*. Quarterly Journal of Experimental Psychology, 68(6), 1049-1057. [link](https://centaur.reading.ac.uk/40114/) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (Experiment 1: 98 participants) |
-| 11 | Tomorrow: why do stores show you a number before the price? | — (question; makes no claim) | n/a |
+| 11 | Tomorrow: can a random number change your guess? | — (question; makes no claim) | n/a |
 
 ## Caveats / contested points
 

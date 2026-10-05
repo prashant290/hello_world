@@ -1,4 +1,4 @@
-# Day 4: Your Brain Hides Evidence You Disagree With — source table
+# Day 4: Why You Test Only What You Believe — source table
 
 Topic: Confirmation bias: how you test only what you already believe  
 Words: 130

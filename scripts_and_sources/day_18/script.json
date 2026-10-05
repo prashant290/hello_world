@@ -2,12 +2,12 @@
   "day": 18,
   "topic": "Negativity bias: why bad news grabs your attention",
   "title": "Why Bad News Grabs Your Attention",
-  "voiceover": "Why does bad news grab your attention? In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents. They measured the bodily reactions of 1,156 people watching real news videos. On average, negative stories produced stronger physiological activation than positive ones. But individuals varied a lot in how strongly they reacted. In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read. Even when people said they wanted good news, their choices leaned negative. The authors argue that demand, not just editors, helps explain why news is negative. So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally. Tomorrow: how can a menu option you never order change what you pick?",
-  "word_count": 131,
+  "voiceover": "Why does bad news grab your attention? In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents. They measured the bodily reactions of 1,156 people watching real news videos. On average, negative stories produced stronger physiological activation than positive ones. But individuals varied a lot in how strongly they reacted. In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read. People's choices leaned negative, even when that didn't match what they said they wanted. The authors argue that demand, not just editors, helps explain why news is negative. So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally. Tomorrow: how can a menu option you never order change what you pick?",
+  "word_count": 133,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.62,
+      "end_sec": 2.58,
       "section": "hook",
       "narration_line": "Why does bad news grab your attention?",
       "on_screen_text": "Why bad news?",
@@ -15,8 +15,8 @@
       "visual_spec": "shock/worry/C; text:BAD NEWS@R"
     },
     {
-      "start_sec": 2.62,
-      "end_sec": 8.23,
+      "start_sec": 2.58,
+      "end_sec": 8.11,
       "section": "explanation",
       "narration_line": "In 2019, Stuart Soroka and colleagues ran lab experiments in 17 countries, on six continents.",
       "on_screen_text": "2019: 17 countries",
@@ -24,8 +24,8 @@
       "visual_spec": "stand/neutral/L; text:17 COUNTRIES@R"
     },
     {
-      "start_sec": 8.23,
-      "end_sec": 12.72,
+      "start_sec": 8.11,
+      "end_sec": 12.53,
       "section": "explanation",
       "narration_line": "They measured the bodily reactions of 1,156 people watching real news videos.",
       "on_screen_text": "1,156 people, real news",
@@ -33,8 +33,8 @@
       "visual_spec": "stand/neutral/L; text:1,156@R"
     },
     {
-      "start_sec": 12.72,
-      "end_sec": 16.83,
+      "start_sec": 12.53,
+      "end_sec": 16.58,
       "section": "explanation",
       "narration_line": "On average, negative stories produced stronger physiological activation than positive ones.",
       "on_screen_text": "Negative = stronger reaction",
@@ -42,8 +42,8 @@
       "visual_spec": "point/neutral/L; bars:positive,negative@R"
     },
     {
-      "start_sec": 16.83,
-      "end_sec": 20.57,
+      "start_sec": 16.58,
+      "end_sec": 20.26,
       "section": "explanation",
       "narration_line": "But individuals varied a lot in how strongly they reacted.",
       "on_screen_text": "People varied a lot",
@@ -51,8 +51,8 @@
       "visual_spec": "shrug/neutral/L; bars:person A,person B@R"
     },
     {
-      "start_sec": 20.57,
-      "end_sec": 26.93,
+      "start_sec": 20.26,
+      "end_sec": 26.53,
       "section": "explanation",
       "narration_line": "In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read.",
       "on_screen_text": "2014: people choose stories",
@@ -60,17 +60,17 @@
       "visual_spec": "think/neutral/L; list:GOOD,BAD,OTHER@R"
     },
     {
-      "start_sec": 26.93,
-      "end_sec": 31.42,
+      "start_sec": 26.53,
+      "end_sec": 31.68,
       "section": "explanation",
-      "narration_line": "Even when people said they wanted good news, their choices leaned negative.",
-      "on_screen_text": "Said good, chose bad",
+      "narration_line": "People's choices leaned negative, even when that didn't match what they said they wanted.",
+      "on_screen_text": "Choices leaned negative",
       "visual_description": "Arrow toward BAD.",
       "visual_spec": "stand/worry/L; arrow:right@R; text:BAD@TR"
     },
     {
-      "start_sec": 31.42,
-      "end_sec": 36.66,
+      "start_sec": 31.68,
+      "end_sec": 36.84,
       "section": "explanation",
       "narration_line": "The authors argue that demand, not just editors, helps explain why news is negative.",
       "on_screen_text": "Demand helps explain it",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/neutral/L; crowd:4@R"
     },
     {
-      "start_sec": 36.66,
-      "end_sec": 44.14,
+      "start_sec": 36.84,
+      "end_sec": 44.21,
       "section": "takeaway",
       "narration_line": "So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally.",
       "on_screen_text": "A common bias, not universal",
@@ -87,7 +87,7 @@
       "visual_spec": "point/smile/L; text:NOTICE IT@R"
     },
     {
-      "start_sec": 44.14,
+      "start_sec": 44.21,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: how can a menu option you never order change what you pick?",

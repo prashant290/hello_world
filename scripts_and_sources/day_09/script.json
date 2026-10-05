@@ -1,22 +1,22 @@
 {
   "day": 9,
   "topic": "Anchoring: the first number you see",
-  "title": "The Pricing Trick Stores Use on You",
-  "voiceover": "Why do stores show you a big number first? In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number. Then they asked what percentage of African countries are in the United Nations. People who saw the number 10 guessed about 25 percent. People who saw 65 guessed about 45 percent. A random, irrelevant number pulled their estimates toward it. This is called anchoring. Anchors matter in negotiations too. In three experiments, whoever made the first offer got a better outcome. But when the other side thought about their own alternatives, the first-offer advantage disappeared. So when someone makes the first offer, think about your own target and their alternatives before you answer. Tomorrow: why do you forget why you walked into a room?",
-  "word_count": 128,
+  "title": "How One Random Number Changes Your Guess",
+  "voiceover": "Can a random number change your guess? In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number. Then they asked what percentage of African countries are in the United Nations. People who saw the number 10 guessed about 25 percent. People who saw 65 guessed about 45 percent. A random, irrelevant number pulled their estimates toward it. This is called anchoring. Anchors matter in negotiations too. In three experiments, whoever made the first offer got a better outcome. But when the other side thought about their own alternatives, the first-offer advantage disappeared. So when someone makes the first offer, think about your own target and their alternatives before you answer. Tomorrow: why do you forget why you walked into a room?",
+  "word_count": 126,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.45,
+      "end_sec": 2.72,
       "section": "hook",
-      "narration_line": "Why do stores show you a big number first?",
-      "on_screen_text": "The number they show first",
-      "visual_description": "Big price tag looming over a small stickman.",
-      "visual_spec": "stand/worry/L; tag:$200@R"
+      "narration_line": "Can a random number change your guess?",
+      "on_screen_text": "A number shown first",
+      "visual_description": "Random number looming over a small stickman.",
+      "visual_spec": "stand/worry/L; numbers:65@R"
     },
     {
-      "start_sec": 3.45,
-      "end_sec": 9.19,
+      "start_sec": 2.72,
+      "end_sec": 8.56,
       "section": "explanation",
       "narration_line": "In 1974, Tversky and Kahneman had volunteers watch a wheel spin to a random number.",
       "on_screen_text": "Tversky & Kahneman, 1974",
@@ -24,8 +24,8 @@
       "visual_spec": "point/neutral/L; wheel:10@R"
     },
     {
-      "start_sec": 9.19,
-      "end_sec": 14.16,
+      "start_sec": 8.56,
+      "end_sec": 13.61,
       "section": "explanation",
       "narration_line": "Then they asked what percentage of African countries are in the United Nations.",
       "on_screen_text": "Then a question",
@@ -33,8 +33,8 @@
       "visual_spec": "think/neutral/L; qmark@R; text:% IN THE UN?@TR"
     },
     {
-      "start_sec": 14.16,
-      "end_sec": 17.99,
+      "start_sec": 13.61,
+      "end_sec": 17.5,
       "section": "explanation",
       "narration_line": "People who saw the number 10 guessed about 25 percent.",
       "on_screen_text": "Saw 10: guessed ~25%",
@@ -42,8 +42,8 @@
       "visual_spec": "stand/neutral/L; bars:saw 10=25%,saw 65=45%@R"
     },
     {
-      "start_sec": 17.99,
-      "end_sec": 21.05,
+      "start_sec": 17.5,
+      "end_sec": 20.61,
       "section": "explanation",
       "narration_line": "People who saw 65 guessed about 45 percent.",
       "on_screen_text": "Saw 65: guessed ~45%",
@@ -51,8 +51,8 @@
       "visual_spec": "point/neutral/L; bars:saw 10=25%,saw 65=45%@R"
     },
     {
-      "start_sec": 21.05,
-      "end_sec": 24.5,
+      "start_sec": 20.61,
+      "end_sec": 24.11,
       "section": "explanation",
       "narration_line": "A random, irrelevant number pulled their estimates toward it.",
       "on_screen_text": "A random number pulled answers",
@@ -60,8 +60,8 @@
       "visual_spec": "shock/neutral/L; text:ANCHOR@R"
     },
     {
-      "start_sec": 24.5,
-      "end_sec": 26.03,
+      "start_sec": 24.11,
+      "end_sec": 25.67,
       "section": "explanation",
       "narration_line": "This is called anchoring.",
       "on_screen_text": "Anchoring",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/smile/L; text:ANCHORING@R"
     },
     {
-      "start_sec": 26.03,
-      "end_sec": 27.95,
+      "start_sec": 25.67,
+      "end_sec": 27.61,
       "section": "explanation",
       "narration_line": "Anchors matter in negotiations too.",
       "on_screen_text": "Negotiations too",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/neutral/L; crowd:1@R"
     },
     {
-      "start_sec": 27.95,
-      "end_sec": 32.54,
+      "start_sec": 27.61,
+      "end_sec": 32.28,
       "section": "explanation",
       "narration_line": "In three experiments, whoever made the first offer got a better outcome.",
       "on_screen_text": "First offer wins",
@@ -87,8 +87,8 @@
       "visual_spec": "walk/smile/L; arrow:right@R"
     },
     {
-      "start_sec": 32.54,
-      "end_sec": 37.9,
+      "start_sec": 32.28,
+      "end_sec": 37.72,
       "section": "explanation",
       "narration_line": "But when the other side thought about their own alternatives, the first-offer advantage disappeared.",
       "on_screen_text": "Unless they think of alternatives",
@@ -96,8 +96,8 @@
       "visual_spec": "think/smile/L; list:ALT 1,ALT 2@R; cross@TR"
     },
     {
-      "start_sec": 37.9,
-      "end_sec": 44.79,
+      "start_sec": 37.72,
+      "end_sec": 44.72,
       "section": "takeaway",
       "narration_line": "So when someone makes the first offer, think about your own target and their alternatives before you answer.",
       "on_screen_text": "Think target + alternatives",
@@ -105,7 +105,7 @@
       "visual_spec": "point/smile/L; text:MY TARGET@R"
     },
     {
-      "start_sec": 44.79,
+      "start_sec": 44.72,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why do you forget why you walked into a room?",
@@ -114,7 +114,7 @@
       "visual_spec": "stand/neutral/L; door@R; text:TOMORROW@TR"
     }
   ],
-  "description": "Why do stores show a big number first? In a classic experiment, a random number changed people's estimates, a result known as anchoring. New psychology short every day on The Psyche Discourse. Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131. Source: Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81(4), 657-669.",
+  "description": "Can a random number change your guess? In a classic experiment it did, a result known as anchoring. New psychology short every day on The Psyche Discourse. Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131. Source: Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81(4), 657-669.",
   "hashtags": [
     "#psychology",
     "#shorts",
@@ -127,10 +127,11 @@
   "accuracy_note": "Figures are medians from the original wheel-of-fortune experiment (25 and 45). Anchoring is a robust finding, but effect size varies by task. Galinsky & Mussweiler studied simulated negotiations. The video does not claim that stores' 'original prices' work exactly this way; it presents the lab result and the negotiation research.",
   "thumbnail": {
     "lines": [
-      "STORES SHOW",
-      "THIS FIRST"
+      "A RANDOM NUMBER",
+      "CHANGES YOUR",
+      "GUESS"
     ],
-    "accent_line": 1,
+    "accent_line": 2,
     "scene": 1
   }
 }

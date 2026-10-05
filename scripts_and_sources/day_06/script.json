@@ -1,7 +1,7 @@
 {
   "day": 6,
   "topic": "Loss aversion: why losses feel bigger than gains (and who disagrees)",
-  "title": "Why Losing Hurts More Than Winning Feels Good",
+  "title": "Does Losing Really Hurt More Than Winning?",
   "voiceover": "Why does losing feel worse than winning feels good? In 1979, Daniel Kahneman and Amos Tversky proposed prospect theory. One key idea is loss aversion: losses loom larger than equivalent gains. In 1992, Tversky and Kahneman estimated a loss-aversion coefficient of about 2.25. Roughly speaking, that means a loss counts about twice as much as a gain of the same size. But the idea is contested. In 2018, David Gal and Derek Rucker reviewed the evidence and concluded that losses, on balance, are not more impactful than gains. They argue the impact of losses versus gains depends on context. So treat 'losses hurt twice as much' as a debated rule of thumb, not a law. When you hear it, ask: in which situation, and compared with what? Tomorrow: do unskilled people really think they're geniuses?",
   "word_count": 135,
   "scenes": [
@@ -118,10 +118,10 @@
   "accuracy_note": "CONTESTED. 'About twice' reflects a model parameter (2.25) fitted to certain gambling choices (Tversky & Kahneman 1992). Gal & Rucker (2018) argue evidence does not support losses being more impactful on balance and that context matters; defenders of loss aversion disagree. Video presents it as a debated rule of thumb.",
   "thumbnail": {
     "lines": [
-      "LOSING",
-      "HURTS MORE"
+      "DOES LOSING",
+      "HURT MORE?"
     ],
-    "accent_line": 0,
+    "accent_line": 1,
     "scene": 0
   }
 }

@@ -2,12 +2,12 @@
   "day": 7,
   "topic": "The Dunning-Kruger effect: what it really says",
   "title": "Dunning-Kruger: What Everyone Gets Wrong",
-  "voiceover": "Do unskilled people really think they're geniuses? In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic. Those who scored in the bottom quarter guessed they'd done much better than they had. They scored around the 12th percentile but estimated themselves near the 62nd. The researchers argued that skill and the ability to judge your skill are linked. When they trained participants in logic, those participants became better at recognizing their own limits. But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact. It found that self-rated and measured intelligence rose together in almost a straight line. So when you're learning something new, building skill may also improve your ability to judge your own work. Tomorrow: why is that song stuck in your head?",
-  "word_count": 138,
+  "voiceover": "Do unskilled people really think they're geniuses? In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic. Those who scored in the bottom quarter guessed they'd done much better than they had. They scored around the 12th percentile but estimated themselves near the 62nd. The researchers argued that skill and the ability to judge your skill are linked. When they trained participants, those participants became better at recognizing their own limits. But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact. It found that self-rated and measured intelligence rose together in almost a straight line. So when you're learning something new, building skill may also improve your ability to judge your own work. Tomorrow: why is that song stuck in your head?",
+  "word_count": 136,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.49,
+      "end_sec": 2.52,
       "section": "hook",
       "narration_line": "Do unskilled people really think they're geniuses?",
       "on_screen_text": "Do they think they're geniuses?",
@@ -15,8 +15,8 @@
       "visual_spec": "stand/smile/C; text:GENIUS?@R"
     },
     {
-      "start_sec": 2.49,
-      "end_sec": 7.46,
+      "start_sec": 2.52,
+      "end_sec": 7.57,
       "section": "explanation",
       "narration_line": "In 1999, Justin Kruger and David Dunning tested people on humor, grammar and logic.",
       "on_screen_text": "Kruger & Dunning, 1999",
@@ -24,8 +24,8 @@
       "visual_spec": "point/neutral/L; list:HUMOR,GRAMMAR,LOGIC@R"
     },
     {
-      "start_sec": 7.46,
-      "end_sec": 12.78,
+      "start_sec": 7.57,
+      "end_sec": 12.97,
       "section": "explanation",
       "narration_line": "Those who scored in the bottom quarter guessed they'd done much better than they had.",
       "on_screen_text": "Lowest scorers overestimated",
@@ -33,8 +33,8 @@
       "visual_spec": "stand/smile/L; bars:actual=12%,guessed=62%@R"
     },
     {
-      "start_sec": 12.78,
-      "end_sec": 17.04,
+      "start_sec": 12.97,
+      "end_sec": 17.29,
       "section": "explanation",
       "narration_line": "They scored around the 12th percentile but estimated themselves near the 62nd.",
       "on_screen_text": "12th vs 62nd percentile",
@@ -42,8 +42,8 @@
       "visual_spec": "think/neutral/L; numbers:12 62@R"
     },
     {
-      "start_sec": 17.04,
-      "end_sec": 22.01,
+      "start_sec": 17.29,
+      "end_sec": 22.34,
       "section": "explanation",
       "narration_line": "The researchers argued that skill and the ability to judge your skill are linked.",
       "on_screen_text": "Skill and self-judging linked",
@@ -51,35 +51,35 @@
       "visual_spec": "think/neutral/L; text:DO + JUDGE@R"
     },
     {
-      "start_sec": 22.01,
-      "end_sec": 27.34,
+      "start_sec": 22.34,
+      "end_sec": 27.02,
       "section": "explanation",
-      "narration_line": "When they trained participants in logic, those participants became better at recognizing their own limits.",
+      "narration_line": "When they trained participants, those participants became better at recognizing their own limits.",
       "on_screen_text": "Training helped self-judgment",
       "visual_description": "Stickman studying, then checking a score.",
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 27.34,
-      "end_sec": 34.44,
+      "start_sec": 27.02,
+      "end_sec": 34.23,
       "section": "explanation",
       "narration_line": "But here's the catch: a 2020 study of 929 people argued that the classic pattern is mostly a statistical artifact.",
       "on_screen_text": "2020: mostly a statistical artifact?",
       "visual_description": "Graph stamped 'DEBATED'.",
-      "visual_spec": "shrug/neutral/L; lines:myth,test@R; text:DEBATED@TR"
+      "visual_spec": "shrug/neutral/L; text:DEBATED@R"
     },
     {
-      "start_sec": 34.44,
-      "end_sec": 39.41,
+      "start_sec": 34.23,
+      "end_sec": 39.27,
       "section": "explanation",
       "narration_line": "It found that self-rated and measured intelligence rose together in almost a straight line.",
       "on_screen_text": "Almost a straight line",
       "visual_description": "Straight upward line.",
-      "visual_spec": "stand/neutral/L; lines:rated,measured@R"
+      "visual_spec": "stand/neutral/L; lines:rated,measured,up@R"
     },
     {
-      "start_sec": 39.41,
-      "end_sec": 45.8,
+      "start_sec": 39.27,
+      "end_sec": 45.76,
       "section": "takeaway",
       "narration_line": "So when you're learning something new, building skill may also improve your ability to judge your own work.",
       "on_screen_text": "Skill helps you judge your work",
@@ -87,7 +87,7 @@
       "visual_spec": "point/smile/L; check@R; text:SKILL + JUDGMENT@TR"
     },
     {
-      "start_sec": 45.8,
+      "start_sec": 45.76,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why is that song stuck in your head?",

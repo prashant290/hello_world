@@ -48,7 +48,7 @@
       "narration_line": "For shorter spans, like the last week or month, answers didn't change with age.",
       "on_screen_text": "Short spans: no age change",
       "visual_description": "Flat line.",
-      "visual_spec": "shrug/neutral/L; lines:young,old@R"
+      "visual_spec": "shrug/neutral/L; lines:young,old,flat@R"
     },
     {
       "start_sec": 22.41,

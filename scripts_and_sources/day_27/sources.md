@@ -1,4 +1,4 @@
-# Day 27: Why 'Only Two Left' Makes You Want It More — source table
+# Day 27: Does Scarcity Make Things Look Better? — source table
 
 Topic: The scarcity effect: why less feels worth more  
 Words: 126

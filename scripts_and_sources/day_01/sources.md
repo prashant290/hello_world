@@ -1,4 +1,4 @@
-# Day 1: Why That Cringe Memory Never Leaves You — source table
+# Day 1: Why Embarrassing Memories Stick Around — source table
 
 Topic: Why embarrassing moments stay in memory (emotional memory)  
 Words: 129

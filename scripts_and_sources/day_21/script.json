@@ -57,7 +57,7 @@
       "narration_line": "Liking rose with repeated exposure, then leveled off and declined.",
       "on_screen_text": "Rise, then decline",
       "visual_description": "Inverted-U curve.",
-      "visual_spec": "point/neutral/L; lines:liking,exposure@R"
+      "visual_spec": "point/neutral/L; lines:liking,exposure,hill@R"
     },
     {
       "start_sec": 31.22,

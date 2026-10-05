@@ -168,7 +168,7 @@ def p_text(pen, c, arg, ctx):
 
 def p_waves(pen, c, arg, ctx):
     for i in range(3):
-        y = c[1] - 80 + i * 80
+        y = c[1] - 10 + i * 70
         pen.line([(c[0] - 120 + j * 20, y + (14 if j % 2 else -14)) for j in range(13)], w=8, color=pen.acc)
 
 
@@ -218,12 +218,39 @@ def p_loop(pen, c, arg, ctx):
 
 
 def p_lines(pen, c, arg, ctx):
-    a, b = (arg or "a,b").split(",")
-    pen.line([(c[0] - 170, c[1] - 170), (c[0] - 170, c[1] + 150), (c[0] + 170, c[1] + 150)], w=6)
-    pen.line([(c[0] - 170, c[1] - 110), (c[0] + 170, c[1] - 120)], w=10, color=pen.acc)
-    pen.line([(c[0] - 170, c[1] - 90), (c[0] - 20, c[1] - 20), (c[0] + 170, c[1] + 90)], w=10)
-    pen.text((c[0] + 20, c[1] - 160), a, 36, pen.acc)
-    pen.text((c[0] + 90, c[1] + 120), b, 36)
+    """lines:labelA,labelB[,mode]  mode: (default) A flat-high & B falls | same (both fall) | up (both rise together)
+    | hill (single inverted-U) | flat (both flat) | fall (single falling) | endup (falls then rises at the end)."""
+    parts = (arg or "a,b").split(",")
+    a_, b_ = parts[0], parts[1] if len(parts) > 1 else ""
+    mode = parts[2] if len(parts) > 2 else ""
+    x0, x1, y0, y1 = c[0] - 170, c[0] + 170, c[1] - 150, c[1] + 150
+    pen.line([(x0, y0 - 20), (x0, y1), (x1, y1)], w=6)
+    def pts(f, n=24):
+        return [(x0 + 12 + (x1 - x0 - 24) * i / (n - 1), y1 - 10 - f(i / (n - 1)) * (y1 - y0 - 40)) for i in range(n)]
+    if mode == "same":
+        pen.line(pts(lambda t: 0.85 - 0.55 * t), w=10, color=pen.acc)
+        pen.line(pts(lambda t: 0.80 - 0.55 * t), w=10)
+        pen.text((c[0] - 60, c[1] - 140), a_, 34, pen.acc); pen.text((c[0] + 90, c[1] + 120), b_, 34)
+    elif mode == "up":
+        pen.line(pts(lambda t: 0.1 + 0.8 * t), w=10, color=pen.acc)
+        pen.text((c[0] - 70, c[1] - 120), a_ + " + " + b_, 34, pen.acc)
+    elif mode == "hill":
+        pen.line(pts(lambda t: 0.15 + 0.8 * (1 - (2 * t - 1) ** 2)), w=10, color=pen.acc)
+        pen.text((c[0], c[1] - 150), a_, 34, pen.acc); pen.text((c[0], c[1] + 190), b_, 34)
+    elif mode == "flat":
+        pen.line(pts(lambda t: 0.6), w=10, color=pen.acc)
+        pen.line(pts(lambda t: 0.55), w=10)
+        pen.text((c[0], c[1] - 150), a_ + " / " + b_, 34, pen.acc)
+    elif mode == "fall":
+        pen.line(pts(lambda t: 0.9 - 0.8 * t), w=10, color=pen.acc)
+        pen.text((c[0] - 40, c[1] - 140), a_, 34, pen.acc); pen.text((c[0], c[1] + 190), b_, 34)
+    elif mode == "endup":
+        pen.line(pts(lambda t: 0.8 - 0.5 * t + (1.4 * (t - 0.65) if t > 0.65 else 0)), w=10, color=pen.acc)
+        pen.text((c[0] - 40, c[1] - 140), a_, 34, pen.acc); pen.text((c[0], c[1] + 190), b_, 34)
+    else:
+        pen.line(pts(lambda t: 0.9 - 0.02 * t), w=10, color=pen.acc)
+        pen.line(pts(lambda t: 0.8 - 0.6 * t), w=10)
+        pen.text((c[0] + 20, c[1] - 140), a_, 34, pen.acc); pen.text((c[0] + 70, c[1] + 120), b_, 34)
 
 
 def p_crowd(pen, c, arg, ctx):

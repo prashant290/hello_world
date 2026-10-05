@@ -35,7 +35,7 @@
     "fit_to_target": true,
     "kokoro": {
       "voice": "am_michael",
-      "speed": 0.92,
+      "speed": 1.1,
       "lang": "en-us",
       "model": "channel_kit/voices/kokoro-v1.0.onnx",
       "voices": "channel_kit/voices/voices-v1.0.bin",
@@ -45,7 +45,7 @@
   "captions": {
     "font": "Liberation Sans",
     "font_file_dir": "channel_kit/fonts",
-    "font_size": 88,
+    "font_size": 82,
     "max_words_per_chunk": 3,
     "center_y": 1390,
     "side_margin": 150,

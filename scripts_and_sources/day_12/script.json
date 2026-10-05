@@ -39,7 +39,7 @@
       "narration_line": "Then the rate fell gradually, sometimes to nearly zero, until the next break.",
       "on_screen_text": "Then it fell toward zero",
       "visual_description": "Falling line between breaks.",
-      "visual_spec": "stand/worry/L; lines:rate,time@R"
+      "visual_spec": "stand/worry/L; lines:rate,time,fall@R"
     },
     {
       "start_sec": 17.34,

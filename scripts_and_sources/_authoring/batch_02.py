@@ -64,7 +64,7 @@ DAYS[12] = dict(
   ("H", [("Do your decisions really wear your brain out?", "PLAN")], "Decisions wear you out?", "Tired stickman surrounded by choices.", "shock/worry/C; list:?,?,?@R"),
   ("E", [("In 2011, researchers studied more than 1,000 parole decisions by eight Israeli judges.", "danziger2011")], "2011: 1,000+ parole decisions", "Eight judges' desks.", "stand/neutral/L; text:8 JUDGES@R"),
   ("E", [("After a food break, about 65 percent of cases were granted parole.", "danziger2011")], "After a break: ~65%", "High bar after a snack.", "point/smile/L; bars:break=65%,before=10%@R"),
-  ("E", [("Then the rate fell gradually, sometimes to nearly zero, until the next break.", "danziger2011")], "Then it fell toward zero", "Falling line between breaks.", "stand/worry/L; lines:rate,time@R"),
+  ("E", [("Then the rate fell gradually, sometimes to nearly zero, until the next break.", "danziger2011")], "Then it fell toward zero", "Falling line between breaks.", "stand/worry/L; lines:rate,time,fall@R"),
   ("E", [("The authors argued that irrelevant factors, like breaks, influence rulings.", "danziger2011")], "Breaks influence rulings?", "Cookie and a gavel.", "think/neutral/L; text:BREAKS?@R"),
   ("E", [("But Keren Weinshall-Margel and John Shapard replied that case order isn't random.", "weinshall2011")], "Critics: case order isn't random", "Shuffled case files.", "shrug/neutral/L; list:CASE 1,CASE 2@R"),
   ("E", [("They argued the pattern is likely an artifact of how cases were ordered.", "weinshall2011")], "Likely an ordering artifact", "Case files stacked in order.", "shrug/neutral/L; cross@R"),
@@ -75,12 +75,12 @@ DAYS[12] = dict(
  ])
 
 DAYS[13] = dict(
- title="Why You Finish a Movie You're Hating",
+ title="The Sunk Cost Effect: Why Paying Keeps You Going",
  description_core="Why do you keep going with something you've already paid for? A 1985 field study found people who paid full price for theater season tickets attended more plays than discounted buyers.",
  primary=["arkes1985"],
  hashtags=["#psychology", "#shorts", "#sunkcost", "#decisionmaking", "#behavioraleconomics", "#psychologyfacts"],
  caveats="One field study at a university theater; attendance was counted over the first six months of the season. Arkes & Blumer suggest the motive is avoiding the appearance of waste, which is their proposed explanation, not a proven mechanism.",
- thumb=(["WHY YOU", "FINISH BAD", "MOVIES"], 1, 0),
+ thumb=(["THE SUNK", "COST EFFECT"], 1, 0),
  scenes=[
   ("H", [("Why do you finish a movie you're hating?", "PLAN")], "Why finish it?", "Stickman bored in a movie seat.", "think/worry/C; coin:$12@R"),
   ("E", [("In 1985, Hal Arkes and Catherine Blumer studied the sunk cost effect.", "arkes1985")], "The sunk cost effect, 1985", "Title card SUNK COST.", "point/neutral/L; text:SUNK COST@R"),
@@ -146,7 +146,7 @@ DAYS[16] = dict(
   ("E", [("In 2005, Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94.", "wittmann2005")], "2005: 499 people, ages 14-94", "Group of stickmen of different heights.", "stand/neutral/L; crowd:5@R; text:499 PEOPLE@TR"),
   ("E", [("Everyone, whatever their age, said time passes quickly.", "wittmann2005")], "All ages: time feels fast", "Clock racing.", "stand/smile/L; clock@R"),
   ("E", [("But when asked about the last 10 years, older people said they'd passed faster.", "wittmann2005")], "Last 10 years: older = faster", "Calendar of ten years.", "think/neutral/L; text:10 YEARS@R"),
-  ("E", [("For shorter spans, like the last week or month, answers didn't change with age.", "wittmann2005")], "Short spans: no age change", "Flat line.", "shrug/neutral/L; lines:young,old@R"),
+  ("E", [("For shorter spans, like the last week or month, answers didn't change with age.", "wittmann2005")], "Short spans: no age change", "Flat line.", "shrug/neutral/L; lines:young,old,flat@R"),
   ("E", [("In 2010, William Friedman and Steve Janssen surveyed 1,865 adults.", "friedman2010")], "2010: 1,865 adults", "Larger crowd.", "stand/neutral/L; crowd:5@R; text:1,865@TR"),
   ("E", [("Age differences in the felt speed of time were very small, except for the last ten years.", "friedman2010")], "Age differences very small", "Tiny bars.", "point/neutral/L; bars:young,old@R"),
   ("E", [("They tied the feeling to time pressure: people who felt rushed said time passed quickly.", "friedman2010")], "Linked to time pressure", "Stickman rushing with a checklist.", "walk/worry/L; list:TODO,TODO@R"),
@@ -170,7 +170,7 @@ DAYS[17] = dict(
   ("E", [("But a 2011 meta-analysis of over 7,700 participants found the effect shrank in dangerous emergencies.", "fischer2011")], "2011: weaker in danger", "Shrinking bar next to a red warning.", "point/neutral/L; bars:safe,danger@R"),
   ("E", [("And in 2020, researchers studied 219 real conflicts on CCTV in Amsterdam, Lancaster and Cape Town.", "philpot2020")], "2020: 219 real conflicts on CCTV", "Camera icon.", "stand/neutral/L; text:219 CONFLICTS@R"),
   ("E", [("Bystanders intervened in more than 90 percent of them.", "philpot2020")], "Bystanders stepped in: 90%+", "Big 90%+ check.", "stand/smile/L; text:90%+@R; check@TR"),
-  ("E", [("Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder.", "manning2007")], "Genovese '38 witnesses' myth", "Crossed-out '38'.", "shrug/neutral/L; text:38?@R; cross@TR"),
+  ("E", [("Meanwhile, researchers found no evidence that 38 witnesses watched Kitty Genovese's murder.", "manning2007")], "'38 witnesses': no evidence", "Crossed-out '38'.", "shrug/neutral/L; text:38?@R; cross@TR"),
   ("T", [("So 'crowds never help' is too simple: in real public conflicts, help was the norm.", "philpot2020")], "'Crowds never help' is too simple", "Helper stepping forward from a crowd.", "walk/smile/L; crowd:3@R"),
   ("C", [("Tomorrow: why does bad news grab your attention?", "PLAN")], "Tomorrow: bad news", "Newspaper with a siren.", "stand/worry/L; text:BAD NEWS@R; text:TOMORROW@TR"),
  ])
@@ -189,14 +189,14 @@ DAYS[18] = dict(
   ("E", [("On average, negative stories produced stronger physiological activation than positive ones.", "soroka2019")], "Negative = stronger reaction", "Bars: negative higher.", "point/neutral/L; bars:positive,negative@R"),
   ("E", [("But individuals varied a lot in how strongly they reacted.", "soroka2019")], "People varied a lot", "Scatter of different heights.", "shrug/neutral/L; bars:person A,person B@R"),
   ("E", [("In a separate 2014 study, Marc Trussler and Soroka let people choose which news stories to read.", "trussler2014")], "2014: people choose stories", "Menu of headlines.", "think/neutral/L; list:GOOD,BAD,OTHER@R"),
-  ("E", [("Even when people said they wanted good news, their choices leaned negative.", "trussler2014")], "Said good, chose bad", "Arrow toward BAD.", "stand/worry/L; arrow:right@R; text:BAD@TR"),
+  ("E", [("People's choices leaned negative, even when that didn't match what they said they wanted.", "trussler2014")], "Choices leaned negative", "Arrow toward BAD.", "stand/worry/L; arrow:right@R; text:BAD@TR"),
   ("E", [("The authors argue that demand, not just editors, helps explain why news is negative.", "trussler2014")], "Demand helps explain it", "Readers as a crowd.", "stand/neutral/L; crowd:4@R"),
   ("T", [("So when a headline pulls you in, it may be tapping a common bias, but not everyone has it equally.", "soroka2019")], "A common bias, not universal", "Stickman noticing the pull.", "point/smile/L; text:NOTICE IT@R"),
   ("C", [("Tomorrow: how can a menu option you never order change what you pick?", "PLAN")], "Tomorrow: the decoy effect", "Menu with three options.", "stand/neutral/L; list:S,M,L@R; text:TOMORROW@TR"),
  ])
 
 DAYS[19] = dict(
- title="How a Menu Option You Never Order Tricks You",
+ title="Can a Menu Option You Never Order Change Your Pick?",
  description_core="Can a third option you never choose change your pick? In 1982 researchers showed a decoy can shift choices, but a 2014 paper found the effect may be limited to choices shown as numbers.",
  primary=["huber1982", "frederick2014"],
  hashtags=["#psychology", "#shorts", "#decoyeffect", "#marketing", "#decisionmaking", "#psychologyfacts"],

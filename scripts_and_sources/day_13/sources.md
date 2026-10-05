@@ -1,4 +1,4 @@
-# Day 13: Why You Finish a Movie You're Hating — source table
+# Day 13: The Sunk Cost Effect: Why Paying Keeps You Going — source table
 
 Topic: The sunk cost fallacy: why you finish bad movies  
 Words: 134

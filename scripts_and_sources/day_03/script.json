@@ -1,7 +1,7 @@
 {
   "day": 3,
   "topic": "The left-digit effect: why $9.99 feels much cheaper than $10",
-  "title": "The One-Cent Trick Behind Every $9.99",
+  "title": "Why $9.99 Looks Cheaper Than $10",
   "voiceover": "Why does $9.99 feel so much cheaper than $10? Researchers call it the left-digit effect. In five experiments, Manoj Thomas and Vicki Morwitz found that a nine-ending price looks smaller than a price one cent higher. But only when the leftmost digits differ, like $2.99 versus $3.00. They also found the effect was stronger when the two prices being compared were close together. And it appeared with other multi-digit numbers, not just prices. A separate analysis found that firms tend to use more round prices for higher-quality products. Researcher Mark Stiving argued that firms signaling quality are more likely to use round prices. So when a price ends in nine, try rounding it up to the next number before you decide. Tomorrow: why do you test only the ideas you already believe?",
   "word_count": 132,
   "scenes": [
@@ -109,10 +109,11 @@
   "accuracy_note": "Thomas & Morwitz (2005) identify when the effect occurs; its size varies. Stiving (2000) is an economic model plus empirical evidence that firms use round prices more for higher-quality products; the model is debated (a 2003 comment exists).",
   "thumbnail": {
     "lines": [
-      "THE $9.99",
-      "TRICK"
+      "WHY $9.99",
+      "LOOKS",
+      "CHEAPER"
     ],
-    "accent_line": 0,
+    "accent_line": 2,
     "scene": 0
   }
 }

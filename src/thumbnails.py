@@ -1,5 +1,5 @@
 """Branded vertical thumbnails (1080x1920): big headline + the day's key drawing + logo.
-Writes shorts/day_XX/thumbnail.png and output/thumbnails/day_XX.png.   Usage: python thumbnails.py [A B]"""
+Writes videos/thumbnails/day_XX.png.   Usage: python thumbnails.py [A B]"""
 import sys
 
 from PIL import Image, ImageDraw, ImageFont
@@ -54,13 +54,12 @@ def build(day):
            font=ImageFont.truetype(visuals.FONT_B, 56), fill=ink)
 
     (OUTPUT / "thumbnails").mkdir(parents=True, exist_ok=True)
-    img.save(day_dir(day) / "thumbnail.png")
     img.save(OUTPUT / "thumbnails" / f"day_{day:02d}.png")
     return img
 
 
 if __name__ == "__main__":
-    a, b = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) == 3 else (1, 10)
+    a, b = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) == 3 else (1, 90)
     for dd in range(a, b + 1):
-        if (day_dir(dd) / "script.json").exists():
+        if (script_dir(dd) / "script.json").exists():
             build(dd); print("thumbnail", dd)

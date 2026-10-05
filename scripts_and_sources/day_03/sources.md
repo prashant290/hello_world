@@ -1,4 +1,4 @@
-# Day 3: The One-Cent Trick Behind Every $9.99 — source table
+# Day 3: Why $9.99 Looks Cheaper Than $10 — source table
 
 Topic: The left-digit effect: why $9.99 feels much cheaper than $10  
 Words: 132

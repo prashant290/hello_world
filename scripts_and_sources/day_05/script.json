@@ -1,7 +1,7 @@
 {
   "day": 5,
   "topic": "The Zeigarnik effect: do unfinished tasks really haunt you?",
-  "title": "Why Unfinished Tasks Haunt Your Brain",
+  "title": "Do Unfinished Tasks Really Haunt You?",
   "voiceover": "Why do unfinished tasks nag at you? In the 1920s, psychologist Bluma Zeigarnik reported that people remembered interrupted tasks better than completed ones. That became known as the Zeigarnik effect. But a 2025 meta-analysis found no memory advantage for unfinished tasks. An earlier replication attempt by Annie van Bergen in 1968 had also failed to find one. Unfinished goals can still keep intruding on your thoughts, though. Psychologists Masicampo and Baumeister showed that making a specific plan for a goal eliminated those effects. In one study, the people who later carried out their plans were the ones whose intrusive thoughts stopped. So instead of just listing a task, decide exactly when and where you will start. Tomorrow: why does losing hurt more than winning feels good?",
   "word_count": 126,
   "scenes": [
@@ -109,11 +109,11 @@
   "accuracy_note": "Zeigarnik's original memory claim has failed to replicate (Van Bergen 1968; Ghibellini & Meier 2025 meta-analysis). Masicampo & Baumeister (2011) studied goal-related intrusive thoughts in lab tasks, not everyday to-do lists.",
   "thumbnail": {
     "lines": [
-      "UNFINISHED",
-      "TASKS",
-      "HAUNT YOU"
+      "DO UNFINISHED",
+      "TASKS HAUNT",
+      "YOU?"
     ],
-    "accent_line": 0,
+    "accent_line": 2,
     "scene": 0
   }
 }

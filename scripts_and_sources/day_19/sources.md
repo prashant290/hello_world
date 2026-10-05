@@ -1,4 +1,4 @@
-# Day 19: How a Menu Option You Never Order Tricks You — source table
+# Day 19: Can a Menu Option You Never Order Change Your Pick? — source table
 
 Topic: The decoy effect in menus and subscriptions (and where it fails)  
 Words: 141

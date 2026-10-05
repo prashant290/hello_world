@@ -2,12 +2,12 @@
   "day": 8,
   "topic": "Earworms: why a song gets stuck in your head",
   "title": "Why That Song Won't Leave Your Head",
-  "voiceover": "Why is that song stuck in your head? Scientists call it involuntary musical imagery, or an earworm. In a survey of 12,519 Finnish adults, 89 percent reported having one at least once a week. A 2016 study compared tunes that people named as earworms with other songs. Earworm tunes tended to have faster tempos. They also followed common melodic shapes, with unusual steps between turning points. In 2015, Beaman and colleagues had 98 people try not to think about two pop songs for three minutes. People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers. The authors suggest gum interferes with the motor planning behind imagining the song. So chewing gum might help next time, though this was a small lab experiment. Tomorrow: why do stores show you a number before the price?",
-  "word_count": 141,
+  "voiceover": "Why is that song stuck in your head? Scientists call it involuntary musical imagery, or an earworm. In a survey of 12,519 Finnish adults, 89 percent reported having one at least once a week. A 2016 study compared tunes that people named as earworms with other songs. Earworm tunes tended to have faster tempos. They also followed common melodic shapes, with unusual steps between turning points. In 2015, Beaman and colleagues had 98 people try not to think about two pop songs for three minutes. People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers. The authors suggest gum interferes with the motor planning behind imagining the song. So chewing gum might help next time, though this was a small lab experiment. Tomorrow: can a random number change your guess?",
+  "word_count": 138,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.78,
+      "end_sec": 2.84,
       "section": "hook",
       "narration_line": "Why is that song stuck in your head?",
       "on_screen_text": "Stuck song?",
@@ -15,8 +15,8 @@
       "visual_spec": "shock/worry/C; notes@R"
     },
     {
-      "start_sec": 2.78,
-      "end_sec": 5.91,
+      "start_sec": 2.84,
+      "end_sec": 6.04,
       "section": "explanation",
       "narration_line": "Scientists call it involuntary musical imagery, or an earworm.",
       "on_screen_text": "Earworm = involuntary imagery",
@@ -24,8 +24,8 @@
       "visual_spec": "stand/neutral/L; notes@R; text:EARWORM@TR"
     },
     {
-      "start_sec": 5.91,
-      "end_sec": 11.82,
+      "start_sec": 6.04,
+      "end_sec": 12.07,
       "section": "explanation",
       "narration_line": "In a survey of 12,519 Finnish adults, 89 percent reported having one at least once a week.",
       "on_screen_text": "89% get one weekly",
@@ -33,8 +33,8 @@
       "visual_spec": "think/neutral/L; text:89%@R; notes@TR"
     },
     {
-      "start_sec": 11.82,
-      "end_sec": 16.33,
+      "start_sec": 12.07,
+      "end_sec": 16.69,
       "section": "explanation",
       "narration_line": "A 2016 study compared tunes that people named as earworms with other songs.",
       "on_screen_text": "2016: earworm tunes vs others",
@@ -42,8 +42,8 @@
       "visual_spec": "point/neutral/L; list:EARWORMS,OTHERS@R"
     },
     {
-      "start_sec": 16.33,
-      "end_sec": 18.77,
+      "start_sec": 16.69,
+      "end_sec": 19.17,
       "section": "explanation",
       "narration_line": "Earworm tunes tended to have faster tempos.",
       "on_screen_text": "Faster tempos",
@@ -51,8 +51,8 @@
       "visual_spec": "stand/smile/L; clock@R; notes@TR"
     },
     {
-      "start_sec": 18.77,
-      "end_sec": 22.94,
+      "start_sec": 19.17,
+      "end_sec": 23.43,
       "section": "explanation",
       "narration_line": "They also followed common melodic shapes, with unusual steps between turning points.",
       "on_screen_text": "Common shapes, odd steps",
@@ -60,8 +60,8 @@
       "visual_spec": "think/neutral/L; lines:shape,steps@R"
     },
     {
-      "start_sec": 22.94,
-      "end_sec": 29.54,
+      "start_sec": 23.43,
+      "end_sec": 30.18,
       "section": "explanation",
       "narration_line": "In 2015, Beaman and colleagues had 98 people try not to think about two pop songs for three minutes.",
       "on_screen_text": "2015: 98 people, 3 minutes",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/neutral/L; clock@R; text:98 PEOPLE@TR"
     },
     {
-      "start_sec": 29.54,
-      "end_sec": 35.79,
+      "start_sec": 30.18,
+      "end_sec": 36.57,
       "section": "explanation",
       "narration_line": "People chewing gum reported hearing the songs less often than people who did nothing or tapped their fingers.",
       "on_screen_text": "Gum reduced earworms",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/smile/L; bars:gum,tapping@R"
     },
     {
-      "start_sec": 35.79,
-      "end_sec": 40.31,
+      "start_sec": 36.57,
+      "end_sec": 41.19,
       "section": "explanation",
       "narration_line": "The authors suggest gum interferes with the motor planning behind imagining the song.",
       "on_screen_text": "Gum blocks 'inner singing'",
@@ -87,8 +87,8 @@
       "visual_spec": "point/neutral/L; notes@R; cross@TR"
     },
     {
-      "start_sec": 40.31,
-      "end_sec": 45.18,
+      "start_sec": 41.19,
+      "end_sec": 46.16,
       "section": "takeaway",
       "narration_line": "So chewing gum might help next time, though this was a small lab experiment.",
       "on_screen_text": "Gum might help (small study)",
@@ -96,12 +96,12 @@
       "visual_spec": "stand/smile/L; text:GUM@R; notes@TR"
     },
     {
-      "start_sec": 45.18,
+      "start_sec": 46.16,
       "end_sec": 49.0,
       "section": "cliffhanger",
-      "narration_line": "Tomorrow: why do stores show you a number before the price?",
-      "on_screen_text": "Tomorrow: the first number",
-      "visual_description": "Big crossed-out price tag.",
+      "narration_line": "Tomorrow: can a random number change your guess?",
+      "on_screen_text": "Tomorrow: a random number",
+      "visual_description": "A wheel with a random number.",
       "visual_spec": "stand/smile/L; tag:$200@R; text:TOMORROW@TR"
     }
   ],

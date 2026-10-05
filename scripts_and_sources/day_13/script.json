@@ -1,7 +1,7 @@
 {
   "day": 13,
   "topic": "The sunk cost fallacy: why you finish bad movies",
-  "title": "Why You Finish a Movie You're Hating",
+  "title": "The Sunk Cost Effect: Why Paying Keeps You Going",
   "voiceover": "Why do you finish a movie you're hating? In 1985, Hal Arkes and Catherine Blumer studied the sunk cost effect. It's the tendency to continue something after you've invested money, effort or time. At an Ohio University theater, they arranged for season tickets to be sold at three prices. At the beginning of the season, about a third bought at the full $15, a third at $13, and a third at $8. Over the next six months, people who paid full price attended more plays than those who paid less. The authors suggest people continue partly to avoid appearing wasteful. This was one field study with theater patrons. So when you're deciding whether to continue, ask what you'd choose if you hadn't already paid. Tomorrow: why do we assume attractive people are better people?",
   "word_count": 134,
   "scenes": [
@@ -109,9 +109,8 @@
   "accuracy_note": "One field study at a university theater; attendance was counted over the first six months of the season. Arkes & Blumer suggest the motive is avoiding the appearance of waste, which is their proposed explanation, not a proven mechanism.",
   "thumbnail": {
     "lines": [
-      "WHY YOU",
-      "FINISH BAD",
-      "MOVIES"
+      "THE SUNK",
+      "COST EFFECT"
     ],
     "accent_line": 1,
     "scene": 0
