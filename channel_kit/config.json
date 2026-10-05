@@ -67,10 +67,12 @@
     "min_voice_over_music_db": 12
   },
   "schedule": {
-    "_note": "EDIT ME: used only by the optional upload script",
+    "timezone": "America/Edmonton",
+    "timezone_label": "Mountain Time, Edmonton (MST in winter, MDT until Sun 1 Nov 2026)",
     "time": "18:00",
-    "timezone": "America/New_York",
-    "start_date": "2026-10-06"
+    "time_is_placeholder": true,
+    "start_date": "2026-10-06",
+    "_note": "Owner gave the time zone only (2026-10-05). 18:00 is my placeholder posting time until the owner picks one."
   },
   "channel": {
     "name": "The Psyche Discourse",

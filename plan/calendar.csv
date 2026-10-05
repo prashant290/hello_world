@@ -1,91 +1,91 @@
-day,publish_date,weekday,month_theme,pillar,topic,verdict_vs_original,status
-1,2026-10-06,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why embarrassing moments stay in memory (emotional memory),Keep,scripted+built
-2,2026-10-07,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The spotlight effect: nobody's watching you as much as you think,Keep,scripted+built
-3,2026-10-08,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The left-digit effect: why $9.99 feels much cheaper than $10,Keep,scripted+built
-4,2026-10-09,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Confirmation bias: how you test only what you already believe,Keep,scripted+built
-5,2026-10-10,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Zeigarnik effect: do unfinished tasks really haunt you?,Reframe,scripted+built
-6,2026-10-11,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Loss aversion: why losses feel bigger than gains (and who disagrees),Reframe,scripted+built
-7,2026-10-12,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Dunning-Kruger effect: what it really says,Reframe,scripted+built
-8,2026-10-13,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Earworms: why a song gets stuck in your head,Keep,scripted+built
-9,2026-10-14,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Anchoring: the first number you see,Keep,scripted+built
-10,2026-10-15,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The doorway effect: why you forget why you walked into a room,Keep,scripted+built
-11,2026-10-16,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The frequency illusion ('Baader-Meinhof'): why you suddenly see it everywhere,Reframe,scripted+built
-12,2026-10-17,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Decision fatigue: real or overhyped?,Reframe,scripted+built
-13,2026-10-18,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The sunk cost fallacy: why you finish bad movies,Keep,scripted+built
-14,2026-10-19,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The halo effect: why attractive people get the benefit of the doubt,Reframe,scripted+built
-15,2026-10-20,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The IKEA effect: why you overvalue what you build,Keep,scripted+built
-16,2026-10-21,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Does time really speed up as you age? What research finds,Reframe,scripted+built
-17,2026-10-22,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,"The bystander effect: more people, less help? (and when that flips)",Reframe,scripted+built
-18,2026-10-23,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Negativity bias: why bad news grabs your attention,Reframe,scripted+built
-19,2026-10-24,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The decoy effect in menus and subscriptions (and where it fails),Reframe,scripted+built
-20,2026-10-25,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why you procrastinate even when you care,Keep,scripted+built
-21,2026-10-26,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The mere exposure effect: why you like what's familiar,Keep,scripted+built
-22,2026-10-27,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why déjà vu happens (leading ideas),Reframe,scripted+built
-23,2026-10-28,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Google effect: what held up and what didn't replicate,Reframe,scripted+built
-24,2026-10-29,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Unrealistic optimism: why you think you'd never fall for a scam,Reframe,scripted+built
-25,2026-10-30,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Hindsight bias: 'I knew it all along',Keep,scripted+built
-26,2026-10-31,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Multitasking: what task-switching really costs,Reframe,scripted+built
-27,2026-11-01,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The scarcity effect: why less feels worth more,Reframe,scripted+built
-28,2026-11-02,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why you can't tickle yourself,Keep,scripted+built
-29,2026-11-03,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The planning fallacy: why everything takes longer,Keep,scripted+built
-30,2026-11-04,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The peak-end rule: how you actually remember experiences,Keep,scripted+built
-31,2026-11-05,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Mimicry: does mirroring body language build trust?,Reframe,planned
-32,2026-11-06,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Ben Franklin effect: does asking for a favor make people like you?,Keep,planned
-33,2026-11-07,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Signs someone is lying (and why most are myths),Keep,planned
-34,2026-11-08,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,"Why people obey authority (the Milgram experiment, and its critics)",Reframe,planned
-35,2026-11-09,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The foot-in-the-door technique,Keep,planned
-36,2026-11-10,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,The 200-millisecond rule: why a short silence feels awkward,Replace,planned
-37,2026-11-11,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Love bombing: what research actually says,Reframe,planned
-38,2026-11-12,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Gaslighting explained simply,Keep,planned
-39,2026-11-13,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does playing hard to get work? (the experiments),Reframe,planned
-40,2026-11-14,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,The pratfall effect: when mistakes make you more likable,Reframe,planned
-41,2026-11-15,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,Social proof: why we copy the crowd,Keep,planned
-42,2026-11-16,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The door-in-the-face technique,Keep,planned
-43,2026-11-17,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,"First impressions take a tenth of a second, not 7 seconds",Reframe,planned
-44,2026-11-18,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Pygmalion effect: do expectations shape people?,Reframe,planned
-45,2026-11-19,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why likes feel rewarding (social media and the brain),Reframe,planned
-46,2026-11-20,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Attachment styles in 50 seconds,Reframe,planned
-47,2026-11-21,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people stay in bad relationships (the investment model),Keep,planned
-48,2026-11-22,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The reciprocity rule: why favors and free samples work,Keep,planned
-49,2026-11-23,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The fundamental attribution error,Reframe,planned
-50,2026-11-24,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do opposites attract? Similarity and attraction,Replace,planned
-51,2026-11-25,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does using someone's name work? (what research shows),Reframe,planned
-52,2026-11-26,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Groupthink: how smart teams make dumb decisions (and critics),Keep,planned
-53,2026-11-27,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Stanford prison experiment and why it's disputed,Keep,planned
-54,2026-11-28,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people gossip,Keep,planned
-55,2026-11-29,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The illusion of transparency: others can't read you as well as you think,Replace,planned
-56,2026-11-30,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,Narcissism vs. confidence: the research difference,Reframe,planned
-57,2026-12-01,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Charisma: what charismatic leaders actually do,Reframe,planned
-58,2026-12-02,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Asch conformity experiment,Keep,planned
-59,2026-12-03,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do breakups really hurt like physical pain? (contested),Reframe,planned
-60,2026-12-04,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Trauma bonding: what the theory says,Reframe,planned
-61,2026-12-05,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Is Blue Monday real? What 340,000 interviews show",Replace,planned
-62,2026-12-06,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","The 2-minute rule: popular, unproven, and what is supported",Reframe,planned
-63,2026-12-07,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Dopamine: wanting vs liking,Keep,planned
-64,2026-12-08,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Is your phone really a slot machine? (variable rewards),Reframe,planned
-65,2026-12-09,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Mental contrasting (WOOP): dreaming vs planning,Replace,planned
-66,2026-12-10,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does journaling help? (expressive writing),Reframe,planned
-67,2026-12-11,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Habits run on cues (the science behind 'habit stacking'),Reframe,planned
-68,2026-12-12,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Mind-wandering and creative ideas (why they pop up in the shower),Reframe,planned
-69,2026-12-13,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Impostor phenomenon: why high achievers feel like frauds,Keep,planned
-70,2026-12-14,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The hedonic treadmill: do new things stop making you happy?,Reframe,planned
-71,2026-12-15,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why naming your emotions shrinks them (affect labeling),Keep,planned
-72,2026-12-16,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Learned helplessness: the dog experiment, reinterpreted",Reframe,planned
-73,2026-12-17,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why sleep deprivation makes you emotional,Keep,planned
-74,2026-12-18,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The Marshmallow test and what it really showed,Keep,planned
-75,2026-12-19,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Social comparison: how comparing changes how you feel,Reframe,planned
-76,2026-12-20,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Growth mindset: what the big studies found,Reframe,planned
-77,2026-12-21,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why you overthink at night,Reframe,planned
-78,2026-12-22,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Talk to yourself like a friend: third-person self-talk,Replace,planned
-79,2026-12-23,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",What gratitude journaling actually does,Reframe,planned
-80,2026-12-24,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does boredom make you more creative?,Keep,planned
-81,2026-12-25,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The Fresh Start effect: why Mondays feel like a reset,Keep,planned
-82,2026-12-26,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Self-handicapping: why you self-sabotage,Keep,planned
-83,2026-12-27,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Emotional contagion: how moods spread,Reframe,planned
-84,2026-12-28,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does walking help you think?,Reframe,planned
-85,2026-12-29,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The paradox of choice (and its meta-analysis),Reframe,planned
-86,2026-12-30,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Habit formation: the 66-day claim, corrected",Reframe,planned
-87,2026-12-31,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Revenge bedtime procrastination,Reframe,planned
-88,2027-01-01,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why small wins matter (the progress principle),Keep,planned
-89,2027-01-02,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The psychology of regret,Keep,planned
-90,2027-01-03,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Status quo bias: why your brain resists change, and how defaults help",Reframe,planned
+day,publish_date,weekday,month_theme,pillar,topic,verdict_vs_original,status,publish_time_local,timezone
+1,2026-10-06,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why embarrassing moments stay in memory (emotional memory),Keep,scripted+built,18:00 (placeholder),America/Edmonton
+2,2026-10-07,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The spotlight effect: nobody's watching you as much as you think,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+3,2026-10-08,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The left-digit effect: why $9.99 feels much cheaper than $10,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+4,2026-10-09,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Confirmation bias: how you test only what you already believe,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+5,2026-10-10,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Zeigarnik effect: do unfinished tasks really haunt you?,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+6,2026-10-11,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Loss aversion: why losses feel bigger than gains (and who disagrees),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+7,2026-10-12,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Dunning-Kruger effect: what it really says,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+8,2026-10-13,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Earworms: why a song gets stuck in your head,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+9,2026-10-14,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Anchoring: the first number you see,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+10,2026-10-15,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The doorway effect: why you forget why you walked into a room,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+11,2026-10-16,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The frequency illusion ('Baader-Meinhof'): why you suddenly see it everywhere,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+12,2026-10-17,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Decision fatigue: real or overhyped?,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+13,2026-10-18,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The sunk cost fallacy: why you finish bad movies,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+14,2026-10-19,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The halo effect: why attractive people get the benefit of the doubt,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+15,2026-10-20,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The IKEA effect: why you overvalue what you build,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+16,2026-10-21,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Does time really speed up as you age? What research finds,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+17,2026-10-22,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,"The bystander effect: more people, less help? (and when that flips)",Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+18,2026-10-23,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Negativity bias: why bad news grabs your attention,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+19,2026-10-24,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The decoy effect in menus and subscriptions (and where it fails),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+20,2026-10-25,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why you procrastinate even when you care,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+21,2026-10-26,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The mere exposure effect: why you like what's familiar,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+22,2026-10-27,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why déjà vu happens (leading ideas),Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+23,2026-10-28,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The Google effect: what held up and what didn't replicate,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+24,2026-10-29,Thu,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Unrealistic optimism: why you think you'd never fall for a scam,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+25,2026-10-30,Fri,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Hindsight bias: 'I knew it all along',Keep,scripted+built,18:00 (placeholder),America/Edmonton
+26,2026-10-31,Sat,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Multitasking: what task-switching really costs,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+27,2026-11-01,Sun,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The scarcity effect: why less feels worth more,Reframe,scripted+built,18:00 (placeholder),America/Edmonton
+28,2026-11-02,Mon,Month 1: How your brain tricks you,Mind tricks & cognitive biases,Why you can't tickle yourself,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+29,2026-11-03,Tue,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The planning fallacy: why everything takes longer,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+30,2026-11-04,Wed,Month 1: How your brain tricks you,Mind tricks & cognitive biases,The peak-end rule: how you actually remember experiences,Keep,scripted+built,18:00 (placeholder),America/Edmonton
+31,2026-11-05,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Mimicry: does mirroring body language build trust?,Reframe,planned,18:00 (placeholder),America/Edmonton
+32,2026-11-06,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Ben Franklin effect: does asking for a favor make people like you?,Keep,planned,18:00 (placeholder),America/Edmonton
+33,2026-11-07,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Signs someone is lying (and why most are myths),Keep,planned,18:00 (placeholder),America/Edmonton
+34,2026-11-08,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,"Why people obey authority (the Milgram experiment, and its critics)",Reframe,planned,18:00 (placeholder),America/Edmonton
+35,2026-11-09,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The foot-in-the-door technique,Keep,planned,18:00 (placeholder),America/Edmonton
+36,2026-11-10,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,The 200-millisecond rule: why a short silence feels awkward,Replace,planned,18:00 (placeholder),America/Edmonton
+37,2026-11-11,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Love bombing: what research actually says,Reframe,planned,18:00 (placeholder),America/Edmonton
+38,2026-11-12,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Gaslighting explained simply,Keep,planned,18:00 (placeholder),America/Edmonton
+39,2026-11-13,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does playing hard to get work? (the experiments),Reframe,planned,18:00 (placeholder),America/Edmonton
+40,2026-11-14,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,The pratfall effect: when mistakes make you more likable,Reframe,planned,18:00 (placeholder),America/Edmonton
+41,2026-11-15,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,Social proof: why we copy the crowd,Keep,planned,18:00 (placeholder),America/Edmonton
+42,2026-11-16,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The door-in-the-face technique,Keep,planned,18:00 (placeholder),America/Edmonton
+43,2026-11-17,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,"First impressions take a tenth of a second, not 7 seconds",Reframe,planned,18:00 (placeholder),America/Edmonton
+44,2026-11-18,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Pygmalion effect: do expectations shape people?,Reframe,planned,18:00 (placeholder),America/Edmonton
+45,2026-11-19,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why likes feel rewarding (social media and the brain),Reframe,planned,18:00 (placeholder),America/Edmonton
+46,2026-11-20,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Attachment styles in 50 seconds,Reframe,planned,18:00 (placeholder),America/Edmonton
+47,2026-11-21,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people stay in bad relationships (the investment model),Keep,planned,18:00 (placeholder),America/Edmonton
+48,2026-11-22,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The reciprocity rule: why favors and free samples work,Keep,planned,18:00 (placeholder),America/Edmonton
+49,2026-11-23,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,The fundamental attribution error,Reframe,planned,18:00 (placeholder),America/Edmonton
+50,2026-11-24,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do opposites attract? Similarity and attraction,Replace,planned,18:00 (placeholder),America/Edmonton
+51,2026-11-25,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,Does using someone's name work? (what research shows),Reframe,planned,18:00 (placeholder),America/Edmonton
+52,2026-11-26,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Groupthink: how smart teams make dumb decisions (and critics),Keep,planned,18:00 (placeholder),America/Edmonton
+53,2026-11-27,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Stanford prison experiment and why it's disputed,Keep,planned,18:00 (placeholder),America/Edmonton
+54,2026-11-28,Sat,"Month 2: People, persuasion & relationships",Social & relationship psychology,Why people gossip,Keep,planned,18:00 (placeholder),America/Edmonton
+55,2026-11-29,Sun,"Month 2: People, persuasion & relationships",Social & relationship psychology,The illusion of transparency: others can't read you as well as you think,Replace,planned,18:00 (placeholder),America/Edmonton
+56,2026-11-30,Mon,"Month 2: People, persuasion & relationships",Social & relationship psychology,Narcissism vs. confidence: the research difference,Reframe,planned,18:00 (placeholder),America/Edmonton
+57,2026-12-01,Tue,"Month 2: People, persuasion & relationships",Social & relationship psychology,Charisma: what charismatic leaders actually do,Reframe,planned,18:00 (placeholder),America/Edmonton
+58,2026-12-02,Wed,"Month 2: People, persuasion & relationships",Social & relationship psychology,The Asch conformity experiment,Keep,planned,18:00 (placeholder),America/Edmonton
+59,2026-12-03,Thu,"Month 2: People, persuasion & relationships",Social & relationship psychology,Do breakups really hurt like physical pain? (contested),Reframe,planned,18:00 (placeholder),America/Edmonton
+60,2026-12-04,Fri,"Month 2: People, persuasion & relationships",Social & relationship psychology,Trauma bonding: what the theory says,Reframe,planned,18:00 (placeholder),America/Edmonton
+61,2026-12-05,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Is Blue Monday real? What 340,000 interviews show",Replace,planned,18:00 (placeholder),America/Edmonton
+62,2026-12-06,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","The 2-minute rule: popular, unproven, and what is supported",Reframe,planned,18:00 (placeholder),America/Edmonton
+63,2026-12-07,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Dopamine: wanting vs liking,Keep,planned,18:00 (placeholder),America/Edmonton
+64,2026-12-08,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Is your phone really a slot machine? (variable rewards),Reframe,planned,18:00 (placeholder),America/Edmonton
+65,2026-12-09,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Mental contrasting (WOOP): dreaming vs planning,Replace,planned,18:00 (placeholder),America/Edmonton
+66,2026-12-10,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does journaling help? (expressive writing),Reframe,planned,18:00 (placeholder),America/Edmonton
+67,2026-12-11,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Habits run on cues (the science behind 'habit stacking'),Reframe,planned,18:00 (placeholder),America/Edmonton
+68,2026-12-12,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Mind-wandering and creative ideas (why they pop up in the shower),Reframe,planned,18:00 (placeholder),America/Edmonton
+69,2026-12-13,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Impostor phenomenon: why high achievers feel like frauds,Keep,planned,18:00 (placeholder),America/Edmonton
+70,2026-12-14,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The hedonic treadmill: do new things stop making you happy?,Reframe,planned,18:00 (placeholder),America/Edmonton
+71,2026-12-15,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why naming your emotions shrinks them (affect labeling),Keep,planned,18:00 (placeholder),America/Edmonton
+72,2026-12-16,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Learned helplessness: the dog experiment, reinterpreted",Reframe,planned,18:00 (placeholder),America/Edmonton
+73,2026-12-17,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why sleep deprivation makes you emotional,Keep,planned,18:00 (placeholder),America/Edmonton
+74,2026-12-18,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The Marshmallow test and what it really showed,Keep,planned,18:00 (placeholder),America/Edmonton
+75,2026-12-19,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Social comparison: how comparing changes how you feel,Reframe,planned,18:00 (placeholder),America/Edmonton
+76,2026-12-20,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Growth mindset: what the big studies found,Reframe,planned,18:00 (placeholder),America/Edmonton
+77,2026-12-21,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why you overthink at night,Reframe,planned,18:00 (placeholder),America/Edmonton
+78,2026-12-22,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Talk to yourself like a friend: third-person self-talk,Replace,planned,18:00 (placeholder),America/Edmonton
+79,2026-12-23,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",What gratitude journaling actually does,Reframe,planned,18:00 (placeholder),America/Edmonton
+80,2026-12-24,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does boredom make you more creative?,Keep,planned,18:00 (placeholder),America/Edmonton
+81,2026-12-25,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The Fresh Start effect: why Mondays feel like a reset,Keep,planned,18:00 (placeholder),America/Edmonton
+82,2026-12-26,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Self-handicapping: why you self-sabotage,Keep,planned,18:00 (placeholder),America/Edmonton
+83,2026-12-27,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Emotional contagion: how moods spread,Reframe,planned,18:00 (placeholder),America/Edmonton
+84,2026-12-28,Mon,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Does walking help you think?,Reframe,planned,18:00 (placeholder),America/Edmonton
+85,2026-12-29,Tue,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The paradox of choice (and its meta-analysis),Reframe,planned,18:00 (placeholder),America/Edmonton
+86,2026-12-30,Wed,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Habit formation: the 66-day claim, corrected",Reframe,planned,18:00 (placeholder),America/Edmonton
+87,2026-12-31,Thu,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Revenge bedtime procrastination,Reframe,planned,18:00 (placeholder),America/Edmonton
+88,2027-01-01,Fri,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",Why small wins matter (the progress principle),Keep,planned,18:00 (placeholder),America/Edmonton
+89,2027-01-02,Sat,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement",The psychology of regret,Keep,planned,18:00 (placeholder),America/Edmonton
+90,2027-01-03,Sun,"Month 3: Emotions, habits & self-improvement","Habits, emotions & self-improvement","Status quo bias: why your brain resists change, and how defaults help",Reframe,planned,18:00 (placeholder),America/Edmonton
