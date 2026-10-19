@@ -2,12 +2,12 @@
   "day": 29,
   "topic": "The planning fallacy: why everything takes longer",
   "title": "Why Everything Takes Longer Than Planned",
-  "voiceover": "Why does everything take longer than you planned? In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy. They followed 37 psychology students writing their honors theses. On average, students' best guess was 33.9 days. They actually took 55.5 days on average. That means the average was about 22 days later than their best guess. Only about 30 percent finished by the date they had predicted. Even the average worst-case forecast, 48.6 days, fell short. Forecasts for other people were generally less biased than forecasts for themselves. The same broad pattern appeared across several experiments involving academic and everyday tasks. So try estimating the task the way you'd estimate it for someone else. Tomorrow: how do you actually remember an experience?",
-  "word_count": 124,
+  "voiceover": "Why does everything take longer than you planned? Students writing their honors theses made a best guess of 33.9 days, on average. They actually took 55.5 days on average. In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy. They followed 37 psychology students writing their honors theses. That means the average was about 22 days later than their best guess. Only about 30 percent finished by the date they had predicted. Even the average worst-case forecast, 48.6 days, fell short. Forecasts for other people were generally less biased than forecasts for themselves. The same broad pattern appeared across several experiments involving academic and everyday tasks. So try estimating the task the way you'd estimate it for someone else. Tomorrow: how do you actually remember an experience?",
+  "word_count": 130,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.16,
+      "end_sec": 3.02,
       "section": "hook",
       "narration_line": "Why does everything take longer than you planned?",
       "on_screen_text": "Why does it run late?",
@@ -15,35 +15,17 @@
       "visual_spec": "shock/worry/C; clock@R"
     },
     {
-      "start_sec": 3.16,
-      "end_sec": 8.3,
+      "start_sec": 3.02,
+      "end_sec": 8.29,
       "section": "explanation",
-      "narration_line": "In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy.",
-      "on_screen_text": "1994: the planning fallacy",
-      "visual_description": "Title card PLANNING FALLACY.",
-      "visual_spec": "point/neutral/L; text:PLANNING FALLACY@R"
-    },
-    {
-      "start_sec": 8.3,
-      "end_sec": 11.85,
-      "section": "explanation",
-      "narration_line": "They followed 37 psychology students writing their honors theses.",
-      "on_screen_text": "37 students, honors theses",
-      "visual_description": "Stack of theses.",
-      "visual_spec": "stand/neutral/L; text:37 STUDENTS@R"
-    },
-    {
-      "start_sec": 11.85,
-      "end_sec": 15.02,
-      "section": "explanation",
-      "narration_line": "On average, students' best guess was 33.9 days.",
+      "narration_line": "Students writing their honors theses made a best guess of 33.9 days, on average.",
       "on_screen_text": "Best guess: 33.9 days",
       "visual_description": "Bar at 33.9.",
       "visual_spec": "stand/smile/L; bars:guess=33.9d,actual=55.5d@R"
     },
     {
-      "start_sec": 15.02,
-      "end_sec": 17.78,
+      "start_sec": 8.29,
+      "end_sec": 10.93,
       "section": "explanation",
       "narration_line": "They actually took 55.5 days on average.",
       "on_screen_text": "Actual: 55.5 days",
@@ -51,8 +33,26 @@
       "visual_spec": "shock/worry/L; bars:guess=33.9d,actual=55.5d@R"
     },
     {
-      "start_sec": 17.78,
-      "end_sec": 22.92,
+      "start_sec": 10.93,
+      "end_sec": 15.83,
+      "section": "explanation",
+      "narration_line": "In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy.",
+      "on_screen_text": "1994: the planning fallacy",
+      "visual_description": "Title card PLANNING FALLACY.",
+      "visual_spec": "point/neutral/L; text:PLANNING FALLACY@R"
+    },
+    {
+      "start_sec": 15.83,
+      "end_sec": 19.22,
+      "section": "explanation",
+      "narration_line": "They followed 37 psychology students writing their honors theses.",
+      "on_screen_text": "37 students, honors theses",
+      "visual_description": "Stack of theses.",
+      "visual_spec": "stand/neutral/L; text:37 STUDENTS@R"
+    },
+    {
+      "start_sec": 19.22,
+      "end_sec": 24.12,
       "section": "explanation",
       "narration_line": "That means the average was about 22 days later than their best guess.",
       "on_screen_text": "About 22 days later",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/worry/L; arrow:right@R; text:+22 DAYS@TR"
     },
     {
-      "start_sec": 22.92,
-      "end_sec": 27.27,
+      "start_sec": 24.12,
+      "end_sec": 28.27,
       "section": "explanation",
       "narration_line": "Only about 30 percent finished by the date they had predicted.",
       "on_screen_text": "Only ~30% on time",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/neutral/L; text:~30%@R"
     },
     {
-      "start_sec": 27.27,
-      "end_sec": 30.82,
+      "start_sec": 28.27,
+      "end_sec": 31.66,
       "section": "explanation",
       "narration_line": "Even the average worst-case forecast, 48.6 days, fell short.",
       "on_screen_text": "Even worst case fell short",
@@ -78,8 +78,8 @@
       "visual_spec": "shrug/neutral/L; text:48.6 DAYS@R"
     },
     {
-      "start_sec": 30.82,
-      "end_sec": 40.7,
+      "start_sec": 31.66,
+      "end_sec": 41.08,
       "section": "explanation",
       "narration_line": "Forecasts for other people were generally less biased than forecasts for themselves. The same broad pattern appeared across several experiments involving academic and everyday tasks.",
       "on_screen_text": "Others' forecasts less biased",
@@ -87,8 +87,8 @@
       "visual_spec": "think/neutral/L; crowd:1@R"
     },
     {
-      "start_sec": 40.7,
-      "end_sec": 45.84,
+      "start_sec": 41.08,
+      "end_sec": 45.98,
       "section": "takeaway",
       "narration_line": "So try estimating the task the way you'd estimate it for someone else.",
       "on_screen_text": "Estimate like it's someone else's",
@@ -96,7 +96,7 @@
       "visual_spec": "point/smile/L; text:SOMEONE ELSE@R"
     },
     {
-      "start_sec": 45.84,
+      "start_sec": 45.98,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: how do you actually remember an experience?",

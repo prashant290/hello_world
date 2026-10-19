@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks.",
+      "sentence": "Switching between tasks costs time, and the cost grows with the complexity of the task rules.",
       "cites": [
         "rubinstein2001"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Switching cost time, and the cost grew with the complexity of the task rules.",
+      "sentence": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans found this by studying people switching between tasks.",
       "cites": [
         "rubinstein2001"
       ],

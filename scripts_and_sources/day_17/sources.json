@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1968, John Darley and Bibb Latané staged a fake emergency.",
+      "sentence": "In a fake emergency, people who believed they were alone with a person having a seizure helped about 85 percent of the time.",
       "cites": [
         "darley1968"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "People who believed they were alone with a person having a seizure helped about 85 percent of the time.",
+      "sentence": "That was a 1968 experiment by John Darley and Bibb Latané.",
       "cites": [
         "darley1968"
       ],

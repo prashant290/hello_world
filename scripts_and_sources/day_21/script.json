@@ -2,7 +2,7 @@
   "day": 21,
   "topic": "The mere exposure effect: why you like what's familiar",
   "title": "Why You Like What You've Seen a Lot",
-  "voiceover": "Why do you like what you've seen a lot? In 1968, Robert Zajonc proposed the mere exposure effect. Repeated exposure to something can make you like it more. Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes. His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments. In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles. Liking rose with repeated exposure, then leveled off and declined. So more exposure helps up to a point; overexposure can backfire. Their meta-analysis covered effects on liking, familiarity and recognition. So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'. Tomorrow: why do you get déjà vu?",
+  "voiceover": "Why do you like what you've seen a lot? Repeated exposure to something can make you like it more. The claim: mere repeated exposure, with nothing else added, enhances attitudes. In 1968, Robert Zajonc proposed this as the mere exposure effect. His 1968 paper described four kinds of evidence, from word frequency to controlled exposure experiments. In 2017, Matthew Montoya and colleagues analyzed 268 curve estimates from 81 articles. Liking rose with repeated exposure, then leveled off and declined. So more exposure helps up to a point; overexposure can backfire. Their meta-analysis covered effects on liking, familiarity and recognition. So familiarity can make something feel better, but don't mistake 'I've seen it a lot' for 'it's good'. Tomorrow: why do you get déjà vu?",
   "word_count": 124,
   "scenes": [
     {
@@ -16,21 +16,21 @@
     },
     {
       "start_sec": 3.56,
-      "end_sec": 7.11,
+      "end_sec": 11.85,
       "section": "explanation",
-      "narration_line": "In 1968, Robert Zajonc proposed the mere exposure effect.",
-      "on_screen_text": "The mere exposure effect, 1968",
-      "visual_description": "Title card MERE EXPOSURE.",
-      "visual_spec": "point/neutral/L; text:MERE EXPOSURE@R"
-    },
-    {
-      "start_sec": 7.11,
-      "end_sec": 16.2,
-      "section": "explanation",
-      "narration_line": "Repeated exposure to something can make you like it more. Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes.",
+      "narration_line": "Repeated exposure to something can make you like it more. The claim: mere repeated exposure, with nothing else added, enhances attitudes.",
       "on_screen_text": "Repeat exposure = more liking",
       "visual_description": "Heart growing.",
       "visual_spec": "stand/smile/L; text:SEEN IT AGAIN@R"
+    },
+    {
+      "start_sec": 11.85,
+      "end_sec": 16.2,
+      "section": "explanation",
+      "narration_line": "In 1968, Robert Zajonc proposed this as the mere exposure effect.",
+      "on_screen_text": "The mere exposure effect, 1968",
+      "visual_description": "Title card MERE EXPOSURE.",
+      "visual_spec": "point/neutral/L; text:MERE EXPOSURE@R"
     },
     {
       "start_sec": 16.2,

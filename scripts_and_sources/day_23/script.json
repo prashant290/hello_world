@@ -2,12 +2,12 @@
   "day": 23,
   "topic": "The Google effect: what held up and what didn't replicate",
   "title": "Is Google Hurting Your Memory? What Held Up",
-  "voiceover": "Does Google make you forget things? In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science. When people expected to have future access to information, they recalled the information itself less. They did better at remembering where to find the information. Another claim was that hard trivia questions prime people to think about computers. In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study. He noted that two earlier replication attempts had failed too. Those replications tested the computer-priming claim, not the memory-for-location one. So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence. Tomorrow: why do you think you'd never fall for a scam?",
-  "word_count": 121,
+  "voiceover": "Does Google make you forget things? People who expected to have future access to information recalled the information itself less. That's from 2011, when Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science. They did better at remembering where to find the information. Another claim was that hard trivia questions prime people to think about computers. In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study. He noted that two earlier replication attempts had failed too. Those replications tested the computer-priming claim, not the memory-for-location one. So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence. Tomorrow: why do you think you'd never fall for a scam?",
+  "word_count": 122,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.43,
+      "end_sec": 2.41,
       "section": "hook",
       "narration_line": "Does Google make you forget things?",
       "on_screen_text": "Does Google make you forget?",
@@ -15,26 +15,26 @@
       "visual_spec": "think/worry/C; text:SEARCH@R"
     },
     {
-      "start_sec": 2.43,
-      "end_sec": 8.1,
+      "start_sec": 2.41,
+      "end_sec": 8.03,
       "section": "explanation",
-      "narration_line": "In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science.",
-      "on_screen_text": "2011: four studies in Science",
-      "visual_description": "Journal cover.",
-      "visual_spec": "stand/neutral/L; text:SCIENCE 2011@R"
-    },
-    {
-      "start_sec": 8.1,
-      "end_sec": 14.17,
-      "section": "explanation",
-      "narration_line": "When people expected to have future access to information, they recalled the information itself less.",
+      "narration_line": "People who expected to have future access to information recalled the information itself less.",
       "on_screen_text": "Expect access: recall less",
       "visual_description": "Bar low.",
       "visual_spec": "stand/neutral/L; bars:no access=h70,expect access=h40@R"
     },
     {
-      "start_sec": 14.17,
-      "end_sec": 18.22,
+      "start_sec": 8.03,
+      "end_sec": 14.46,
+      "section": "explanation",
+      "narration_line": "That's from 2011, when Betsy Sparrow, Jenny Liu and Daniel Wegner published four studies in Science.",
+      "on_screen_text": "2011: four studies in Science",
+      "visual_description": "Journal cover.",
+      "visual_spec": "stand/neutral/L; text:SCIENCE 2011@R"
+    },
+    {
+      "start_sec": 14.46,
+      "end_sec": 18.48,
       "section": "explanation",
       "narration_line": "They did better at remembering where to find the information.",
       "on_screen_text": "Better at 'where to find it'",
@@ -42,8 +42,8 @@
       "visual_spec": "point/smile/L; text:WHERE@R"
     },
     {
-      "start_sec": 18.22,
-      "end_sec": 23.49,
+      "start_sec": 18.48,
+      "end_sec": 23.7,
       "section": "explanation",
       "narration_line": "Another claim was that hard trivia questions prime people to think about computers.",
       "on_screen_text": "Claim: hard questions prime 'computer'",
@@ -51,8 +51,8 @@
       "visual_spec": "think/neutral/L; qmark@R"
     },
     {
-      "start_sec": 23.49,
-      "end_sec": 29.16,
+      "start_sec": 23.7,
+      "end_sec": 29.32,
       "section": "explanation",
       "narration_line": "In 2020, Guido Hesselmann found no conclusive evidence for it in a replication study.",
       "on_screen_text": "2020 replication: no clear evidence",
@@ -60,8 +60,8 @@
       "visual_spec": "shrug/neutral/L; cross@R"
     },
     {
-      "start_sec": 29.16,
-      "end_sec": 33.21,
+      "start_sec": 29.32,
+      "end_sec": 33.34,
       "section": "explanation",
       "narration_line": "He noted that two earlier replication attempts had failed too.",
       "on_screen_text": "Two earlier attempts failed",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/neutral/L; list:TRY 1,TRY 2@R; cross@TR"
     },
     {
-      "start_sec": 33.21,
-      "end_sec": 37.26,
+      "start_sec": 33.34,
+      "end_sec": 37.35,
       "section": "explanation",
       "narration_line": "Those replications tested the computer-priming claim, not the memory-for-location one.",
       "on_screen_text": "They tested one claim only",
@@ -78,8 +78,8 @@
       "visual_spec": "point/neutral/L; list:PRIMING,LOCATION@R"
     },
     {
-      "start_sec": 37.26,
-      "end_sec": 44.55,
+      "start_sec": 37.35,
+      "end_sec": 44.58,
       "section": "takeaway",
       "narration_line": "So 'we remember where information is' fits the study, but 'Google rots your brain' goes beyond the evidence.",
       "on_screen_text": "'Google rots your brain' overreaches",
@@ -87,7 +87,7 @@
       "visual_spec": "stand/smile/L; text:OVERREACH@R"
     },
     {
-      "start_sec": 44.55,
+      "start_sec": 44.58,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why do you think you'd never fall for a scam?",

@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options.",
+      "sentence": "Adding a clearly worse decoy could make people pick the option that beat it more often.",
       "cites": [
         "huber1982"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "A decoy is an option that's clearly worse than one item, but not clearly worse than the other.",
+      "sentence": "In 1982, Huber, Payne and Puto studied these asymmetrically dominated options.",
       "cites": [
         "huber1982"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "Adding a decoy could increase how often people picked the option that dominated it.",
+      "sentence": "A decoy is an option that's clearly worse than one item, but not clearly worse than the other.",
       "cites": [
         "huber1982"
       ],

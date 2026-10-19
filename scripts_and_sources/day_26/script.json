@@ -2,12 +2,12 @@
   "day": 26,
   "topic": "Multitasking: what task-switching really costs",
   "title": "What Multitasking Really Costs Your Brain",
-  "voiceover": "Can you really do two things at once? In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks. Switching cost time, and the cost grew with the complexity of the task rules. In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information. But later studies didn't all find that link. A 2017 replication did find higher task-switching costs in heavy media multitaskers. And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together. For most other people, performance dropped when they did both. So most of us pay a cost when we switch tasks, even if a few people don't. Tomorrow: why does scarcity make things look more valuable?",
-  "word_count": 136,
+  "voiceover": "Can you really do two things at once? Switching between tasks costs time, and the cost grows with the complexity of the task rules. In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans found this by studying people switching between tasks. In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information. But later studies didn't all find that link. A 2017 replication did find higher task-switching costs in heavy media multitaskers. And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together. For most other people, performance dropped when they did both. So most of us pay a cost when we switch tasks, even if a few people don't. Tomorrow: why does scarcity make things look more valuable?",
+  "word_count": 141,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.88,
+      "end_sec": 2.78,
       "section": "hook",
       "narration_line": "Can you really do two things at once?",
       "on_screen_text": "Two things at once?",
@@ -15,26 +15,26 @@
       "visual_spec": "shock/worry/C; list:A,B@R"
     },
     {
-      "start_sec": 2.88,
-      "end_sec": 7.93,
+      "start_sec": 2.78,
+      "end_sec": 8.34,
       "section": "explanation",
-      "narration_line": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans studied people switching between tasks.",
-      "on_screen_text": "2001: task switching",
-      "visual_description": "Arrows swapping A and B.",
-      "visual_spec": "stand/neutral/L; text:2001@TR; list:A,B@R"
-    },
-    {
-      "start_sec": 7.93,
-      "end_sec": 12.97,
-      "section": "explanation",
-      "narration_line": "Switching cost time, and the cost grew with the complexity of the task rules.",
+      "narration_line": "Switching between tasks costs time, and the cost grows with the complexity of the task rules.",
       "on_screen_text": "Switching costs time",
       "visual_description": "Clock with rising bar.",
       "visual_spec": "think/neutral/L; clock@R"
     },
     {
-      "start_sec": 12.97,
-      "end_sec": 20.18,
+      "start_sec": 8.34,
+      "end_sec": 14.25,
+      "section": "explanation",
+      "narration_line": "In 2001, Joshua Rubinstein, David Meyer and Jeffrey Evans found this by studying people switching between tasks.",
+      "on_screen_text": "2001: task switching",
+      "visual_description": "Arrows swapping A and B.",
+      "visual_spec": "stand/neutral/L; text:2001@TR; list:A,B@R"
+    },
+    {
+      "start_sec": 14.25,
+      "end_sec": 21.2,
       "section": "explanation",
       "narration_line": "In 2009, Eyal Ophir, Clifford Nass and Anthony Wagner reported that heavy media multitaskers were more distracted by irrelevant information.",
       "on_screen_text": "2009: heavy multitaskers distracted",
@@ -42,8 +42,8 @@
       "visual_spec": "shock/neutral/L; bubble:ping!@TR"
     },
     {
-      "start_sec": 20.18,
-      "end_sec": 23.06,
+      "start_sec": 21.2,
+      "end_sec": 23.98,
       "section": "explanation",
       "narration_line": "But later studies didn't all find that link.",
       "on_screen_text": "Later studies: mixed",
@@ -51,8 +51,8 @@
       "visual_spec": "shrug/neutral/L; check@R; cross@TR"
     },
     {
-      "start_sec": 23.06,
-      "end_sec": 27.38,
+      "start_sec": 23.98,
+      "end_sec": 28.15,
       "section": "explanation",
       "narration_line": "A 2017 replication did find higher task-switching costs in heavy media multitaskers.",
       "on_screen_text": "2017: higher switching costs",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/neutral/L; bars:light=h35,heavy=h65@R"
     },
     {
-      "start_sec": 27.38,
-      "end_sec": 36.03,
+      "start_sec": 28.15,
+      "end_sec": 36.49,
       "section": "explanation",
       "narration_line": "And a 2010 study of 200 students found about 2.5 percent, the 'supertaskers', showed no decline when driving and doing a memory task together.",
       "on_screen_text": "2010: 2.5% 'supertaskers'",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/smile/L; text:2.5%@R"
     },
     {
-      "start_sec": 36.03,
-      "end_sec": 39.63,
+      "start_sec": 36.49,
+      "end_sec": 39.96,
       "section": "explanation",
       "narration_line": "For most other people, performance dropped when they did both.",
       "on_screen_text": "Most others declined",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/worry/L; arrow:down@R"
     },
     {
-      "start_sec": 39.63,
-      "end_sec": 45.76,
+      "start_sec": 39.96,
+      "end_sec": 45.87,
       "section": "takeaway",
       "narration_line": "So most of us pay a cost when we switch tasks, even if a few people don't.",
       "on_screen_text": "Switching isn't free",
@@ -87,7 +87,7 @@
       "visual_spec": "point/smile/L; tag:SWITCH@R"
     },
     {
-      "start_sec": 45.76,
+      "start_sec": 45.87,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why does scarcity make things look more valuable?",

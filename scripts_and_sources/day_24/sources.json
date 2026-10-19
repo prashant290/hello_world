@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1980, Neil Weinstein asked 258 college students about 42 life events.",
+      "sentence": "In one study, students rated their own chances of good events as above average.",
       "cites": [
         "weinstein1980"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "They compared their own chances with those of their classmates.",
+      "sentence": "And their chances of bad events as below average.",
       "cites": [
         "weinstein1980"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "Students rated their own chances of good events as above average.",
+      "sentence": "In 1980, Neil Weinstein asked 258 college students about 42 life events.",
       "cites": [
         "weinstein1980"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "And their chances of bad events as below average.",
+      "sentence": "They compared their own chances with those of their classmates.",
       "cites": [
         "weinstein1980"
       ],

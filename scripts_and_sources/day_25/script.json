@@ -2,12 +2,12 @@
   "day": 25,
   "topic": "Hindsight bias: 'I knew it all along'",
   "title": "'I Knew It All Along': The Hindsight Trap",
-  "voiceover": "Do you ever say, 'I knew it all along'? In 1975, Baruch Fischhoff studied what happens when people learn an outcome. Knowing the outcome made them judge it as more likely. People were largely unaware of this effect. So they overestimated what they would have known without the outcome. They also overestimated what others actually knew beforehand. In 2012, Neal Roese and Kathleen Vohs reviewed the research. Roese and Vohs say it is the first overview to draw on research across disciplines. They proposed three levels of hindsight bias, from memory distortion to higher-level belief. The first is misremembering what you predicted. So when you feel 'I knew it', check whether you wrote down what you actually predicted. Tomorrow: what does multitasking really cost you?",
-  "word_count": 125,
+  "voiceover": "Do you ever say, 'I knew it all along'? Knowing the outcome made people judge it as more likely. That's from 1975, when Baruch Fischhoff studied what happens when people learn an outcome. People were largely unaware of this effect. So they overestimated what they would have known without the outcome. They also overestimated what others actually knew beforehand. In 2012, Neal Roese and Kathleen Vohs reviewed the research. Roese and Vohs say it is the first overview to draw on research across disciplines. They proposed three levels of hindsight bias, from memory distortion to higher-level belief. The first is misremembering what you predicted. So when you feel 'I knew it', check whether you wrote down what you actually predicted. Tomorrow: what does multitasking really cost you?",
+  "word_count": 127,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.53,
+      "end_sec": 3.47,
       "section": "hook",
       "narration_line": "Do you ever say, 'I knew it all along'?",
       "on_screen_text": "'I knew it all along'",
@@ -15,26 +15,26 @@
       "visual_spec": "stand/smile/C; bubble:knew it@R"
     },
     {
-      "start_sec": 3.53,
-      "end_sec": 8.23,
+      "start_sec": 3.47,
+      "end_sec": 7.33,
       "section": "explanation",
-      "narration_line": "In 1975, Baruch Fischhoff studied what happens when people learn an outcome.",
-      "on_screen_text": "1975: learning the outcome",
-      "visual_description": "Outcome card revealed.",
-      "visual_spec": "point/neutral/L; text:1975@TR; text:OUTCOME@R"
-    },
-    {
-      "start_sec": 8.23,
-      "end_sec": 12.15,
-      "section": "explanation",
-      "narration_line": "Knowing the outcome made them judge it as more likely.",
+      "narration_line": "Knowing the outcome made people judge it as more likely.",
       "on_screen_text": "Outcome seems more likely",
       "visual_description": "Probability bar rising.",
       "visual_spec": "stand/neutral/L; bars:before=h35,after=h65@R"
     },
     {
-      "start_sec": 12.15,
-      "end_sec": 14.9,
+      "start_sec": 7.33,
+      "end_sec": 12.73,
+      "section": "explanation",
+      "narration_line": "That's from 1975, when Baruch Fischhoff studied what happens when people learn an outcome.",
+      "on_screen_text": "1975: learning the outcome",
+      "visual_description": "Outcome card revealed.",
+      "visual_spec": "point/neutral/L; text:1975@TR; text:OUTCOME@R"
+    },
+    {
+      "start_sec": 12.73,
+      "end_sec": 15.43,
       "section": "explanation",
       "narration_line": "People were largely unaware of this effect.",
       "on_screen_text": "Largely unaware",
@@ -42,8 +42,8 @@
       "visual_spec": "shrug/neutral/L; qmark@R"
     },
     {
-      "start_sec": 14.9,
-      "end_sec": 19.21,
+      "start_sec": 15.43,
+      "end_sec": 19.68,
       "section": "explanation",
       "narration_line": "So they overestimated what they would have known without the outcome.",
       "on_screen_text": "Overestimated what they'd have known",
@@ -51,8 +51,8 @@
       "visual_spec": "think/neutral/L; bars:would have known=h35,guessed=h65@R"
     },
     {
-      "start_sec": 19.21,
-      "end_sec": 22.34,
+      "start_sec": 19.68,
+      "end_sec": 22.76,
       "section": "explanation",
       "narration_line": "They also overestimated what others actually knew beforehand.",
       "on_screen_text": "Also overestimated others",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/neutral/L; crowd:4@R"
     },
     {
-      "start_sec": 22.34,
-      "end_sec": 26.26,
+      "start_sec": 22.76,
+      "end_sec": 26.62,
       "section": "explanation",
       "narration_line": "In 2012, Neal Roese and Kathleen Vohs reviewed the research.",
       "on_screen_text": "2012 review",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/neutral/L; text:2012@TR"
     },
     {
-      "start_sec": 26.26,
-      "end_sec": 32.14,
+      "start_sec": 26.62,
+      "end_sec": 32.41,
       "section": "explanation",
       "narration_line": "Roese and Vohs say it is the first overview to draw on research across disciplines.",
       "on_screen_text": "First cross-discipline overview",
@@ -78,8 +78,8 @@
       "visual_spec": "point/neutral/L; list:PSYCH,LAW,MED@R"
     },
     {
-      "start_sec": 32.14,
-      "end_sec": 37.24,
+      "start_sec": 32.41,
+      "end_sec": 37.43,
       "section": "explanation",
       "narration_line": "They proposed three levels of hindsight bias, from memory distortion to higher-level belief.",
       "on_screen_text": "Three levels of hindsight bias",
@@ -87,8 +87,8 @@
       "visual_spec": "stand/neutral/L; list:MEMORY,INFERENCE,BELIEF@R"
     },
     {
-      "start_sec": 37.24,
-      "end_sec": 39.98,
+      "start_sec": 37.43,
+      "end_sec": 40.13,
       "section": "explanation",
       "narration_line": "The first is misremembering what you predicted.",
       "on_screen_text": "Level 1: misremembering your prediction",
@@ -96,8 +96,8 @@
       "visual_spec": "think/worry/L; bubble:I said...@TR"
     },
     {
-      "start_sec": 39.98,
-      "end_sec": 46.26,
+      "start_sec": 40.13,
+      "end_sec": 46.3,
       "section": "takeaway",
       "narration_line": "So when you feel 'I knew it', check whether you wrote down what you actually predicted.",
       "on_screen_text": "Check what you actually wrote",
@@ -105,7 +105,7 @@
       "visual_spec": "point/smile/L; list:NOTE@R; check@TR"
     },
     {
-      "start_sec": 46.26,
+      "start_sec": 46.3,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: what does multitasking really cost you?",

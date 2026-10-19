@@ -2,7 +2,7 @@
   "day": 28,
   "topic": "Why you can't tickle yourself",
   "title": "Why You Can't Tickle Yourself",
-  "voiceover": "Why can't you tickle yourself? In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that. A robot touched people's palm, or they moved a robot arm to produce the touch themselves. People rated self-produced touch as less ticklish, less intense and less pleasant. When the researchers added a delay of up to 200 milliseconds between your movement and the touch, it felt progressively more ticklish. They proposed that your brain predicts the sensory results of your own movements. That prediction helps cancel the sensation when you cause it yourself. Brain scans showed less cerebellum activity for a movement that produced the touch than for one that didn't. So your brain treats touches you cause differently from touches caused by someone else. Tomorrow: why does everything take longer than you planned?",
+  "voiceover": "Why can't you tickle yourself? In one experiment, people rated touch they produced themselves as less ticklish, less intense and less pleasant. In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that. A robot touched people's palm, or they moved a robot arm to produce the touch themselves. A delay of up to 200 milliseconds between movement and touch made it feel progressively more ticklish. They proposed that your brain predicts the sensory results of your own movements. That prediction helps cancel the sensation when you cause it yourself. Brain scans showed less cerebellum activity for a movement that produced the touch than for one that didn't. So your brain treats touches you cause differently from touches caused by someone else. Tomorrow: why does everything take longer than you planned?",
   "word_count": 132,
   "scenes": [
     {
@@ -16,7 +16,16 @@
     },
     {
       "start_sec": 1.86,
-      "end_sec": 6.31,
+      "end_sec": 8.17,
+      "section": "explanation",
+      "narration_line": "In one experiment, people rated touch they produced themselves as less ticklish, less intense and less pleasant.",
+      "on_screen_text": "Self-touch: less ticklish",
+      "visual_description": "Bars: self low, robot high.",
+      "visual_spec": "stand/smile/L; bars:self=h30,robot=h70@R"
+    },
+    {
+      "start_sec": 8.17,
+      "end_sec": 12.62,
       "section": "explanation",
       "narration_line": "In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that.",
       "on_screen_text": "1998: Blakemore, Wolpert, Frith",
@@ -24,8 +33,8 @@
       "visual_spec": "point/neutral/L; text:1998@TR; text:TICKLE STUDY@R"
     },
     {
-      "start_sec": 6.31,
-      "end_sec": 12.25,
+      "start_sec": 12.62,
+      "end_sec": 18.56,
       "section": "explanation",
       "narration_line": "A robot touched people's palm, or they moved a robot arm to produce the touch themselves.",
       "on_screen_text": "Robot touch vs self-produced",
@@ -33,19 +42,10 @@
       "visual_spec": "stand/neutral/L; list:ROBOT,SELF@R"
     },
     {
-      "start_sec": 12.25,
-      "end_sec": 16.7,
-      "section": "explanation",
-      "narration_line": "People rated self-produced touch as less ticklish, less intense and less pleasant.",
-      "on_screen_text": "Self-touch: less ticklish",
-      "visual_description": "Bars: self low, robot high.",
-      "visual_spec": "stand/smile/L; bars:self=h30,robot=h70@R"
-    },
-    {
-      "start_sec": 16.7,
+      "start_sec": 18.56,
       "end_sec": 24.87,
       "section": "explanation",
-      "narration_line": "When the researchers added a delay of up to 200 milliseconds between your movement and the touch, it felt progressively more ticklish.",
+      "narration_line": "A delay of up to 200 milliseconds between movement and touch made it feel progressively more ticklish.",
       "on_screen_text": "200 ms delay: more ticklish",
       "visual_description": "Clock with delay.",
       "visual_spec": "think/neutral/L; clock@R; text:200 MS@TR"

@@ -2,7 +2,7 @@
   "day": 19,
   "topic": "The decoy effect in menus and subscriptions (and where it fails)",
   "title": "Can a Menu Option You Never Order Change Your Pick?",
-  "voiceover": "Can a third option you never choose change your pick? In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options. A decoy is an option that's clearly worse than one item, but not clearly worse than the other. Adding a decoy could increase how often people picked the option that dominated it. In 2014, Shane Frederick and colleagues tested the limits of this attraction effect. They found it showed up mainly when every product feature was shown as a number. It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room. The authors suggest it may be limited to numbers-on-a-page choices. So when options are listed as numbers, ask if one of them is just there to make another look good. Tomorrow: why do you put off things you care about?",
+  "voiceover": "Can a third option you never choose change your pick? Adding a clearly worse decoy could make people pick the option that beat it more often. In 1982, Huber, Payne and Puto studied these asymmetrically dominated options. A decoy is an option that's clearly worse than one item, but not clearly worse than the other. In 2014, Shane Frederick and colleagues tested the limits of this attraction effect. They found it showed up mainly when every product feature was shown as a number. It didn't typically appear when people actually tasted a drink, or saw a picture of a hotel room. The authors suggest it may be limited to numbers-on-a-page choices. So when options are listed as numbers, ask if one of them is just there to make another look good. Tomorrow: why do you put off things you care about?",
   "word_count": 141,
   "scenes": [
     {
@@ -16,30 +16,30 @@
     },
     {
       "start_sec": 3.48,
-      "end_sec": 7.99,
+      "end_sec": 9.04,
       "section": "explanation",
-      "narration_line": "In 1982, Joel Huber, John Payne and Christopher Puto studied asymmetrically dominated options.",
+      "narration_line": "Adding a clearly worse decoy could make people pick the option that beat it more often.",
+      "on_screen_text": "Decoy boosts the dominating option",
+      "visual_description": "Bars: option rises.",
+      "visual_spec": "point/smile/L; bars:without=h35,with decoy=h65@R"
+    },
+    {
+      "start_sec": 9.04,
+      "end_sec": 12.86,
+      "section": "explanation",
+      "narration_line": "In 1982, Huber, Payne and Puto studied these asymmetrically dominated options.",
       "on_screen_text": "1982: dominated options",
       "visual_description": "Title card DECOY.",
       "visual_spec": "point/neutral/L; text:DECOY@R"
     },
     {
-      "start_sec": 7.99,
-      "end_sec": 14.25,
+      "start_sec": 12.86,
+      "end_sec": 19.11,
       "section": "explanation",
       "narration_line": "A decoy is an option that's clearly worse than one item, but not clearly worse than the other.",
       "on_screen_text": "A decoy: worse than one only",
       "visual_description": "Three tags: one clearly worse than another.",
       "visual_spec": "stand/neutral/L; list:A,B,DECOY@R"
-    },
-    {
-      "start_sec": 14.25,
-      "end_sec": 19.11,
-      "section": "explanation",
-      "narration_line": "Adding a decoy could increase how often people picked the option that dominated it.",
-      "on_screen_text": "Decoy boosts the dominating option",
-      "visual_description": "Bars: option rises.",
-      "visual_spec": "point/smile/L; bars:without=h35,with decoy=h65@R"
     },
     {
       "start_sec": 19.11,

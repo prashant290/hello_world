@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that.",
+      "sentence": "In one experiment, people rated touch they produced themselves as less ticklish, less intense and less pleasant.",
       "cites": [
         "blakemore1998"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "A robot touched people's palm, or they moved a robot arm to produce the touch themselves.",
+      "sentence": "In 1998, Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith studied exactly that.",
       "cites": [
         "blakemore1998"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "People rated self-produced touch as less ticklish, less intense and less pleasant.",
+      "sentence": "A robot touched people's palm, or they moved a robot arm to produce the touch themselves.",
       "cites": [
         "blakemore1998"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "When the researchers added a delay of up to 200 milliseconds between your movement and the touch, it felt progressively more ticklish.",
+      "sentence": "A delay of up to 200 milliseconds between movement and touch made it feel progressively more ticklish.",
       "cites": [
         "blakemore1998"
       ],

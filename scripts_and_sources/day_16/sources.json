@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 2005, Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94.",
+      "sentence": "In one survey, people of every age said time passes quickly.",
       "cites": [
         "wittmann2005"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Everyone, whatever their age, said time passes quickly.",
+      "sentence": "That was 2005: Marc Wittmann and Sandra Lehnhoff surveyed 499 people aged 14 to 94.",
       "cites": [
         "wittmann2005"
       ],

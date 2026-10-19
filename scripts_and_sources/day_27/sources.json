@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value.",
+      "sentence": "In one experiment, identical cookies from a nearly empty jar were rated more desirable.",
       "cites": [
         "worchel1975"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "A total of 200 female undergraduates rated cookies.",
+      "sentence": "In 1975, Stephen Worchel, Jerry Lee and Akanbi Adewole tested how supply affects value.",
       "cites": [
         "worchel1975"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "One glass jar held ten cookies, another held just two.",
+      "sentence": "A total of 200 female undergraduates rated cookies.",
       "cites": [
         "worchel1975"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "The cookies were identical, but the ones from the nearly empty jar were rated more desirable.",
+      "sentence": "One glass jar held ten cookies, another held just two.",
       "cites": [
         "worchel1975"
       ],

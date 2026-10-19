@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy.",
+      "sentence": "Students writing their honors theses made a best guess of 33.9 days, on average.",
       "cites": [
         "buehler1994"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "They followed 37 psychology students writing their honors theses.",
+      "sentence": "They actually took 55.5 days on average.",
       "cites": [
         "buehler1994"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "On average, students' best guess was 33.9 days.",
+      "sentence": "In 1994, Roger Buehler, Dale Griffin and Michael Ross studied the planning fallacy.",
       "cites": [
         "buehler1994"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "They actually took 55.5 days on average.",
+      "sentence": "They followed 37 psychology students writing their honors theses.",
       "cites": [
         "buehler1994"
       ],

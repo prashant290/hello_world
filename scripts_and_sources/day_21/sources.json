@@ -11,24 +11,6 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1968, Robert Zajonc proposed the mere exposure effect.",
-      "cites": [
-        "zajonc1968"
-      ],
-      "sources": [
-        {
-          "id": "zajonc1968",
-          "authors": "Zajonc, R. B.",
-          "year": 1968,
-          "title": "Attitudinal effects of mere exposure",
-          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
-          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
-          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
-        }
-      ]
-    },
-    {
-      "scene": 2,
       "sentence": "Repeated exposure to something can make you like it more.",
       "cites": [
         "zajonc1968"
@@ -46,8 +28,26 @@
       ]
     },
     {
+      "scene": 1,
+      "sentence": "The claim: mere repeated exposure, with nothing else added, enhances attitudes.",
+      "cites": [
+        "zajonc1968"
+      ],
+      "sources": [
+        {
+          "id": "zajonc1968",
+          "authors": "Zajonc, R. B.",
+          "year": 1968,
+          "title": "Attitudinal effects of mere exposure",
+          "venue": "Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27",
+          "url": "https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf",
+          "verified": "web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (abstract: four types of evidence)"
+        }
+      ]
+    },
+    {
       "scene": 2,
-      "sentence": "Zajonc's claim was that mere repeated exposure, with nothing else added, enhances attitudes.",
+      "sentence": "In 1968, Robert Zajonc proposed this as the mere exposure effect.",
       "cites": [
         "zajonc1968"
       ],

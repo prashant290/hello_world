@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1975, Baruch Fischhoff studied what happens when people learn an outcome.",
+      "sentence": "Knowing the outcome made people judge it as more likely.",
       "cites": [
         "fischhoff1975"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Knowing the outcome made them judge it as more likely.",
+      "sentence": "That's from 1975, when Baruch Fischhoff studied what happens when people learn an outcome.",
       "cites": [
         "fischhoff1975"
       ],
