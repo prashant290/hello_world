@@ -11,6 +11,7 @@ Visual spec grammar (script.json -> scenes[].visual_spec):
     where : L | C   (C centers the figure when there are no props)
     slots : TL TR R L C B
 """
+import os
 import json
 import math
 import random
@@ -429,7 +430,7 @@ def draw_scene(variant, scene, style):
     bbox = None
     ot = scene["on_screen_text"]
     if ot:
-        fsz = 96
+        fsz = scene.get("_fsz", 96)
         while fsz > 60:                                  # shrink until the title fits in <=2 lines (3 if tiny)
             words, cur, nl = ot.split(), "", 1
             for wd in words:
@@ -495,7 +496,64 @@ def to_frame(layer, bgrgb, progress=1.0):
     return frame
 
 
+def _zoom(img, s, cx=540, cy=1000):
+    """Scale a full frame by s about (cx, cy), keeping the frame size."""
+    if abs(s - 1.0) < 1e-3:
+        return img
+    w, h = img.size
+    big = img.resize((int(w * s), int(h * s)), Image.BILINEAR)
+    x0 = int(cx * s - cx); y0 = int(cy * s - cy)
+    x0 = max(0, min(x0, big.width - w)); y0 = max(0, min(y0, big.height - h))
+    return big.crop((x0, y0, x0 + w, y0 + h))
+
+
+def render_clip_motion(args):
+    """Pacing test: continuous push-in/out, a punch every ~2.6 s, and a zoom-out punch on the hook (scene 0)."""
+    import math
+    day, i, scene, duration = args
+    style = config()["style"]
+    bgrgb = hex_rgb(style["background"])
+    sc = dict(scene)
+    if i == 0:
+        sc["_fsz"] = 124                                 # bigger hook line in the first second
+    layers, bbox = [], None
+    for v in range(3):
+        img, bbox = draw_scene(v, sc, style)
+        layers.append(img)
+    fps = config()["video"]["fps"]
+    n = max(1, round(duration * fps))
+    out = day_dir(day) / "scenes" / f"scene_{i:02d}.mp4"
+    cmd = ["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps),
+           "-i", "-", "-vf", "format=yuv420p", "-c:v", "libx264", "-preset", "veryfast", "-crf", "17",
+           "-t", f"{duration:.3f}", str(out)]
+    p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    base_cache = {}
+    for k in range(n):
+        t = k / fps
+        v = int(t * style["boil_fps"]) % 3
+        prog = min(1.0, t / 0.35) if i != 0 else 1.0
+        key = (v, round(prog, 2))
+        if key not in base_cache:
+            base_cache = {key: to_frame(layers[v], bgrgb, prog)} if len(base_cache) > 12 else {**base_cache, key: to_frame(layers[v], bgrgb, prog)}
+        frame = base_cache[key]
+        frac = t / max(duration, 0.1)
+        s = 1.0 + 0.05 * (frac if i % 2 == 0 else 1 - frac)          # slow push-in (even scenes) / pull-out (odd)
+        if i == 0:
+            s += 0.16 * max(0.0, 1 - t / 0.35) ** 2                   # hook: starts zoomed in, snaps out
+        if t > 2.2:
+            ph = (t - 2.2) % 2.6                                     # punch every ~2.6 s
+            if ph < 0.28:
+                s += 0.035 * math.sin(math.pi * ph / 0.28)
+        p.stdin.write(_zoom(frame, s).tobytes())
+    p.stdin.close()
+    if p.wait() != 0:
+        raise RuntimeError(f"ffmpeg failed for day {day} scene {i}")
+    return i, bbox
+
+
 def render_clip(args):
+    if os.environ.get("PSY_MOTION") == "1":
+        return render_clip_motion(args)
     day, i, scene, duration = args
     style = config()["style"]
     bgrgb = hex_rgb(style["background"])
