@@ -2,12 +2,12 @@
   "day": 57,
   "topic": "Charisma: what charismatic leaders actually do",
   "title": "Can Charisma Be Taught? What Research Found",
-  "voiceover": "Is charisma a gift, or a set of learnable tactics? In 2011, John Antonakis and colleagues tested whether charisma can be taught. They identified twelve charismatic leadership tactics. These included things like using metaphors and rhetorical questions. In the first study, 34 managers were randomized into training or not. In the second study, 41 MBA participants took part. Training improved how charismatic and effective the leaders were rated. The studies tested specific behaviors, as judged by others, not personality overall. Ratings of charisma alone don't tell us whether a leader's decisions are good. So in these studies, charisma looked more like a learnable set of behaviors than a fixed gift. Tomorrow: would you give a wrong answer just because everyone else did?",
-  "word_count": 122,
+  "voiceover": "Is charisma a gift, or a set of learnable tactics? In two studies, training improved how charismatic and effective leaders were rated. In 2011, John Antonakis and colleagues tested whether charisma can be taught. They identified twelve charismatic leadership tactics. These included things like using metaphors and rhetorical questions. In the first study, 34 managers were randomized into training or not. In the second study, 41 MBA participants took part. The studies tested specific behaviors, as judged by others, not personality overall. Ratings of charisma alone don't tell us whether a leader's decisions are good. So in these studies, charisma looked more like a learnable set of behaviors than a fixed gift. Tomorrow: would you give a wrong answer just because everyone else did?",
+  "word_count": 124,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 4.02,
+      "end_sec": 3.95,
       "section": "hook",
       "narration_line": "Is charisma a gift, or a set of learnable tactics?",
       "on_screen_text": "Gift or learnable?",
@@ -15,8 +15,17 @@
       "visual_spec": "think/neutral/C; spotlight@R"
     },
     {
-      "start_sec": 4.02,
-      "end_sec": 8.84,
+      "start_sec": 3.95,
+      "end_sec": 8.69,
+      "section": "explanation",
+      "narration_line": "In two studies, training improved how charismatic and effective leaders were rated.",
+      "on_screen_text": "Training improved the ratings",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:before=h35,after=h70@R"
+    },
+    {
+      "start_sec": 8.69,
+      "end_sec": 13.44,
       "section": "explanation",
       "narration_line": "In 2011, John Antonakis and colleagues tested whether charisma can be taught.",
       "on_screen_text": "2011: can charisma be taught?",
@@ -24,8 +33,8 @@
       "visual_spec": "point/neutral/L; text:2011@TR; text:TAUGHT?@R"
     },
     {
-      "start_sec": 8.84,
-      "end_sec": 11.25,
+      "start_sec": 13.44,
+      "end_sec": 15.81,
       "section": "explanation",
       "narration_line": "They identified twelve charismatic leadership tactics.",
       "on_screen_text": "Twelve charismatic tactics",
@@ -33,8 +42,8 @@
       "visual_spec": "stand/neutral/L; numbers:12@R"
     },
     {
-      "start_sec": 11.25,
-      "end_sec": 14.86,
+      "start_sec": 15.81,
+      "end_sec": 19.36,
       "section": "explanation",
       "narration_line": "These included things like using metaphors and rhetorical questions.",
       "on_screen_text": "Metaphors, rhetorical questions",
@@ -42,8 +51,8 @@
       "visual_spec": "stand/neutral/L; list:METAPHORS,QUESTIONS@R"
     },
     {
-      "start_sec": 14.86,
-      "end_sec": 19.68,
+      "start_sec": 19.36,
+      "end_sec": 24.1,
       "section": "explanation",
       "narration_line": "In the first study, 34 managers were randomized into training or not.",
       "on_screen_text": "Study 1: 34 managers randomized",
@@ -51,8 +60,8 @@
       "visual_spec": "stand/neutral/L; numbers:34@R; text:STUDY 1@TR"
     },
     {
-      "start_sec": 19.68,
-      "end_sec": 23.3,
+      "start_sec": 24.1,
+      "end_sec": 27.66,
       "section": "explanation",
       "narration_line": "In the second study, 41 MBA participants took part.",
       "on_screen_text": "Study 2: 41 MBA participants",
@@ -60,17 +69,8 @@
       "visual_spec": "stand/neutral/L; numbers:41@R; text:STUDY 2@TR"
     },
     {
-      "start_sec": 23.3,
-      "end_sec": 27.31,
-      "section": "explanation",
-      "narration_line": "Training improved how charismatic and effective the leaders were rated.",
-      "on_screen_text": "Training improved the ratings",
-      "visual_description": "Rising bar.",
-      "visual_spec": "stand/smile/L; bars:before=h35,after=h70@R"
-    },
-    {
-      "start_sec": 27.31,
-      "end_sec": 32.13,
+      "start_sec": 27.66,
+      "end_sec": 32.4,
       "section": "explanation",
       "narration_line": "The studies tested specific behaviors, as judged by others, not personality overall.",
       "on_screen_text": "Specific behaviors, rated by others",
@@ -78,8 +78,8 @@
       "visual_spec": "point/neutral/L; text:RATINGS@R"
     },
     {
-      "start_sec": 32.13,
-      "end_sec": 37.35,
+      "start_sec": 32.4,
+      "end_sec": 37.54,
       "section": "explanation",
       "narration_line": "Ratings of charisma alone don't tell us whether a leader's decisions are good.",
       "on_screen_text": "Charisma isn't good judgment",
@@ -87,8 +87,8 @@
       "visual_spec": "shrug/neutral/L; scale@R"
     },
     {
-      "start_sec": 37.35,
-      "end_sec": 44.18,
+      "start_sec": 37.54,
+      "end_sec": 44.26,
       "section": "takeaway",
       "narration_line": "So in these studies, charisma looked more like a learnable set of behaviors than a fixed gift.",
       "on_screen_text": "Looked learnable, not fixed",
@@ -96,7 +96,7 @@
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 44.18,
+      "start_sec": 44.26,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: would you give a wrong answer just because everyone else did?",

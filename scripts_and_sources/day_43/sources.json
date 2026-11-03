@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds.",
+      "sentence": "People's snap judgments of faces after 100 milliseconds correlated with judgments made with no time limit.",
       "cites": [
         "willis2006"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Other people saw the faces for 500 milliseconds or a full second.",
+      "sentence": "In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds.",
       "cites": [
         "willis2006"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "They rated traits like trustworthiness and competence.",
+      "sentence": "Other people saw the faces for 500 milliseconds or a full second.",
       "cites": [
         "willis2006"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "Judgments after 100 milliseconds correlated with judgments made with no time limit.",
+      "sentence": "They rated traits like trustworthiness and competence.",
       "cites": [
         "willis2006"
       ],

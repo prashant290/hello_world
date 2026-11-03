@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1980, Caryl Rusbult proposed the investment model of commitment.",
+      "sentence": "One model says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
       "cites": [
         "rusbult1980"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "It says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
+      "sentence": "That's the investment model Caryl Rusbult proposed in 1980.",
       "cites": [
         "rusbult1980"
       ],

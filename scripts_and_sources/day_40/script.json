@@ -2,12 +2,12 @@
   "day": 40,
   "topic": "The pratfall effect: when mistakes make you more likable",
   "title": "The Pratfall Effect: When Mistakes Make You Likable",
-  "voiceover": "Can making a mistake make you more likable? In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview. One contestant answered about 92 percent of the hard questions correctly. Another answered only about 30 percent correctly. At the end, in some versions, the contestant clumsily spilled coffee on himself. The very impressive contestant became more attractive after the blunder. The mediocre contestant became less attractive after the same blunder. The authors speculated that a blunder makes a superior person seem more human. So the pratfall effect depends on how competent someone already seems. This was one early study, using recordings and male students. So a small slip may humanize you if people already see you as capable, but it may not help otherwise. Tomorrow: does knowing what others do change what you do?",
-  "word_count": 140,
+  "voiceover": "Can making a mistake make you more likable? A very impressive contestant became more attractive after a clumsy blunder. In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview. One contestant answered about 92 percent of the hard questions correctly. Another answered only about 30 percent correctly. At the end, in some versions, the contestant clumsily spilled coffee on himself. The mediocre contestant became less attractive after the same blunder. The authors speculated that a blunder makes a superior person seem more human. So the pratfall effect depends on how competent someone already seems. This was one early study, using recordings and male students. So a small slip may humanize you if people already see you as capable, but it may not help otherwise. Tomorrow: does knowing what others do change what you do?",
+  "word_count": 141,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.8,
+      "end_sec": 2.78,
       "section": "hook",
       "narration_line": "Can making a mistake make you more likable?",
       "on_screen_text": "Can a mistake help?",
@@ -15,8 +15,17 @@
       "visual_spec": "shock/neutral/C; text:OOPS@R"
     },
     {
-      "start_sec": 2.8,
-      "end_sec": 8.75,
+      "start_sec": 2.78,
+      "end_sec": 6.6,
+      "section": "explanation",
+      "narration_line": "A very impressive contestant became more attractive after a clumsy blunder.",
+      "on_screen_text": "Impressive + blunder: more attractive",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:before=h45,after=h70@R"
+    },
+    {
+      "start_sec": 6.6,
+      "end_sec": 12.51,
       "section": "explanation",
       "narration_line": "In 1966, Elliot Aronson and colleagues played male college students tape recordings of a quiz show interview.",
       "on_screen_text": "1966: a quiz-show recording",
@@ -24,8 +33,8 @@
       "visual_spec": "stand/neutral/L; text:1966@TR; text:TAPE@R"
     },
     {
-      "start_sec": 8.75,
-      "end_sec": 12.6,
+      "start_sec": 12.51,
+      "end_sec": 16.33,
       "section": "explanation",
       "narration_line": "One contestant answered about 92 percent of the hard questions correctly.",
       "on_screen_text": "A: ~92% correct",
@@ -33,8 +42,8 @@
       "visual_spec": "stand/smile/L; bars:A=92%,B=30%@R"
     },
     {
-      "start_sec": 12.6,
-      "end_sec": 15.05,
+      "start_sec": 16.33,
+      "end_sec": 18.77,
       "section": "explanation",
       "narration_line": "Another answered only about 30 percent correctly.",
       "on_screen_text": "B: ~30% correct",
@@ -42,8 +51,8 @@
       "visual_spec": "shrug/neutral/L; bars:A=92%,B=30%@R"
     },
     {
-      "start_sec": 15.05,
-      "end_sec": 19.6,
+      "start_sec": 18.77,
+      "end_sec": 23.28,
       "section": "explanation",
       "narration_line": "At the end, in some versions, the contestant clumsily spilled coffee on himself.",
       "on_screen_text": "Some versions: a spilled coffee",
@@ -51,17 +60,8 @@
       "visual_spec": "shock/neutral/L; text:SPILL@R"
     },
     {
-      "start_sec": 19.6,
-      "end_sec": 23.1,
-      "section": "explanation",
-      "narration_line": "The very impressive contestant became more attractive after the blunder.",
-      "on_screen_text": "Impressive + blunder: more attractive",
-      "visual_description": "Rising bar.",
-      "visual_spec": "stand/smile/L; bars:before=h45,after=h70@R"
-    },
-    {
-      "start_sec": 23.1,
-      "end_sec": 26.6,
+      "start_sec": 23.28,
+      "end_sec": 26.76,
       "section": "explanation",
       "narration_line": "The mediocre contestant became less attractive after the same blunder.",
       "on_screen_text": "Mediocre + blunder: less attractive",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/worry/L; bars:before=h45,after=h25@R"
     },
     {
-      "start_sec": 26.6,
-      "end_sec": 31.15,
+      "start_sec": 26.76,
+      "end_sec": 31.28,
       "section": "explanation",
       "narration_line": "The authors speculated that a blunder makes a superior person seem more human.",
       "on_screen_text": "A blunder seems 'human'",
@@ -78,8 +78,8 @@
       "visual_spec": "think/smile/L; bubble:human@TR"
     },
     {
-      "start_sec": 31.15,
-      "end_sec": 35.0,
+      "start_sec": 31.28,
+      "end_sec": 35.1,
       "section": "explanation",
       "narration_line": "So the pratfall effect depends on how competent someone already seems.",
       "on_screen_text": "Depends on perceived competence",
@@ -87,8 +87,8 @@
       "visual_spec": "point/neutral/L; scale@R"
     },
     {
-      "start_sec": 35.0,
-      "end_sec": 38.5,
+      "start_sec": 35.1,
+      "end_sec": 38.57,
       "section": "explanation",
       "narration_line": "This was one early study, using recordings and male students.",
       "on_screen_text": "One early study",
@@ -96,8 +96,8 @@
       "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
     },
     {
-      "start_sec": 38.5,
-      "end_sec": 45.5,
+      "start_sec": 38.57,
+      "end_sec": 45.52,
       "section": "takeaway",
       "narration_line": "So a small slip may humanize you if people already see you as capable, but it may not help otherwise.",
       "on_screen_text": "May humanize you, if capable",
@@ -105,7 +105,7 @@
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 45.5,
+      "start_sec": 45.52,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: does knowing what others do change what you do?",

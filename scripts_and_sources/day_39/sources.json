@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1973, Elaine Walster and colleagues tested this in five experiments.",
+      "sentence": "In five experiments, the idea that a hard-to-get woman is more desirable failed every time.",
       "cites": [
         "walster1973"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "They found the idea that a hard-to-get woman is more desirable failed in all five.",
+      "sentence": "That's from 1973, when Elaine Walster and colleagues tested it.",
       "cites": [
         "walster1973"
       ],

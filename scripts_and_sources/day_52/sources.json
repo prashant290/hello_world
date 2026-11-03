@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink.",
+      "sentence": "Groupthink, one psychologist argued, kept contradictory views from being expressed and evaluated.",
       "cites": [
         "janis1972"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor.",
+      "sentence": "In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink.",
       "cites": [
         "janis1972"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "He argued groupthink kept contradictory views from being expressed and evaluated.",
+      "sentence": "He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor.",
       "cites": [
         "janis1972"
       ],

@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1998, Thomas Gilovich, Kenneth Savitsky and Victoria Medvec published research on the illusion of transparency.",
+      "sentence": "In one experiment, about half of the liars thought they had been caught.",
       "cites": [
         "gilovich1998"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "It's the tendency to overestimate how well others can read your emotional states.",
+      "sentence": "But only about a quarter actually were.",
       "cites": [
         "gilovich1998"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "In one experiment, Cornell students told lies.",
+      "sentence": "In 1998, Thomas Gilovich, Kenneth Savitsky and Victoria Medvec published research on the illusion of transparency.",
       "cites": [
         "gilovich1998"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "Observers then watched each student and judged whether that student was lying.",
+      "sentence": "It's the tendency to overestimate how well others can read your emotional states.",
       "cites": [
         "gilovich1998"
       ],
@@ -83,7 +83,7 @@
     },
     {
       "scene": 5,
-      "sentence": "About half of the liars thought they had been caught.",
+      "sentence": "The liars were Cornell students.",
       "cites": [
         "gilovich1998"
       ],
@@ -101,7 +101,7 @@
     },
     {
       "scene": 6,
-      "sentence": "But only about a quarter actually were.",
+      "sentence": "Observers then watched each student and judged whether that student was lying.",
       "cites": [
         "gilovich1998"
       ],

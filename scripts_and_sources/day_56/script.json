@@ -2,12 +2,12 @@
   "day": 56,
   "topic": "Narcissism vs. confidence: the research difference",
   "title": "Narcissism vs. Confidence: What Research Suggests",
-  "voiceover": "Is there a real research difference between narcissism and confidence? In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from. They reported that parental overvaluation predicted narcissism. Parental warmth predicted self-esteem instead. They described it as the first prospective longitudinal test of this question. The results suggest narcissism and self-esteem have different origins. A published commentary argued that parental overvaluation may be overvalued as an explanation. So the origins of narcissism are still debated. These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here. So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated. Tomorrow: what do charismatic leaders actually do?",
-  "word_count": 124,
+  "voiceover": "Is there a real research difference between narcissism and confidence? One study reported that parental overvaluation predicted narcissism in children. Parental warmth predicted self-esteem instead. In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from. They described it as the first prospective longitudinal test of this question. The results suggest narcissism and self-esteem have different origins. A published commentary argued that parental overvaluation may be overvalued as an explanation. So the origins of narcissism are still debated. These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here. So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated. Tomorrow: what do charismatic leaders actually do?",
+  "word_count": 127,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.95,
+      "end_sec": 3.86,
       "section": "hook",
       "narration_line": "Is there a real research difference between narcissism and confidence?",
       "on_screen_text": "Narcissism vs confidence",
@@ -15,26 +15,17 @@
       "visual_spec": "think/neutral/C; text:VS@R"
     },
     {
-      "start_sec": 3.95,
-      "end_sec": 10.27,
+      "start_sec": 3.86,
+      "end_sec": 7.72,
       "section": "explanation",
-      "narration_line": "In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from.",
-      "on_screen_text": "2015: children followed over time",
-      "visual_description": "Calendar.",
-      "visual_spec": "stand/neutral/L; text:2015@TR; text:LONGITUDINAL@R"
-    },
-    {
-      "start_sec": 10.27,
-      "end_sec": 13.04,
-      "section": "explanation",
-      "narration_line": "They reported that parental overvaluation predicted narcissism.",
+      "narration_line": "One study reported that parental overvaluation predicted narcissism in children.",
       "on_screen_text": "Overvaluation predicted narcissism",
       "visual_description": "Rising line.",
       "visual_spec": "point/neutral/L; lines:overvaluation,narcissism,up@R"
     },
     {
-      "start_sec": 13.04,
-      "end_sec": 15.02,
+      "start_sec": 7.72,
+      "end_sec": 9.65,
       "section": "explanation",
       "narration_line": "Parental warmth predicted self-esteem instead.",
       "on_screen_text": "Warmth predicted self-esteem",
@@ -42,8 +33,17 @@
       "visual_spec": "stand/smile/L; text:WARMTH@R"
     },
     {
-      "start_sec": 15.02,
-      "end_sec": 19.76,
+      "start_sec": 9.65,
+      "end_sec": 15.82,
+      "section": "explanation",
+      "narration_line": "In 2015, Eddie Brummelman and colleagues followed children over time to study where narcissism comes from.",
+      "on_screen_text": "2015: children followed over time",
+      "visual_description": "Calendar.",
+      "visual_spec": "stand/neutral/L; text:2015@TR; text:LONGITUDINAL@R"
+    },
+    {
+      "start_sec": 15.82,
+      "end_sec": 20.45,
       "section": "explanation",
       "narration_line": "They described it as the first prospective longitudinal test of this question.",
       "on_screen_text": "First prospective longitudinal test",
@@ -51,8 +51,8 @@
       "visual_spec": "stand/neutral/L; arrow@R"
     },
     {
-      "start_sec": 19.76,
-      "end_sec": 23.31,
+      "start_sec": 20.45,
+      "end_sec": 23.92,
       "section": "explanation",
       "narration_line": "The results suggest narcissism and self-esteem have different origins.",
       "on_screen_text": "Different origins",
@@ -60,8 +60,8 @@
       "visual_spec": "think/neutral/L; list:NARCISSISM,SELF-ESTEEM@R"
     },
     {
-      "start_sec": 23.31,
-      "end_sec": 28.45,
+      "start_sec": 23.92,
+      "end_sec": 28.94,
       "section": "explanation",
       "narration_line": "A published commentary argued that parental overvaluation may be overvalued as an explanation.",
       "on_screen_text": "A commentary pushed back",
@@ -69,8 +69,8 @@
       "visual_spec": "shrug/worry/L; bubble:overvalued?@TR"
     },
     {
-      "start_sec": 28.45,
-      "end_sec": 31.61,
+      "start_sec": 28.94,
+      "end_sec": 32.02,
       "section": "explanation",
       "narration_line": "So the origins of narcissism are still debated.",
       "on_screen_text": "Origins still debated",
@@ -78,8 +78,8 @@
       "visual_spec": "shrug/neutral/L; scale@R"
     },
     {
-      "start_sec": 31.61,
-      "end_sec": 39.12,
+      "start_sec": 32.02,
+      "end_sec": 39.35,
       "section": "explanation",
       "narration_line": "These are measures of traits in children, not diagnoses of anyone, and no real person is being labelled here.",
       "on_screen_text": "Traits, not diagnoses",
@@ -87,8 +87,8 @@
       "visual_spec": "stand/neutral/L; cross@R"
     },
     {
-      "start_sec": 39.12,
-      "end_sec": 46.23,
+      "start_sec": 39.35,
+      "end_sec": 46.3,
       "section": "takeaway",
       "narration_line": "So confidence and narcissism appear to differ, and their origins may too, but the picture is still debated.",
       "on_screen_text": "They differ; origins debated",
@@ -96,7 +96,7 @@
       "visual_spec": "stand/neutral/L; qmark@R"
     },
     {
-      "start_sec": 46.23,
+      "start_sec": 46.3,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: what do charismatic leaders actually do?",

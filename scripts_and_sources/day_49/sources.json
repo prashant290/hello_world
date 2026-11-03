@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1967, Edward Jones and Victor Harris had students read essays about Fidel Castro's Cuba.",
+      "sentence": "In one study, readers still saw an attitude in an essay writer even when told the position had been assigned.",
       "cites": [
         "jones1967"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Some were told the writers chose their positions freely.",
+      "sentence": "In 1967, Edward Jones and Victor Harris had students read essays about Fidel Castro's Cuba.",
       "cites": [
         "jones1967"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "Others were told the writers had been assigned them.",
+      "sentence": "Some were told the writers chose their positions freely.",
       "cites": [
         "jones1967"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "Readers inferred the writers' attitudes from the essays.",
+      "sentence": "Others were told the writers had been assigned them.",
       "cites": [
         "jones1967"
       ],
@@ -83,7 +83,7 @@
     },
     {
       "scene": 5,
-      "sentence": "Even when the position was assigned, readers still saw some of that attitude in the writer.",
+      "sentence": "Readers inferred the writers' attitudes from the essays.",
       "cites": [
         "jones1967"
       ],

@@ -2,12 +2,12 @@
   "day": 43,
   "topic": "First impressions take a tenth of a second, not 7 seconds",
   "title": "Do First Impressions Form in a Tenth of a Second?",
-  "voiceover": "Do first impressions really form in a tenth of a second? In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds. Other people saw the faces for 500 milliseconds or a full second. They rated traits like trustworthiness and competence. Judgments after 100 milliseconds correlated with judgments made with no time limit. Extra viewing time did not significantly raise that correlation. It did make people more confident in their ratings. Judgments were also more negative at 500 milliseconds than at 100. Agreement between ratings is not accuracy, and the study did not test whether the faces really had those traits. So snap judgments form fast, but this study doesn't show they're right. Tomorrow: do a teacher's expectations change how students perform?",
-  "word_count": 126,
+  "voiceover": "Do first impressions really form in a tenth of a second? People's snap judgments of faces after 100 milliseconds correlated with judgments made with no time limit. In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds. Other people saw the faces for 500 milliseconds or a full second. They rated traits like trustworthiness and competence. Extra viewing time did not significantly raise that correlation. It did make people more confident in their ratings. Judgments were also more negative at 500 milliseconds than at 100. Agreement between ratings is not accuracy, and the study did not test whether the faces really had those traits. So snap judgments form fast, but this study doesn't show they're right. Tomorrow: do a teacher's expectations change how students perform?",
+  "word_count": 130,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 4.28,
+      "end_sec": 4.15,
       "section": "hook",
       "narration_line": "Do first impressions really form in a tenth of a second?",
       "on_screen_text": "A tenth of a second?",
@@ -15,8 +15,17 @@
       "visual_spec": "think/neutral/C; clock@R"
     },
     {
-      "start_sec": 4.28,
-      "end_sec": 10.11,
+      "start_sec": 4.15,
+      "end_sec": 10.18,
+      "section": "explanation",
+      "narration_line": "People's snap judgments of faces after 100 milliseconds correlated with judgments made with no time limit.",
+      "on_screen_text": "100 ms matched unlimited time",
+      "visual_description": "Two matching lines.",
+      "visual_spec": "stand/smile/L; lines:100 ms,no limit,same@R"
+    },
+    {
+      "start_sec": 10.18,
+      "end_sec": 15.83,
       "section": "explanation",
       "narration_line": "In 2006, Janine Willis and Alexander Todorov showed people unfamiliar faces for just 100 milliseconds.",
       "on_screen_text": "2006: faces shown for 100 ms",
@@ -24,8 +33,8 @@
       "visual_spec": "stand/neutral/L; text:100 MS@R; text:2006@TR"
     },
     {
-      "start_sec": 10.11,
-      "end_sec": 14.78,
+      "start_sec": 15.83,
+      "end_sec": 20.35,
       "section": "explanation",
       "narration_line": "Other people saw the faces for 500 milliseconds or a full second.",
       "on_screen_text": "Others: 500 ms or 1 second",
@@ -33,8 +42,8 @@
       "visual_spec": "point/neutral/L; list:500 MS,1 SEC@R"
     },
     {
-      "start_sec": 14.78,
-      "end_sec": 17.5,
+      "start_sec": 20.35,
+      "end_sec": 22.99,
       "section": "explanation",
       "narration_line": "They rated traits like trustworthiness and competence.",
       "on_screen_text": "Rated: trust, competence",
@@ -42,17 +51,8 @@
       "visual_spec": "stand/neutral/L; list:TRUST,COMPETENT@R"
     },
     {
-      "start_sec": 17.5,
-      "end_sec": 22.17,
-      "section": "explanation",
-      "narration_line": "Judgments after 100 milliseconds correlated with judgments made with no time limit.",
-      "on_screen_text": "100 ms matched unlimited time",
-      "visual_description": "Two matching lines.",
-      "visual_spec": "stand/smile/L; lines:100 ms,no limit,same@R"
-    },
-    {
-      "start_sec": 22.17,
-      "end_sec": 25.67,
+      "start_sec": 22.99,
+      "end_sec": 26.38,
       "section": "explanation",
       "narration_line": "Extra viewing time did not significantly raise that correlation.",
       "on_screen_text": "More time: no real gain",
@@ -60,8 +60,8 @@
       "visual_spec": "shrug/neutral/L; lines:correlation,time,flat@R"
     },
     {
-      "start_sec": 25.67,
-      "end_sec": 29.17,
+      "start_sec": 26.38,
+      "end_sec": 29.78,
       "section": "explanation",
       "narration_line": "It did make people more confident in their ratings.",
       "on_screen_text": "More time: more confidence",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/smile/L; lines:confidence,time,up@R"
     },
     {
-      "start_sec": 29.17,
-      "end_sec": 33.44,
+      "start_sec": 29.78,
+      "end_sec": 33.92,
       "section": "explanation",
       "narration_line": "Judgments were also more negative at 500 milliseconds than at 100.",
       "on_screen_text": "500 ms: more negative",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/worry/L; lines:mood of rating,time,fall@R"
     },
     {
-      "start_sec": 33.44,
-      "end_sec": 40.83,
+      "start_sec": 33.92,
+      "end_sec": 41.08,
       "section": "explanation",
       "narration_line": "Agreement between ratings is not accuracy, and the study did not test whether the faces really had those traits.",
       "on_screen_text": "Agreement is not accuracy",
@@ -87,8 +87,8 @@
       "visual_spec": "point/neutral/L; cross@R"
     },
     {
-      "start_sec": 40.83,
-      "end_sec": 45.5,
+      "start_sec": 41.08,
+      "end_sec": 45.61,
       "section": "takeaway",
       "narration_line": "So snap judgments form fast, but this study doesn't show they're right.",
       "on_screen_text": "Fast, not necessarily right",
@@ -96,7 +96,7 @@
       "visual_spec": "shrug/neutral/L; qmark@R"
     },
     {
-      "start_sec": 45.5,
+      "start_sec": 45.61,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: do a teacher's expectations change how students perform?",

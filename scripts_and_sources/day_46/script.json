@@ -2,12 +2,12 @@
   "day": 46,
   "topic": "Attachment styles in 50 seconds",
   "title": "Attachment Styles in 50 Seconds",
-  "voiceover": "What are attachment styles, in under a minute? In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love. They ran a love quiz in a newspaper. Fifty-six percent chose the secure description. Twenty-five percent chose avoidant. And nineteen percent chose anxious-ambivalent. Secure respondents reported relationships averaging about ten years, versus about five and six for the others. In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood. He found a correlation of about point three nine: moderate, not fixed. The newspaper sample was self-selected, so those percentages are not a census. So attachment styles are a useful framework, with real limits. Tomorrow: why do some people stay in relationships that hurt?",
-  "word_count": 123,
+  "voiceover": "What are attachment styles, in under a minute? In a love quiz, fifty-six percent of respondents chose the secure description. In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love. They ran the love quiz in a newspaper. Twenty-five percent chose avoidant. And nineteen percent chose anxious-ambivalent. Secure respondents reported relationships averaging about ten years, versus about five and six for the others. In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood. He found a correlation of about point three nine: moderate, not fixed. The newspaper sample was self-selected, so those percentages are not a census. So attachment styles are a useful framework, with real limits. Tomorrow: why do some people stay in relationships that hurt?",
+  "word_count": 129,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 3.19,
+      "end_sec": 3.04,
       "section": "hook",
       "narration_line": "What are attachment styles, in under a minute?",
       "on_screen_text": "Attachment styles in 50 s",
@@ -15,8 +15,17 @@
       "visual_spec": "think/neutral/C; text:3 STYLES@R"
     },
     {
-      "start_sec": 3.19,
-      "end_sec": 8.76,
+      "start_sec": 3.04,
+      "end_sec": 7.6,
+      "section": "explanation",
+      "narration_line": "In a love quiz, fifty-six percent of respondents chose the secure description.",
+      "on_screen_text": "Secure: 56%",
+      "visual_description": "Bar at 56%.",
+      "visual_spec": "stand/smile/L; bars:secure=56%,avoid=25%,anxious=19%@R"
+    },
+    {
+      "start_sec": 7.6,
+      "end_sec": 12.91,
       "section": "explanation",
       "narration_line": "In 1987, Cindy Hazan and Phillip Shaver applied attachment theory to adult romantic love.",
       "on_screen_text": "1987: attachment in adult love",
@@ -24,26 +33,17 @@
       "visual_spec": "point/neutral/L; text:1987@TR; text:ADULT LOVE@R"
     },
     {
-      "start_sec": 8.76,
-      "end_sec": 11.95,
+      "start_sec": 12.91,
+      "end_sec": 15.95,
       "section": "explanation",
-      "narration_line": "They ran a love quiz in a newspaper.",
+      "narration_line": "They ran the love quiz in a newspaper.",
       "on_screen_text": "A newspaper love quiz",
       "visual_description": "Newspaper.",
       "visual_spec": "stand/neutral/L; list:LOVE QUIZ@R"
     },
     {
-      "start_sec": 11.95,
-      "end_sec": 14.34,
-      "section": "explanation",
-      "narration_line": "Fifty-six percent chose the secure description.",
-      "on_screen_text": "Secure: 56%",
-      "visual_description": "Bar at 56%.",
-      "visual_spec": "stand/smile/L; bars:secure=56%,avoid=25%,anxious=19%@R"
-    },
-    {
-      "start_sec": 14.34,
-      "end_sec": 15.93,
+      "start_sec": 15.95,
+      "end_sec": 17.47,
       "section": "explanation",
       "narration_line": "Twenty-five percent chose avoidant.",
       "on_screen_text": "Avoidant: 25%",
@@ -51,8 +51,8 @@
       "visual_spec": "stand/neutral/L; bars:secure=56%,avoid=25%,anxious=19%@R"
     },
     {
-      "start_sec": 15.93,
-      "end_sec": 17.93,
+      "start_sec": 17.47,
+      "end_sec": 19.37,
       "section": "explanation",
       "narration_line": "And nineteen percent chose anxious-ambivalent.",
       "on_screen_text": "Anxious: 19%",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/neutral/L; bars:secure=56%,avoid=25%,anxious=19%@R"
     },
     {
-      "start_sec": 17.93,
-      "end_sec": 24.3,
+      "start_sec": 19.37,
+      "end_sec": 25.45,
       "section": "explanation",
       "narration_line": "Secure respondents reported relationships averaging about ten years, versus about five and six for the others.",
       "on_screen_text": "Secure ~10 yrs; others 5, 6",
@@ -69,8 +69,8 @@
       "visual_spec": "point/smile/L; bars:10 yrs=h80,5 yrs=h40,6 yrs=h48@R"
     },
     {
-      "start_sec": 24.3,
-      "end_sec": 31.47,
+      "start_sec": 25.45,
+      "end_sec": 32.29,
       "section": "explanation",
       "narration_line": "In 2002, Chris Fraley combined 27 effect sizes from 23 papers on attachment stability from infancy to adulthood.",
       "on_screen_text": "2002: 27 effect sizes, 23 papers",
@@ -78,8 +78,8 @@
       "visual_spec": "stand/neutral/L; text:2002@TR; numbers:27@R"
     },
     {
-      "start_sec": 31.47,
-      "end_sec": 36.25,
+      "start_sec": 32.29,
+      "end_sec": 36.84,
       "section": "explanation",
       "narration_line": "He found a correlation of about point three nine: moderate, not fixed.",
       "on_screen_text": "Moderate stability, not fixed",
@@ -87,8 +87,8 @@
       "visual_spec": "point/neutral/L; bars:stability=h40@R"
     },
     {
-      "start_sec": 36.25,
-      "end_sec": 41.03,
+      "start_sec": 36.84,
+      "end_sec": 41.4,
       "section": "explanation",
       "narration_line": "The newspaper sample was self-selected, so those percentages are not a census.",
       "on_screen_text": "Self-selected sample",
@@ -96,8 +96,8 @@
       "visual_spec": "shrug/neutral/L; qmark@R"
     },
     {
-      "start_sec": 41.03,
-      "end_sec": 45.02,
+      "start_sec": 41.4,
+      "end_sec": 45.2,
       "section": "takeaway",
       "narration_line": "So attachment styles are a useful framework, with real limits.",
       "on_screen_text": "Useful, with limits",
@@ -105,7 +105,7 @@
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 45.02,
+      "start_sec": 45.2,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why do some people stay in relationships that hurt?",

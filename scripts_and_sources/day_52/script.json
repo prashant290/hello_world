@@ -2,12 +2,12 @@
   "day": 52,
   "topic": "Groupthink: how smart teams make dumb decisions (and critics)",
   "title": "Groupthink: Can Smart Teams Make Dumb Decisions?",
-  "voiceover": "Can a team of smart people make a terrible decision together? In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink. He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor. He argued groupthink kept contradictory views from being expressed and evaluated. In 1998, James Esser reviewed twenty-five years of groupthink research. He noted that case studies had confirmed the model. But reviews noted a lack of experimental validation. Esser concluded it was too early to pass judgment on groupthink theory. He said more research was needed to decide whether to keep, modify or discard it. So groupthink is a vivid and influential idea that still lacks firm experimental proof. Tomorrow: what really happened in the Stanford prison experiment?",
-  "word_count": 126,
+  "voiceover": "Can a team of smart people make a terrible decision together? Groupthink, one psychologist argued, kept contradictory views from being expressed and evaluated. In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink. He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor. In 1998, James Esser reviewed twenty-five years of groupthink research. He noted that case studies had confirmed the model. But reviews noted a lack of experimental validation. Esser concluded it was too early to pass judgment on groupthink theory. He said more research was needed to decide whether to keep, modify or discard it. So groupthink is a vivid and influential idea that still lacks firm experimental proof. Tomorrow: what really happened in the Stanford prison experiment?",
+  "word_count": 127,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 4.28,
+      "end_sec": 4.24,
       "section": "hook",
       "narration_line": "Can a team of smart people make a terrible decision together?",
       "on_screen_text": "Can smart teams fail?",
@@ -15,8 +15,17 @@
       "visual_spec": "think/neutral/C; crowd:5@R"
     },
     {
-      "start_sec": 4.28,
-      "end_sec": 9.33,
+      "start_sec": 4.24,
+      "end_sec": 8.87,
+      "section": "explanation",
+      "narration_line": "Groupthink, one psychologist argued, kept contradictory views from being expressed and evaluated.",
+      "on_screen_text": "Contradictory views kept quiet",
+      "visual_description": "Mouth covered.",
+      "visual_spec": "shock/worry/L; text:SILENCED@R"
+    },
+    {
+      "start_sec": 8.87,
+      "end_sec": 13.89,
       "section": "explanation",
       "narration_line": "In 1972, psychologist Irving Janis described groupthink in his book, Victims of Groupthink.",
       "on_screen_text": "1972: Janis describes groupthink",
@@ -24,8 +33,8 @@
       "visual_spec": "point/neutral/L; text:1972@TR; text:GROUPTHINK@R"
     },
     {
-      "start_sec": 9.33,
-      "end_sec": 14.78,
+      "start_sec": 13.89,
+      "end_sec": 19.29,
       "section": "explanation",
       "narration_line": "He studied foreign-policy fiascoes such as the Bay of Pigs invasion and Pearl Harbor.",
       "on_screen_text": "Bay of Pigs, Pearl Harbor",
@@ -33,17 +42,8 @@
       "visual_spec": "stand/neutral/L; list:BAY OF PIGS,PEARL HARBOR@R"
     },
     {
-      "start_sec": 14.78,
-      "end_sec": 19.06,
-      "section": "explanation",
-      "narration_line": "He argued groupthink kept contradictory views from being expressed and evaluated.",
-      "on_screen_text": "Contradictory views kept quiet",
-      "visual_description": "Mouth covered.",
-      "visual_spec": "shock/worry/L; text:SILENCED@R"
-    },
-    {
-      "start_sec": 19.06,
-      "end_sec": 22.94,
+      "start_sec": 19.29,
+      "end_sec": 23.15,
       "section": "explanation",
       "narration_line": "In 1998, James Esser reviewed twenty-five years of groupthink research.",
       "on_screen_text": "1998: a 25-year review",
@@ -51,8 +51,8 @@
       "visual_spec": "stand/neutral/L; text:1998@TR; numbers:25 YRS@R"
     },
     {
-      "start_sec": 22.94,
-      "end_sec": 26.44,
+      "start_sec": 23.15,
+      "end_sec": 26.62,
       "section": "explanation",
       "narration_line": "He noted that case studies had confirmed the model.",
       "on_screen_text": "Case studies fit the model",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 26.44,
-      "end_sec": 29.56,
+      "start_sec": 26.62,
+      "end_sec": 29.71,
       "section": "explanation",
       "narration_line": "But reviews noted a lack of experimental validation.",
       "on_screen_text": "But experiments lacked",
@@ -69,8 +69,8 @@
       "visual_spec": "shrug/worry/L; cross@R"
     },
     {
-      "start_sec": 29.56,
-      "end_sec": 34.22,
+      "start_sec": 29.71,
+      "end_sec": 34.34,
       "section": "explanation",
       "narration_line": "Esser concluded it was too early to pass judgment on groupthink theory.",
       "on_screen_text": "Too early to judge",
@@ -78,8 +78,8 @@
       "visual_spec": "shrug/neutral/L; scale@R"
     },
     {
-      "start_sec": 34.22,
-      "end_sec": 40.06,
+      "start_sec": 34.34,
+      "end_sec": 40.13,
       "section": "explanation",
       "narration_line": "He said more research was needed to decide whether to keep, modify or discard it.",
       "on_screen_text": "Keep, modify or discard?",
@@ -87,8 +87,8 @@
       "visual_spec": "think/neutral/L; list:KEEP,MODIFY,DISCARD@R"
     },
     {
-      "start_sec": 40.06,
-      "end_sec": 45.5,
+      "start_sec": 40.13,
+      "end_sec": 45.53,
       "section": "takeaway",
       "narration_line": "So groupthink is a vivid and influential idea that still lacks firm experimental proof.",
       "on_screen_text": "Influential, still unproven",
@@ -96,7 +96,7 @@
       "visual_spec": "stand/neutral/L; qmark@R"
     },
     {
-      "start_sec": 45.5,
+      "start_sec": 45.53,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: what really happened in the Stanford prison experiment?",

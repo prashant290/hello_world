@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1971, Dennis Regan ran an experiment in which people rated paintings.",
+      "sentence": "In one experiment, people who got a favor bought more raffle tickets than those who did not.",
       "cites": [
         "regan1971"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant.",
+      "sentence": "In 1971, Dennis Regan ran an experiment in which people rated paintings.",
       "cites": [
         "regan1971"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "Later, Joe asked participants to buy raffle tickets.",
+      "sentence": "During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant.",
       "cites": [
         "regan1971"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "Participants who got the favor bought more tickets than those who did not.",
+      "sentence": "Later, Joe asked participants to buy raffle tickets.",
       "cites": [
         "regan1971"
       ],

@@ -2,12 +2,12 @@
   "day": 39,
   "topic": "Does playing hard to get work? (the experiments)",
   "title": "Does Playing Hard to Get Actually Work?",
-  "voiceover": "Does playing hard to get actually work? In 1973, Elaine Walster and colleagues tested this in five experiments. They found the idea that a hard-to-get woman is more desirable failed in all five. In one study, 71 college men learned that a woman had seen their profile and four others. She was either easy to get, hard to get, or selective. The selective woman was willing to date the participant, but not the other men. Participants largely preferred the selective woman. She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses. That study used only male participants, so it can't tell us how everyone reacts. So what the experiments support is not playing hard to get, but showing someone they are your selective choice. Tomorrow: can making a mistake make you more likable?",
-  "word_count": 142,
+  "voiceover": "Does playing hard to get actually work? In five experiments, the idea that a hard-to-get woman is more desirable failed every time. That's from 1973, when Elaine Walster and colleagues tested it. In one study, 71 college men learned that a woman had seen their profile and four others. She was either easy to get, hard to get, or selective. The selective woman was willing to date the participant, but not the other men. Participants largely preferred the selective woman. She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses. That study used only male participants, so it can't tell us how everyone reacts. So what the experiments support is not playing hard to get, but showing someone they are your selective choice. Tomorrow: can making a mistake make you more likable?",
+  "word_count": 141,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 2.42,
+      "end_sec": 2.43,
       "section": "hook",
       "narration_line": "Does playing hard to get actually work?",
       "on_screen_text": "Does it work?",
@@ -15,26 +15,26 @@
       "visual_spec": "think/neutral/C; door@R"
     },
     {
-      "start_sec": 2.42,
-      "end_sec": 6.21,
+      "start_sec": 2.43,
+      "end_sec": 7.65,
       "section": "explanation",
-      "narration_line": "In 1973, Elaine Walster and colleagues tested this in five experiments.",
-      "on_screen_text": "1973: five experiments",
-      "visual_description": "Five test tubes.",
-      "visual_spec": "point/neutral/L; text:5 EXPERIMENTS@R; text:1973@TR"
-    },
-    {
-      "start_sec": 6.21,
-      "end_sec": 11.39,
-      "section": "explanation",
-      "narration_line": "They found the idea that a hard-to-get woman is more desirable failed in all five.",
+      "narration_line": "In five experiments, the idea that a hard-to-get woman is more desirable failed every time.",
       "on_screen_text": "'Hard to get' failed ×5",
       "visual_description": "Five crosses.",
       "visual_spec": "shock/neutral/L; cross@R"
     },
     {
-      "start_sec": 11.39,
-      "end_sec": 17.25,
+      "start_sec": 7.65,
+      "end_sec": 11.12,
+      "section": "explanation",
+      "narration_line": "That's from 1973, when Elaine Walster and colleagues tested it.",
+      "on_screen_text": "1973: five experiments",
+      "visual_description": "Five test tubes.",
+      "visual_spec": "point/neutral/L; text:5 EXPERIMENTS@R; text:1973@TR"
+    },
+    {
+      "start_sec": 11.12,
+      "end_sec": 17.03,
       "section": "explanation",
       "narration_line": "In one study, 71 college men learned that a woman had seen their profile and four others.",
       "on_screen_text": "71 college men, 5 profiles",
@@ -42,8 +42,8 @@
       "visual_spec": "stand/neutral/L; text:5 PROFILES@R"
     },
     {
-      "start_sec": 17.25,
-      "end_sec": 21.05,
+      "start_sec": 17.03,
+      "end_sec": 20.85,
       "section": "explanation",
       "narration_line": "She was either easy to get, hard to get, or selective.",
       "on_screen_text": "Easy, hard or selective",
@@ -51,8 +51,8 @@
       "visual_spec": "think/neutral/L; list:EASY,HARD,SELECTIVE@R"
     },
     {
-      "start_sec": 21.05,
-      "end_sec": 25.88,
+      "start_sec": 20.85,
+      "end_sec": 25.72,
       "section": "explanation",
       "narration_line": "The selective woman was willing to date the participant, but not the other men.",
       "on_screen_text": "Selective: yes to him only",
@@ -60,8 +60,8 @@
       "visual_spec": "stand/neutral/L; check@R"
     },
     {
-      "start_sec": 25.88,
-      "end_sec": 27.95,
+      "start_sec": 25.72,
+      "end_sec": 27.8,
       "section": "explanation",
       "narration_line": "Participants largely preferred the selective woman.",
       "on_screen_text": "She was preferred",
@@ -69,8 +69,8 @@
       "visual_spec": "stand/smile/L; text:SELECTIVE@R"
     },
     {
-      "start_sec": 27.95,
-      "end_sec": 34.51,
+      "start_sec": 27.8,
+      "end_sec": 34.4,
       "section": "explanation",
       "narration_line": "She was seen as having the strengths of both the easy and hard-to-get women, and none of the weaknesses.",
       "on_screen_text": "Both strengths, no weaknesses",
@@ -78,8 +78,8 @@
       "visual_spec": "point/smile/L; list:PLUS,PLUS@R"
     },
     {
-      "start_sec": 34.51,
-      "end_sec": 39.34,
+      "start_sec": 34.4,
+      "end_sec": 39.27,
       "section": "explanation",
       "narration_line": "That study used only male participants, so it can't tell us how everyone reacts.",
       "on_screen_text": "Male participants only",
@@ -87,8 +87,8 @@
       "visual_spec": "shrug/neutral/L; text:MEN ONLY@R"
     },
     {
-      "start_sec": 39.34,
-      "end_sec": 45.89,
+      "start_sec": 39.27,
+      "end_sec": 45.87,
       "section": "takeaway",
       "narration_line": "So what the experiments support is not playing hard to get, but showing someone they are your selective choice.",
       "on_screen_text": "Selective, not hard to get",
@@ -96,7 +96,7 @@
       "visual_spec": "point/smile/L; check@R"
     },
     {
-      "start_sec": 45.89,
+      "start_sec": 45.87,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: can making a mistake make you more likable?",

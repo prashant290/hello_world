@@ -2,7 +2,7 @@
   "day": 47,
   "topic": "Why people stay in bad relationships (the investment model)",
   "title": "Why Do People Stay in Relationships That Hurt?",
-  "voiceover": "Why do some people stay in relationships that hurt? In 1980, Caryl Rusbult proposed the investment model of commitment. It says commitment depends on satisfaction, the quality of alternatives and the size of investments. Investments are resources tied to the relationship. In 1995, Rusbult and Martz studied one hundred women at shelters for abused women. Their commitment was greater when they had poorer alternatives. And when they had higher investments in the relationship. And when they reported less abuse. The authors called this nonvoluntary dependence: leaving is hard when options are limited. This describes constraints in a study, not blame for anyone who stays. So research on staying points to limited alternatives and heavy investments, not simple weakness. Tomorrow: why does a free sample make us want to give something back?",
+  "voiceover": "Why do some people stay in relationships that hurt? One model says commitment depends on satisfaction, the quality of alternatives and the size of investments. That's the investment model Caryl Rusbult proposed in 1980. Investments are resources tied to the relationship. In 1995, Rusbult and Martz studied one hundred women at shelters for abused women. Their commitment was greater when they had poorer alternatives. And when they had higher investments in the relationship. And when they reported less abuse. The authors called this nonvoluntary dependence: leaving is hard when options are limited. This describes constraints in a study, not blame for anyone who stays. So research on staying points to limited alternatives and heavy investments, not simple weakness. Tomorrow: why does a free sample make us want to give something back?",
   "word_count": 131,
   "scenes": [
     {
@@ -16,21 +16,21 @@
     },
     {
       "start_sec": 3.37,
-      "end_sec": 7.11,
+      "end_sec": 9.35,
       "section": "explanation",
-      "narration_line": "In 1980, Caryl Rusbult proposed the investment model of commitment.",
-      "on_screen_text": "1980: the investment model",
-      "visual_description": "Model diagram.",
-      "visual_spec": "point/neutral/L; text:1980@TR; text:INVESTMENT MODEL@R"
-    },
-    {
-      "start_sec": 7.11,
-      "end_sec": 12.72,
-      "section": "explanation",
-      "narration_line": "It says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
+      "narration_line": "One model says commitment depends on satisfaction, the quality of alternatives and the size of investments.",
       "on_screen_text": "Satisfaction, alternatives, investments",
       "visual_description": "Three-item list.",
       "visual_spec": "stand/neutral/L; list:SATISFACTION,ALTERNATIVES,INVESTMENTS@R"
+    },
+    {
+      "start_sec": 9.35,
+      "end_sec": 12.72,
+      "section": "explanation",
+      "narration_line": "That's the investment model Caryl Rusbult proposed in 1980.",
+      "on_screen_text": "1980: the investment model",
+      "visual_description": "Model diagram.",
+      "visual_spec": "point/neutral/L; text:1980@TR; text:INVESTMENT MODEL@R"
     },
     {
       "start_sec": 12.72,

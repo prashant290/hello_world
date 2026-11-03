@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students.",
+      "sentence": "One famous simulated-prison study was planned for two weeks but ended after six days.",
       "cites": [
         "haney1973"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Ten became prisoners and eleven became guards.",
+      "sentence": "In 1971, Philip Zimbardo's team at Stanford ran a simulated prison study with 24 selected male students.",
       "cites": [
         "haney1973"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "It was planned for two weeks but ended after six days.",
+      "sentence": "Ten became prisoners and eleven became guards.",
       "cites": [
         "haney1973"
       ],

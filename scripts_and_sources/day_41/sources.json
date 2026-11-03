@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In 2008, Noah Goldstein, Robert Cialdini and Vladas Griskevicius ran field experiments in a hotel.",
+      "sentence": "In a hotel study, a card saying most guests reuse their towels worked better than the standard environmental message.",
       "cites": [
         "goldstein2008"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "Guests saw a card asking them to reuse their towels.",
+      "sentence": "In 2008, Noah Goldstein, Robert Cialdini and Vladas Griskevicius ran field experiments in a hotel.",
       "cites": [
         "goldstein2008"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "A card saying most guests reuse their towels worked better than the standard environmental message.",
+      "sentence": "Guests saw a card asking them to reuse their towels.",
       "cites": [
         "goldstein2008"
       ],

@@ -2,12 +2,12 @@
   "day": 48,
   "topic": "The reciprocity rule: why favors and free samples work",
   "title": "The Reciprocity Rule: Why Favors Create Debts",
-  "voiceover": "Does getting a small favor make us want to give something back? In 1971, Dennis Regan ran an experiment in which people rated paintings. During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant. Later, Joe asked participants to buy raffle tickets. Participants who got the favor bought more tickets than those who did not. This held even when they said they didn't like Joe. Regan linked the result to a norm of reciprocity: we feel we should repay. It was one laboratory experiment. Applying it to free samples in stores is an extension, not something this study tested. So a small favor may create a pull to repay, even toward someone you don't like. Tomorrow: why do we judge other people's character but explain away our own behavior?",
-  "word_count": 136,
+  "voiceover": "Does getting a small favor make us want to give something back? In one experiment, people who got a favor bought more raffle tickets than those who did not. In 1971, Dennis Regan ran an experiment in which people rated paintings. During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant. Later, Joe asked participants to buy raffle tickets. This held even when they said they didn't like Joe. Regan linked the result to a norm of reciprocity: we feel we should repay. It was one laboratory experiment. Applying it to free samples in stores is an extension, not something this study tested. So a small favor may create a pull to repay, even toward someone you don't like. Tomorrow: why do we judge other people's character but explain away our own behavior?",
+  "word_count": 140,
   "scenes": [
     {
       "start_sec": 0.0,
-      "end_sec": 4.32,
+      "end_sec": 4.2,
       "section": "hook",
       "narration_line": "Does getting a small favor make us want to give something back?",
       "on_screen_text": "Do favors create debts?",
@@ -15,8 +15,17 @@
       "visual_spec": "think/neutral/C; text:FAVOR@R"
     },
     {
-      "start_sec": 4.32,
-      "end_sec": 8.65,
+      "start_sec": 4.2,
+      "end_sec": 10.15,
+      "section": "explanation",
+      "narration_line": "In one experiment, people who got a favor bought more raffle tickets than those who did not.",
+      "on_screen_text": "Favor: more tickets bought",
+      "visual_description": "Rising bar.",
+      "visual_spec": "stand/smile/L; bars:no favor=h35,favor=h70@R"
+    },
+    {
+      "start_sec": 10.15,
+      "end_sec": 14.35,
       "section": "explanation",
       "narration_line": "In 1971, Dennis Regan ran an experiment in which people rated paintings.",
       "on_screen_text": "1971: rating paintings",
@@ -24,8 +33,8 @@
       "visual_spec": "stand/neutral/L; text:1971@TR; text:PAINTINGS@R"
     },
     {
-      "start_sec": 8.65,
-      "end_sec": 14.77,
+      "start_sec": 14.35,
+      "end_sec": 20.3,
       "section": "explanation",
       "narration_line": "During a break, a partner of the researcher, Joe, sometimes returned with a Coke for the participant.",
       "on_screen_text": "Joe brings a Coke",
@@ -33,8 +42,8 @@
       "visual_spec": "point/smile/L; text:COKE@R"
     },
     {
-      "start_sec": 14.77,
-      "end_sec": 17.65,
+      "start_sec": 20.3,
+      "end_sec": 23.1,
       "section": "explanation",
       "narration_line": "Later, Joe asked participants to buy raffle tickets.",
       "on_screen_text": "Later: 'buy raffle tickets?'",
@@ -42,17 +51,8 @@
       "visual_spec": "stand/neutral/L; tag:RAFFLE@R"
     },
     {
-      "start_sec": 17.65,
-      "end_sec": 22.34,
-      "section": "explanation",
-      "narration_line": "Participants who got the favor bought more tickets than those who did not.",
-      "on_screen_text": "Favor: more tickets bought",
-      "visual_description": "Rising bar.",
-      "visual_spec": "stand/smile/L; bars:no favor=h35,favor=h70@R"
-    },
-    {
-      "start_sec": 22.34,
-      "end_sec": 25.94,
+      "start_sec": 23.1,
+      "end_sec": 26.6,
       "section": "explanation",
       "narration_line": "This held even when they said they didn't like Joe.",
       "on_screen_text": "Even if they didn't like him",
@@ -60,8 +60,8 @@
       "visual_spec": "shock/worry/L; text:DISLIKED@R"
     },
     {
-      "start_sec": 25.94,
-      "end_sec": 30.99,
+      "start_sec": 26.6,
+      "end_sec": 31.5,
       "section": "explanation",
       "narration_line": "Regan linked the result to a norm of reciprocity: we feel we should repay.",
       "on_screen_text": "Norm of reciprocity",
@@ -69,8 +69,8 @@
       "visual_spec": "think/neutral/L; arrow@R"
     },
     {
-      "start_sec": 30.99,
-      "end_sec": 32.79,
+      "start_sec": 31.5,
+      "end_sec": 33.25,
       "section": "explanation",
       "narration_line": "It was one laboratory experiment.",
       "on_screen_text": "One lab experiment",
@@ -78,8 +78,8 @@
       "visual_spec": "shrug/neutral/L; text:1 STUDY@R"
     },
     {
-      "start_sec": 32.79,
-      "end_sec": 38.19,
+      "start_sec": 33.25,
+      "end_sec": 38.5,
       "section": "explanation",
       "narration_line": "Applying it to free samples in stores is an extension, not something this study tested.",
       "on_screen_text": "Free samples: not tested here",
@@ -87,8 +87,8 @@
       "visual_spec": "shrug/neutral/L; cross@R"
     },
     {
-      "start_sec": 38.19,
-      "end_sec": 43.96,
+      "start_sec": 38.5,
+      "end_sec": 44.1,
       "section": "takeaway",
       "narration_line": "So a small favor may create a pull to repay, even toward someone you don't like.",
       "on_screen_text": "A pull to repay",
@@ -96,7 +96,7 @@
       "visual_spec": "stand/smile/L; check@R"
     },
     {
-      "start_sec": 43.96,
+      "start_sec": 44.1,
       "end_sec": 49.0,
       "section": "cliffhanger",
       "narration_line": "Tomorrow: why do we judge other people's character but explain away our own behavior?",

@@ -11,7 +11,7 @@
     },
     {
       "scene": 1,
-      "sentence": "In the 1950s, Solomon Asch asked people to match line lengths in a group.",
+      "sentence": "In a famous line experiment, about three quarters of people conformed to the group at least once.",
       "cites": [
         "asch1956"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "scene": 2,
-      "sentence": "The others were working with him, and on some trials they gave obviously wrong answers.",
+      "sentence": "In the 1950s, Solomon Asch asked people to match line lengths in a group.",
       "cites": [
         "asch1956"
       ],
@@ -47,7 +47,7 @@
     },
     {
       "scene": 3,
-      "sentence": "In his 1956 report, 123 participants took part.",
+      "sentence": "The others were working with him, and on some trials they gave obviously wrong answers.",
       "cites": [
         "asch1956"
       ],
@@ -65,7 +65,7 @@
     },
     {
       "scene": 4,
-      "sentence": "About three quarters conformed at least once.",
+      "sentence": "In his 1956 report, 123 participants took part.",
       "cites": [
         "asch1956"
       ],

@@ -1,13 +1,13 @@
 # Day 38: Gaslighting: What the Research Says — source table
 
 Topic: Gaslighting explained simply  
-Words: 135
+Words: 133
 
 | # | Sentence (spoken) | Source(s) | How it was checked |
 |---|---|---|---|
 | 1 | What does gaslighting actually mean? | — (question; makes no claim) | n/a |
-| 2 | In 2019, sociologist Paige Sweet published a study called The Sociology of Gaslighting. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
-| 3 | She defines gaslighting as a type of psychological abuse aimed at making victims seem or feel crazy. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
+| 2 | One sociologist defines gaslighting as a type of psychological abuse aimed at making victims seem or feel crazy. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
+| 3 | That's from Paige Sweet's 2019 study, The Sociology of Gaslighting. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
 | 4 | The aim, she writes, is to create a surreal interpersonal environment. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
 | 5 | Sweet argues gaslighting is more than a psychological problem between two people. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
 | 6 | She argues it is rooted in social inequalities, including gender. | Sweet, P. L. (2019). *The sociology of gaslighting*. American Sociological Review, 84(5), 851-875. [link](https://www.researchgate.net/publication/335953689_The_Sociology_of_Gaslighting) | web search 2026-10-05: citation + abstract/findings confirmed from publisher/database page quoted in search results (definition, interview-based findings) |
